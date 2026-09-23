@@ -1,0 +1,643 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Teconomic News</title><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Teconomic News</title>
+<style>
+  :root{
+    --bg:#F2F2F7;
+    --card:#FFFFFF;
+    --fill:rgba(118,118,128,0.12);
+    --seg-active:#FFFFFF;
+    --separator:rgba(60,60,67,0.18);
+    --label:#000000;
+    --label-2:rgba(60,60,67,0.62);
+    --label-3:rgba(60,60,67,0.32);
+    --highlight:rgba(0,0,0,0.045);
+    --shadow-card:0 1px 2px rgba(0,0,0,0.04);
+
+    --blue:#007AFF; --green:#34C759; --red:#FF3B30; --orange:#FF9500; --yellow:#FFCC00;
+    --purple:#AF52DE; --indigo:#5856D6; --pink:#FF2D55; --teal:#30B0C7; --cyan:#32ADE6;
+    --mint:#00C7BE; --brown:#A2845E; --gray:#8E8E93;
+
+    --ink-blue:#0040DD; --ink-orange:#C93400; --ink-purple:#8944AB;
+    --pill-green:#248A3D; --pill-red:#D70015;
+
+    --src-tagesschau:var(--blue); --src-mainpost:var(--brown); --src-fraenkisch:var(--green);
+    --src-bild:var(--red); --src-tiktok:var(--pink); --src-instagram:var(--purple);
+    --src-heise:var(--teal); --src-t3n:var(--mint); --src-golem:var(--gray);
+    --src-handelsblatt:var(--orange); --src-reuters:var(--cyan); --src-bloomberg:var(--indigo);
+    --src-techcrunch:var(--green); --src-theverge:var(--pink); --src-spiegel:var(--red);
+    --src-faz:var(--blue); --src-wiwo:var(--brown); --src-zeit:var(--gray);
+    --src-ntv:var(--red); --src-ft:var(--orange); --src-cnbc:var(--indigo);
+    --src-wired:var(--purple); --src-arstechnica:var(--orange); --src-techreview:var(--teal);
+
+    --radius:14px;
+    color-scheme:light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#000000; --card:#1C1C1E; --fill:rgba(118,118,128,0.24); --seg-active:#636366;
+      --separator:rgba(84,84,88,0.65); --label:#FFFFFF; --label-2:rgba(235,235,245,0.62);
+      --label-3:rgba(235,235,245,0.3); --highlight:rgba(255,255,255,0.07); --shadow-card:none;
+      --blue:#0A84FF; --green:#30D158; --red:#FF453A; --orange:#FF9F0A; --yellow:#FFD60A;
+      --purple:#BF5AF2; --indigo:#5E5CE6; --pink:#FF375F; --teal:#40C8E0; --cyan:#64D2FF;
+      --mint:#63E6E2; --brown:#AC8E68; --gray:#98989D;
+      --ink-blue:#0A84FF; --ink-orange:#FF9F0A; --ink-purple:#BF5AF2;
+      --pill-green:#28A745; --pill-red:#E0352B;
+      color-scheme:dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#000000; --card:#1C1C1E; --fill:rgba(118,118,128,0.24); --seg-active:#636366;
+    --separator:rgba(84,84,88,0.65); --label:#FFFFFF; --label-2:rgba(235,235,245,0.62);
+    --label-3:rgba(235,235,245,0.3); --highlight:rgba(255,255,255,0.07); --shadow-card:none;
+    --blue:#0A84FF; --green:#30D158; --red:#FF453A; --orange:#FF9F0A; --yellow:#FFD60A;
+    --purple:#BF5AF2; --indigo:#5E5CE6; --pink:#FF375F; --teal:#40C8E0; --cyan:#64D2FF;
+    --mint:#63E6E2; --brown:#AC8E68; --gray:#98989D;
+    --ink-blue:#0A84FF; --ink-orange:#FF9F0A; --ink-purple:#BF5AF2;
+    --pill-green:#28A745; --pill-red:#E0352B;
+    color-scheme:dark;
+  }
+
+  *{ box-sizing:border-box; }
+  body{
+    margin:0; background:var(--bg); color:var(--label);
+    font-family:-apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", "Segoe UI", Roboto, system-ui, sans-serif;
+    font-size:17px; line-height:1.35; letter-spacing:-0.01em;
+    -webkit-font-smoothing:antialiased; -webkit-tap-highlight-color:transparent;
+  }
+  a{ color:inherit; text-decoration:none; }
+  button{ font-family:inherit; }
+  :focus-visible{ outline:3px solid color-mix(in srgb, var(--blue) 50%, transparent); outline-offset:2px; border-radius:8px; }
+  .num{ font-variant-numeric:tabular-nums; }
+
+  .app{ max-width:760px; margin:0 auto; padding:0 16px 56px; }
+
+  /* ---------- Large title ---------- */
+  .large-title{ padding:30px 4px 4px; }
+  .dateline{ display:flex; gap:8px; font-size:13px; font-weight:600; letter-spacing:0.01em; text-transform:uppercase; color:var(--label-2); }
+  .large-title h1{ margin:2px 0 0; font-size:34px; font-weight:700; letter-spacing:-0.025em; line-height:1.1; }
+  .subtitle{ margin-top:4px; font-size:15px; color:var(--label-2); }
+
+  /* ---------- Sections & inset grouped lists ---------- */
+  .section{ margin-top:30px; }
+  .section-head{ display:flex; align-items:flex-end; justify-content:space-between; gap:12px; padding:0 4px 8px; }
+  .section-head h2{ margin:0; font-size:22px; font-weight:700; letter-spacing:-0.02em; line-height:1.2; }
+  .section-sub{ margin-top:2px; font-size:13px; color:var(--label-2); }
+  .group{ background:var(--card); border-radius:var(--radius); overflow:hidden; box-shadow:var(--shadow-card); }
+
+  .text-btn{
+    appearance:none; border:0; background:none; padding:4px 0; flex:none; cursor:pointer;
+    display:inline-flex; align-items:center; gap:5px; color:var(--blue); font-size:15px;
+  }
+  .text-btn:active{ opacity:0.4; }
+  .text-btn:disabled{ opacity:0.4; cursor:default; }
+  .text-btn.spinning svg{ animation:spin 0.9s linear infinite; }
+  @keyframes spin{ to{ transform:rotate(360deg); } }
+  .refresh-status{ padding:0 4px 10px; font-size:13px; color:var(--label-2); line-height:1.4; }
+
+  /* ---------- Podcast ---------- */
+  .pod{ display:flex; gap:14px; padding:16px; align-items:flex-start; }
+  .pod-art{
+    width:76px; height:76px; flex:none; border-radius:16px; display:grid; place-items:center; color:#fff;
+    background:linear-gradient(150deg, #D56DFB 0%, #8E2DE2 100%);
+    box-shadow:0 6px 14px -6px rgba(142,45,226,0.55);
+  }
+  .pod-meta{ flex:1; min-width:0; }
+  .pod-kicker{ font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:0.02em; color:var(--label-2); }
+  .episode-name{ margin-top:2px; font-size:17px; font-weight:600; line-height:1.3; text-wrap:balance; }
+  .pod-show{ margin-top:2px; font-size:15px; color:var(--label-2); }
+  .pill-btn{
+    display:inline-flex; align-items:center; gap:6px; margin-top:12px; padding:8px 16px; border-radius:999px;
+    background:var(--blue); color:#fff; font-size:15px; font-weight:600; transition:transform .12s ease;
+  }
+  .pill-btn:active{ transform:scale(0.96); }
+  .list-label{
+    padding:10px 16px 0; border-top:1px solid var(--separator);
+    font-size:13px; text-transform:uppercase; letter-spacing:0.02em; color:var(--label-2);
+  }
+  .takeaways{ list-style:none; margin:0; padding:2px 16px 6px; }
+  .takeaways li{ position:relative; padding:10px 0 10px 18px; font-size:15px; line-height:1.4; }
+  .takeaways li + li{ border-top:1px solid var(--separator); }
+  .takeaways li::before{ content:''; position:absolute; left:2px; top:17px; width:6px; height:6px; border-radius:50%; background:var(--purple); }
+
+  /* ---------- Top stories ---------- */
+  .story{ position:relative; display:flex; gap:12px; align-items:flex-start; padding:14px 16px; transition:background .15s ease; }
+  .story:active{ background:var(--highlight); }
+  @media (hover:hover){ .story:hover{ background:var(--highlight); } }
+  .story + .story::before{ content:''; position:absolute; top:0; left:50px; right:0; height:1px; background:var(--separator); }
+  .story-rank{ width:22px; flex:none; text-align:center; font-size:22px; font-weight:700; line-height:1.1; color:var(--label-3); }
+  .story-body{ flex:1; min-width:0; }
+  .story-source{ display:flex; align-items:center; gap:6px; font-size:13px; font-weight:600; color:var(--label-2); }
+  .story-source .dot{ width:8px; height:8px; border-radius:50%; flex:none; }
+  .story-headline{ margin-top:3px; font-size:17px; font-weight:600; line-height:1.3; text-wrap:balance; }
+  .story-takeaway{ margin-top:4px; font-size:15px; line-height:1.4; color:var(--label-2); }
+  .story-takeaway b{ color:var(--label); font-weight:600; }
+  .cat-pill{ display:inline-block; margin-top:8px; padding:3px 9px; border-radius:999px; font-size:12px; font-weight:600; }
+  .cat-pill.wirtschaft{ color:var(--ink-orange); background:color-mix(in srgb, var(--orange) 16%, transparent); }
+  .cat-pill.technologie{ color:var(--ink-blue); background:color-mix(in srgb, var(--blue) 14%, transparent); }
+  .cat-pill.ki{ color:var(--ink-purple); background:color-mix(in srgb, var(--purple) 15%, transparent); }
+  .chev{ flex:none; align-self:center; color:var(--label-3); }
+  .lock{ width:10px; height:10px; margin-left:2px; opacity:0.75; }
+
+  /* ---------- Stocks ---------- */
+  .stocks-controls{ display:flex; flex-direction:column; gap:10px; padding-bottom:12px; }
+  .search{
+    display:flex; align-items:center; gap:6px; height:36px; padding:0 10px; border-radius:10px;
+    background:var(--fill); color:var(--label-2);
+  }
+  .search:focus-within{ box-shadow:0 0 0 3px color-mix(in srgb, var(--blue) 35%, transparent); }
+  .search input{ flex:1; min-width:0; border:0; outline:none; background:transparent; font:inherit; font-size:17px; color:var(--label); }
+  .search input::placeholder{ color:var(--label-2); }
+  .segmented{ display:grid; grid-template-columns:repeat(3, 1fr); padding:2px; border-radius:9px; background:var(--fill); }
+  .seg{
+    appearance:none; border:0; background:transparent; cursor:pointer; padding:6px 0; border-radius:7px;
+    font-size:13px; font-weight:500; color:var(--label); transition:background .2s ease, box-shadow .2s ease;
+  }
+  .seg.active{ background:var(--seg-active); font-weight:600; box-shadow:0 3px 8px rgba(0,0,0,0.12), 0 1px 1px rgba(0,0,0,0.04); }
+  .stock-row{ position:relative; display:flex; align-items:center; gap:12px; min-height:60px; padding:10px 16px; }
+  .stock-row + .stock-row::before{ content:''; position:absolute; top:0; left:52px; right:0; height:1px; background:var(--separator); }
+  .star-btn{
+    appearance:none; border:0; background:none; cursor:pointer; flex:none; display:grid; place-items:center;
+    padding:4px; margin:-4px; color:var(--label-3); transition:transform .12s ease;
+  }
+  .star-btn.active{ color:var(--orange); }
+  .star-btn:active{ transform:scale(0.85); }
+  .stock-info{ flex:1; min-width:0; }
+  .stock-symbol{ font-size:17px; font-weight:600; }
+  .stock-name{ font-size:13px; color:var(--label-2); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .stock-price{ flex:none; text-align:right; font-size:15px; font-weight:500; }
+  .change-pill{ flex:none; min-width:78px; padding:4px 8px; border-radius:7px; text-align:right; font-size:15px; font-weight:600; color:#fff; }
+  .change-pill.up{ background:var(--pill-green); }
+  .change-pill.down{ background:var(--pill-red); }
+  .change-pill.flat{ background:var(--gray); }
+  .markets-empty{ padding:28px 16px; text-align:center; font-size:15px; color:var(--label-2); line-height:1.4; }
+  .markets-more{
+    display:none; width:100%; appearance:none; border:0; border-top:1px solid var(--separator); background:none;
+    padding:13px 16px; text-align:left; cursor:pointer; font-size:17px; color:var(--blue);
+  }
+  .markets-more.visible{ display:block; }
+  .markets-more:active{ background:var(--highlight); }
+
+  .foot{ padding:30px 4px 0; font-size:12px; line-height:1.5; color:var(--label-2); }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ transition:none !important; animation:none !important; }
+  }
+</style>
+
+<main class="app">
+  <header class="large-title">
+    <div class="dateline"><span id="dateline">—</span><span id="clock" class="num">—</span></div>
+    <h1>Teconomic News</h1>
+    <div class="subtitle">Wirtschaft, Technologie und KI – kompakt für heute.</div>
+  </header>
+
+  <section class="section">
+    <div class="section-head"><h2>Podcast</h2></div>
+    <div class="group">
+      <div class="pod">
+        <div class="pod-art" aria-hidden="true">
+          <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 10v4M8 7v10M12 4v16M16 7v10M20 10v4"/></svg>
+        </div>
+        <div class="pod-meta">
+          <div class="pod-kicker episode-date">Neueste Folge · 9 Min.</div>
+          <div class="episode-name">Energie: Bundesregierung gegen Gasmangel und hohe Spritpreise</div>
+          <div class="pod-show">Handelsblatt Morning Briefing</div>
+          <a class="pill-btn" href="https://open.spotify.com/show/1QZr5NinuorbELLt2SwLJU" target="_blank" rel="noopener noreferrer">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 3.8v16.4a1 1 0 0 0 1.5.86l13.6-8.2a1 1 0 0 0 0-1.72L7.5 2.94A1 1 0 0 0 6 3.8z"/></svg>
+            Auf Spotify anhören
+          </a>
+        </div>
+      </div>
+      <div class="list-label">Kernaussagen der Folge</div>
+      <ul class="takeaways" id="takeawaysList">
+        <li>Angesichts von Spritpreisen und leeren Gasspeichern wachsen Wählerunmut und politischer Druck.</li>
+        <li>Kanzler und Wirtschaftsministerin arbeiten an staatlichen Eingriffen in die Energiepreise.</li>
+        <li>Offen bleibt, wie verhindert werden soll, dass diese Eingriffe selbst zu teuer werden.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <h2>Wichtigste Themen heute</h2>
+        <div class="section-sub top-stories-note">Stand: 16.09.2026 · 5 Meldungen</div>
+      </div>
+    </div>
+    <div class="group" id="topStoriesList"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <div>
+        <h2>Aktienkurse</h2>
+        <div class="section-sub" id="marketsNote">Beispieldaten · Stern tippen zum Favorisieren</div>
+      </div>
+    </div>
+    <div class="stocks-controls">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.8-4.8"/></svg>
+        <input type="search" id="stockSearch" placeholder="Aktie, Index oder Krypto suchen" aria-label="Aktien durchsuchen und favorisieren">
+      </label>
+      <div class="segmented" id="marketChips" role="group" aria-label="Zeitraum der Kursveränderung"></div>
+    </div>
+    <div class="group">
+      <div id="marketsGrid"></div>
+      <button class="markets-more" id="marketsMoreBtn" type="button"></button>
+    </div>
+  </section>
+
+  <footer class="foot">
+    Konzept-Dashboard für das Modul Communication and Technology (IB25A). Kurse von Yahoo Finance, teils verzögert, keine Anlageberatung. Nachrichten werden täglich gegen 7 Uhr automatisch ausgewählt, Kernaussagen per KI zusammengefasst. Favorisierte Aktien werden lokal in diesem Browser gespeichert. Auf dem iPhone: Link in Safari öffnen → Teilen → Zum Home-Bildschirm.
+  </footer>
+</main>
+
+<script>
+(function(){
+  var SOURCES = [
+    {id:'tagesschau', label:'Tagesschau', homepage:'https://www.tagesschau.de/wirtschaft/'},
+    {id:'mainpost', label:'Main-Post', homepage:'https://www.mainpost.de/wirtschaft/'},
+    {id:'fraenkisch', label:'Fränkische Nachrichten', homepage:'https://www.fnweb.de/'},
+    {id:'bild', label:'BILD', homepage:'https://www.bild.de/'},
+    {id:'tiktok', label:'TikTok', homepage:'https://www.tiktok.com/'},
+    {id:'instagram', label:'Instagram', homepage:'https://www.instagram.com/'},
+    {id:'heise', label:'Heise Online', homepage:'https://www.heise.de/'},
+    {id:'t3n', label:'t3n', homepage:'https://t3n.de/'},
+    {id:'golem', label:'Golem.de', homepage:'https://www.golem.de/'},
+    {id:'handelsblatt', label:'Handelsblatt', homepage:'https://www.handelsblatt.com/', paywall:true},
+    {id:'reuters', label:'Reuters', homepage:'https://www.reuters.com/'},
+    {id:'bloomberg', label:'Bloomberg', homepage:'https://www.bloomberg.com/', paywall:true},
+    {id:'techcrunch', label:'TechCrunch', homepage:'https://techcrunch.com/'},
+    {id:'theverge', label:'The Verge', homepage:'https://www.theverge.com/'},
+    {id:'spiegel', label:'Spiegel', homepage:'https://www.spiegel.de/wirtschaft/'},
+    {id:'faz', label:'FAZ', homepage:'https://www.faz.net/aktuell/wirtschaft/'},
+    {id:'wiwo', label:'WirtschaftsWoche', homepage:'https://www.wiwo.de/', paywall:true},
+    {id:'zeit', label:'Zeit Online', homepage:'https://www.zeit.de/wirtschaft/index'},
+    {id:'ntv', label:'n-tv', homepage:'https://www.n-tv.de/wirtschaft/'},
+    {id:'ft', label:'Financial Times', homepage:'https://www.ft.com/', paywall:true},
+    {id:'cnbc', label:'CNBC', homepage:'https://www.cnbc.com/world/'},
+    {id:'wired', label:'Wired', homepage:'https://www.wired.com/'},
+    {id:'arstechnica', label:'Ars Technica', homepage:'https://arstechnica.com/'},
+    {id:'techreview', label:'MIT Technology Review', homepage:'https://www.technologyreview.com/', paywall:true}
+  ];
+  var SOURCE_BY_ID = {};
+  SOURCES.forEach(function(s){ SOURCE_BY_ID[s.id] = s; });
+  var LOCK_SVG = '<svg class="lock" viewBox="0 0 24 24" fill="currentColor" aria-label="Paywall"><path d="M7 10V7a5 5 0 0 1 10 0v3h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h1zm2 0h6V7a3 3 0 0 0-6 0v3z"/></svg>';
+  function srcLabelHTML(id){
+    var s = SOURCE_BY_ID[id];
+    return s.label + (s.paywall ? LOCK_SVG : '');
+  }
+
+  // Fallback, falls die Datenbank (noch) nichts liefert
+  var FALLBACK_TOP_STORIES = [
+  {
+    "cat": "wirtschaft",
+    "headline": "DAX gibt Tagesgewinne wieder ab und entfernt sich erneut von der 25.000-Punkte-Marke",
+    "src": "handelsblatt",
+    "takeaway": "Nach frühen Gewinnen drehte der deutsche Leitindex im Tagesverlauf wieder ins Minus.",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-tagesgewinne-ab-und-entfernt-sich-von-25.000-zaehlern/100233260.html"
+  },
+  {
+    "cat": "ki",
+    "headline": "OpenAI stellt GPT-6 Astra vor — und weckt erneut AGI-Spekulationen",
+    "src": "heise",
+    "takeaway": "Mitgründer Brockman deutet an, das Modell könnte rückblickend als AGI-Meilenstein gelten, bleibt dabei aber vage.",
+    "url": "https://www.heise.de/news/OpenAI-stellt-GPT-6-Astra-vor-Mehr-Intelligenz-und-AGI-Raunen-11440778.html"
+  },
+  {
+    "cat": "technologie",
+    "headline": "Apple soll beim M6 offenbar die Pro- und Max-Varianten überspringen",
+    "src": "t3n",
+    "takeaway": "Der Sprung soll direkt auf den KI-starken M7 vorbereiten, der 2027 erscheinen soll.",
+    "url": "https://t3n.de/news/neue-chips-apple-ueberspringt-m6-teilweise-was-das-mit-dem-boom-bei-lokaler-ki-zu-tun-hat-1752546/"
+  },
+  {
+    "cat": "technologie",
+    "headline": "IBM stapelt Transistoren in zwei Schichten für deutlich schnellere Chips",
+    "src": "t3n",
+    "takeaway": "Der neue Fertigungsansatz soll bis zu 50 % mehr Rechenleistung bei 70 % weniger Energieverbrauch ermöglichen.",
+    "url": "https://t3n.de/news/nicht-kleiner-sondern-hoeher-neue-chip-technologie-von-ibm-soll-das-mooresche-gesetz-verlaengern-1750401"
+  },
+  {
+    "cat": "ki",
+    "headline": "Anthropic-Chef Amodei fordert in Grundsatzessay bewusst langsameres Tempo bei der KI-Entwicklung",
+    "src": "techcrunch",
+    "takeaway": "Amodei schlägt unabhängige Prüfer und internationale Abstimmung vor, US-Präsident Trump lehnt den Vorschlag ab.",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+  }
+];
+
+  var CAT_LABEL = {wirtschaft:'Wirtschaft', technologie:'Technologie', ki:'KI'};
+
+  var TIMEFRAMES = [
+    {id:'week', label:'Woche'},
+    {id:'month', label:'Monat'},
+    {id:'year', label:'Jahr'}
+  ];
+  var MARKETS_PAGE_SIZE = 5;
+
+  var STOCKS = [
+    // Indizes
+    {id:'dax', symbol:'DAX', name:'Deutscher Aktienindex', price:'24.180 Pkt.', change:{week:0.8, month:2.1, year:14.5}},
+    {id:'mdax', symbol:'MDAX', name:'MDAX', price:'27.100 Pkt.', change:{week:0.5, month:1.6, year:8.2}},
+    {id:'sdax', symbol:'SDAX', name:'SDAX', price:'15.480 Pkt.', change:{week:0.7, month:2.0, year:11.6}},
+    {id:'dow', symbol:'DJI', name:'Dow Jones Industrial', price:'42.930 Pkt.', change:{week:0.3, month:1.4, year:9.8}},
+    {id:'nasdaq', symbol:'NDX', name:'Nasdaq 100', price:'19.870 Pkt.', change:{week:1.2, month:3.6, year:22.4}},
+    {id:'sp500', symbol:'SPX', name:'S&P 500', price:'5.920 Pkt.', change:{week:0.6, month:2.0, year:16.2}},
+    {id:'stoxx', symbol:'SX5E', name:'EURO STOXX 50', price:'5.140 Pkt.', change:{week:0.5, month:1.8, year:11.3}},
+    {id:'ftse', symbol:'UKX', name:'FTSE 100', price:'8.240 Pkt.', change:{week:0.4, month:1.3, year:9.6}},
+    {id:'nikkei', symbol:'N225', name:'Nikkei 225', price:'39.850 Pkt.', change:{week:0.9, month:2.8, year:17.4}},
+    // DAX-Werte
+    {id:'adidas', symbol:'ADS', name:'Adidas AG', price:'231,00 €', change:{week:1.0, month:3.0, year:19.7}},
+    {id:'airbus', symbol:'AIR', name:'Airbus SE', price:'178,40 €', change:{week:1.8, month:4.5, year:26.3}},
+    {id:'allianz', symbol:'ALV', name:'Allianz SE', price:'312,80 €', change:{week:-0.4, month:1.1, year:12.8}},
+    {id:'basf', symbol:'BAS', name:'BASF SE', price:'47,90 €', change:{week:-0.6, month:-1.2, year:-2.8}},
+    {id:'bayer', symbol:'BAYN', name:'Bayer AG', price:'29,60 €', change:{week:0.4, month:-2.0, year:-15.5}},
+    {id:'beiersdorf', symbol:'BEI', name:'Beiersdorf AG', price:'132,20 €', change:{week:0.3, month:1.4, year:8.9}},
+    {id:'bmw', symbol:'BMW', name:'BMW AG', price:'89,70 €', change:{week:0.1, month:0.6, year:5.9}},
+    {id:'brenntag', symbol:'BNR', name:'Brenntag SE', price:'68,30 €', change:{week:-0.2, month:0.9, year:4.1}},
+    {id:'commerzbank', symbol:'CBK', name:'Commerzbank AG', price:'22,15 €', change:{week:2.8, month:7.4, year:41.2}},
+    {id:'continental', symbol:'CON', name:'Continental AG', price:'72,90 €', change:{week:0.6, month:2.1, year:10.4}},
+    {id:'covestro', symbol:'1COV', name:'Covestro AG', price:'59,40 €', change:{week:-0.5, month:1.8, year:17.6}},
+    {id:'daimlertruck', symbol:'DTG', name:'Daimler Truck Holding', price:'41,20 €', change:{week:0.2, month:0.5, year:7.3}},
+    {id:'db', symbol:'DBK', name:'Deutsche Bank AG', price:'18,65 €', change:{week:2.4, month:6.8, year:34.1}},
+    {id:'deutscheboerse', symbol:'DB1', name:'Deutsche Börse AG', price:'218,50 €', change:{week:0.5, month:1.6, year:9.8}},
+    {id:'dhlgroup', symbol:'DHL', name:'DHL Group', price:'41,80 €', change:{week:-0.3, month:0.4, year:3.6}},
+    {id:'telekom', symbol:'DTE', name:'Deutsche Telekom', price:'27,80 €', change:{week:-0.1, month:0.4, year:6.5}},
+    {id:'eon', symbol:'EOAN', name:'E.ON SE', price:'12,85 €', change:{week:0.2, month:0.9, year:6.0}},
+    {id:'fresenius', symbol:'FRE', name:'Fresenius SE', price:'38,60 €', change:{week:1.1, month:3.4, year:22.5}},
+    {id:'fmc', symbol:'FME', name:'Fresenius Medical Care', price:'47,90 €', change:{week:0.6, month:1.9, year:13.2}},
+    {id:'hannoverrueck', symbol:'HNR1', name:'Hannover Rück SE', price:'228,40 €', change:{week:0.4, month:1.3, year:10.6}},
+    {id:'heidelbergmat', symbol:'HEI', name:'Heidelberg Materials', price:'178,90 €', change:{week:0.9, month:2.6, year:18.1}},
+    {id:'henkel', symbol:'HEN3', name:'Henkel AG', price:'71,20 €', change:{week:-0.1, month:0.3, year:2.9}},
+    {id:'infineon', symbol:'IFX', name:'Infineon Technologies', price:'38,45 €', change:{week:2.1, month:5.5, year:31.2}},
+    {id:'mbg', symbol:'MBG', name:'Mercedes-Benz Group', price:'63,40 €', change:{week:0.2, month:-0.8, year:3.4}},
+    {id:'merck', symbol:'MRK', name:'Merck KGaA', price:'128,60 €', change:{week:0.7, month:2.0, year:14.7}},
+    {id:'mtu', symbol:'MTX', name:'MTU Aero Engines', price:'312,70 €', change:{week:1.4, month:4.0, year:29.8}},
+    {id:'munichre', symbol:'MUV2', name:'Münchener Rück', price:'468,20 €', change:{week:0.3, month:1.0, year:9.1}},
+    {id:'porscheag', symbol:'P911', name:'Porsche AG', price:'58,30 €', change:{week:-1.2, month:-3.0, year:-11.4}},
+    {id:'porschese', symbol:'PAH3', name:'Porsche SE', price:'38,90 €', change:{week:-0.8, month:-2.1, year:-8.6}},
+    {id:'qiagen', symbol:'QIA', name:'Qiagen N.V.', price:'42,10 €', change:{week:0.5, month:1.2, year:6.7}},
+    {id:'rheinmetall', symbol:'RHM', name:'Rheinmetall AG', price:'612,00 €', change:{week:3.1, month:8.9, year:62.4}},
+    {id:'rwe', symbol:'RWE', name:'RWE AG', price:'31,40 €', change:{week:-0.2, month:0.6, year:-4.1}},
+    {id:'sap', symbol:'SAP', name:'SAP SE', price:'241,50 €', change:{week:1.5, month:4.2, year:28.6}},
+    {id:'sartorius', symbol:'SRT3', name:'Sartorius AG', price:'228,60 €', change:{week:2.0, month:5.8, year:35.9}},
+    {id:'siemens', symbol:'SIE', name:'Siemens AG', price:'198,20 €', change:{week:0.9, month:2.5, year:17.0}},
+    {id:'siemensenergy', symbol:'ENR', name:'Siemens Energy AG', price:'38,90 €', change:{week:2.6, month:7.1, year:58.3}},
+    {id:'siemenshealth', symbol:'SHL', name:'Siemens Healthineers', price:'52,40 €', change:{week:0.6, month:1.7, year:11.9}},
+    {id:'symrise', symbol:'SY1', name:'Symrise AG', price:'98,70 €', change:{week:0.2, month:0.8, year:5.4}},
+    {id:'vw', symbol:'VOW3', name:'Volkswagen AG', price:'104,60 €', change:{week:-1.8, month:-3.5, year:-6.2}},
+    {id:'vonovia', symbol:'VNA', name:'Vonovia SE', price:'29,80 €', change:{week:0.8, month:2.4, year:16.3}},
+    {id:'zalando', symbol:'ZAL', name:'Zalando SE', price:'31,60 €', change:{week:1.2, month:3.8, year:24.1}},
+    // International
+    {id:'apple', symbol:'AAPL', name:'Apple Inc.', price:'231,40 $', change:{week:0.7, month:2.2, year:18.9}},
+    {id:'msft', symbol:'MSFT', name:'Microsoft Corp.', price:'468,90 $', change:{week:0.5, month:2.8, year:24.3}},
+    {id:'nvda', symbol:'NVDA', name:'Nvidia Corp.', price:'142,60 $', change:{week:3.2, month:9.4, year:68.5}},
+    {id:'amzn', symbol:'AMZN', name:'Amazon.com Inc.', price:'212,30 $', change:{week:1.1, month:3.7, year:21.6}},
+    {id:'googl', symbol:'GOOGL', name:'Alphabet Inc.', price:'198,70 $', change:{week:0.6, month:1.9, year:15.4}},
+    {id:'meta', symbol:'META', name:'Meta Platforms', price:'612,50 $', change:{week:-0.9, month:-2.1, year:11.7}},
+    {id:'tsla', symbol:'TSLA', name:'Tesla Inc.', price:'268,90 $', change:{week:-2.5, month:-6.8, year:-14.3}},
+    {id:'brka', symbol:'BRK.B', name:'Berkshire Hathaway', price:'478,20 $', change:{week:0.3, month:1.0, year:12.1}},
+    {id:'lly', symbol:'LLY', name:'Eli Lilly and Co.', price:'912,40 $', change:{week:1.0, month:3.5, year:32.6}},
+    {id:'v', symbol:'V', name:'Visa Inc.', price:'312,80 $', change:{week:0.4, month:1.6, year:14.2}},
+    {id:'ma', symbol:'MA', name:'Mastercard Inc.', price:'528,90 $', change:{week:0.5, month:1.8, year:15.6}},
+    {id:'jpm', symbol:'JPM', name:'JPMorgan Chase & Co.', price:'228,60 $', change:{week:0.6, month:2.2, year:18.4}},
+    {id:'jnj', symbol:'JNJ', name:'Johnson & Johnson', price:'162,40 $', change:{week:0.1, month:0.5, year:6.3}},
+    {id:'avgo', symbol:'AVGO', name:'Broadcom Inc.', price:'198,70 $', change:{week:2.4, month:6.9, year:54.8}},
+    {id:'nflx', symbol:'NFLX', name:'Netflix Inc.', price:'812,30 $', change:{week:1.6, month:4.8, year:38.2}},
+    {id:'wmt', symbol:'WMT', name:'Walmart Inc.', price:'98,60 $', change:{week:0.4, month:1.5, year:19.7}},
+    {id:'xom', symbol:'XOM', name:'ExxonMobil Corp.', price:'118,40 $', change:{week:-0.3, month:0.2, year:4.6}},
+    {id:'pg', symbol:'PG', name:'Procter & Gamble', price:'168,20 $', change:{week:0.1, month:0.4, year:5.1}},
+    {id:'ko', symbol:'KO', name:'Coca-Cola Co.', price:'71,80 $', change:{week:0.2, month:0.9, year:9.4}},
+    {id:'asml', symbol:'ASML', name:'ASML Holding', price:'798,40 €', change:{week:1.8, month:5.2, year:41.3}},
+    {id:'lvmh', symbol:'MC', name:'LVMH', price:'642,00 €', change:{week:-0.5, month:-1.8, year:-9.2}},
+    {id:'novo', symbol:'NOVO-B', name:'Novo Nordisk', price:'98,60 $', change:{week:-1.1, month:-3.4, year:-22.7}},
+    {id:'toyota', symbol:'7203', name:'Toyota Motor Corp.', price:'198,40 $', change:{week:0.3, month:0.7, year:7.8}},
+    {id:'samsung', symbol:'005930', name:'Samsung Electronics', price:'72,60 $', change:{week:0.6, month:1.9, year:16.2}},
+    {id:'tsm', symbol:'TSM', name:'Taiwan Semiconductor', price:'214,80 $', change:{week:2.0, month:5.6, year:48.9}},
+    {id:'shell', symbol:'SHEL', name:'Shell plc', price:'71,20 $', change:{week:-0.2, month:0.3, year:3.1}},
+    {id:'nestle', symbol:'NESN', name:'Nestlé S.A.', price:'89,40 €', change:{week:0.1, month:0.3, year:-2.4}},
+    {id:'novartis', symbol:'NOVN', name:'Novartis AG', price:'98,10 €', change:{week:0.5, month:1.7, year:13.8}},
+    // Krypto
+    {id:'btc', symbol:'BTC', name:'Bitcoin', price:'71.240 €', change:{week:4.5, month:11.2, year:52.7}},
+    {id:'eth', symbol:'ETH', name:'Ethereum', price:'3.420 €', change:{week:6.1, month:14.8, year:61.3}},
+    {id:'sol', symbol:'SOL', name:'Solana', price:'178,40 €', change:{week:5.8, month:15.2, year:72.4}},
+    {id:'xrp', symbol:'XRP', name:'XRP', price:'2,14 €', change:{week:3.4, month:9.8, year:48.6}},
+    {id:'bnb', symbol:'BNB', name:'BNB', price:'612,80 €', change:{week:2.9, month:7.6, year:38.1}},
+    // Devisen
+    {id:'eurusd', symbol:'EUR/USD', name:'Euro / US-Dollar', price:'1,0862', change:{week:0.1, month:0.4, year:2.1}},
+    {id:'eurgbp', symbol:'EUR/GBP', name:'Euro / Britisches Pfund', price:'0,8540', change:{week:-0.2, month:-0.5, year:1.3}},
+    {id:'eurchf', symbol:'EUR/CHF', name:'Euro / Schweizer Franken', price:'0,9420', change:{week:-0.1, month:-0.3, year:-1.8}},
+    {id:'usdjpy', symbol:'USD/JPY', name:'US-Dollar / Japanischer Yen', price:'148,60', change:{week:0.3, month:0.9, year:4.2}}
+  ];
+
+  function load(key, fallback){
+    try{
+      var v = JSON.parse(localStorage.getItem(key));
+      return v === null || v === undefined ? fallback : v;
+    }catch(e){ return fallback; }
+  }
+  function save(key, val){
+    try{ localStorage.setItem(key, JSON.stringify(val)); }catch(e){}
+  }
+
+  var marketState = {
+    timeframe: 'month',
+    favorites: load('teconomic:stockFavorites', ['dax', 'sap', 'apple', 'nvda', 'btc']),
+    expanded: false
+  };
+
+  var CHEVRON_SVG = '<svg class="chev" width="8" height="13" viewBox="0 0 8 13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1.5 1.5 6.5 6.5 1.5 11.5"/></svg>';
+  var STAR_PATH = 'M12 2.8l2.8 5.9 6.4.8-4.7 4.4 1.2 6.4L12 17.2l-5.7 3.1 1.2-6.4-4.7-4.4 6.4-.8z';
+  var STAR_FILLED = '<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="' + STAR_PATH + '"/></svg>';
+  var STAR_OUTLINE = '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" aria-hidden="true"><path d="' + STAR_PATH + '"/></svg>';
+
+  function esc(t){
+    return String(t == null ? '' : t).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; });
+  }
+  function safeUrl(u){ return /^https?:\/\//i.test(u || '') ? u : null; }
+
+  function readmoreUrl(a){
+    return safeUrl(a.url) || SOURCE_BY_ID[a.src].homepage;
+  }
+
+  // ---------- Wichtigste Themen heute ----------
+  function renderTopStories(list){
+    var container = document.getElementById('topStoriesList');
+    var items = list || FALLBACK_TOP_STORIES;
+    container.innerHTML = '';
+    items.forEach(function(a, i){
+      var srcOk = a.src && SOURCE_BY_ID[a.src];
+      var row = document.createElement('a');
+      row.className = 'story';
+      row.href = srcOk ? readmoreUrl(a) : (safeUrl(a.url) || '#');
+      row.target = '_blank';
+      row.rel = 'noopener noreferrer';
+      row.title = a.url ? 'Artikel öffnen' : 'Startseite der Quelle öffnen';
+      row.innerHTML =
+        '<span class="story-rank num">' + (i + 1) + '</span>' +
+        '<div class="story-body">' +
+          (srcOk ? '<div class="story-source"><span class="dot" style="background:var(--src-' + a.src + ')"></span>' + srcLabelHTML(a.src) + '</div>' : '') +
+          '<div class="story-headline">' + esc(a.headline) + '</div>' +
+          (a.takeaway ? '<div class="story-takeaway"><b>Kernaussage:</b> ' + esc(a.takeaway) + '</div>' : '') +
+          (CAT_LABEL[a.cat] ? '<span class="cat-pill ' + a.cat + '">' + CAT_LABEL[a.cat] + '</span>' : '') +
+        '</div>' + CHEVRON_SVG;
+      container.appendChild(row);
+    });
+  }
+  renderTopStories();
+
+  // ---------- Aktienkurse ----------
+  var stockSearchInput = document.getElementById('stockSearch');
+  var marketsGrid = document.getElementById('marketsGrid');
+  var segmented = document.getElementById('marketChips');
+  var marketsMoreBtn = document.getElementById('marketsMoreBtn');
+
+  TIMEFRAMES.forEach(function(t){
+    var el = document.createElement('button');
+    var isActive = t.id === marketState.timeframe;
+    el.type = 'button';
+    el.className = 'seg' + (isActive ? ' active' : '');
+    el.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+    el.textContent = t.label;
+    el.addEventListener('click', function(){
+      marketState.timeframe = t.id;
+      Array.prototype.forEach.call(segmented.querySelectorAll('.seg'), function(s){
+        s.classList.remove('active');
+        s.setAttribute('aria-pressed', 'false');
+      });
+      el.classList.add('active');
+      el.setAttribute('aria-pressed', 'true');
+      renderMarkets();
+    });
+    segmented.appendChild(el);
+  });
+
+  stockSearchInput.addEventListener('input', function(){ marketState.expanded = false; renderMarkets(); });
+  marketsMoreBtn.addEventListener('click', function(){
+    marketState.expanded = !marketState.expanded;
+    renderMarkets();
+  });
+
+  function renderMarkets(){
+    var q = stockSearchInput.value.trim().toLowerCase();
+    var browsing = q.length > 0;
+    var list = browsing
+      ? STOCKS.filter(function(s){ return s.name.toLowerCase().indexOf(q) !== -1 || s.symbol.toLowerCase().indexOf(q) !== -1; })
+      : STOCKS.filter(function(s){ return marketState.favorites.indexOf(s.id) !== -1; });
+
+    list.sort(function(a, b){
+      var af = marketState.favorites.indexOf(a.id) !== -1, bf = marketState.favorites.indexOf(b.id) !== -1;
+      if(af === bf) return 0;
+      return af ? -1 : 1;
+    });
+
+    var total = list.length;
+    var visible = marketState.expanded ? list : list.slice(0, MARKETS_PAGE_SIZE);
+
+    marketsGrid.innerHTML = '';
+    if(visible.length === 0){
+      var empty = document.createElement('div');
+      empty.className = 'markets-empty';
+      empty.textContent = browsing
+        ? 'Keine Treffer für diese Suche.'
+        : 'Noch keine Favoriten. Oben suchen und mit dem Stern hinzufügen.';
+      marketsGrid.appendChild(empty);
+    }
+    visible.forEach(function(s){
+      var isFav = marketState.favorites.indexOf(s.id) !== -1;
+      var changeVal = s.change[marketState.timeframe];
+      var hasChange = typeof changeVal === 'number';
+      var up = hasChange && changeVal >= 0;
+      var el = document.createElement('div');
+      el.className = 'stock-row';
+      el.innerHTML =
+        '<button class="star-btn' + (isFav ? ' active' : '') + '" type="button" data-id="' + s.id + '" aria-pressed="' + (isFav ? 'true' : 'false') + '" aria-label="' + (isFav ? 'Aus Favoriten entfernen' : 'Zu Favoriten hinzufügen') + '">' + (isFav ? STAR_FILLED : STAR_OUTLINE) + '</button>' +
+        '<div class="stock-info">' +
+          '<div class="stock-symbol">' + s.symbol + '</div>' +
+          '<div class="stock-name">' + s.name + '</div>' +
+        '</div>' +
+        '<div class="stock-price num">' + s.price + '</div>' +
+        (hasChange
+          ? '<span class="change-pill num ' + (up ? 'up' : 'down') + '">' + (up ? '+' : '−') + Math.abs(changeVal).toFixed(2).replace('.', ',') + ' %</span>'
+          : '<span class="change-pill num flat">–</span>');
+      marketsGrid.appendChild(el);
+    });
+
+    Array.prototype.forEach.call(marketsGrid.querySelectorAll('.star-btn'), function(btn){
+      btn.addEventListener('click', function(){
+        var id = btn.getAttribute('data-id');
+        var idx = marketState.favorites.indexOf(id);
+        if(idx === -1) marketState.favorites.push(id); else marketState.favorites.splice(idx, 1);
+        save('teconomic:stockFavorites', marketState.favorites);
+        renderMarkets();
+      });
+    });
+
+    marketsMoreBtn.classList.toggle('visible', total > MARKETS_PAGE_SIZE);
+    marketsMoreBtn.textContent = marketState.expanded ? 'Weniger anzeigen' : 'Alle ' + total + ' anzeigen';
+  }
+
+  renderMarkets();
+
+  // ---------- Automatisch aktualisierte Daten (data/*.json) ----------
+  function getJSON(path){
+    return fetch(path + '?t=' + Date.now(), {cache:'no-store'}).then(function(r){
+      if(!r.ok) throw new Error(r.status);
+      return r.json();
+    });
+  }
+
+  getJSON('data/news.json').then(function(data){
+    if(Array.isArray(data.topStories) && data.topStories.length){
+      renderTopStories(data.topStories);
+      var note = document.querySelector('.top-stories-note');
+      if(note) note.textContent = 'Stand: ' + (data.updatedAtLabel || '') + ' · ' + data.topStories.length + ' Meldungen';
+    }
+    var ep = data.podcastEpisode;
+    if(ep){
+      var nameEl = document.querySelector('.episode-name');
+      var dateEl = document.querySelector('.episode-date');
+      var ul = document.getElementById('takeawaysList');
+      if(nameEl && ep.title) nameEl.textContent = ep.title;
+      if(dateEl && ep.dateLabel) dateEl.textContent = ep.dateLabel;
+      if(ul && Array.isArray(ep.takeaways) && ep.takeaways.length){
+        ul.innerHTML = '';
+        ep.takeaways.forEach(function(t){
+          var li = document.createElement('li');
+          li.textContent = t;
+          ul.appendChild(li);
+        });
+      }
+    }
+  }).catch(function(){ /* eingebaute Inhalte bleiben stehen */ });
+
+  getJSON('data/markets.json').then(function(data){
+    var q = data.quotes || {};
+    var n = 0;
+    STOCKS.forEach(function(s){
+      if(q[s.id]){
+        s.price = q[s.id].price;
+        s.change = q[s.id].change;
+        n++;
+      }
+    });
+    if(n){
+      var note = document.getElementById('marketsNote');
+      if(note) note.textContent = 'Stand: ' + (data.updatedAtLabel || '') + ' · Stern tippen zum Favorisieren';
+      renderMarkets();
+    }
+  }).catch(function(){ /* Beispieldaten bleiben stehen */ });
+
+  // ---------- Datum & Uhrzeit ----------
+  function tick(){
+    var now = new Date();
+    document.getElementById('clock').textContent = now.toLocaleTimeString('de-DE', {hour:'2-digit', minute:'2-digit'});
+    document.getElementById('dateline').textContent = now.toLocaleDateString('de-DE', {weekday:'long', day:'numeric', month:'long'});
+  }
+  tick();
+  setInterval(tick, 15000);
+})();
+</script>
+
+</body></html>

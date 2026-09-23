@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-16",
+  "updatedAt": "2026-09-16T07:00:00+02:00",
+  "updatedAtLabel": "16.09.2026",
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "headline": "DAX gibt Tagesgewinne wieder ab und entfernt sich erneut von der 25.000-Punkte-Marke",
+      "src": "handelsblatt",
+      "takeaway": "Nach frühen Gewinnen drehte der deutsche Leitindex im Tagesverlauf wieder ins Minus.",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-tagesgewinne-ab-und-entfernt-sich-von-25.000-zaehlern/100233260.html"
+    },
+    {
+      "cat": "ki",
+      "headline": "OpenAI stellt GPT-6 Astra vor — und weckt erneut AGI-Spekulationen",
+      "src": "heise",
+      "takeaway": "Mitgründer Brockman deutet an, das Modell könnte rückblickend als AGI-Meilenstein gelten, bleibt dabei aber vage.",
+      "url": "https://www.heise.de/news/OpenAI-stellt-GPT-6-Astra-vor-Mehr-Intelligenz-und-AGI-Raunen-11440778.html"
+    },
+    {
+      "cat": "technologie",
+      "headline": "Apple soll beim M6 offenbar die Pro- und Max-Varianten überspringen",
+      "src": "t3n",
+      "takeaway": "Der Sprung soll direkt auf den KI-starken M7 vorbereiten, der 2027 erscheinen soll.",
+      "url": "https://t3n.de/news/neue-chips-apple-ueberspringt-m6-teilweise-was-das-mit-dem-boom-bei-lokaler-ki-zu-tun-hat-1752546/"
+    },
+    {
+      "cat": "technologie",
+      "headline": "IBM stapelt Transistoren in zwei Schichten für deutlich schnellere Chips",
+      "src": "t3n",
+      "takeaway": "Der neue Fertigungsansatz soll bis zu 50 % mehr Rechenleistung bei 70 % weniger Energieverbrauch ermöglichen.",
+      "url": "https://t3n.de/news/nicht-kleiner-sondern-hoeher-neue-chip-technologie-von-ibm-soll-das-mooresche-gesetz-verlaengern-1750401"
+    },
+    {
+      "cat": "ki",
+      "headline": "Anthropic-Chef Amodei fordert in Grundsatzessay bewusst langsameres Tempo bei der KI-Entwicklung",
+      "src": "techcrunch",
+      "takeaway": "Amodei schlägt unabhängige Prüfer und internationale Abstimmung vor, US-Präsident Trump lehnt den Vorschlag ab.",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+    }
+  ],
+  "podcastEpisode": {
+    "dateLabel": "Neueste Folge · 9 Min.",
+    "takeaways": [
+      "Angesichts von Spritpreisen und leeren Gasspeichern wachsen Wählerunmut und politischer Druck.",
+      "Kanzler und Wirtschaftsministerin arbeiten an staatlichen Eingriffen in die Energiepreise.",
+      "Offen bleibt, wie verhindert werden soll, dass diese Eingriffe selbst zu teuer werden."
+    ],
+    "title": "Energie: Bundesregierung gegen Gasmangel und hohe Spritpreise"
+  }
+}
