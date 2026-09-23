@@ -132,58 +132,189 @@ def pct(now, then):
     return round((now / then - 1) * 100, 2)
 
 
-def quote(ticker):
-    path = "/v8/finance/chart/" + urllib.parse.quote(ticker) + "?range=1y&interval=1d"
-    try:
-        raw = fetch("https://query1.finance.yahoo.com" + path, timeout=10, tries=1)
-    except Exception:  # noqa: BLE001
-        raw = fetch("https://query2.finance.yahoo.com" + path, timeout=10, tries=1)
-    res = json.loads(raw)["chart"]["result"][0]
-    meta = res["meta"]
-    closes = [c for c in res["indicators"]["quote"][0]["close"] if c is not None]
-    price = meta.get("regularMarketPrice") or closes[-1]
+class Yahoo:
+    """Yahoo Finance mit Cookie und Crumb (wie ihn auch der Browser nutzt)."""
+
+    def __init__(self):
+        import http.cookiejar
+        self.jar = http.cookiejar.CookieJar()
+        self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(self.jar))
+        self.crumb = None
+        self.blocked = False
+        try:
+            try:
+                self._get("https://fc.yahoo.com", timeout=10)
+            except Exception:  # noqa: BLE001  (liefert 404, setzt aber das Cookie)
+                pass
+            self.crumb = self._get("https://query1.finance.yahoo.com/v1/test/getcrumb").decode().strip() or None
+        except Exception as e:  # noqa: BLE001
+            print(f"  Yahoo: kein Crumb ({e})")
+
+    def _get(self, url, timeout=12):
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+        with self.opener.open(req, timeout=timeout) as r:
+            return r.read()
+
+    def history(self, ticker):
+        if self.blocked:
+            raise RuntimeError("Yahoo blockiert")
+        q = "?range=1y&interval=1d" + (f"&crumb={urllib.parse.quote(self.crumb)}" if self.crumb else "")
+        path = "/v8/finance/chart/" + urllib.parse.quote(ticker) + q
+        last = None
+        for host in ("query1", "query2"):
+            try:
+                res = json.loads(self._get(f"https://{host}.finance.yahoo.com{path}"))["chart"]["result"][0]
+                closes = [c for c in res["indicators"]["quote"][0]["close"] if c is not None]
+                price = res["meta"].get("regularMarketPrice") or closes[-1]
+                return price, closes, res["meta"].get("currency")
+            except Exception as e:  # noqa: BLE001
+                last = e
+        raise last
+
+
+STOOQ_INDEX = {"^GDAXI": "^dax", "^DJI": "^dji", "^NDX": "^ndx", "^GSPC": "^spx",
+               "^N225": "^nkx", "^FTSE": "^ukx", "^STOXX50E": "^stx", "^MDAXI": "^mdax",
+               "^SDAXI": "^sdax"}
+STOOQ_CURRENCY = {".de": "EUR", ".us": "USD", ".uk": "GBP", ".jp": "JPY"}
+
+
+def stooq_symbol(ticker):
+    if ticker in STOOQ_INDEX:
+        return STOOQ_INDEX[ticker]
+    if ticker.endswith("=X") or "-" in ticker and ticker.endswith("-EUR"):
+        return None  # Devisen und Krypto kommen aus eigenen Quellen
+    if ticker.endswith(".DE"):
+        return ticker[:-3].lower() + ".de"
+    if "." not in ticker:
+        return ticker.lower().replace("-", ".") + ".us"
+    return None
+
+
+def stooq_history(ticker):
+    sym = stooq_symbol(ticker)
+    if not sym:
+        raise RuntimeError("kein Stooq-Symbol")
+    start = (dt.date.today() - dt.timedelta(days=380)).strftime("%Y%m%d")
+    raw = fetch(f"https://stooq.com/q/d/l/?s={urllib.parse.quote(sym)}&i=d&d1={start}",
+                timeout=12, tries=1).decode("utf-8", "replace")
+    lines = [l for l in raw.strip().splitlines() if l and l[0].isdigit()]
+    closes = [float(l.split(",")[4]) for l in lines if len(l.split(",")) >= 5]
+    if len(closes) < 2:
+        raise RuntimeError("Stooq: keine Daten (" + raw[:60].replace("\n", " ") + ")")
+    cur = next((c for suf, c in STOOQ_CURRENCY.items() if sym.endswith(suf)), None)
+    return closes[-1], closes, cur
+
+
+def changes(price, closes):
     return {
-        "price": fmt_price(ticker, price, meta.get("currency")),
-        "change": {
-            "week": pct(price, closes[-6] if len(closes) >= 6 else closes[0]),
-            "month": pct(price, closes[-22] if len(closes) >= 22 else closes[0]),
-            "year": pct(price, closes[0]),
-        },
+        "week": pct(price, closes[-6] if len(closes) >= 6 else closes[0]),
+        "month": pct(price, closes[-22] if len(closes) >= 22 else closes[0]),
+        "year": pct(price, closes[0]),
     }
+
+
+COINGECKO = {"btc": "bitcoin", "eth": "ethereum", "sol": "solana", "xrp": "ripple", "bnb": "binancecoin"}
+
+
+def crypto_quotes():
+    out = {}
+    for sid, cid in COINGECKO.items():
+        try:
+            raw = fetch(f"https://api.coingecko.com/api/v3/coins/{cid}/market_chart?vs_currency=eur&days=365&interval=daily",
+                        headers={"Accept": "application/json"}, timeout=15, tries=2)
+            closes = [p[1] for p in json.loads(raw)["prices"]]
+            out[sid] = {"price": fmt_price(sid.upper() + "-EUR", closes[-1], "EUR"),
+                        "change": changes(closes[-1], closes)}
+        except Exception as e:  # noqa: BLE001
+            print(f"  CoinGecko {cid}: {e.__class__.__name__}: {e}")
+        time.sleep(2.5)  # freies Limit schonen
+    return out
+
+
+def fx_quotes():
+    end = dt.date.today()
+    start = end - dt.timedelta(days=370)
+    raw = None
+    for base in ("https://api.frankfurter.dev/v1", "https://api.frankfurter.app"):
+        try:
+            raw = fetch(f"{base}/{start}..{end}?from=EUR&to=USD,GBP,CHF,JPY", timeout=15, tries=2)
+            break
+        except Exception as e:  # noqa: BLE001
+            print(f"  Frankfurter ({base}): {e.__class__.__name__}: {e}")
+    if raw is None:
+        return {}
+    rates = json.loads(raw)["rates"]
+    days = sorted(rates)
+    series = {
+        "eurusd": [rates[d]["USD"] for d in days],
+        "eurgbp": [rates[d]["GBP"] for d in days],
+        "eurchf": [rates[d]["CHF"] for d in days],
+        "usdjpy": [rates[d]["JPY"] / rates[d]["USD"] for d in days],
+    }
+    return {sid: {"price": fmt_num(v[-1], 2 if v[-1] >= 50 else 4), "change": changes(v[-1], v)}
+            for sid, v in series.items()}
 
 
 def update_markets():
     old = load_json("markets.json", {}).get("quotes", {})
-    quotes, failed = {}, []
-    streak = 0
+    quotes, failed, sources = {}, [], {}
+
+    # Krypto und Devisen aus eigenen, freien Quellen
+    try:
+        quotes.update(crypto_quotes())
+    except Exception as e:  # noqa: BLE001
+        print(f"  Krypto: {e}")
+    try:
+        quotes.update(fx_quotes())
+    except Exception as e:  # noqa: BLE001
+        print(f"  Devisen: {e}")
+    for sid in list(COINGECKO) + ["eurusd", "eurgbp", "eurchf", "usdjpy"]:
+        if sid in quotes:
+            sources["CoinGecko/EZB"] = sources.get("CoinGecko/EZB", 0) + 1
+
+    # Aktien und Indizes: erst Yahoo, sonst Stooq
+    yahoo = Yahoo()
+    y_fail = 0
     for sid, ticker in TICKERS.items():
-        if streak >= 8:  # Quelle blockiert gerade: abbrechen statt ewig warten
-            failed.append(f"{ticker} (übersprungen)")
-            if sid in old:
-                quotes[sid] = old[sid]
+        if sid in quotes:
             continue
-        try:
-            quotes[sid] = quote(ticker)
-            streak = 0
-        except Exception as e:  # noqa: BLE001
-            streak += 1
-            failed.append(f"{ticker} ({e.__class__.__name__}: {e})")
+        got = None
+        errors = []
+        for name, fn in (("Yahoo", yahoo.history), ("Stooq", stooq_history)):
+            try:
+                price, closes, cur = fn(ticker)
+                got = (name, price, closes, cur)
+                break
+            except Exception as e:  # noqa: BLE001
+                errors.append(f"{name}: {e.__class__.__name__}: {str(e)[:80]}")
+                if name == "Yahoo":
+                    y_fail += 1
+                    if y_fail >= 6 and not any(s == "Yahoo" for s in sources):
+                        yahoo.blocked = True  # Yahoo sperrt gerade: nur noch Stooq
+        if got:
+            name, price, closes, cur = got
+            quotes[sid] = {"price": fmt_price(ticker, price, cur), "change": changes(price, closes)}
+            sources[name] = sources.get(name, 0) + 1
+        else:
+            failed.append(f"{ticker} -> " + " | ".join(errors))
             if sid in old:
                 quotes[sid] = old[sid]  # letzten bekannten Wert behalten
         time.sleep(0.3)
-    if not quotes:
-        print("Kurse: keine Daten erhalten, Datei bleibt unverändert")
+
+    print("Kurse je Quelle:", sources or "keine")
+    print(f"Kurse: {len(failed)} ohne neue Daten")
+    for f in failed[:15]:
+        print("  -", f)
+    if not sources:
+        print("Kurse: keine Quelle erreichbar, Datei bleibt unverändert")
         return
     n = now_berlin()
     save_json("markets.json", {
         "updatedAt": n.isoformat(),
         "updatedAtLabel": label_de(n),
-        "source": "Yahoo Finance",
+        "source": ", ".join(sources),
         "quotes": quotes,
     })
-    print(f"Kurse: {len(TICKERS) - len(failed)} aktualisiert, {len(failed)} fehlgeschlagen")
-    for f in failed:
-        print("  -", f)
 
 # ---------------------------------------------------------------- Nachrichten
 
