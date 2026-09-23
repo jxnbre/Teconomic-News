@@ -1,14 +1,14 @@
 {
   "date": "2026-09-23",
-  "updatedAt": "2026-09-23T14:20:08.769310+02:00",
-  "updatedAtLabel": "23.09.2026, 14:20 Uhr",
+  "updatedAt": "2026-09-23T14:59:21.500966+02:00",
+  "updatedAtLabel": "23.09.2026, 14:59 Uhr",
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-bip-prognose-oecd-100.html",
-      "headline": "OECD hebt Konjunkturprognose für deutsche Wirtschaft leicht an",
-      "takeaway": "Die OECD hat ihre Wachstumsprognose für die deutsche Wirtschaft in diesem Jahr deutlich heraufgesetzt. Das Bruttoinlandsprodukt werde um 1,1 Prozent wachsen. Für 2027 ste"
+      "url": "https://www.tagesschau.de/wirtschaft/energie/oel-boom-nigeria-100.html",
+      "headline": "Nach Mega-Börsengang: Neuer Öl-Boom in Nigeria?",
+      "takeaway": "Mit einem gigantischen Börsengang können sich erstmals Kleinanleger an Afrikas größter Ölraffinerie beteiligen. Das Unternehmen des Multimillionärs Dangote profitiert von"
     },
     {
       "cat": "technologie",
@@ -20,23 +20,23 @@
     {
       "cat": "ki",
       "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-      "headline": "Smart glasses are already causing havoc in India",
-      "takeaway": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, re"
+      "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "headline": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Smart glasses are already causin"
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/kalifornien-will-gegen-rwe-deal-von-donald-trump-vor-gericht-ziehen-abgesagte-offshore-windparks-a-85d27df8-11ee-448c-9c3f-c86bf0334dbe#ref=rss",
-      "headline": "Kalifornien will gegen RWE-Deal von Donald Trump vor Gericht ziehen - abgesagte Offshore-Windparks",
-      "takeaway": "Der US-Präsident möchte es so: Gegen eine Entschädigung in Höhe von 1,2 Milliarden Dollar sollte der Energiekonzern RWE drei Offshorewindparkprojekte aufgeben. Doch die A"
+      "url": "https://www.spiegel.de/wirtschaft/gesundheit-warum-kassenpatienten-laenger-warten-muessen-als-privatversicherte-a-fb2e936b-634b-4073-bbb8-3cb55581a0e3#ref=rss",
+      "headline": "Gesundheit: Warum Kassenpatienten länger warten müssen als Privatversicherte",
+      "takeaway": "Kanzler Merz beklagt, dass Privatversicherte schneller Termine bekommen als Kassenpatienten. Ab Januar wird es für die wohl noch schlimmer, wegen einer Reform der schwarz"
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/snapdragon-8-elite-gen-6-neuer-handy-chip-knackt-die-marke-von-5-ghz-1764737/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Snapdragon 8 Elite Gen 6: Neuer Handy-Chip knackt die Marke von 5 GHz",
-      "takeaway": "Qualcomm hat auf seinem Snapdragon Summit 2026 zwei neue Top-Prozessoren für Smartphones gezeigt. Der stärkere davon knackt die Marke von 5 GHz, die man früher nur von PC"
+      "url": "https://t3n.de/news/kosten-pc-laptop-acer-1764792/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Sinkende Kosten bei PCs und Laptops: Acer-Chef Jason Chen macht optimistische Prognose",
+      "takeaway": "Die Preise für Festplatten und SSDs sind deutlich gestiegen. Laut dem Tech-CEO sei die Knappheit aber nicht so schlimm, wie oft von Herstellern behauptet wird. Er rechnet"
     }
   ],
   "podcastEpisode": {
