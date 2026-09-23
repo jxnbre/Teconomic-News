@@ -133,9 +133,12 @@ def pct(now, then):
 
 
 def quote(ticker):
-    url = ("https://query1.finance.yahoo.com/v8/finance/chart/"
-           + urllib.parse.quote(ticker) + "?range=1y&interval=1d")
-    res = json.loads(fetch(url))["chart"]["result"][0]
+    path = "/v8/finance/chart/" + urllib.parse.quote(ticker) + "?range=1y&interval=1d"
+    try:
+        raw = fetch("https://query1.finance.yahoo.com" + path, timeout=10, tries=1)
+    except Exception:  # noqa: BLE001
+        raw = fetch("https://query2.finance.yahoo.com" + path, timeout=10, tries=1)
+    res = json.loads(raw)["chart"]["result"][0]
     meta = res["meta"]
     closes = [c for c in res["indicators"]["quote"][0]["close"] if c is not None]
     price = meta.get("regularMarketPrice") or closes[-1]
@@ -152,14 +155,22 @@ def quote(ticker):
 def update_markets():
     old = load_json("markets.json", {}).get("quotes", {})
     quotes, failed = {}, []
+    streak = 0
     for sid, ticker in TICKERS.items():
+        if streak >= 8:  # Quelle blockiert gerade: abbrechen statt ewig warten
+            failed.append(f"{ticker} (übersprungen)")
+            if sid in old:
+                quotes[sid] = old[sid]
+            continue
         try:
             quotes[sid] = quote(ticker)
+            streak = 0
         except Exception as e:  # noqa: BLE001
-            failed.append(f"{ticker} ({e.__class__.__name__})")
+            streak += 1
+            failed.append(f"{ticker} ({e.__class__.__name__}: {e})")
             if sid in old:
                 quotes[sid] = old[sid]  # letzten bekannten Wert behalten
-        time.sleep(0.25)
+        time.sleep(0.3)
     if not quotes:
         print("Kurse: keine Daten erhalten, Datei bleibt unverändert")
         return
@@ -201,14 +212,17 @@ NS = {"atom": "http://www.w3.org/2005/Atom",
 def parse_date(s):
     if not s:
         return None
+    d = None
     try:
-        return email.utils.parsedate_to_datetime(s)
+        d = email.utils.parsedate_to_datetime(s.strip())
     except Exception:  # noqa: BLE001
-        pass
-    try:
-        return dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
-    except Exception:  # noqa: BLE001
-        return None
+        try:
+            d = dt.datetime.fromisoformat(s.strip().replace("Z", "+00:00"))
+        except Exception:  # noqa: BLE001
+            return None
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=dt.timezone.utc)
+    return d
 
 
 def parse_feed(raw):
@@ -241,11 +255,11 @@ def collect_candidates():
     out = []
     for src, cat, url in FEEDS:
         try:
-            items = parse_feed(fetch(url))
+            items = parse_feed(fetch(url, timeout=15, tries=2))
+            recent = [i for i in items if not i["date"] or i["date"] > cutoff][:10]
         except Exception as e:  # noqa: BLE001
-            print(f"  Feed fehlgeschlagen: {src} ({e.__class__.__name__})")
+            print(f"  Feed fehlgeschlagen: {src} ({e.__class__.__name__}: {e})")
             continue
-        recent = [i for i in items if not i["date"] or i["date"] > cutoff][:10]
         for i in recent:
             out.append({"src": src, "cat": cat, **{k: i[k] for k in ("title", "url", "summary")}})
     print(f"Nachrichten: {len(out)} Kandidaten aus den Feeds")
@@ -389,11 +403,19 @@ def update_news():
 
 def main():
     force = "--force-news" in sys.argv or os.environ.get("FORCE_NEWS") == "true"
-    update_markets()
+    try:
+        update_markets()
+    except Exception as e:  # noqa: BLE001
+        print(f"Kurse: Fehler ({e.__class__.__name__}: {e})")
     n = now_berlin()
     done_today = load_json("news.json", {}).get("date") == n.date().isoformat()
     if force or (n.hour >= NEWS_HOUR and not done_today):
-        update_news()
+        try:
+            update_news()
+        except Exception as e:  # noqa: BLE001
+            import traceback
+            traceback.print_exc()
+            print(f"Nachrichten: Fehler ({e.__class__.__name__}: {e})")
     else:
         print("Nachrichten: heute schon aktuell oder noch vor 7 Uhr, übersprungen")
 
