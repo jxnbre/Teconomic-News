@@ -1,21 +1,21 @@
 {
-  "date": "2026-09-23",
-  "updatedAt": "2026-09-23T22:06:51.488054+02:00",
-  "updatedAtLabel": "23.09.2026, 22:06 Uhr",
+  "date": "2026-09-24",
+  "updatedAt": "2026-09-24T07:25:04.122912+02:00",
+  "updatedAtLabel": "24.09.2026, 07:25 Uhr",
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
-      "headline": "Marktbericht: DAX baut Verluste aus",
-      "takeaway": "Der wieder steigende Öl-Preis drückt den DAX weiter ins Minus. Die jüngst aufgekeimte Hoffnung auf eine Entspannung am Öl-Markt ist vorerst wieder dahin."
+      "url": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
+      "headline": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
+      "takeaway": "Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die"
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/Windows-Update-Vorschau-killt-lokale-PC-zu-PC-Migration-11462690.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Windows-Update-Vorschau killt lokale PC-zu-PC-Migration",
-      "takeaway": "Microsoft verteilt Update-Vorschauen für Windows 11. Sie testen die nicht sicherheitsrelevanten Bestandteile des Patchday-Flickens."
+      "url": "https://www.heise.de/news/KI-Bescheide-ohne-menschliches-Zutun-in-Oesterreich-11463844.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "KI-Bescheide ohne menschliches Zutun in Österreich",
+      "takeaway": "Amtliche Bescheide ganz ohne Beamte, erstellt von einer KI. Das wird in Österreich legalisiert. Zudem ziehen Chatbots in die Amtsstuben ein."
     },
     {
       "cat": "ki",
@@ -27,26 +27,26 @@
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-chef-jensen-huang-und-donald-trump-der-ki-einfluesterer-a-fad307df-42fa-4911-badb-cdd21d6a4d2d#ref=rss",
-      "headline": "Nvidia-Chef Jensen Huang und Donald Trump: Der KI-Einflüsterer",
-      "takeaway": "Jensen Huang leitet Nvidia, das wertvollste Unternehmen der Welt. Von KI-Horrorszenarien hält er nichts – so ist er zum wichtigen Verbündeten von Donald Trump geworden. D"
+      "url": "https://www.spiegel.de/wirtschaft/usa-und-china-verlaengern-waffenstillstand-im-zollkrieg-a-607298b8-c373-42dc-8888-79456db8eba0#ref=rss",
+      "headline": "USA und China verlängern Waffenstillstand im Zollkrieg",
+      "takeaway": "Seit mehr als einem Jahr bedrohen sich die USA und China gegenseitig mit hohen Zöllen. Jetzt soll der Handelskrieg abermals ein paar Monate ausgesetzt werden."
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/alte-speichermedien-2026-ruhestand-1764804/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "SSHD, langsame SD-Karten und mehr: 6 Speichermedien, die 2026 endlich in den Ruhestand gehören",
-      "takeaway": "Manche Speichermedien haben schon Jahrzehnte einen guten Dienst geleistet. Sie wurden zwar im Laufe der Zeit von moderneren Alternativen überholt, kommen aber teilweise i"
+      "url": "https://t3n.de/news/ceer-elektroautos-saudi-arabien-1764897/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Ceer Exobot: Das sind die ersten Elektroautos aus Saudi-Arabien",
+      "takeaway": "Knapp vier Jahre nach der Gründung hat die saudi-arabische E-Autofirma Ceer ihre ersten beiden Serienmodelle vorgestellt. Es handelt sich um eine Limousine und ein SUV mi"
     }
   ],
   "podcastEpisode": {
-    "title": "Unternehmen: Private Equity erobert den Mittelstand",
-    "dateLabel": "Folge vom 23.09. · 10 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2205-neue-episode-23-09",
+    "title": "Biontech: Der Kampf ums Erbe der Gründer / USA/China: Der Kampf wird härter",
+    "dateLabel": "Folge vom 24.09. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2206-neue-episode-24-09",
     "takeaways": [
-      "Eine neue Generation an Unternehmern öffnet sich für Geldgeber von außen.",
-      "Nicht aus Not, sondern weil ihnen professionelle Strukturen helfen.",
-      "Was macht das mit dem klassischen Unternehmerbild?"
+      "Gründer-Frust statt Gründer-Lust: Die Corona-Impfstoff-Helden verzetteln sich bei der Neuausrichtung.",
+      "Darüber reden wollen sie nicht.",
+      "Was dennoch bekannt wurde."
     ]
   }
 }
