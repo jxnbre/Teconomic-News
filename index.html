@@ -31,6 +31,7 @@
     --src-a:var(--p1); --src-b:var(--p2); --src-c:var(--p3); --src-d:var(--p4); --src-e:#A8516B;
 
     --radius:14px;
+    --c-base:#8C5A9E; --c-tool:#EE4540;
     color-scheme:light;
   }
   @media (prefers-color-scheme: dark){
@@ -52,6 +53,7 @@
       --pill-green:#2F9E64; --pill-red:var(--p2);
       --hero-glow:rgba(238,69,64,0.35);
       --src-d:#9C3A6E; --src-e:#D9788F;
+      --c-base:#B07BC0; --c-tool:#F0564F;
       color-scheme:dark;
     }
   }
@@ -73,6 +75,7 @@
     --pill-green:#2F9E64; --pill-red:var(--p2);
     --hero-glow:rgba(238,69,64,0.35);
     --src-d:#9C3A6E; --src-e:#D9788F;
+    --c-base:#B07BC0; --c-tool:#F0564F;
     color-scheme:dark;
   }
   :root{
@@ -234,6 +237,135 @@
 
   .foot{ padding:30px 4px 0; font-size:12px; line-height:1.5; color:var(--label-2); }
 
+
+  /* ---------- Navigation ---------- */
+  .tabs{
+    position:sticky; top:0; z-index:20; margin:18px -16px 0; padding:10px 16px;
+    background:color-mix(in srgb, var(--bg) 88%, transparent);
+    -webkit-backdrop-filter:saturate(1.4) blur(14px); backdrop-filter:saturate(1.4) blur(14px);
+  }
+  .tabs-inner{ display:grid; grid-template-columns:repeat(4, 1fr); padding:3px; border-radius:11px; background:var(--fill); }
+  .tab{
+    appearance:none; border:0; background:transparent; cursor:pointer; padding:8px 4px; border-radius:8px;
+    font:inherit; font-size:14px; font-weight:500; color:var(--label); white-space:nowrap;
+    transition:background .2s ease, box-shadow .2s ease;
+  }
+  .tab[aria-selected="true"]{ background:var(--seg-active); font-weight:650; box-shadow:0 3px 8px rgba(0,0,0,0.12); color:var(--blue); }
+  @media (max-width:480px){ .tab{ font-size:13px; } }
+  .view[hidden]{ display:none !important; }
+
+  /* ---------- Messleiste & Bewertung ---------- */
+  .measure-strip{
+    display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin:0 4px 10px; font-size:13px; color:var(--label-2);
+  }
+  .measure-strip .live-dot{ width:8px; height:8px; border-radius:50%; background:var(--pill-green); flex:none; }
+  .measure-strip.paused .live-dot{ background:var(--gray); }
+  .measure-strip a{ color:var(--blue); font-weight:600; }
+  .story-link{ display:flex; gap:12px; align-items:flex-start; flex:1; min-width:0; color:inherit; }
+  .story{ flex-direction:column; gap:0; }
+  .story-top{ display:flex; gap:12px; width:100%; }
+  .rate{ display:flex; gap:8px; margin:10px 0 0 34px; flex-wrap:wrap; align-items:center; }
+  .rate-btn{
+    appearance:none; cursor:pointer; display:inline-flex; align-items:center; gap:5px;
+    padding:5px 11px; border-radius:999px; border:1px solid var(--separator); background:transparent;
+    font:inherit; font-size:13px; font-weight:600; color:var(--label-2); transition:background .15s ease, color .15s ease;
+  }
+  .rate-btn:hover{ background:var(--highlight); }
+  .rate-btn.on.yes{ background:var(--pill-green); border-color:transparent; color:#fff; }
+  .rate-btn.on.no{ background:var(--p2); border-color:transparent; color:#fff; }
+  .topic-badge{
+    display:inline-block; margin:8px 6px 0 0; padding:3px 9px; border-radius:999px; font-size:12px; font-weight:700;
+    color:#fff; background:var(--hero);
+  }
+  .story.is-topic{ box-shadow:inset 3px 0 0 var(--p1); }
+
+  /* ---------- Karten, Kennzahlen, Formulare ---------- */
+  .card-pad{ padding:16px; }
+  .lead{ margin:0 0 4px; font-size:15px; line-height:1.5; color:var(--label-2); }
+  .stats{ display:grid; grid-template-columns:repeat(auto-fit, minmax(140px, 1fr)); gap:10px; }
+  .stat{ background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow-card); padding:14px 16px; }
+  .stat-label{ font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:0.02em; color:var(--label-2); }
+  .stat-value{ margin-top:4px; font-size:28px; font-weight:750; letter-spacing:-0.02em; line-height:1.1; }
+  .stat-sub{ margin-top:2px; font-size:12px; color:var(--label-2); }
+  .form-row{ display:flex; align-items:center; justify-content:space-between; gap:12px; padding:12px 16px; }
+  .form-row + .form-row{ border-top:1px solid var(--separator); }
+  .form-row label{ font-size:15px; }
+  .form-row small{ display:block; font-size:12px; color:var(--label-2); }
+  .field{
+    font:inherit; font-size:15px; color:var(--label); background:var(--fill); border:0; border-radius:9px;
+    padding:8px 10px; min-width:0;
+  }
+  .field:focus{ outline:none; box-shadow:0 0 0 3px color-mix(in srgb, var(--blue) 35%, transparent); }
+  .btn{
+    appearance:none; cursor:pointer; border:0; border-radius:999px; padding:9px 16px; font:inherit; font-size:14px; font-weight:650;
+    background:var(--btn); color:#fff; display:inline-flex; align-items:center; gap:6px;
+  }
+  .btn.ghost{ background:transparent; color:var(--blue); border:1px solid var(--separator); }
+  .btn.danger{ background:transparent; color:var(--p2); border:1px solid color-mix(in srgb, var(--p2) 40%, transparent); }
+  .btn-row{ display:flex; gap:8px; flex-wrap:wrap; margin-top:12px; }
+  .table-wrap{ overflow-x:auto; }
+  table.data{ width:100%; border-collapse:collapse; font-size:14px; }
+  table.data th, table.data td{ padding:9px 12px; text-align:right; white-space:nowrap; border-bottom:1px solid var(--separator); }
+  table.data th:first-child, table.data td:first-child{ text-align:left; }
+  table.data th{ font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:0.02em; color:var(--label-2); }
+  table.data tr:last-child td{ border-bottom:0; }
+  .empty{ padding:22px 16px; text-align:center; font-size:14px; color:var(--label-2); line-height:1.5; }
+
+  /* ---------- Themen ---------- */
+  .chips{ display:flex; flex-wrap:wrap; gap:8px; }
+  .chip{
+    display:inline-flex; align-items:center; gap:6px; padding:6px 8px 6px 12px; border-radius:999px;
+    background:var(--hero); color:#fff; font-size:14px; font-weight:600;
+  }
+  .chip button{ appearance:none; border:0; background:rgba(255,255,255,0.22); color:#fff; width:20px; height:20px; border-radius:50%; cursor:pointer; font-size:13px; line-height:1; }
+  .chip.suggest{ background:transparent; color:var(--blue); border:1px dashed color-mix(in srgb, var(--blue) 50%, transparent); padding:6px 12px; cursor:pointer; font:inherit; font-size:14px; font-weight:600; }
+  .topic-form{ display:flex; gap:8px; margin-top:12px; }
+  .topic-form .field{ flex:1; }
+  .day-chips{ display:flex; gap:8px; overflow-x:auto; padding-bottom:4px; }
+  .day-chip{
+    appearance:none; cursor:pointer; flex:none; padding:7px 12px; border-radius:999px; border:1px solid var(--separator);
+    background:var(--card); color:var(--label); font:inherit; font-size:13px; font-weight:600;
+  }
+  .day-chip[aria-pressed="true"]{ background:var(--btn); color:#fff; border-color:transparent; }
+  .hist-item{ display:block; padding:12px 16px; color:inherit; }
+  .hist-item + .hist-item{ border-top:1px solid var(--separator); }
+  .hist-meta{ font-size:12px; font-weight:600; color:var(--label-2); }
+  .hist-title{ margin-top:2px; font-size:15px; font-weight:600; line-height:1.35; }
+
+  /* ---------- Projekt ---------- */
+  .hero-num{ display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; }
+  .hero-num .big{ font-size:44px; font-weight:800; letter-spacing:-0.03em; line-height:1; }
+  .hero-num .arrow{ font-size:24px; color:var(--label-3); }
+  .delta{ display:inline-block; padding:4px 10px; border-radius:999px; background:var(--pill-green); color:#fff; font-size:14px; font-weight:700; }
+  .chart-legend{ display:flex; gap:16px; flex-wrap:wrap; font-size:13px; color:var(--label-2); margin-bottom:8px; }
+  .chart-legend span{ display:inline-flex; align-items:center; gap:6px; }
+  .chart-legend i{ width:12px; height:12px; border-radius:3px; display:inline-block; }
+  .chart svg{ display:block; width:100%; height:auto; overflow:visible; }
+  .chart text{ font-family:inherit; }
+  .viz-tip{
+    position:fixed; z-index:50; pointer-events:none; padding:8px 10px; border-radius:9px; font-size:13px; line-height:1.4;
+    background:var(--label); color:var(--bg); box-shadow:0 8px 24px -8px rgba(0,0,0,0.4); opacity:0; transition:opacity .1s ease;
+  }
+  .viz-tip.show{ opacity:1; }
+  .flow{ display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  @media (max-width:560px){ .flow{ grid-template-columns:1fr; } }
+  .flow h3{ margin:0 0 8px; font-size:15px; }
+  .flow ol{ margin:0; padding:0; list-style:none; counter-reset:s; }
+  .flow li{ counter-increment:s; position:relative; padding:8px 0 8px 32px; font-size:14px; line-height:1.4; }
+  .flow li + li{ border-top:1px solid var(--separator); }
+  .flow li::before{
+    content:counter(s); position:absolute; left:0; top:8px; width:22px; height:22px; border-radius:50%;
+    display:grid; place-items:center; font-size:12px; font-weight:700; color:#fff; background:var(--c, var(--gray));
+  }
+  .flow .before{ --c:#8C5A9E; }
+  .flow .after{ --c:var(--p1); }
+  .arch{ display:flex; flex-wrap:wrap; align-items:center; gap:6px; font-size:13px; }
+  .arch span{ padding:6px 10px; border-radius:8px; background:var(--fill); font-weight:600; }
+  .arch b{ color:var(--label-3); font-weight:400; }
+  .bullets{ margin:0; padding-left:18px; font-size:14px; line-height:1.55; }
+  .bullets li + li{ margin-top:4px; }
+  details.table-toggle summary{ cursor:pointer; font-size:14px; font-weight:600; color:var(--blue); padding:12px 16px; }
+
   @media (prefers-reduced-motion: reduce){
     *{ transition:none !important; animation:none !important; }
   }
@@ -261,6 +393,16 @@
     <div class="subtitle">Wirtschaft, Technologie und KI – kompakt für heute.</div>
   </header>
 
+  <nav class="tabs" aria-label="Bereiche">
+    <div class="tabs-inner" role="tablist">
+      <button class="tab" role="tab" type="button" data-target="heute" aria-selected="true">Heute</button>
+      <button class="tab" role="tab" type="button" data-target="themen" aria-selected="false">Meine Themen</button>
+      <button class="tab" role="tab" type="button" data-target="messung" aria-selected="false">Messung</button>
+      <button class="tab" role="tab" type="button" data-target="projekt" aria-selected="false">Projekt</button>
+    </div>
+  </nav>
+
+  <div class="view" data-view="heute">
   <section class="section">
     <div class="section-head"><h2>Podcast</h2></div>
     <div class="group">
@@ -294,6 +436,7 @@
         <div class="section-sub top-stories-note">Stand: 16.09.2026 · 5 Meldungen</div>
       </div>
     </div>
+    <div class="measure-strip" id="measureStrip"><span class="live-dot" aria-hidden="true"></span><span id="stripText">Messung läuft</span><a href="#messung">Details</a></div>
     <div class="group" id="topStoriesList"></div>
   </section>
 
@@ -316,6 +459,164 @@
       <button class="markets-more" id="marketsMoreBtn" type="button"></button>
     </div>
   </section>
+  </div>
+
+  <!-- ================= MEINE THEMEN ================= -->
+  <div class="view" data-view="themen" hidden>
+    <section class="section">
+      <div class="section-head"><div><h2>Meine Themen</h2><div class="section-sub">Stichworte, denen du folgen willst. Passende Meldungen werden markiert.</div></div></div>
+      <div class="group card-pad">
+        <div class="chips" id="topicChips"></div>
+        <form class="topic-form" id="topicForm">
+          <input class="field" id="topicInput" type="text" maxlength="40" placeholder="Neues Thema, z. B. SAP oder Inflation" aria-label="Neues Thema">
+          <button class="btn" type="submit">Hinzufügen</button>
+        </form>
+        <div class="section-sub" style="margin-top:12px">Vorschläge:</div>
+        <div class="chips" id="topicSuggest" style="margin-top:6px"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><div><h2>Themen-Verlauf</h2><div class="section-sub" id="historyNote">Treffer zu deinen Themen aus den letzten 30 Tagen</div></div></div>
+      <div class="group" id="topicHistory"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><div><h2>Archiv</h2><div class="section-sub">Frühere Tagesausgaben nachlesen</div></div></div>
+      <div class="day-chips" id="archiveDays"></div>
+      <div class="group" id="archiveList" style="margin-top:10px"></div>
+    </section>
+  </div>
+
+  <!-- ================= MESSUNG ================= -->
+  <div class="view" data-view="messung" hidden>
+    <section class="section">
+      <div class="section-head"><div><h2>Messung heute</h2><div class="section-sub" id="measureDate"></div></div></div>
+      <p class="lead" style="margin:0 4px 12px">Das Dashboard misst mit, wie lange du es aktiv nutzt und wie viele Meldungen du als relevant bewertest. Daraus entstehen dieselben 4 Kriterien wie in deinem Effizienzscore.</p>
+      <div class="stats">
+        <div class="stat"><div class="stat-label">Zeitaufwand</div><div class="stat-value num" id="mTime">0</div><div class="stat-sub">Minuten aktiv</div></div>
+        <div class="stat"><div class="stat-label">Trefferquote</div><div class="stat-value num" id="mHit">–</div><div class="stat-sub" id="mHitSub">0 von 0 bewertet</div></div>
+        <div class="stat"><div class="stat-label">Kanäle</div><div class="stat-value num" id="mChan">1</div><div class="stat-sub">Dashboard + weitere</div></div>
+        <div class="stat"><div class="stat-label">Effizienzscore</div><div class="stat-value num" id="mScore">–</div><div class="stat-sub">von 10</div></div>
+      </div>
+      <div class="group" style="margin-top:12px">
+        <div class="form-row">
+          <label for="mExtra">Weitere Kanäle heute<small>z. B. Instagram, TikTok, andere News-Apps</small></label>
+          <input class="field num" id="mExtra" type="number" min="0" max="10" step="1" value="0" style="width:72px;text-align:right">
+        </div>
+        <div class="form-row">
+          <label for="mQuality">Quellenqualität heute<small>1 = viel Clickbait, 5 = sehr vertrauenswürdig</small></label>
+          <select class="field" id="mQuality">
+            <option value="">wählen</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><div><h2>Alle Messtage</h2><div class="section-sub">Gespeichert nur in diesem Browser</div></div></div>
+      <div class="group"><div class="table-wrap" id="measureTable"></div></div>
+      <div class="btn-row">
+        <button class="btn" id="exportCsv" type="button">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12M7 10l5 5 5-5M5 21h14"/></svg>
+          Als CSV für Excel exportieren
+        </button>
+        <button class="btn danger" id="clearMeasure" type="button">Alle Messdaten löschen</button>
+      </div>
+      <p class="section-sub" style="margin:12px 4px 0;line-height:1.5">So misst das Dashboard: Die Zeit läuft nur, solange die Seite sichtbar ist und du sie in der letzten Minute benutzt hast. Öffnest du einen Artikel, zählt die Lesezeit bis zur Rückkehr mit, höchstens 10 Minuten pro Artikel. Die Trefferquote ist der Anteil deiner „Relevant“-Bewertungen an allen bewerteten Meldungen.</p>
+    </section>
+  </div>
+
+  <!-- ================= PROJEKT ================= -->
+  <div class="view" data-view="projekt" hidden>
+    <section class="section">
+      <div class="section-head"><div><h2>Projekt &amp; Ergebnisse</h2><div class="section-sub">Portfolio „Communication and Technology“ · DHBW Mosbach</div></div></div>
+      <div class="group card-pad">
+        <p class="lead"><b style="color:var(--label)">Fragestellung:</b> Wie verändert ein KI-gestütztes News-Dashboard meinen täglichen Informationsprozess zu Wirtschaft und Technologie im Vergleich zur bisherigen, manuellen Recherche über mehrere Kanäle?</p>
+        <p class="lead" style="margin-top:8px"><b style="color:var(--label)">Methode:</b> Effizienzscore aus 4 gleich gewichteten Kriterien (je 0 bis 10 Punkte), erhoben an je 5 Werktagen ohne und mit Tool.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><h2>Ergebnis</h2></div>
+      <div class="group card-pad">
+        <div class="stat-label">Gesamt-Effizienzscore (0 bis 10)</div>
+        <div class="hero-num" style="margin-top:6px">
+          <span class="big num" id="heroBase">–</span><span class="arrow">→</span><span class="big num" id="heroTool" style="color:var(--c-tool)">–</span>
+          <span class="delta num" id="heroDelta">–</span>
+        </div>
+        <div class="stat-sub" id="heroLive" style="margin-top:8px"></div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><div><h2>Kriterien im Vergleich</h2><div class="section-sub">Durchschnitt der 5 Messtage, Punkte von 0 bis 10</div></div></div>
+      <div class="group card-pad chart" id="chartCriteria"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><div><h2>Verlauf pro Tag</h2><div class="section-sub">Tages-Effizienzscore, Punkte von 0 bis 10</div></div></div>
+      <div class="group card-pad chart" id="chartDaily"></div>
+    </section>
+
+    <section class="section">
+      <div class="group">
+        <details class="table-toggle">
+          <summary>Rohdaten als Tabelle anzeigen</summary>
+          <div class="table-wrap" id="rawTable"></div>
+        </details>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><h2>Prozess ohne und mit Tool</h2></div>
+      <div class="flow">
+        <div class="group card-pad before">
+          <h3>Ohne Tool</h3>
+          <ol>
+            <li>Nachrichten nebenbei über den Tag verteilt</li>
+            <li>5 bis 6 Kanäle: TikTok, Instagram, BILD, tagesschau, Main-Post, Fränkische Nachrichten</li>
+            <li>Podcast Handelsblatt Morning Briefing auf Spotify</li>
+            <li>Keine Filterung, Clickbait und Relevantes gemischt</li>
+            <li>Ältere Themen gehen verloren, keine Marktübersicht</li>
+          </ol>
+        </div>
+        <div class="group card-pad after">
+          <h3>Mit Tool</h3>
+          <ol>
+            <li>Jeden Morgen gegen 7 Uhr automatische Aktualisierung</li>
+            <li>14 seriöse Quellen werden gesammelt, KI wählt die 5 wichtigsten Meldungen</li>
+            <li>Kernaussagen, Podcast-Zusammenfassung und Kurse auf einer Seite</li>
+            <li>Eigene Themen werden markiert, das Archiv hält alte Themen fest</li>
+            <li>Bewertung und Zeitmessung liefern die Daten für den Effizienzscore</li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><h2>Technischer Aufbau</h2></div>
+      <div class="group card-pad">
+        <div class="arch">
+          <span>GitHub Actions (Zeitplan)</span><b>→</b><span>Python-Skript</span><b>→</b><span>RSS-Feeds, Kursdienste, Podcast-Feed</span><b>→</b><span>Claude, optional (Auswahl &amp; Kernaussagen)</span><b>→</b><span>JSON-Dateien</span><b>→</b><span>GitHub Pages</span><b>→</b><span>Dashboard</span>
+        </div>
+        <p class="lead" style="margin-top:12px">Kosten: Hosting und Automatisierung kostenlos, mit hinterlegtem KI-Schlüssel etwa 1 bis 2 Cent pro Tag. Messdaten bleiben im Browser des Nutzers.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><h2>Grenzen und Risiken</h2></div>
+      <div class="group card-pad">
+        <ul class="bullets">
+          <li>Kleine Stichprobe: eine Person, je 5 Werktage. Die Ergebnisse zeigen eine Tendenz, keinen allgemeinen Beweis.</li>
+          <li>Trefferquote und Quellenqualität der Baseline beruhen auf Selbsteinschätzung. Die Messfunktion im Dashboard ersetzt das ab jetzt teilweise durch gemessene Werte.</li>
+          <li>KI-Zusammenfassungen können Fehler enthalten. Jede Meldung verlinkt deshalb auf den Originalartikel.</li>
+          <li>Filterblase: Eine Auswahl nach Relevanz kann andere Perspektiven ausblenden. Gegenmittel: feste Mischung aus Wirtschaft, Technologie und KI sowie deutsche und internationale Quellen.</li>
+          <li>Abhängigkeit von externen Diensten (z. B. Kursdaten), die sich ändern oder sperren können.</li>
+        </ul>
+      </div>
+    </section>
+  </div>
 
   <footer class="foot">
     Konzept-Dashboard für das Modul Communication and Technology (IB25A). Kurse von Yahoo Finance, Stooq, CoinGecko und EZB, teils verzögert, keine Anlageberatung. Nachrichten werden täglich gegen 7 Uhr automatisch ausgewählt, Kernaussagen per KI zusammengefasst. Favorisierte Aktien werden lokal in diesem Browser gespeichert. Auf dem iPhone: Link in Safari öffnen → Teilen → Zum Home-Bildschirm.
@@ -532,30 +833,54 @@
   }
 
   // ---------- Wichtigste Themen heute ----------
+  var currentStories = null;
   function renderTopStories(list){
-    var container = document.getElementById('topStoriesList');
-    var items = list || FALLBACK_TOP_STORIES;
+    if(list) currentStories = list;
+    renderStoryList(document.getElementById('topStoriesList'), currentStories || FALLBACK_TOP_STORIES, {rate:true});
+  }
+  function renderStoryList(container, items, opts){
     container.innerHTML = '';
+    if(!items.length){ container.innerHTML = '<div class="empty">Keine Meldungen.</div>'; return; }
     items.forEach(function(a, i){
       var srcOk = a.src && SOURCE_BY_ID[a.src];
-      var row = document.createElement('a');
-      row.className = 'story';
-      row.href = srcOk ? readmoreUrl(a) : (safeUrl(a.url) || '#');
-      row.target = '_blank';
-      row.rel = 'noopener noreferrer';
-      row.title = a.url ? 'Artikel öffnen' : 'Startseite der Quelle öffnen';
-      row.innerHTML =
+      var hits = matchTopics(a);
+      var row = document.createElement('div');
+      row.className = 'story' + (hits.length ? ' is-topic' : '');
+      var link = document.createElement('a');
+      link.className = 'story-link';
+      link.href = srcOk ? readmoreUrl(a) : (safeUrl(a.url) || '#');
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.title = a.url ? 'Artikel öffnen' : 'Startseite der Quelle öffnen';
+      link.innerHTML =
         '<span class="story-rank num">' + (i + 1) + '</span>' +
         '<div class="story-body">' +
           (srcOk ? '<div class="story-source"><span class="dot" style="background:var(--src-' + a.src + ')"></span>' + srcLabelHTML(a.src) + '</div>' : '') +
           '<div class="story-headline">' + esc(a.headline) + '</div>' +
           (a.takeaway ? '<div class="story-takeaway"><b>Kernaussage:</b> ' + esc(a.takeaway) + '</div>' : '') +
+          hits.map(function(h){ return '<span class="topic-badge">Dein Thema: ' + esc(h) + '</span>'; }).join('') +
           (CAT_LABEL[a.cat] ? '<span class="cat-pill ' + a.cat + '">' + CAT_LABEL[a.cat] + '</span>' : '') +
         '</div>' + CHEVRON_SVG;
+      var top = document.createElement('div');
+      top.className = 'story-top';
+      top.appendChild(link);
+      row.appendChild(top);
+      if(opts.rate){
+        link.addEventListener('click', noteArticleOpened);
+        var id = storyId(a);
+        var box = document.createElement('div');
+        box.className = 'rate';
+        box.innerHTML =
+          '<button type="button" class="rate-btn yes" aria-pressed="false"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>Relevant</button>' +
+          '<button type="button" class="rate-btn no" aria-pressed="false"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>Nicht relevant</button>';
+        box.querySelector('.yes').addEventListener('click', function(){ setRating(id, 1, box); });
+        box.querySelector('.no').addEventListener('click', function(){ setRating(id, 0, box); });
+        paintRating(box, today().ratings[id]);
+        row.appendChild(box);
+      }
       container.appendChild(row);
     });
   }
-  renderTopStories();
 
   // ---------- Aktienkurse ----------
   var stockSearchInput = document.getElementById('stockSearch');
@@ -729,6 +1054,487 @@
   });
   if(mq && mq.addEventListener) mq.addEventListener('change', syncToggle);
   syncToggle();
+
+  // =====================================================================
+  //  Navigation (Heute · Meine Themen · Messung · Projekt)
+  // =====================================================================
+  var VIEWS = ['heute', 'themen', 'messung', 'projekt'];
+  function showView(name){
+    if(VIEWS.indexOf(name) === -1) name = 'heute';
+    Array.prototype.forEach.call(document.querySelectorAll('.view'), function(v){
+      v.hidden = v.getAttribute('data-view') !== name;
+    });
+    Array.prototype.forEach.call(document.querySelectorAll('.tab'), function(t){
+      t.setAttribute('aria-selected', t.getAttribute('data-target') === name ? 'true' : 'false');
+    });
+    if(name === 'messung') renderMeasure();
+    if(name === 'themen') renderTopicsView();
+    if(name === 'projekt') renderProject();
+  }
+  Array.prototype.forEach.call(document.querySelectorAll('.tab'), function(t){
+    t.addEventListener('click', function(){
+      var name = t.getAttribute('data-target');
+      if(location.hash !== '#' + name) history.replaceState(null, '', '#' + name);
+      showView(name);
+      window.scrollTo({top:0});
+    });
+  });
+  window.addEventListener('hashchange', function(){ showView(location.hash.slice(1)); });
+
+  // =====================================================================
+  //  Messung: aktive Nutzungszeit + Relevanz-Bewertungen pro Tag
+  // =====================================================================
+  var MKEY = 'teconomic:measure';
+  var PARAMS = {timeBest:0, timeWorst:30, chanBest:1, chanWorst:6, w:[0.25, 0.25, 0.25, 0.25]};
+
+  function dayKey(d){
+    d = d || new Date();
+    return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  }
+  function fmtDay(key){
+    var p = key.split('-');
+    var d = new Date(+p[0], +p[1] - 1, +p[2]);
+    return d.toLocaleDateString('de-DE', {weekday:'short', day:'2-digit', month:'2-digit', year:'numeric'});
+  }
+  var measure = load(MKEY, {days:{}});
+  if(!measure || typeof measure.days !== 'object') measure = {days:{}};
+  function today(){
+    var k = dayKey();
+    if(!measure.days[k]) measure.days[k] = {sec:0, ratings:{}, opened:0, extra:0, quality:null};
+    return measure.days[k];
+  }
+  function saveMeasure(){ save(MKEY, measure); }
+
+  function clamp10(x){ return Math.max(0, Math.min(10, x)); }
+  function scoreParts(minutes, hit, channels, quality){
+    return {
+      time: clamp10(10 * (PARAMS.timeWorst - minutes) / (PARAMS.timeWorst - PARAMS.timeBest)),
+      hit: hit == null ? null : clamp10(hit * 10),
+      chan: clamp10(10 * (PARAMS.chanWorst - channels) / (PARAMS.chanWorst - PARAMS.chanBest)),
+      qual: quality == null ? null : clamp10((quality - 1) * 2.5)
+    };
+  }
+  function totalScore(p){
+    if(p.hit == null || p.qual == null) return null;
+    return p.time * PARAMS.w[0] + p.hit * PARAMS.w[1] + p.chan * PARAMS.w[2] + p.qual * PARAMS.w[3];
+  }
+  function dayStats(d){
+    var vals = Object.keys(d.ratings).map(function(k){ return d.ratings[k]; });
+    var yes = vals.filter(function(v){ return v === 1; }).length;
+    var hit = vals.length ? yes / vals.length : null;
+    var minutes = d.sec / 60;
+    var channels = 1 + (parseInt(d.extra, 10) || 0);
+    var quality = d.quality ? +d.quality : null;
+    var parts = scoreParts(minutes, hit, channels, quality);
+    return {minutes:minutes, rated:vals.length, yes:yes, hit:hit, channels:channels, quality:quality, parts:parts, score:totalScore(parts)};
+  }
+  function de(n, dec){ return n == null ? '–' : n.toFixed(dec).replace('.', ','); }
+
+  // --- Zeitmessung ---
+  var lastInput = Date.now();
+  var readingSince = null;
+  ['pointerdown', 'keydown', 'scroll', 'touchstart', 'mousemove'].forEach(function(ev){
+    window.addEventListener(ev, function(){ lastInput = Date.now(); }, {passive:true});
+  });
+  var tickCount = 0;
+  setInterval(function(){
+    var active = document.visibilityState === 'visible' && (Date.now() - lastInput) < 60000;
+    if(active){
+      today().sec += 1;
+      if(++tickCount % 5 === 0) saveMeasure();
+    }
+    updateStrip(active);
+  }, 1000);
+  document.addEventListener('visibilitychange', function(){
+    if(document.visibilityState === 'visible'){
+      if(readingSince){
+        var away = Math.min((Date.now() - readingSince) / 1000, 600);
+        today().sec += Math.round(away);
+        readingSince = null;
+      }
+      lastInput = Date.now();
+      saveMeasure();
+    } else {
+      saveMeasure();
+    }
+  });
+  function noteArticleOpened(){
+    today().opened += 1;
+    readingSince = Date.now();
+    saveMeasure();
+  }
+
+  function updateStrip(active){
+    var el = document.getElementById('measureStrip');
+    if(!el) return;
+    var s = dayStats(today());
+    el.classList.toggle('paused', !active);
+    document.getElementById('stripText').textContent =
+      'Heute ' + Math.floor(s.minutes) + ' Min · ' + s.rated + ' bewertet' +
+      (s.hit != null ? ' · Trefferquote ' + Math.round(s.hit * 100) + ' %' : '');
+    if(!document.querySelector('[data-view="messung"]').hidden && tickCount % 5 === 0) renderMeasureStats();
+  }
+
+  // --- Bewertung ---
+  function storyId(a){ return (a.url || a.headline || '').slice(0, 300); }
+  function setRating(id, val, box){
+    var d = today();
+    if(d.ratings[id] === val) delete d.ratings[id]; else d.ratings[id] = val;
+    saveMeasure();
+    paintRating(box, d.ratings[id]);
+    updateStrip(true);
+  }
+  function paintRating(box, val){
+    var y = box.querySelector('.yes'), n = box.querySelector('.no');
+    y.classList.toggle('on', val === 1); y.setAttribute('aria-pressed', val === 1 ? 'true' : 'false');
+    n.classList.toggle('on', val === 0); n.setAttribute('aria-pressed', val === 0 ? 'true' : 'false');
+  }
+
+  // --- Ansicht Messung ---
+  function renderMeasureStats(){
+    var d = today(), s = dayStats(d);
+    document.getElementById('mTime').textContent = de(s.minutes, 1);
+    document.getElementById('mHit').textContent = s.hit == null ? '–' : Math.round(s.hit * 100) + ' %';
+    document.getElementById('mHitSub').textContent = s.yes + ' von ' + s.rated + ' relevant';
+    document.getElementById('mChan').textContent = s.channels;
+    document.getElementById('mScore').textContent = s.score == null ? '–' : de(s.score, 1);
+  }
+  function renderMeasure(){
+    var d = today();
+    document.getElementById('measureDate').textContent = fmtDay(dayKey());
+    document.getElementById('mExtra').value = d.extra || 0;
+    document.getElementById('mQuality').value = d.quality || '';
+    renderMeasureStats();
+    var keys = Object.keys(measure.days).sort().reverse();
+    var wrap = document.getElementById('measureTable');
+    if(!keys.length){ wrap.innerHTML = '<div class="empty">Noch keine Messdaten.</div>'; return; }
+    var rows = keys.map(function(k){
+      var s = dayStats(measure.days[k]);
+      return '<tr><td>' + fmtDay(k) + '</td><td class="num">' + de(s.minutes, 1) + '</td><td class="num">' +
+        (s.hit == null ? '–' : Math.round(s.hit * 100) + ' %') + '</td><td class="num">' + s.channels + '</td><td class="num">' +
+        (s.quality || '–') + '</td><td class="num"><b>' + (s.score == null ? '–' : de(s.score, 1)) + '</b></td></tr>';
+    }).join('');
+    wrap.innerHTML = '<table class="data"><thead><tr><th>Datum</th><th>Min</th><th>Treffer</th><th>Kanäle</th><th>Qualität</th><th>Score</th></tr></thead><tbody>' + rows + '</tbody></table>';
+  }
+  document.getElementById('mExtra').addEventListener('input', function(e){
+    today().extra = Math.max(0, Math.min(10, parseInt(e.target.value, 10) || 0));
+    saveMeasure(); renderMeasure();
+  });
+  document.getElementById('mQuality').addEventListener('change', function(e){
+    today().quality = e.target.value ? +e.target.value : null;
+    saveMeasure(); renderMeasure();
+  });
+  document.getElementById('exportCsv').addEventListener('click', function(){
+    var lines = ['Datum;Zeitaufwand (Min);Trefferquote (%);Anzahl Kanäle;Quellenqualität (1-5);Bewertete Meldungen;Geöffnete Artikel;Effizienzscore'];
+    Object.keys(measure.days).sort().forEach(function(k){
+      var d = measure.days[k], s = dayStats(d);
+      var p = k.split('-');
+      lines.push([p[2] + '.' + p[1] + '.' + p[0], de(s.minutes, 1), s.hit == null ? '' : de(s.hit, 2), s.channels,
+        s.quality || '', s.rated, d.opened || 0, s.score == null ? '' : de(s.score, 2)].join(';'));
+    });
+    var blob = new Blob(['﻿' + lines.join('\r\n')], {type:'text/csv;charset=utf-8'});
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'teconomic-messung-' + dayKey() + '.csv';
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function(){ URL.revokeObjectURL(a.href); }, 2000);
+  });
+  var clearBtn = document.getElementById('clearMeasure'), clearArmed = false;
+  clearBtn.addEventListener('click', function(){
+    if(!clearArmed){
+      clearArmed = true; clearBtn.textContent = 'Wirklich löschen? Nochmal klicken';
+      setTimeout(function(){ clearArmed = false; clearBtn.textContent = 'Alle Messdaten löschen'; }, 4000);
+      return;
+    }
+    measure = {days:{}}; saveMeasure(); clearArmed = false; clearBtn.textContent = 'Alle Messdaten löschen';
+    renderMeasure(); renderTopStories(currentStories);
+  });
+
+  // =====================================================================
+  //  Meine Themen + Archiv
+  // =====================================================================
+  var TKEY = 'teconomic:topics';
+  var topics = load(TKEY, []);
+  if(!Array.isArray(topics)) topics = [];
+  var SUGGEST = ['DAX', 'EZB', 'Inflation', 'KI', 'SAP', 'Nvidia', 'Zölle', 'Bitcoin', 'Energie', 'Start-up'];
+
+  function norm(t){ return String(t || '').toLowerCase(); }
+  function matchTopics(a){
+    var hay = norm(a.headline) + ' ' + norm(a.takeaway);
+    return topics.filter(function(t){
+      var q = norm(t).trim();
+      if(!q) return false;
+      if(q.length <= 3){ // kurze Kürzel wie KI, EZB nur als ganzes Wort
+        return new RegExp('(^|[^a-zäöüß0-9])' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '($|[^a-zäöüß0-9])', 'i').test(hay);
+      }
+      return hay.indexOf(q) !== -1;
+    });
+  }
+  function saveTopics(){ save(TKEY, topics); renderTopicsView(); renderTopStories(currentStories); }
+  document.getElementById('topicForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var inp = document.getElementById('topicInput');
+    var v = inp.value.trim();
+    if(v && !topics.some(function(t){ return norm(t) === norm(v); })) topics.push(v);
+    inp.value = '';
+    saveTopics();
+  });
+
+  var archiveIndex = null, archiveCache = {}, selectedDay = null;
+  function getArchiveIndex(){
+    if(archiveIndex) return Promise.resolve(archiveIndex);
+    return getJSON('data/archive/index.json').then(function(x){ archiveIndex = x.days || []; return archiveIndex; })
+      .catch(function(){ archiveIndex = []; return archiveIndex; });
+  }
+  function getArchiveDay(day){
+    if(archiveCache[day]) return Promise.resolve(archiveCache[day]);
+    return getJSON('data/archive/' + day + '.json').then(function(x){ archiveCache[day] = x; return x; });
+  }
+  function dayLabel(day){ var p = day.split('-'); return p[2] + '.' + p[1] + '.'; }
+
+  function renderTopicsView(){
+    var chips = document.getElementById('topicChips');
+    chips.innerHTML = topics.length ? '' : '<span class="section-sub">Noch keine Themen. Füge unten eins hinzu.</span>';
+    topics.forEach(function(t, i){
+      var c = document.createElement('span');
+      c.className = 'chip';
+      c.innerHTML = esc(t) + '<button type="button" aria-label="Thema ' + esc(t) + ' entfernen">×</button>';
+      c.querySelector('button').addEventListener('click', function(){ topics.splice(i, 1); saveTopics(); });
+      chips.appendChild(c);
+    });
+    var sug = document.getElementById('topicSuggest');
+    sug.innerHTML = '';
+    SUGGEST.filter(function(s){ return !topics.some(function(t){ return norm(t) === norm(s); }); }).forEach(function(s){
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'chip suggest'; b.textContent = '+ ' + s;
+      b.addEventListener('click', function(){ topics.push(s); saveTopics(); });
+      sug.appendChild(b);
+    });
+    renderHistory();
+    renderArchive();
+  }
+
+  function renderHistory(){
+    var box = document.getElementById('topicHistory');
+    if(!topics.length){ box.innerHTML = '<div class="empty">Lege oben Themen an, dann erscheinen hier alle passenden Meldungen der letzten Wochen.</div>'; return; }
+    box.innerHTML = '<div class="empty">Lade Archiv …</div>';
+    getArchiveIndex().then(function(days){
+      if(!days.length){ box.innerHTML = '<div class="empty">Das Archiv startet mit dem nächsten Tages-Update. Bis dahin werden Treffer nur unter „Heute“ markiert.</div>'; return; }
+      return Promise.all(days.slice(0, 30).map(function(d){ return getArchiveDay(d).catch(function(){ return null; }); }))
+        .then(function(list){
+          var hits = [];
+          list.forEach(function(x, i){
+            if(!x) return;
+            (x.topStories || []).forEach(function(a){
+              var m = matchTopics(a);
+              if(m.length) hits.push({day:days[i], a:a, m:m});
+            });
+          });
+          if(!hits.length){ box.innerHTML = '<div class="empty">Noch keine Treffer zu deinen Themen im Archiv.</div>'; return; }
+          box.innerHTML = '';
+          hits.forEach(function(h){
+            var src = SOURCE_BY_ID[h.a.src];
+            var el = document.createElement('a');
+            el.className = 'hist-item';
+            el.href = safeUrl(h.a.url) || (src ? src.homepage : '#');
+            el.target = '_blank'; el.rel = 'noopener noreferrer';
+            el.innerHTML = '<div class="hist-meta">' + dayLabel(h.day) + (src ? ' · ' + esc(src.label) : '') + ' · ' + esc(h.m.join(', ')) + '</div>' +
+              '<div class="hist-title">' + esc(h.a.headline) + '</div>';
+            box.appendChild(el);
+          });
+        });
+    });
+  }
+
+  function renderArchive(){
+    var chips = document.getElementById('archiveDays');
+    var list = document.getElementById('archiveList');
+    getArchiveIndex().then(function(days){
+      chips.innerHTML = '';
+      if(!days.length){ list.innerHTML = '<div class="empty">Noch keine archivierten Tage. Ab dem nächsten Update wird jede Ausgabe hier gespeichert.</div>'; return; }
+      if(!selectedDay || days.indexOf(selectedDay) === -1) selectedDay = days[0];
+      days.forEach(function(d){
+        var b = document.createElement('button');
+        b.type = 'button'; b.className = 'day-chip'; b.textContent = dayLabel(d);
+        b.setAttribute('aria-pressed', d === selectedDay ? 'true' : 'false');
+        b.addEventListener('click', function(){ selectedDay = d; renderArchive(); });
+        chips.appendChild(b);
+      });
+      list.innerHTML = '<div class="empty">Lade …</div>';
+      getArchiveDay(selectedDay).then(function(x){
+        renderStoryList(list, x.topStories || [], {rate:false});
+      }).catch(function(){ list.innerHTML = '<div class="empty">Dieser Tag konnte nicht geladen werden.</div>'; });
+    });
+  }
+
+  // =====================================================================
+  //  Projekt & Ergebnisse (Daten aus Effizienzscore.xlsx)
+  // =====================================================================
+  var STUDY = {
+    period: 'je 5 Werktage',
+    baseline: [
+      {day:'Mo', min:15, hit:0.50, chan:3, qual:3},
+      {day:'Di', min:12, hit:0.60, chan:4, qual:4},
+      {day:'Mi', min:14, hit:0.30, chan:2, qual:2},
+      {day:'Do', min:10, hit:0.50, chan:5, qual:4},
+      {day:'Fr', min:16, hit:0.60, chan:5, qual:4}
+    ],
+    tool: [
+      {day:'Mo', min:4, hit:0.75, chan:2, qual:4},
+      {day:'Di', min:5, hit:0.90, chan:1, qual:5},
+      {day:'Mi', min:4, hit:0.80, chan:1, qual:4},
+      {day:'Do', min:5, hit:0.90, chan:2, qual:5},
+      {day:'Fr', min:5, hit:0.90, chan:2, qual:5}
+    ]
+  };
+  function scoreRows(rows){
+    return rows.map(function(r){
+      var p = scoreParts(r.min, r.hit, r.chan, r.qual);
+      return {day:r.day, raw:r, p:p, total:totalScore(p)};
+    });
+  }
+  function avg(arr){ return arr.reduce(function(a, b){ return a + b; }, 0) / arr.length; }
+  var CRIT = [['time', 'Zeitaufwand'], ['hit', 'Trefferquote'], ['chan', 'Anzahl Kanäle'], ['qual', 'Quellenqualität'], ['total', 'Gesamt']];
+  function averages(scored){
+    var o = {};
+    ['time', 'hit', 'chan', 'qual'].forEach(function(k){ o[k] = avg(scored.map(function(s){ return s.p[k]; })); });
+    o.total = avg(scored.map(function(s){ return s.total; }));
+    return o;
+  }
+
+  var tip = document.createElement('div');
+  tip.className = 'viz-tip'; tip.setAttribute('role', 'tooltip');
+  document.body.appendChild(tip);
+  function showTip(html, x, y){
+    tip.innerHTML = html; tip.classList.add('show');
+    var r = tip.getBoundingClientRect();
+    var left = Math.min(window.innerWidth - r.width - 8, Math.max(8, x + 12));
+    var top = y - r.height - 12; if(top < 8) top = y + 16;
+    tip.style.left = left + 'px'; tip.style.top = top + 'px';
+  }
+  function hideTip(){ tip.classList.remove('show'); }
+  function bindTip(el, html){
+    el.addEventListener('mousemove', function(e){ showTip(html, e.clientX, e.clientY); });
+    el.addEventListener('mouseleave', hideTip);
+    el.addEventListener('touchstart', function(e){ var t = e.touches[0]; showTip(html, t.clientX, t.clientY); }, {passive:true});
+  }
+  var SVGNS = 'http://www.w3.org/2000/svg';
+  function svgEl(tag, attrs, parent){
+    var e = document.createElementNS(SVGNS, tag);
+    for(var k in attrs) e.setAttribute(k, attrs[k]);
+    if(parent) parent.appendChild(e);
+    return e;
+  }
+  function legendHTML(){
+    return '<div class="chart-legend"><span><i style="background:var(--c-base)"></i>Ohne Tool (Baseline)</span><span><i style="background:var(--c-tool)"></i>Mit Tool</span></div>';
+  }
+
+  function drawCriteria(box, A, B){
+    var W = Math.max(300, (box.clientWidth || 672) - 32);
+    box.innerHTML = legendHTML();
+    var labelW = W < 420 ? 104 : 118, rowH = 46, barH = 14, gap = 2, top = 6, right = 40;
+    var H = top + CRIT.length * rowH + 22;
+    var svg = svgEl('svg', {viewBox:'0 0 ' + W + ' ' + H, role:'img', 'aria-label':'Balkendiagramm: Punkte je Kriterium ohne und mit Tool'}, box);
+    var x0 = labelW, xw = W - labelW - right;
+    [0, 2.5, 5, 7.5, 10].forEach(function(v){
+      var x = x0 + xw * v / 10;
+      svgEl('line', {x1:x, x2:x, y1:top, y2:H - 20, stroke:'var(--separator)', 'stroke-width':1}, svg);
+      var t = svgEl('text', {x:x, y:H - 4, 'text-anchor':'middle', 'font-size':11, fill:'var(--label-2)'}, svg);
+      t.textContent = String(v).replace('.', ',');
+    });
+    CRIT.forEach(function(c, i){
+      var y = top + i * rowH + 8;
+      var lab = svgEl('text', {x:0, y:y + barH + 1, 'font-size':13, 'font-weight': c[0] === 'total' ? 700 : 500, fill:'var(--label)'}, svg);
+      lab.textContent = c[1];
+      [[A, 'var(--c-base)', 'Ohne Tool'], [B, 'var(--c-tool)', 'Mit Tool']].forEach(function(s, j){
+        var v = s[0][c[0]];
+        var by = y + j * (barH + gap);
+        var w = Math.max(2, xw * v / 10);
+        var bar = svgEl('path', {d:'M' + x0 + ',' + by + 'h' + (w - 4) + 'a4,4 0 0 1 4,4v' + (barH - 8) + 'a4,4 0 0 1 -4,4h-' + (w - 4) + 'z', fill:s[1]}, svg);
+        var txt = svgEl('text', {x:x0 + w + 6, y:by + barH - 3, 'font-size':12, 'font-weight':600, fill:'var(--label-2)'}, svg);
+        txt.textContent = de(v, 1);
+        var hit = svgEl('rect', {x:x0, y:by - 1, width:xw, height:barH + 2, fill:'transparent'}, svg);
+        bindTip(hit, '<b>' + c[1] + '</b><br>' + s[2] + ': ' + de(v, 2) + ' Punkte');
+      });
+    });
+  }
+
+  function drawDaily(box, SA, SB){
+    var W = Math.max(300, (box.clientWidth || 672) - 32);
+    box.innerHTML = legendHTML();
+    var H = W < 420 ? 210 : 240, L = 34, R = 16, T = 12, Bm = 28;
+    var svg = svgEl('svg', {viewBox:'0 0 ' + W + ' ' + H, role:'img', 'aria-label':'Liniendiagramm: Tages-Effizienzscore Montag bis Freitag'}, box);
+    var n = SA.length, xw = W - L - R, yh = H - T - Bm;
+    function X(i){ return L + xw * (n === 1 ? 0.5 : i / (n - 1)); }
+    function Y(v){ return T + yh * (1 - v / 10); }
+    [0, 2.5, 5, 7.5, 10].forEach(function(v){
+      svgEl('line', {x1:L, x2:W - R, y1:Y(v), y2:Y(v), stroke:'var(--separator)', 'stroke-width':1}, svg);
+      var t = svgEl('text', {x:L - 8, y:Y(v) + 4, 'text-anchor':'end', 'font-size':11, fill:'var(--label-2)'}, svg);
+      t.textContent = String(v).replace('.', ',');
+    });
+    SA.forEach(function(s, i){
+      var t = svgEl('text', {x:X(i), y:H - 8, 'text-anchor':'middle', 'font-size':12, fill:'var(--label-2)'}, svg);
+      t.textContent = s.day;
+    });
+    [[SA, 'var(--c-base)'], [SB, 'var(--c-tool)']].forEach(function(s){
+      var d = s[0].map(function(r, i){ return (i ? 'L' : 'M') + X(i) + ',' + Y(r.total); }).join('');
+      svgEl('path', {d:d, fill:'none', stroke:s[1], 'stroke-width':2, 'stroke-linejoin':'round', 'stroke-linecap':'round'}, svg);
+      s[0].forEach(function(r, i){
+        svgEl('circle', {cx:X(i), cy:Y(r.total), r:4.5, fill:s[1], stroke:'var(--card)', 'stroke-width':2}, svg);
+      });
+    });
+    // Endbeschriftung (nur letzter Punkt)
+    [[SA, 'Ohne'], [SB, 'Mit']].forEach(function(s){
+      var last = s[0][n - 1];
+      var t = svgEl('text', {x:X(n - 1) - 8, y:Y(last.total) - 10, 'text-anchor':'end', 'font-size':12, 'font-weight':700, fill:'var(--label)'}, svg);
+      t.textContent = de(last.total, 1);
+    });
+    // Crosshair
+    var cross = svgEl('line', {x1:0, x2:0, y1:T, y2:T + yh, stroke:'var(--label-3)', 'stroke-width':1, 'stroke-dasharray':'3 3', opacity:0}, svg);
+    SA.forEach(function(s, i){
+      var zone = svgEl('rect', {x:X(i) - xw / (2 * Math.max(1, n - 1)), y:T, width:xw / Math.max(1, n - 1), height:yh, fill:'transparent'}, svg);
+      var html = '<b>' + s.day + '</b><br>Ohne Tool: ' + de(s.total, 2) + '<br>Mit Tool: ' + de(SB[i].total, 2);
+      bindTip(zone, html);
+      zone.addEventListener('mouseenter', function(){ cross.setAttribute('x1', X(i)); cross.setAttribute('x2', X(i)); cross.setAttribute('opacity', 1); });
+      zone.addEventListener('mouseleave', function(){ cross.setAttribute('opacity', 0); });
+    });
+  }
+
+  function renderRawTable(SA, SB){
+    function rows(S, label){
+      return S.map(function(s){
+        return '<tr><td>' + label + ' · ' + s.day + '</td><td class="num">' + s.raw.min + '</td><td class="num">' + Math.round(s.raw.hit * 100) +
+          ' %</td><td class="num">' + s.raw.chan + '</td><td class="num">' + s.raw.qual + '</td><td class="num"><b>' + de(s.total, 2) + '</b></td></tr>';
+      }).join('');
+    }
+    document.getElementById('rawTable').innerHTML =
+      '<table class="data"><thead><tr><th>Tag</th><th>Min</th><th>Treffer</th><th>Kanäle</th><th>Qualität</th><th>Score</th></tr></thead><tbody>' +
+      rows(SA, 'Ohne') + rows(SB, 'Mit') + '</tbody></table>';
+  }
+
+  function renderProject(){
+    var SA = scoreRows(STUDY.baseline), SB = scoreRows(STUDY.tool);
+    var A = averages(SA), B = averages(SB);
+    document.getElementById('heroBase').textContent = de(A.total, 1);
+    document.getElementById('heroTool').textContent = de(B.total, 1);
+    document.getElementById('heroDelta').textContent = '+' + Math.round((B.total / A.total - 1) * 100) + ' %';
+    var measured = Object.keys(measure.days).map(function(k){ return dayStats(measure.days[k]).score; }).filter(function(v){ return v != null; });
+    document.getElementById('heroLive').textContent = measured.length
+      ? 'Zusätzlich im Dashboard gemessen: Ø ' + de(avg(measured), 1) + ' Punkte an ' + measured.length + ' Tag' + (measured.length === 1 ? '' : 'en') + ' (Tab „Messung“).'
+      : 'Werte aus der Excel-Erhebung (' + STUDY.period + '). Gemessene Tage aus dem Tab „Messung“ erscheinen hier zusätzlich.';
+    drawCriteria(document.getElementById('chartCriteria'), A, B);
+    drawDaily(document.getElementById('chartDaily'), SA, SB);
+    renderRawTable(SA, SB);
+  }
+
+  var resizeT;
+  window.addEventListener('resize', function(){
+    clearTimeout(resizeT);
+    resizeT = setTimeout(function(){ if(!document.querySelector('[data-view="projekt"]').hidden) renderProject(); }, 150);
+  });
+  showView(location.hash.slice(1));
+
+  renderTopStories();
 })();
 </script>
 
