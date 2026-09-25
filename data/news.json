@@ -1,52 +1,51 @@
 {
-  "date": "2026-09-24",
-  "updatedAt": "2026-09-24T07:25:04.122912+02:00",
-  "updatedAtLabel": "24.09.2026, 07:25 Uhr",
+  "date": "2026-09-25",
+  "updatedAt": "2026-09-25T07:22:29.300055+02:00",
+  "updatedAtLabel": "25.09.2026, 07:22 Uhr",
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/ruestungsindustrie-drohnen-eudex-verteigungsmesse-100.html",
-      "headline": "Rüstungsindustrie präsentiert ihre Produkte auf Verteidigungsmesse",
-      "takeaway": "Drohnen, die andere Drohnen einfangen, KI-gesteuerte Abfangsysteme und Sensoren, die den Luftraum überwachen: Auf der neuen Verteidigungsmesse Euro Defence Expo zeigt die"
+      "url": "https://www.tagesschau.de/wirtschaft/boerse/manipulation-skandal-boerse-istanbul-100.html",
+      "headline": "Manipulationsskandal an der türkischen Börse",
+      "takeaway": "Die türkische Börse wird von einem Manipulationsskandal erschüttert. Mehrere Investmentfirmen sollen einzelne Aktienkurse künstlich in die Höhe getrieben haben. Hundertta"
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/KI-Bescheide-ohne-menschliches-Zutun-in-Oesterreich-11463844.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "KI-Bescheide ohne menschliches Zutun in Österreich",
-      "takeaway": "Amtliche Bescheide ganz ohne Beamte, erstellt von einer KI. Das wird in Österreich legalisiert. Zudem ziehen Chatbots in die Amtsstuben ein."
+      "url": "https://www.heise.de/news/Rechenzentren-im-All-Google-will-Satellit-mit-vier-KI-Beschleunigern-starten-11464879.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Rechenzentren im All: Google-Satellit mit vier KI-Beschleunigern vor dem Start",
+      "takeaway": "Der nächste Wettlauf ins All könnte dem Aufbau riesiger KI-Rechenzentren dienen. Google will nächste Woche einen ersten Testsatelliten mit vier TPUs starten."
     },
     {
       "cat": "ki",
       "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-      "headline": "A congressional representative just proposed killing America’s border tower program",
-      "takeaway": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US so"
+      "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "headline": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative j"
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/usa-und-china-verlaengern-waffenstillstand-im-zollkrieg-a-607298b8-c373-42dc-8888-79456db8eba0#ref=rss",
-      "headline": "USA und China verlängern Waffenstillstand im Zollkrieg",
-      "takeaway": "Seit mehr als einem Jahr bedrohen sich die USA und China gegenseitig mit hohen Zöllen. Jetzt soll der Handelskrieg abermals ein paar Monate ausgesetzt werden."
+      "url": "https://www.spiegel.de/wirtschaft/china-nrw-und-baden-wuerttemberg-machen-druck-auf-subventionspolitik-a-4a2984db-13ae-493e-825a-dbb2ab1f3a4d#ref=rss",
+      "headline": "China: NRW und Baden-Württemberg machen Druck auf Subventionspolitik",
+      "takeaway": "Chinesische Subventionen und Überkapazitäten setzen deutsche Schlüsselindustrien unter Druck. Nordrhein-Westfalen und Baden-Württemberg fordern nun deutliche Gegenwehr ge"
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/ceer-elektroautos-saudi-arabien-1764897/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Ceer Exobot: Das sind die ersten Elektroautos aus Saudi-Arabien",
-      "takeaway": "Knapp vier Jahre nach der Gründung hat die saudi-arabische E-Autofirma Ceer ihre ersten beiden Serienmodelle vorgestellt. Es handelt sich um eine Limousine und ein SUV mi"
+      "url": "https://t3n.de/news/ard-zdf-medienstudie-2026-ki-nutzung-1765059/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Medienstudie 2026: Fast 60 Prozent der Bevölkerung nutzen KI-Anwendungen",
+      "takeaway": "Die ARD/ZDF-Medienstudie 2026 zeigt eine messbare Verschiebung in der Mediennutzung der deutschen Bevölkerung. Während Streamingdienste ihre Reichweite stabilisieren, ver"
     }
   ],
   "podcastEpisode": {
-    "title": "Biontech: Der Kampf ums Erbe der Gründer / USA/China: Der Kampf wird härter",
-    "dateLabel": "Folge vom 24.09. · 8 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2206-neue-episode-24-09",
+    "title": "Anleihen: Renditen auf dem höchsten Stand seit 2007",
+    "dateLabel": "Folge vom 25.09. · 10 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2207-neue-episode-25-09",
     "takeaways": [
-      "Gründer-Frust statt Gründer-Lust: Die Corona-Impfstoff-Helden verzetteln sich bei der Neuausrichtung.",
-      "Darüber reden wollen sie nicht.",
-      "Was dennoch bekannt wurde."
+      "Das alles führt dazu, dass die Sorge an den Anleihemärkten immer weiter wächst.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
     ]
   }
 }
