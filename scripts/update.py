@@ -58,8 +58,9 @@ def load_json(name, default):
 
 
 def save_json(name, obj):
-    os.makedirs(DATA, exist_ok=True)
-    with open(os.path.join(DATA, name), "w", encoding="utf-8") as f:
+    path = os.path.join(DATA, name)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
         f.write("\n")
 
@@ -529,6 +530,19 @@ def update_news():
             "takeaways": pod_points or first_sentences(podcast["description"]),
         }
     save_json("news.json", out)
+    save_archive(out)
+
+
+def save_archive(out):
+    """Legt jede Tagesausgabe unter data/archive/JJJJ-MM-TT.json ab (für Archiv und Themen-Verlauf)."""
+    day = out.get("date")
+    if not day:
+        return
+    save_json(f"archive/{day}.json", out)
+    index = load_json("archive/index.json", {"days": []})
+    days = sorted(set(index.get("days", []) + [day]), reverse=True)[:120]
+    save_json("archive/index.json", {"days": days})
+    print(f"Archiv: {day} gespeichert ({len(days)} Tage)")
 
 # ---------------------------------------------------------------- Start
 
