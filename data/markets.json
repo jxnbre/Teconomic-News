@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-29T11:25:40.640302+02:00",
-  "updatedAtLabel": "29.09.2026, 11:25 Uhr",
+  "updatedAt": "2026-09-29T12:30:16.036347+02:00",
+  "updatedAtLabel": "29.09.2026, 12:30 Uhr",
   "source": "CoinGecko/EZB",
   "quotes": {
     "btc": {
-      "price": "73.672 €",
+      "price": "74.023 €",
       "change": {
-        "week": -0.69,
-        "month": 9.2,
-        "year": -24.37
+        "week": -0.22,
+        "month": 9.72,
+        "year": -24.01
       }
     },
     "eth": {
-      "price": "2.378,38 €",
+      "price": "2.388,40 €",
       "change": {
-        "week": 0.67,
-        "month": 11.29,
-        "year": -33.77
+        "week": 1.09,
+        "month": 11.75,
+        "year": -33.49
       }
     },
     "sol": {
-      "price": "104,70 €",
+      "price": "105,35 €",
       "change": {
-        "week": 1.77,
-        "month": 17.78,
-        "year": -42.29
+        "week": 2.4,
+        "month": 18.51,
+        "year": -41.93
       }
     },
     "xrp": {
-      "price": "1,32 €",
+      "price": "1,33 €",
       "change": {
-        "week": -2.14,
-        "month": 8.29,
-        "year": -46.22
+        "week": -1.66,
+        "month": 8.81,
+        "year": -45.96
       }
     },
     "bnb": {
-      "price": "671,47 €",
+      "price": "672,26 €",
       "change": {
-        "week": -1.64,
-        "month": 3.81,
-        "year": -23.57
+        "week": -1.52,
+        "month": 3.93,
+        "year": -23.48
       }
     },
     "eurusd": {
