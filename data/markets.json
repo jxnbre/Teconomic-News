@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-09-29T01:27:36.328656+02:00",
-  "updatedAtLabel": "29.09.2026, 01:27 Uhr",
+  "updatedAt": "2026-09-29T02:35:17.380809+02:00",
+  "updatedAtLabel": "29.09.2026, 02:35 Uhr",
   "source": "CoinGecko/EZB",
   "quotes": {
     "btc": {
-      "price": "73.354 €",
+      "price": "73.307 €",
       "change": {
-        "week": -1.06,
-        "month": 7.84,
-        "year": -23.29
+        "week": -1.19,
+        "month": 8.65,
+        "year": -24.74
       }
     },
     "eth": {
-      "price": "2.361,30 €",
+      "price": "2.360,06 €",
       "change": {
-        "week": 0.12,
-        "month": 10.3,
-        "year": -33.09
+        "week": -0.11,
+        "month": 10.43,
+        "year": -34.28
       }
     },
     "sol": {
-      "price": "104,32 €",
+      "price": "104,20 €",
       "change": {
-        "week": 3.26,
-        "month": 16.89,
-        "year": -41.93
+        "week": 1.29,
+        "month": 17.23,
+        "year": -42.56
       }
     },
     "xrp": {
       "price": "1,31 €",
       "change": {
-        "week": -0.41,
-        "month": 9.4,
-        "year": -46.21
+        "week": -2.61,
+        "month": 7.77,
+        "year": -46.48
       }
     },
     "bnb": {
-      "price": "668,87 €",
+      "price": "670,75 €",
       "change": {
-        "week": -0.77,
-        "month": 5.15,
-        "year": -21.01
+        "week": -1.74,
+        "month": 3.7,
+        "year": -23.66
       }
     },
     "eurusd": {
@@ -48,7 +48,7 @@
       "change": {
         "week": -0.97,
         "month": -2.28,
-        "year": -3.52
+        "year": -3.22
       }
     },
     "eurgbp": {
@@ -56,7 +56,7 @@
       "change": {
         "week": 0.01,
         "month": 0.08,
-        "year": -1.72
+        "year": -1.75
       }
     },
     "eurchf": {
@@ -64,7 +64,7 @@
       "change": {
         "week": 0.28,
         "month": 1.07,
-        "year": 1.28
+        "year": 1.38
       }
     },
     "usdjpy": {
@@ -72,7 +72,7 @@
       "change": {
         "week": -0.25,
         "month": -1.75,
-        "year": 6.14
+        "year": 5.68
       }
     }
   }
