@@ -1,78 +1,78 @@
 {
-  "updatedAt": "2026-10-05T16:33:29.413033+02:00",
-  "updatedAtLabel": "05.10.2026, 16:33 Uhr",
+  "updatedAt": "2026-10-05T17:31:57.067955+02:00",
+  "updatedAtLabel": "05.10.2026, 17:31 Uhr",
   "source": "CoinGecko/EZB",
   "quotes": {
     "btc": {
-      "price": "76.710 €",
+      "price": "75.963 €",
       "change": {
-        "week": 3.96,
-        "month": 13.32,
-        "year": -27.26
+        "week": 2.95,
+        "month": 12.21,
+        "year": -27.97
       }
     },
     "eth": {
-      "price": "2.416,59 €",
+      "price": "2.400,18 €",
       "change": {
-        "week": 1.96,
-        "month": 10.97,
-        "year": -37.3
+        "week": 1.27,
+        "month": 10.22,
+        "year": -37.73
       }
     },
     "sol": {
-      "price": "107,04 €",
+      "price": "106,24 €",
       "change": {
-        "week": 2.71,
-        "month": 20.57,
-        "year": -45.15
+        "week": 1.94,
+        "month": 19.67,
+        "year": -45.56
       }
     },
     "xrp": {
-      "price": "1,35 €",
+      "price": "1,33 €",
       "change": {
-        "week": 2.31,
-        "month": 9.18,
-        "year": -46.92
+        "week": 1.35,
+        "month": 8.15,
+        "year": -47.42
       }
     },
     "bnb": {
-      "price": "702,96 €",
+      "price": "700,50 €",
       "change": {
-        "week": 3.57,
-        "month": 12.7,
-        "year": -29.5
+        "week": 3.21,
+        "month": 12.3,
+        "year": -29.75
       }
     },
     "eurusd": {
-      "price": "1,1225",
+      "price": "1,1204",
       "change": {
-        "week": -1.56,
-        "month": -3.36,
-        "year": -4.39
+        "week": -1.53,
+        "month": -3.6,
+        "year": -4.57
       }
     },
     "eurgbp": {
-      "price": "0,8503",
+      "price": "0,8472",
       "change": {
-        "week": -1.18,
-        "month": -1.19,
-        "year": -2.64
+        "week": -1.24,
+        "month": -1.37,
+        "year": -3.0
       }
     },
     "eurchf": {
-      "price": "0,9279",
+      "price": "0,9311",
       "change": {
-        "week": -1.76,
-        "month": -1.18,
-        "year": -0.91
+        "week": -1.62,
+        "month": -1.0,
+        "year": -0.57
       }
     },
     "usdjpy": {
-      "price": "157,67",
+      "price": "158,23",
       "change": {
-        "week": 0.05,
-        "month": 1.06,
-        "year": 6.54
+        "week": 0.86,
+        "month": 1.27,
+        "year": 6.92
       }
     }
   }
