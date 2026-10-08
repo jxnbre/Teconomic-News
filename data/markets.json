@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-08T01:24:11.077024+02:00",
-  "updatedAtLabel": "08.10.2026, 01:24 Uhr",
+  "updatedAt": "2026-10-08T02:35:22.151965+02:00",
+  "updatedAtLabel": "08.10.2026, 02:35 Uhr",
   "source": "CoinGecko/EZB",
   "quotes": {
     "btc": {
-      "price": "73.851 €",
+      "price": "74.316 €",
       "change": {
-        "week": -1.62,
-        "month": 11.23,
-        "year": -29.29
+        "week": -1.0,
+        "month": 11.93,
+        "year": -30.32
       }
     },
     "eth": {
-      "price": "2.280,56 €",
+      "price": "2.296,12 €",
       "change": {
-        "week": -3.77,
-        "month": 8.26,
-        "year": -40.45
+        "week": -3.11,
+        "month": 9.0,
+        "year": -41.33
       }
     },
     "sol": {
-      "price": "103,03 €",
+      "price": "103,81 €",
       "change": {
-        "week": -2.19,
-        "month": 19.91,
-        "year": -45.63
+        "week": -1.45,
+        "month": 20.82,
+        "year": -47.59
       }
     },
     "xrp": {
-      "price": "1,26 €",
+      "price": "1,27 €",
       "change": {
-        "week": -4.57,
-        "month": 11.17,
-        "year": -48.75
+        "week": -3.75,
+        "month": 12.12,
+        "year": -49.02
       }
     },
     "bnb": {
-      "price": "685,91 €",
+      "price": "690,04 €",
       "change": {
-        "week": 0.54,
-        "month": 8.45,
-        "year": -38.94
+        "week": 1.14,
+        "month": 9.1,
+        "year": -38.98
       }
     },
     "eurusd": {
@@ -48,7 +48,7 @@
       "change": {
         "week": -1.57,
         "month": -3.76,
-        "year": -4.91
+        "year": -4.75
       }
     },
     "eurgbp": {
@@ -56,7 +56,7 @@
       "change": {
         "week": -0.96,
         "month": -1.28,
-        "year": -2.94
+        "year": -3.0
       }
     },
     "eurchf": {
@@ -64,7 +64,7 @@
       "change": {
         "week": -1.78,
         "month": -1.23,
-        "year": -0.44
+        "year": -0.36
       }
     },
     "usdjpy": {
@@ -72,7 +72,7 @@
       "change": {
         "week": 0.78,
         "month": 2.55,
-        "year": 7.8
+        "year": 7.38
       }
     },
     "sp500": {
