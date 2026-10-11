@@ -1,46 +1,46 @@
 {
-  "updatedAt": "2026-10-11T01:24:06.821915+02:00",
-  "updatedAtLabel": "11.10.2026, 01:24 Uhr",
+  "updatedAt": "2026-10-11T02:35:09.170009+02:00",
+  "updatedAtLabel": "11.10.2026, 02:35 Uhr",
   "source": "CoinGecko/EZB",
   "quotes": {
     "btc": {
-      "price": "74.070 €",
+      "price": "74.012 €",
       "change": {
-        "week": -3.12,
-        "month": 4.66,
-        "year": -23.86
+        "week": -2.64,
+        "month": 4.67,
+        "year": -22.41
       }
     },
     "eth": {
-      "price": "2.236,01 €",
+      "price": "2.234,57 €",
       "change": {
-        "week": -7.46,
-        "month": -2.48,
-        "year": -32.36
+        "week": -6.77,
+        "month": -3.01,
+        "year": -30.82
       }
     },
     "sol": {
-      "price": "98,36 €",
+      "price": "98,07 €",
       "change": {
-        "week": -8.64,
-        "month": 1.7,
-        "year": -39.46
+        "week": -8.55,
+        "month": 1.28,
+        "year": -36.08
       }
     },
     "xrp": {
       "price": "1,25 €",
       "change": {
-        "week": -6.83,
-        "month": 1.94,
-        "year": -38.6
+        "week": -6.02,
+        "month": 1.75,
+        "year": -39.16
       }
     },
     "bnb": {
-      "price": "669,70 €",
+      "price": "667,75 €",
       "change": {
-        "week": -4.47,
-        "month": 0.92,
-        "year": -29.54
+        "week": -3.57,
+        "month": -0.74,
+        "year": -31.86
       }
     },
     "eurusd": {
@@ -48,7 +48,7 @@
       "change": {
         "week": -0.17,
         "month": -3.53,
-        "year": -4.5
+        "year": -4.04
       }
     },
     "eurgbp": {
@@ -56,7 +56,7 @@
       "change": {
         "week": -0.32,
         "month": -1.34,
-        "year": -2.86
+        "year": -2.52
       }
     },
     "eurchf": {
@@ -64,7 +64,7 @@
       "change": {
         "week": 0.37,
         "month": -1.26,
-        "year": -0.32
+        "year": -0.01
       }
     },
     "usdjpy": {
@@ -72,7 +72,7 @@
       "change": {
         "week": 0.37,
         "month": 2.65,
-        "year": 7.4
+        "year": 5.47
       }
     },
     "sp500": {
