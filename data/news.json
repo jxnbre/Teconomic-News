@@ -1,52 +1,52 @@
 {
-  "date": "2026-10-11",
-  "updatedAt": "2026-10-11T07:50:04.787532+02:00",
-  "updatedAtLabel": "11.10.2026, 07:50 Uhr",
+  "date": "2026-10-12",
+  "updatedAt": "2026-10-12T07:25:59.236941+02:00",
+  "updatedAtLabel": "12.10.2026, 07:25 Uhr",
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/energie/vespa-e-roller-100.html",
-      "headline": "Nostalgie und Nachhaltigkeit: Ein zweites Leben für die Vespa",
-      "takeaway": "Zu laut, zu schmutzig: Italien verbannt alte Motorroller zunehmend aus den Innenstädten. Was tun, wenn die Vespa zum Garagenhüter wird? Dank Umbau-Kits werden die geliebt"
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/erbschaftssteuer-bundesverfassungsgericht-verhandlung-100.html",
+      "headline": "Erbschaftsteuer beim Bundesverfassungsgericht auf dem Prüfstand",
+      "takeaway": "Am Bundesverfassungsgericht geht es diese Woche gleich zwei Mal um die Erbschaftsteuer: Karlsruhe verhandelt unter anderem darüber, ob Unternehmenserben zu wenig Steuern "
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/ki-texte-erkennen-phrasen-chatgpt-claude-1766310/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "KI-Texte erkennen: Diese Phrasen verraten ChatGPT & Claude",
-      "takeaway": "Unternehmen wie OpenAI und Anthropic arbeiten hart daran, typische Muster aus ihren Sprachmodellen zu entfernen. Trotzdem gibt es weiterhin Lieblingsphrasen, die sie deut"
+      "url": "https://t3n.de/news/bitchat-airdrop-usb-sticks-internet-1765492/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Bitchat, Airdrop und USB-Sticks: Wie wir kommunizieren können – auch ohne Internet",
+      "takeaway": "Menschen erfinden stets kreative Wege, um sich auch ohne Internet zu vernetzen und politischen Protest zu organisieren. In Indien setzten die Menschen zum Beispiel auf de"
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/donald-trump-expertin-zweifelt-an-sinkenden-spritpreisen-durch-diesel-deal-a-e763aab8-f9c6-4509-a140-832b0d3b4ac1#ref=rss",
-      "headline": "Donald Trump: Expertin erwartet kaum Preiswirkung nach Diesel-Deal",
-      "takeaway": "Der US-Präsident hat mit dem Kremlchef Diesellieferungen vereinbart. Auf die Preise am Weltmarkt wird das Abkommen laut einer Expertin kaum Auswirkungen haben. Sie ahnt, "
+      "url": "https://www.spiegel.de/wirtschaft/1-4-millionen-arbeitslose-beziehen-seit-mindestens-fuenf-jahren-buergergeld-a-adc4a627-11e2-4d28-a2d2-724d9bc4ee12#ref=rss",
+      "headline": "1,4 Millionen Arbeitslose beziehen seit mindestens fünf Jahren Bürgergeld",
+      "takeaway": "Die Zahl der Langzeitarbeitslosen, die im Bürgergeld festhängen, hat sich in den letzten zwei Jahren deutlich erhöht. Die AfD nutzt die Situation für eine populistische K"
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/brickboy-im-test-so-wird-aus-lego-ein-echter-game-boy-2610-213912.html",
-      "headline": "Brickboy im Test: So wird aus Lego ein echter Game Boy",
-      "takeaway": "Lego hat einen Game Boy, auf dem man nicht spielen kann. Ein Schweizer Start-up liefert nun die Technik. Wir zeigen, wie gut der Umbau funktioniert. Von Oliver Nickel ( K"
+      "url": "https://www.golem.de/news/anzeige-bueroprozesse-mit-claude-als-ki-agent-automatisieren-2610-213950.html",
+      "headline": "Anzeige: Büroprozesse mit Claude als KI-Agent automatisieren",
+      "takeaway": "KI-Agenten brauchen klare Aufgaben und menschliche Kontrolle. Ein Online-Workshop zeigt, wie mit Claude wiederverwendbare Abläufe für Büroprozesse entstehen. ( Golem Karr"
     },
     {
       "cat": "wirtschaft",
       "src": "zeit",
-      "url": "https://www.zeit.de/geld/2025-07/vermoegen-sparen-alter-vergleich-verteilung",
-      "headline": "Vermögensrechner: So viel Geld sollten Sie in Ihrem Alter gespart haben",
-      "takeaway": "Mit unserem Rechner erfahren Sie, wie vermögend Sie im Vergleich zu Gleichaltrigen sind. Das Ergebnis wird Ihnen in jedem Fall bei der finanziellen Lebensplanung helfen."
+      "url": "https://www.zeit.de/wirtschaft/2026-10/russische-sabotage-bdi-holger-loesch-industrie-unternehmen",
+      "headline": "Hybride Angriffe: Industrieverband erwartet mehr russische Sabotage in Deutschland",
+      "takeaway": "Russland hat nach Angaben aus der Industrie Unternehmen, Zulieferer und kritische Infrastruktur in Deutschland im Visier. Der BDI rechnet mit neuen Angriffsmethoden."
     }
   ],
   "podcastEpisode": {
-    "title": "Bosch: Die Pläne des neuen Konzernchefs / Märkte: Die Epoche der Staatsschulden-Exzesse endet gerade",
-    "dateLabel": "Folge vom 09.10. · 8 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2217-neue-episode-09-10",
+    "title": "Ukrainekrieg: Trump braucht Putins Wahlkampfhilfe / Anleihen: Zinsschock für deutsche Unternehmen",
+    "dateLabel": "Folge vom 12.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2218-neue-episode-12-10",
     "takeaways": [
-      "Christian Fischer ist als Chef gerade drei Monate im Amt, da baut er den Konzern schon um.",
-      "Im Mittelpunkt stehen: Schnelligkeit, Wendigkeit - und eine soziale Überraschung.",
-      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+      "Der US-Präsident dealt mit Russland.",
+      "Der russische Präsident versucht, Europa weiter einzuschüchtern.",
+      "Wie das Duo den Verteidigungskampf der Ukraine hintertreibt."
     ]
   }
 }
