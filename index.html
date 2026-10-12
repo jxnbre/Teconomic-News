@@ -87,6 +87,9 @@
     --src-faz:var(--src-c); --src-wiwo:var(--src-d); --src-zeit:var(--src-e);
     --src-ntv:var(--src-a); --src-ft:var(--src-e); --src-cnbc:var(--src-c);
     --src-wired:var(--src-d); --src-arstechnica:var(--src-a); --src-techreview:var(--src-b);
+    --src-managermagazin:var(--src-c); --src-gruenderszene:var(--src-e); --src-bbc:var(--src-d);
+    --src-guardian:var(--src-a); --src-netzpolitik:var(--src-c); --src-thedecoder:var(--src-b);
+    --src-venturebeat:var(--src-e);
   }
   html, body{ transition:background-color .25s ease, color .25s ease; }
 
@@ -366,6 +369,42 @@
   .bullets li + li{ margin-top:4px; }
   details.table-toggle summary{ cursor:pointer; font-size:14px; font-weight:600; color:var(--blue); padding:12px 16px; }
 
+  /* ---------- Personalisierung, Dubletten, Verfolgen (Okt. 2026) ---------- */
+  .stories-tools{ display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; margin:0 4px 10px; }
+  .stories-tools .segmented{ grid-template-columns:repeat(2, auto); }
+  .stories-tools .seg{ padding:6px 14px; }
+  .stand.is-stale{ color:var(--ink-orange); font-weight:600; }
+  .story-also{ margin:6px 0 0 34px; font-size:13px; color:var(--label-2); line-height:1.5; }
+  .story-also a{ color:var(--blue); font-weight:600; }
+  .story-also a + a::before{ content:'·'; margin:0 6px; color:var(--label-3); font-weight:400; }
+  .follow-btn{ border-style:dashed; }
+  .follow-btn.on{ background:var(--hero); border-color:transparent; color:#fff; border-style:solid; }
+  .for-you{ display:inline-block; margin:8px 6px 0 0; padding:3px 9px; border-radius:999px; font-size:12px; font-weight:600;
+    color:var(--label-2); background:var(--fill); }
+  .stories-more{ display:block; width:100%; appearance:none; border:0; border-top:1px solid var(--separator); background:none;
+    padding:13px 16px; text-align:left; cursor:pointer; font:inherit; font-size:17px; color:var(--blue); }
+  .stories-more:active{ background:var(--highlight); }
+  .follow-topic{ padding:12px 16px 4px; display:flex; align-items:center; justify-content:space-between; gap:8px; }
+  .follow-topic + .hist-item, .hist-item + .follow-topic{ border-top:1px solid var(--separator); }
+  .follow-topic .chip{ font-size:13px; padding:4px 10px; }
+  .follow-topic small{ font-size:12px; color:var(--label-2); }
+  .new-badge{ display:inline-block; margin-left:6px; padding:1px 7px; border-radius:999px; font-size:11px; font-weight:700; color:#fff; background:var(--pill-green); }
+  .src-pref{ display:flex; align-items:center; justify-content:space-between; gap:10px; padding:10px 16px; }
+  .src-pref + .src-pref{ border-top:1px solid var(--separator); }
+  .src-pref .name{ display:flex; align-items:center; gap:8px; font-size:15px; font-weight:600; min-width:0; }
+  .src-pref .name .dot{ width:8px; height:8px; border-radius:50%; flex:none; }
+  .src-pref .segmented{ grid-template-columns:repeat(3, auto); flex:none; }
+  .src-pref .seg{ padding:5px 10px; font-size:12px; }
+  .src-pref .seg.active[data-v="off"]{ color:var(--p2); }
+  .src-pref .seg.active[data-v="fav"]{ color:var(--pill-green); }
+  .learn-row{ display:flex; flex-wrap:wrap; gap:6px; margin-top:6px; }
+  .learn-tag{ padding:3px 9px; border-radius:999px; font-size:12px; font-weight:600; }
+  .learn-tag.pos{ color:#fff; background:var(--pill-green); }
+  .learn-tag.neg{ color:#fff; background:var(--gray); }
+  .stock-sub{ font-size:12px; color:var(--label-3); }
+  .price-missing{ font-size:13px; color:var(--label-3); }
+  .markets-hint{ margin:10px 4px 0; font-size:13px; line-height:1.5; color:var(--label-2); }
+
   @media (prefers-reduced-motion: reduce){
     *{ transition:none !important; animation:none !important; }
   }
@@ -433,18 +472,37 @@
     <div class="section-head">
       <div>
         <h2>Wichtigste Themen heute</h2>
-        <div class="section-sub top-stories-note">Stand: 16.09.2026 · 5 Meldungen</div>
+        <div class="section-sub top-stories-note">Beispielmeldungen</div>
+      </div>
+    </div>
+    <div class="stories-tools">
+      <div class="segmented" id="sortChips" role="group" aria-label="Sortierung der Meldungen">
+        <button class="seg" type="button" data-sort="foryou">Für dich</button>
+        <button class="seg" type="button" data-sort="importance">Nach Wichtigkeit</button>
       </div>
     </div>
     <div class="measure-strip" id="measureStrip"><span class="live-dot" aria-hidden="true"></span><span id="stripText">Messung läuft</span><a href="#messung">Details</a></div>
-    <div class="group" id="topStoriesList"></div>
+    <div class="group">
+      <div id="topStoriesList"></div>
+      <button class="stories-more" id="storiesMoreBtn" type="button" hidden></button>
+    </div>
+  </section>
+
+  <section class="section" id="followSection" hidden>
+    <div class="section-head">
+      <div>
+        <h2>Verfolgte Themen</h2>
+        <div class="section-sub">Neueste Meldungen der letzten 7 Tage zu deinen Themen</div>
+      </div>
+    </div>
+    <div class="group" id="followList"></div>
   </section>
 
   <section class="section">
     <div class="section-head">
       <div>
         <h2>Aktienkurse</h2>
-        <div class="section-sub" id="marketsNote">Beispieldaten · Stern tippen zum Favorisieren</div>
+        <div class="section-sub" id="marketsNote">Beispieldaten, keine echten Kurse · Stern tippen zum Favorisieren</div>
       </div>
     </div>
     <div class="stocks-controls">
@@ -458,6 +516,7 @@
       <div id="marketsGrid"></div>
       <button class="markets-more" id="marketsMoreBtn" type="button"></button>
     </div>
+    <p class="markets-hint" id="marketsHint">Kurse sind verzögert (Schlusskurse bzw. mindestens 15 Minuten alt) und dienen nur der Übersicht, keine Anlageberatung.</p>
   </section>
   </div>
 
@@ -474,6 +533,17 @@
         <div class="section-sub" style="margin-top:12px">Vorschläge:</div>
         <div class="chips" id="topicSuggest" style="margin-top:6px"></div>
       </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><div><h2>Quellen</h2><div class="section-sub">Bevorzugte Quellen rutschen nach oben, ausgeschaltete verschwinden aus „Heute“.</div></div></div>
+      <div class="group" id="sourcePrefs"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-head"><div><h2>Was das Dashboard gelernt hat</h2><div class="section-sub">Aus deinen „Relevant“- und „Nicht relevant“-Bewertungen. Wirkt ab dem nächsten Laden.</div></div></div>
+      <div class="group card-pad" id="learnBox"></div>
+      <div class="btn-row"><button class="btn danger" id="resetLearn" type="button">Gelerntes zurücksetzen</button></div>
     </section>
 
     <section class="section">
@@ -585,9 +655,9 @@
           <h3>Mit Tool</h3>
           <ol>
             <li>Jeden Morgen gegen 7 Uhr automatische Aktualisierung</li>
-            <li>14 seriöse Quellen werden gesammelt, KI wählt die 5 wichtigsten Meldungen</li>
-            <li>Kernaussagen, Podcast-Zusammenfassung und Kurse auf einer Seite</li>
-            <li>Eigene Themen werden markiert, das Archiv hält alte Themen fest</li>
+            <li>Über 20 seriöse Quellen werden gesammelt, KI fasst Dubletten zusammen und wählt die 15 wichtigsten Meldungen</li>
+            <li>Sortierung lernt aus den eigenen Bewertungen, die Top 5 stehen oben</li>
+            <li>Themen lassen sich mit einem Klick verfolgen und bleiben über mehrere Tage sichtbar</li>
             <li>Bewertung und Zeitmessung liefern die Daten für den Effizienzscore</li>
           </ol>
         </div>
@@ -649,13 +719,26 @@
     {id:'cnbc', label:'CNBC', homepage:'https://www.cnbc.com/world/'},
     {id:'wired', label:'Wired', homepage:'https://www.wired.com/'},
     {id:'arstechnica', label:'Ars Technica', homepage:'https://arstechnica.com/'},
-    {id:'techreview', label:'MIT Technology Review', homepage:'https://www.technologyreview.com/', paywall:true}
+    {id:'techreview', label:'MIT Technology Review', homepage:'https://www.technologyreview.com/', paywall:true},
+    {id:'managermagazin', label:'Manager Magazin', homepage:'https://www.manager-magazin.de/', paywall:true},
+    {id:'gruenderszene', label:'Gründerszene', homepage:'https://www.businessinsider.de/gruenderszene/'},
+    {id:'bbc', label:'BBC Business', homepage:'https://www.bbc.com/business'},
+    {id:'guardian', label:'The Guardian Tech', homepage:'https://www.theguardian.com/uk/technology'},
+    {id:'netzpolitik', label:'netzpolitik.org', homepage:'https://netzpolitik.org/'},
+    {id:'thedecoder', label:'The Decoder', homepage:'https://the-decoder.de/'},
+    {id:'venturebeat', label:'VentureBeat AI', homepage:'https://venturebeat.com/category/ai/'}
   ];
+  // Quellen, die das Update-Skript tatsächlich abruft (scripts/update.py, Liste FEEDS)
+  var FEED_SOURCES = ['tagesschau', 'spiegel', 'zeit', 'faz', 'ntv', 'handelsblatt', 'wiwo', 'managermagazin', 'gruenderszene',
+    'cnbc', 'bbc', 'heise', 't3n', 'golem', 'netzpolitik', 'techcrunch', 'theverge', 'arstechnica', 'wired', 'guardian',
+    'techreview', 'thedecoder', 'venturebeat'];
   var SOURCE_BY_ID = {};
   SOURCES.forEach(function(s){ SOURCE_BY_ID[s.id] = s; });
   var LOCK_SVG = '<svg class="lock" viewBox="0 0 24 24" fill="currentColor" aria-label="Paywall"><path d="M7 10V7a5 5 0 0 1 10 0v3h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h1zm2 0h6V7a3 3 0 0 0-6 0v3z"/></svg>';
+  function srcLabel(id){ return SOURCE_BY_ID[id] ? SOURCE_BY_ID[id].label : String(id || ''); }
   function srcLabelHTML(id){
     var s = SOURCE_BY_ID[id];
+    if(!s) return esc(id);
     return s.label + (s.paywall ? LOCK_SVG : '');
   }
 
@@ -833,14 +916,95 @@
   }
 
   // ---------- Wichtigste Themen heute ----------
-  var currentStories = null;
-  function renderTopStories(list){
-    if(list) currentStories = list;
-    renderStoryList(document.getElementById('topStoriesList'), currentStories || FALLBACK_TOP_STORIES, {rate:true});
+  var STORIES_PAGE_SIZE = 5;
+  var currentStories = null;   // Meldungen in der Reihenfolge der Redaktion (KI)
+  var orderedStories = null;   // Meldungen in der angezeigten Reihenfolge
+  var storiesExpanded = false;
+  var sortMode = load('teconomic:sortMode', 'foryou');
+  if(sortMode !== 'foryou' && sortMode !== 'importance') sortMode = 'foryou';
+
+  function storySources(a){
+    if(Array.isArray(a.sources) && a.sources.length) return a.sources;
+    return a.src ? [{src:a.src, url:a.url}] : [];
   }
+  // Schlagworte einer Meldung: von der KI geliefert, sonst aus der Überschrift
+  var KW_STOP = ('der die das den dem des ein eine einer eines einem einen und oder aber auch auf aus bei beim bis durch für gegen im in ins mit nach nicht noch nur ohne seit sich sie er es wir um unter vom von vor wie wird werden wurde zu zum zur über so als am an ist sind hat haben mehr neue neuen neuer neues jetzt soll will kann gibt was wer warum dass wegen the of to for on and or with how why what new is are was from at by after millionen milliarden prozent euro dollar anzeige laut sagt weitere').split(' ');
+  function storyTags(a){
+    var out = [];
+    if(a.topic) out.push(a.topic);
+    if(Array.isArray(a.tags)) out = out.concat(a.tags);
+    if(!out.length){
+      (String(a.headline || '').match(/[A-Za-zÄÖÜäöüß0-9][A-Za-zÄÖÜäöüß0-9\-]{3,}/g) || []).forEach(function(w){
+        if(KW_STOP.indexOf(w.toLowerCase()) === -1 && /^[A-ZÄÖÜ0-9]/.test(w)) out.push(w);
+      });
+      out.sort(function(x, y){ return y.length - x.length; });
+      out = out.slice(0, 4);
+    }
+    var seen = {};
+    return out.filter(function(t){ var k = norm(t).trim(); if(!k || seen[k]) return false; seen[k] = 1; return true; });
+  }
+  function storyTopic(a){ return a.topic || storyTags(a)[0] || ''; }
+
+  // Reihenfolge berechnen: Wichtigkeit laut KI + was du bisher als relevant bewertet hast
+  function orderStories(list){
+    var visible = [];
+    list.forEach(function(a){
+      var srcs = storySources(a);
+      if(!srcs.length || srcPref(srcs[0].src) !== 'off'){ visible.push(a); return; }
+      // Hauptquelle ausgeschaltet: andere Quelle zum selben Ereignis nach vorne holen, sonst ausblenden
+      var rest = srcs.filter(function(s){ return srcPref(s.src) !== 'off'; });
+      if(!rest.length) return;
+      var b = {}; for(var k in a) b[k] = a[k];
+      b.src = rest[0].src; b.url = rest[0].url; b.sources = rest;
+      visible.push(b);
+    });
+    var n = visible.length;
+    var scored = visible.map(function(a, i){
+      var base = n > 1 ? 1 - i / (n - 1) : 1;      // 1 = wichtigste Meldung laut KI
+      var boost = personalBoost(a);
+      return {a:a, i:i, boost:boost, score: base + boost};
+    });
+    if(sortMode === 'foryou'){
+      scored.sort(function(x, y){ return (y.score - x.score) || (x.i - y.i); });
+    }
+    return scored.map(function(s){ s.a._boost = s.boost; return s.a; });
+  }
+
+  function renderTopStories(list){
+    if(list){ currentStories = list; orderedStories = null; }
+    var base = currentStories || FALLBACK_TOP_STORIES;
+    if(!orderedStories) orderedStories = orderStories(base);
+    var shown = storiesExpanded ? orderedStories : orderedStories.slice(0, STORIES_PAGE_SIZE);
+    renderStoryList(document.getElementById('topStoriesList'), shown, {rate:true});
+    var more = document.getElementById('storiesMoreBtn');
+    var rest = orderedStories.length - STORIES_PAGE_SIZE;
+    more.hidden = rest <= 0;
+    more.textContent = storiesExpanded ? 'Weniger anzeigen' : 'Weitere ' + rest + ' Meldungen anzeigen';
+    renderFollow();
+  }
+  document.getElementById('storiesMoreBtn').addEventListener('click', function(){
+    storiesExpanded = !storiesExpanded;
+    renderTopStories();
+    if(!storiesExpanded) document.getElementById('topStoriesList').scrollIntoView({block:'nearest'});
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('#sortChips .seg'), function(b){
+    function paint(){
+      Array.prototype.forEach.call(document.querySelectorAll('#sortChips .seg'), function(x){
+        var on = x.getAttribute('data-sort') === sortMode;
+        x.classList.toggle('active', on); x.setAttribute('aria-pressed', on ? 'true' : 'false');
+      });
+    }
+    b.addEventListener('click', function(){
+      sortMode = b.getAttribute('data-sort');
+      save('teconomic:sortMode', sortMode);
+      paint(); orderedStories = null; renderTopStories();
+    });
+    paint();
+  });
+
   function renderStoryList(container, items, opts){
     container.innerHTML = '';
-    if(!items.length){ container.innerHTML = '<div class="empty">Keine Meldungen.</div>'; return; }
+    if(!items.length){ container.innerHTML = '<div class="empty">Keine Meldungen. Prüfe unter „Meine Themen“, ob Quellen ausgeschaltet sind.</div>'; return; }
     items.forEach(function(a, i){
       var srcOk = a.src && SOURCE_BY_ID[a.src];
       var hits = matchTopics(a);
@@ -852,30 +1016,56 @@
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       link.title = a.url ? 'Artikel öffnen' : 'Startseite der Quelle öffnen';
+      var others = storySources(a).slice(1);
       link.innerHTML =
         '<span class="story-rank num">' + (i + 1) + '</span>' +
         '<div class="story-body">' +
-          (srcOk ? '<div class="story-source"><span class="dot" style="background:var(--src-' + a.src + ')"></span>' + srcLabelHTML(a.src) + '</div>' : '') +
+          (a.src ? '<div class="story-source"><span class="dot" style="background:var(--src-' + esc(a.src) + ', var(--gray))"></span>' + srcLabelHTML(a.src) +
+            (others.length ? ' <span style="font-weight:500">+ ' + others.length + ' weitere</span>' : '') + '</div>' : '') +
           '<div class="story-headline">' + esc(a.headline) + '</div>' +
           (a.takeaway ? '<div class="story-takeaway"><b>Kernaussage:</b> ' + esc(a.takeaway) + '</div>' : '') +
           hits.map(function(h){ return '<span class="topic-badge">Dein Thema: ' + esc(h) + '</span>'; }).join('') +
+          (opts.rate && sortMode === 'foryou' && a._boost >= 0.25 ? '<span class="for-you">Passt zu deinen Bewertungen</span>' : '') +
           (CAT_LABEL[a.cat] ? '<span class="cat-pill ' + a.cat + '">' + CAT_LABEL[a.cat] + '</span>' : '') +
         '</div>' + CHEVRON_SVG;
       var top = document.createElement('div');
       top.className = 'story-top';
       top.appendChild(link);
       row.appendChild(top);
+      if(others.length){
+        var also = document.createElement('div');
+        also.className = 'story-also';
+        also.innerHTML = 'Auch berichtet von: ' + others.map(function(s){
+          var u = safeUrl(s.url) || (SOURCE_BY_ID[s.src] ? SOURCE_BY_ID[s.src].homepage : '#');
+          return '<a href="' + esc(u) + '" target="_blank" rel="noopener noreferrer">' + esc(srcLabel(s.src)) + '</a>';
+        }).join('');
+        Array.prototype.forEach.call(also.querySelectorAll('a'), function(x){ if(opts.rate) x.addEventListener('click', noteArticleOpened); });
+        row.appendChild(also);
+      }
       if(opts.rate){
         link.addEventListener('click', noteArticleOpened);
         var id = storyId(a);
+        var topic = storyTopic(a);
         var box = document.createElement('div');
         box.className = 'rate';
         box.innerHTML =
           '<button type="button" class="rate-btn yes" aria-pressed="false"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>Relevant</button>' +
-          '<button type="button" class="rate-btn no" aria-pressed="false"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>Nicht relevant</button>';
-        box.querySelector('.yes').addEventListener('click', function(){ setRating(id, 1, box); });
-        box.querySelector('.no').addEventListener('click', function(){ setRating(id, 0, box); });
+          '<button type="button" class="rate-btn no" aria-pressed="false"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>Nicht relevant</button>' +
+          (topic ? '<button type="button" class="rate-btn follow-btn" aria-pressed="false"></button>' : '');
+        box.querySelector('.yes').addEventListener('click', function(){ setRating(id, 1, box, a); });
+        box.querySelector('.no').addEventListener('click', function(){ setRating(id, 0, box, a); });
         paintRating(box, today().ratings[id]);
+        var fb = box.querySelector('.follow-btn');
+        if(fb){
+          var paintFollow = function(){
+            var on = isFollowed(topic);
+            fb.classList.toggle('on', on);
+            fb.setAttribute('aria-pressed', on ? 'true' : 'false');
+            fb.textContent = on ? '✓ Verfolgt: ' + topic : '+ Thema verfolgen: ' + topic;
+          };
+          paintFollow();
+          fb.addEventListener('click', function(){ toggleFollow(topic); });
+        }
         row.appendChild(box);
       }
       container.appendChild(row);
@@ -914,6 +1104,8 @@
     renderMarkets();
   });
 
+  // älter als 4 Tage = nicht nur Wochenende/Feiertag
+  function isOld(iso){ return (Date.now() - new Date(iso + 'T12:00:00').getTime()) > 4 * 86400000; }
   function renderMarkets(){
     var q = stockSearchInput.value.trim().toLowerCase();
     var browsing = q.length > 0;
@@ -951,8 +1143,10 @@
         '<div class="stock-info">' +
           '<div class="stock-symbol">' + s.symbol + '</div>' +
           '<div class="stock-name">' + s.name + '</div>' +
+          (s.stale && s.asOf ? '<div class="stock-sub">Letzter Stand ' + dayLabel(s.asOf) + ', Abruf zuletzt fehlgeschlagen</div>'
+            : s.asOf && isOld(s.asOf) ? '<div class="stock-sub">Schlusskurs vom ' + dayLabel(s.asOf) + '</div>' : '') +
         '</div>' +
-        '<div class="stock-price num">' + s.price + '</div>' +
+        (s.missing ? '<div class="price-missing">keine Daten</div>' : '<div class="stock-price num"' + (s.stale ? ' style="color:var(--label-3)"' : '') + '>' + s.price + '</div>') +
         (hasChange
           ? '<span class="change-pill num ' + (up ? 'up' : 'down') + '">' + (up ? '+' : '−') + Math.abs(changeVal).toFixed(2).replace('.', ',') + ' %</span>'
           : '<span class="change-pill num flat">–</span>');
@@ -983,11 +1177,32 @@
     });
   }
 
+  // „Stand“-Zeile: Uhrzeit, Alter und Warnung, wenn die Ausgabe nicht von heute ist
+  function standText(iso, label){
+    var d = iso ? new Date(iso) : null;
+    if(!d || isNaN(d)) return {text:'Stand: ' + (label || 'unbekannt'), stale:false};
+    var now = new Date();
+    var sameDay = d.toDateString() === now.toDateString();
+    var mins = Math.max(0, Math.round((now - d) / 60000));
+    var ago = mins < 60 ? 'vor ' + mins + ' Min.' : mins < 60 * 24 ? 'vor ' + Math.round(mins / 60) + ' Std.' : 'vor ' + Math.round(mins / 1440) + ' Tag' + (Math.round(mins / 1440) === 1 ? '' : 'en');
+    var when = d.toLocaleDateString('de-DE', {weekday:'short', day:'2-digit', month:'2-digit'}) + ', ' +
+      d.toLocaleTimeString('de-DE', {hour:'2-digit', minute:'2-digit'}) + ' Uhr';
+    return {text:'Stand: ' + when + ' · ' + ago, stale:!sameDay, sameDay:sameDay};
+  }
+  function paintStand(el, st, extra){
+    el.innerHTML = '<span class="stand' + (st.stale ? ' is-stale' : '') + '">' + esc(st.text) + '</span>' + (extra ? ' · ' + extra : '');
+  }
+
   getJSON('data/news.json').then(function(data){
+    newsDate = data.date || null;
     if(Array.isArray(data.topStories) && data.topStories.length){
       renderTopStories(data.topStories);
       var note = document.querySelector('.top-stories-note');
-      if(note) note.textContent = 'Stand: ' + (data.updatedAtLabel || '') + ' · ' + data.topStories.length + ' Meldungen';
+      if(note){
+        var st = standText(data.updatedAt, data.updatedAtLabel);
+        if(st.stale) st.text += ' · noch keine Ausgabe von heute';
+        paintStand(note, st, data.topStories.length + ' Meldungen' + (data.ai === false ? ' · ohne KI-Kernaussagen' : ''));
+      }
     }
     var ep = data.podcastEpisode;
     if(ep){
@@ -1009,15 +1224,27 @@
 
   getJSON('data/markets.json').then(function(data){
     var q = data.quotes || {};
-    var n = 0;
-    STOCKS.forEach(function(s){ if(q[s.id]) n++; });
+    var n = 0, fresh = 0;
+    STOCKS.forEach(function(s){ if(q[s.id]){ n++; if(!q[s.id].stale) fresh++; } });
     if(n){
       STOCKS.forEach(function(s){
-        if(q[s.id]){ s.price = q[s.id].price; s.change = q[s.id].change; }
-        else { s.price = '–'; s.change = {}; }  // keine Beispielwerte zwischen echten Kursen
+        var x = q[s.id];
+        if(x){ s.price = x.price; s.change = x.change || {}; s.asOf = x.asOf || null; s.stale = !!x.stale; s.missing = false; }
+        else { s.price = null; s.change = {}; s.asOf = null; s.stale = false; s.missing = true; }  // keine Beispielwerte zwischen echten Kursen
       });
       var note = document.getElementById('marketsNote');
-      if(note) note.textContent = 'Stand: ' + (data.updatedAtLabel || '') + (data.source ? ' · Quelle: ' + data.source : '') + ' · Stern tippen zum Favorisieren';
+      if(note){
+        var st = standText(data.updatedAt, data.updatedAtLabel);
+        st.stale = false;
+        paintStand(note, st, fresh + ' von ' + STOCKS.length + ' Werten aktuell · Kurse verzögert');
+      }
+      var hint = document.getElementById('marketsHint');
+      var status = data.status || {};
+      if(hint && fresh < STOCKS.length * 0.6){
+        hint.innerHTML = '<b style="color:var(--ink-orange)">Ein Teil der Kurse konnte zuletzt nicht abgerufen werden.</b> ' +
+          'Grau markierte Werte zeigen den letzten bekannten Stand. ' + (status.hint ? esc(status.hint) + '. ' : '') +
+          'Kurse sind verzögert und dienen nur der Übersicht, keine Anlageberatung.';
+      }
       renderMarkets();
     }
   }).catch(function(){ /* Beispieldaten bleiben stehen */ });
@@ -1177,10 +1404,11 @@
 
   // --- Bewertung ---
   function storyId(a){ return (a.url || a.headline || '').slice(0, 300); }
-  function setRating(id, val, box){
+  function setRating(id, val, box, a){
     var d = today();
     if(d.ratings[id] === val) delete d.ratings[id]; else d.ratings[id] = val;
     saveMeasure();
+    if(a) learnFrom(id, d.ratings[id], a);
     paintRating(box, d.ratings[id]);
     updateStrip(true);
   }
@@ -1247,7 +1475,7 @@
       return;
     }
     measure = {days:{}}; saveMeasure(); clearArmed = false; clearBtn.textContent = 'Alle Messdaten löschen';
-    renderMeasure(); renderTopStories(currentStories);
+    renderMeasure(); renderTopStories();
   });
 
   // =====================================================================
@@ -1259,9 +1487,9 @@
   var SUGGEST = ['DAX', 'EZB', 'Inflation', 'KI', 'SAP', 'Nvidia', 'Zölle', 'Bitcoin', 'Energie', 'Start-up'];
 
   function norm(t){ return String(t || '').toLowerCase(); }
-  function matchTopics(a){
-    var hay = norm(a.headline) + ' ' + norm(a.takeaway);
-    return topics.filter(function(t){
+  function matchTopics(a, list){
+    var hay = norm(a.headline) + ' ' + norm(a.takeaway) + ' ' + norm(a.topic) + ' ' + (Array.isArray(a.tags) ? norm(a.tags.join(' ')) : '');
+    return (list || topics).filter(function(t){
       var q = norm(t).trim();
       if(!q) return false;
       if(q.length <= 3){ // kurze Kürzel wie KI, EZB nur als ganzes Wort
@@ -1270,7 +1498,7 @@
       return hay.indexOf(q) !== -1;
     });
   }
-  function saveTopics(){ save(TKEY, topics); renderTopicsView(); renderTopStories(currentStories); }
+  function saveTopics(){ save(TKEY, topics); renderTopicsView(); renderTopStories(); }
   document.getElementById('topicForm').addEventListener('submit', function(e){
     e.preventDefault();
     var inp = document.getElementById('topicInput');
@@ -1278,6 +1506,171 @@
     if(v && !topics.some(function(t){ return norm(t) === norm(v); })) topics.push(v);
     inp.value = '';
     saveTopics();
+  });
+
+  // =====================================================================
+  //  Personalisierung: Quellen-Vorlieben, Lernen aus Bewertungen, Themen verfolgen
+  //  Alles bleibt im Browser (localStorage), es wird nichts verschickt.
+  // =====================================================================
+  var PKEY = 'teconomic:sourcePrefs', LKEY = 'teconomic:learn';
+  var srcPrefs = load(PKEY, {});
+  if(!srcPrefs || typeof srcPrefs !== 'object' || Array.isArray(srcPrefs)) srcPrefs = {};
+  var learn = load(LKEY, {items:{}});
+  if(!learn || typeof learn.items !== 'object') learn = {items:{}};
+  function srcPref(id){ return srcPrefs[id] || 'normal'; }
+
+  function learnFrom(id, val, a){
+    if(val === 0 || val === 1){
+      learn.items[id] = {v:val, src:a.src || '', cat:a.cat || '', tags:storyTags(a).map(norm), d:dayKey()};
+    } else {
+      delete learn.items[id];
+    }
+    var keys = Object.keys(learn.items);
+    if(keys.length > 400){
+      keys.sort(function(x, y){ return learn.items[x].d < learn.items[y].d ? -1 : 1; })
+        .slice(0, keys.length - 400).forEach(function(k){ delete learn.items[k]; });
+    }
+    save(LKEY, learn);
+  }
+  function learnedProfile(){
+    var f = {src:{}, cat:{}, tag:{}, count:0};
+    function add(map, k, v){ if(!k) return; var e = map[k] || (map[k] = {y:0, n:0}); if(v) e.y++; else e.n++; }
+    Object.keys(learn.items).forEach(function(id){
+      var it = learn.items[id];
+      f.count++;
+      add(f.src, it.src, it.v); add(f.cat, it.cat, it.v);
+      (it.tags || []).forEach(function(t){ add(f.tag, t, it.v); });
+    });
+    return f;
+  }
+  // Für die Sortierung wird das Profil einmal beim Laden berechnet,
+  // damit die Liste beim Bewerten nicht herumspringt.
+  var profileAtLoad = null;
+  function lean(e){ return e ? (e.y - e.n) / (e.y + e.n + 2) : 0; }   // -1 … +1, vorsichtig bei wenigen Bewertungen
+  function personalBoost(a){
+    if(!profileAtLoad) profileAtLoad = learnedProfile();
+    var f = profileAtLoad, b = 0;
+    var tagLeans = storyTags(a).map(norm).filter(function(t){ return f.tag[t]; }).map(function(t){ return lean(f.tag[t]); });
+    if(tagLeans.length) b += 0.9 * avg(tagLeans);
+    b += 0.4 * lean(f.src[a.src]) + 0.3 * lean(f.cat[a.cat]);
+    if(storySources(a).some(function(s){ return srcPref(s.src) === 'fav'; })) b += 0.6;
+    if(matchTopics(a).length) b += 0.8;
+    return b;
+  }
+
+  // --- Themen verfolgen ---
+  function isFollowed(topic){ return topics.some(function(t){ return norm(t) === norm(topic); }); }
+  function toggleFollow(topic){
+    var i = -1;
+    topics.forEach(function(t, k){ if(norm(t) === norm(topic)) i = k; });
+    if(i === -1) topics.push(topic); else topics.splice(i, 1);
+    saveTopics();
+  }
+  var newsDate = null;
+  function renderFollow(){
+    var sec = document.getElementById('followSection');
+    var box = document.getElementById('followList');
+    if(!topics.length){ sec.hidden = true; return; }
+    sec.hidden = false;
+    var todays = (currentStories || []).map(function(a){ return {day:newsDate, a:a}; });
+    getArchiveIndex().then(function(days){
+      return Promise.all(days.slice(0, 7).map(function(d){
+        return getArchiveDay(d).then(function(x){ return {day:d, x:x}; }).catch(function(){ return null; });
+      }));
+    }).then(function(list){
+      var all = todays.slice(), seen = {};
+      todays.forEach(function(e){ seen[e.a.url] = 1; });
+      list.forEach(function(e){
+        if(!e) return;
+        (e.x.topStories || []).forEach(function(a){ if(!seen[a.url]){ seen[a.url] = 1; all.push({day:e.day, a:a}); } });
+      });
+      all.sort(function(x, y){ return (y.day || '') < (x.day || '') ? -1 : (y.day || '') > (x.day || '') ? 1 : 0; });
+      box.innerHTML = '';
+      topics.slice(0, 8).forEach(function(t){
+        var hits = all.filter(function(e){ return matchTopics(e.a, [t]).length; });
+        var head = document.createElement('div');
+        head.className = 'follow-topic';
+        head.innerHTML = '<span class="chip">' + esc(t) + '<button type="button" aria-label="Thema ' + esc(t) + ' nicht mehr verfolgen">×</button></span>' +
+          '<small>' + (hits.length ? hits.length + ' Meldung' + (hits.length === 1 ? '' : 'en') + ' in 7 Tagen' : 'nichts Neues') + '</small>';
+        head.querySelector('button').addEventListener('click', function(){ toggleFollow(t); });
+        box.appendChild(head);
+        if(!hits.length){
+          var em = document.createElement('div');
+          em.className = 'hist-item';
+          em.innerHTML = '<div class="hist-meta">Keine Meldung in den letzten 7 Tagen. Sobald etwas erscheint, steht es hier.</div>';
+          box.appendChild(em);
+        }
+        hits.slice(0, 3).forEach(function(e){
+          var el = document.createElement('a');
+          el.className = 'hist-item';
+          el.href = safeUrl(e.a.url) || (SOURCE_BY_ID[e.a.src] ? SOURCE_BY_ID[e.a.src].homepage : '#');
+          el.target = '_blank'; el.rel = 'noopener noreferrer';
+          el.addEventListener('click', noteArticleOpened);
+          el.innerHTML = '<div class="hist-meta">' + (e.day ? dayLabel(e.day) : 'Heute') + ' · ' + esc(srcLabel(e.a.src)) +
+            (e.day && e.day === newsDate ? '<span class="new-badge">Neu</span>' : '') + '</div>' +
+            '<div class="hist-title">' + esc(e.a.headline) + '</div>';
+          box.appendChild(el);
+        });
+      });
+    });
+  }
+
+  // --- Quellen-Vorlieben ---
+  var PREF_OPTS = [['fav', 'Bevorzugt'], ['normal', 'Normal'], ['off', 'Aus']];
+  function renderSourcePrefs(){
+    var box = document.getElementById('sourcePrefs');
+    box.innerHTML = '';
+    FEED_SOURCES.forEach(function(id){
+      var row = document.createElement('div');
+      row.className = 'src-pref';
+      row.innerHTML = '<div class="name"><span class="dot" style="background:var(--src-' + id + ', var(--gray))"></span>' + srcLabelHTML(id) + '</div>' +
+        '<div class="segmented" role="group" aria-label="Einstellung für ' + esc(srcLabel(id)) + '">' +
+        PREF_OPTS.map(function(o){
+          var on = srcPref(id) === o[0];
+          return '<button type="button" class="seg' + (on ? ' active' : '') + '" aria-pressed="' + on + '" data-v="' + o[0] + '">' + o[1] + '</button>';
+        }).join('') + '</div>';
+      Array.prototype.forEach.call(row.querySelectorAll('.seg'), function(b){
+        b.addEventListener('click', function(){
+          var v = b.getAttribute('data-v');
+          if(v === 'normal') delete srcPrefs[id]; else srcPrefs[id] = v;
+          save(PKEY, srcPrefs);
+          orderedStories = null;
+          renderSourcePrefs(); renderTopStories();
+        });
+      });
+      box.appendChild(row);
+    });
+  }
+
+  // --- Anzeige: was gelernt wurde ---
+  function renderLearn(){
+    var f = learnedProfile(), box = document.getElementById('learnBox');
+    if(!f.count){
+      box.innerHTML = '<p class="lead">Noch keine Bewertungen. Tippe unter „Heute“ bei Meldungen auf „Relevant“ oder „Nicht relevant“. Ab dem nächsten Laden sortiert „Für dich“ danach.</p>';
+      return;
+    }
+    function top(map, sign, label){
+      return Object.keys(map).map(function(k){ return {k:k, s:lean(map[k]), e:map[k]}; })
+        .filter(function(x){ return sign > 0 ? x.s > 0 : x.s < 0; })
+        .sort(function(x, y){ return sign > 0 ? y.s - x.s : x.s - y.s; }).slice(0, 8)
+        .map(function(x){ return '<span class="learn-tag ' + (sign > 0 ? 'pos' : 'neg') + '">' + esc(label(x.k)) + ' (' + x.e.y + '/' + (x.e.y + x.e.n) + ')</span>'; }).join('');
+    }
+    var id = function(k){ return k; };
+    var posT = top(f.tag, 1, id) + top(f.src, 1, srcLabel), negT = top(f.tag, -1, id) + top(f.src, -1, srcLabel);
+    box.innerHTML = '<p class="lead">' + f.count + ' bewertete Meldungen. In Klammern: relevant / bewertet.</p>' +
+      '<div class="stat-label" style="margin-top:10px">Wird höher sortiert</div><div class="learn-row">' + (posT || '<span class="section-sub">noch nichts</span>') + '</div>' +
+      '<div class="stat-label" style="margin-top:12px">Wird tiefer sortiert</div><div class="learn-row">' + (negT || '<span class="section-sub">noch nichts</span>') + '</div>';
+  }
+  var resetBtn = document.getElementById('resetLearn'), resetArmed = false;
+  resetBtn.addEventListener('click', function(){
+    if(!resetArmed){
+      resetArmed = true; resetBtn.textContent = 'Wirklich zurücksetzen? Nochmal klicken';
+      setTimeout(function(){ resetArmed = false; resetBtn.textContent = 'Gelerntes zurücksetzen'; }, 4000);
+      return;
+    }
+    learn = {items:{}}; save(LKEY, learn); profileAtLoad = null; orderedStories = null;
+    resetArmed = false; resetBtn.textContent = 'Gelerntes zurücksetzen';
+    renderLearn(); renderTopStories();
   });
 
   var archiveIndex = null, archiveCache = {}, selectedDay = null;
@@ -1310,6 +1703,8 @@
       b.addEventListener('click', function(){ topics.push(s); saveTopics(); });
       sug.appendChild(b);
     });
+    renderSourcePrefs();
+    renderLearn();
     renderHistory();
     renderArchive();
   }
