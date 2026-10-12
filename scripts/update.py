@@ -133,8 +133,29 @@ def pct(now, then):
     return round((now / then - 1) * 100, 2)
 
 
+def guess_currency(ticker):
+    """Währung aus dem Kürzel ableiten, falls die Quelle keine mitliefert."""
+    if ticker.startswith("^") or ticker.endswith("=X"):
+        return None
+    suffix = {".DE": "EUR", ".AS": "EUR", ".PA": "EUR", ".SW": "CHF", ".KS": "KRW", ".L": "GBp"}
+    for suf, cur in suffix.items():
+        if ticker.endswith(suf):
+            return cur
+    if ticker.endswith("-EUR"):
+        return "EUR"
+    return "USD"
+
+
+def ts_date(ts):
+    try:
+        return dt.datetime.fromtimestamp(int(ts), BERLIN).date().isoformat()
+    except Exception:  # noqa: BLE001
+        return None
+
+
 class Yahoo:
-    """Yahoo Finance mit Cookie und Crumb (wie ihn auch der Browser nutzt)."""
+    """Yahoo Finance. Holt die Kurse gebündelt (bis zu 20 Werte pro Anfrage),
+    damit aus GitHub Actions heraus möglichst wenige Anfragen nötig sind."""
 
     def __init__(self):
         import http.cookiejar
@@ -142,6 +163,7 @@ class Yahoo:
         self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(self.jar))
         self.crumb = None
         self.blocked = False
+        self.fails = 0
         try:
             try:
                 self._get("https://fc.yahoo.com", timeout=10)
@@ -149,27 +171,83 @@ class Yahoo:
                 pass
             self.crumb = self._get("https://query1.finance.yahoo.com/v1/test/getcrumb").decode().strip() or None
         except Exception as e:  # noqa: BLE001
-            print(f"  Yahoo: kein Crumb ({e})")
+            print(f"  Yahoo: kein Crumb ({e.__class__.__name__}: {str(e)[:60]}), versuche es ohne")
 
-    def _get(self, url, timeout=12):
-        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
+    def _get(self, url, timeout=15):
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json,*/*"})
         with self.opener.open(req, timeout=timeout) as r:
             return r.read()
+
+    def _crumb(self):
+        return f"&crumb={urllib.parse.quote(self.crumb)}" if self.crumb else ""
+
+    @staticmethod
+    def _series(timestamps, closes):
+        pairs = [(t, c) for t, c in zip(timestamps or [], closes or []) if c is not None]
+        return [c for _, c in pairs], (ts_date(pairs[-1][0]) if pairs else None)
+
+    def spark(self, tickers):
+        """Mehrere Werte in einer Anfrage. Gibt {ticker: (preis, schlusskurse, währung, datum)} zurück."""
+        if self.blocked or not tickers:
+            return {}
+        syms = ",".join(urllib.parse.quote(t) for t in tickers)
+        last = None
+        for host in ("query1", "query2"):
+            for path in ("/v7/finance/spark", "/v8/finance/spark"):
+                url = f"https://{host}.finance.yahoo.com{path}?symbols={syms}&range=1y&interval=1d{self._crumb()}"
+                try:
+                    data = json.loads(self._get(url))
+                except Exception as e:  # noqa: BLE001
+                    last = e
+                    if "429" in str(e):
+                        time.sleep(3)
+                    continue
+                out = {}
+                # Format v7: {"spark": {"result": [{"symbol":..., "response":[{meta, timestamp, indicators}]}]}}
+                for res in ((data.get("spark") or {}).get("result") or []):
+                    try:
+                        r = res["response"][0]
+                        closes, day = self._series(r.get("timestamp"), r["indicators"]["quote"][0]["close"])
+                        if len(closes) >= 2:
+                            meta = r.get("meta") or {}
+                            out[res["symbol"]] = (meta.get("regularMarketPrice") or closes[-1], closes,
+                                                  meta.get("currency"), day)
+                    except Exception:  # noqa: BLE001
+                        pass
+                # Format v8: {"SAP.DE": {"timestamp": [...], "close": [...]}}
+                if not out and "spark" not in data:
+                    for sym, r in data.items():
+                        try:
+                            closes, day = self._series(r.get("timestamp"), r.get("close"))
+                            if len(closes) >= 2:
+                                out[sym] = (closes[-1], closes, None, day)
+                        except Exception:  # noqa: BLE001
+                            pass
+                if out:
+                    return out
+                last = RuntimeError("leere Antwort")
+        self.fails += 1
+        if self.fails >= 2:
+            self.blocked = True
+        raise last or RuntimeError("Yahoo-Spark fehlgeschlagen")
 
     def history(self, ticker):
         if self.blocked:
             raise RuntimeError("Yahoo blockiert")
-        q = "?range=1y&interval=1d" + (f"&crumb={urllib.parse.quote(self.crumb)}" if self.crumb else "")
+        q = "?range=1y&interval=1d" + self._crumb()
         path = "/v8/finance/chart/" + urllib.parse.quote(ticker) + q
         last = None
         for host in ("query1", "query2"):
             try:
                 res = json.loads(self._get(f"https://{host}.finance.yahoo.com{path}"))["chart"]["result"][0]
-                closes = [c for c in res["indicators"]["quote"][0]["close"] if c is not None]
+                closes, day = self._series(res.get("timestamp"), res["indicators"]["quote"][0]["close"])
                 price = res["meta"].get("regularMarketPrice") or closes[-1]
-                return price, closes, res["meta"].get("currency")
+                return price, closes, res["meta"].get("currency"), day
             except Exception as e:  # noqa: BLE001
                 last = e
+        self.fails += 1
+        if self.fails >= 6:
+            self.blocked = True  # Yahoo sperrt gerade: nur noch die Ausweichquelle
         raise last
 
 
@@ -177,12 +255,13 @@ STOOQ_INDEX = {"^GDAXI": "^dax", "^DJI": "^dji", "^NDX": "^ndx", "^GSPC": "^spx"
                "^N225": "^nkx", "^FTSE": "^ukx", "^STOXX50E": "^stx", "^MDAXI": "^mdax",
                "^SDAXI": "^sdax"}
 STOOQ_CURRENCY = {".de": "EUR", ".us": "USD", ".uk": "GBP", ".jp": "JPY"}
+STOOQ_APIKEY = os.environ.get("STOOQ_APIKEY", "").strip()
 
 
 def stooq_symbol(ticker):
     if ticker in STOOQ_INDEX:
         return STOOQ_INDEX[ticker]
-    if ticker.endswith("=X") or "-" in ticker and ticker.endswith("-EUR"):
+    if ticker.endswith("=X") or ticker.endswith("-EUR"):
         return None  # Devisen und Krypto kommen aus eigenen Quellen
     if ticker.endswith(".DE"):
         return ticker[:-3].lower() + ".de"
@@ -191,19 +270,31 @@ def stooq_symbol(ticker):
     return None
 
 
+class StooqBlocked(RuntimeError):
+    pass
+
+
 def stooq_history(ticker):
     sym = stooq_symbol(ticker)
     if not sym:
         raise RuntimeError("kein Stooq-Symbol")
     start = (dt.date.today() - dt.timedelta(days=380)).strftime("%Y%m%d")
-    raw = fetch(f"https://stooq.com/q/d/l/?s={urllib.parse.quote(sym)}&i=d&d1={start}",
-                timeout=12, tries=1).decode("utf-8", "replace")
+    url = f"https://stooq.com/q/d/l/?s={urllib.parse.quote(sym)}&i=d&d1={start}"
+    if STOOQ_APIKEY:
+        url += "&apikey=" + urllib.parse.quote(STOOQ_APIKEY)
+    raw = fetch(url, timeout=12, tries=1).decode("utf-8", "replace")
+    low = raw.lower()
+    if "apikey" in low or "api key" in low:
+        raise StooqBlocked("Stooq verlangt einen API-Schlüssel (Secret STOOQ_APIKEY anlegen, siehe README)")
+    if "limit" in low and "exceeded" in low:
+        raise StooqBlocked("Stooq: Tageslimit erreicht")
     lines = [l for l in raw.strip().splitlines() if l and l[0].isdigit()]
-    closes = [float(l.split(",")[4]) for l in lines if len(l.split(",")) >= 5]
+    rows = [l.split(",") for l in lines if len(l.split(",")) >= 5]
+    closes = [float(r[4]) for r in rows]
     if len(closes) < 2:
         raise RuntimeError("Stooq: keine Daten (" + raw[:60].replace("\n", " ") + ")")
     cur = next((c for suf, c in STOOQ_CURRENCY.items() if sym.endswith(suf)), None)
-    return closes[-1], closes, cur
+    return closes[-1], closes, cur, rows[-1][0]
 
 
 def changes(price, closes):
@@ -219,13 +310,14 @@ COINGECKO = {"btc": "bitcoin", "eth": "ethereum", "sol": "solana", "xrp": "rippl
 
 def crypto_quotes():
     out = {}
+    today = now_berlin().date().isoformat()
     for sid, cid in COINGECKO.items():
         try:
             raw = fetch(f"https://api.coingecko.com/api/v3/coins/{cid}/market_chart?vs_currency=eur&days=365&interval=daily",
                         headers={"Accept": "application/json"}, timeout=15, tries=2)
             closes = [p[1] for p in json.loads(raw)["prices"]]
             out[sid] = {"price": fmt_price(sid.upper() + "-EUR", closes[-1], "EUR"),
-                        "change": changes(closes[-1], closes)}
+                        "change": changes(closes[-1], closes), "asOf": today, "src": "CoinGecko"}
         except Exception as e:  # noqa: BLE001
             print(f"  CoinGecko {cid}: {e.__class__.__name__}: {e}")
         time.sleep(2.5)  # freies Limit schonen
@@ -252,13 +344,14 @@ def fx_quotes():
         "eurchf": [rates[d]["CHF"] for d in days],
         "usdjpy": [rates[d]["JPY"] / rates[d]["USD"] for d in days],
     }
-    return {sid: {"price": fmt_num(v[-1], 2 if v[-1] >= 50 else 4), "change": changes(v[-1], v)}
+    return {sid: {"price": fmt_num(v[-1], 2 if v[-1] >= 50 else 4), "change": changes(v[-1], v),
+                  "asOf": days[-1], "src": "EZB"}
             for sid, v in series.items()}
 
 
 def update_markets():
     old = load_json("markets.json", {}).get("quotes", {})
-    quotes, failed, sources = {}, [], {}
+    quotes, sources, errors = {}, {}, []
 
     # Krypto und Devisen aus eigenen, freien Quellen
     try:
@@ -269,51 +362,82 @@ def update_markets():
         quotes.update(fx_quotes())
     except Exception as e:  # noqa: BLE001
         print(f"  Devisen: {e}")
-    for sid in list(COINGECKO) + ["eurusd", "eurgbp", "eurchf", "usdjpy"]:
-        if sid in quotes:
-            sources["CoinGecko/EZB"] = sources.get("CoinGecko/EZB", 0) + 1
+    for q in quotes.values():
+        sources[q["src"]] = sources.get(q["src"], 0) + 1
 
-    # Aktien und Indizes: erst Yahoo, sonst Stooq
+    def put(sid, ticker, got, name):
+        price, closes, cur, day = got
+        quotes[sid] = {"price": fmt_price(ticker, price, cur or guess_currency(ticker)),
+                       "change": changes(price, closes), "asOf": day, "src": name}
+        sources[name] = sources.get(name, 0) + 1
+
+    todo = {sid: t for sid, t in TICKERS.items() if sid not in quotes}
+
+    # 1) Yahoo gebündelt: ca. 4 Anfragen statt 80
     yahoo = Yahoo()
-    y_fail = 0
+    items = list(todo.items())
+    for i in range(0, len(items), 20):
+        chunk = dict(items[i:i + 20])
+        try:
+            got = yahoo.spark(list(chunk.values()))
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"Yahoo (gebündelt): {e.__class__.__name__}: {str(e)[:80]}")
+            got = {}
+        for sid, ticker in chunk.items():
+            if ticker in got:
+                put(sid, ticker, got[ticker], "Yahoo")
+        time.sleep(1)
+
+    # 2) Was fehlt: einzeln bei Yahoo, sonst Stooq
+    stooq_blocked = None
     for sid, ticker in TICKERS.items():
         if sid in quotes:
             continue
-        got = None
-        errors = []
         for name, fn in (("Yahoo", yahoo.history), ("Stooq", stooq_history)):
+            if name == "Yahoo" and yahoo.blocked:
+                continue
+            if name == "Stooq" and stooq_blocked:
+                continue
             try:
-                price, closes, cur = fn(ticker)
-                got = (name, price, closes, cur)
+                put(sid, ticker, fn(ticker), name)
                 break
+            except StooqBlocked as e:
+                stooq_blocked = str(e)
+                errors.append(str(e))
             except Exception as e:  # noqa: BLE001
-                errors.append(f"{name}: {e.__class__.__name__}: {str(e)[:80]}")
-                if name == "Yahoo":
-                    y_fail += 1
-                    if y_fail >= 6 and not any(s == "Yahoo" for s in sources):
-                        yahoo.blocked = True  # Yahoo sperrt gerade: nur noch Stooq
-        if got:
-            name, price, closes, cur = got
-            quotes[sid] = {"price": fmt_price(ticker, price, cur), "change": changes(price, closes)}
-            sources[name] = sources.get(name, 0) + 1
-        else:
-            failed.append(f"{ticker} -> " + " | ".join(errors))
-            if sid in old:
-                quotes[sid] = old[sid]  # letzten bekannten Wert behalten
+                errors.append(f"{name} {ticker}: {e.__class__.__name__}: {str(e)[:80]}")
         time.sleep(0.3)
 
+    # 3) Was dann noch fehlt: letzten bekannten Wert behalten und als veraltet markieren
+    kept, missing = [], []
+    for sid in TICKERS:
+        if sid in quotes:
+            continue
+        if sid in old:
+            quotes[sid] = {**old[sid], "stale": True}
+            kept.append(sid)
+        else:
+            missing.append(sid)
+
+    fresh = sum(1 for q in quotes.values() if not q.get("stale"))
+    total = len(TICKERS)
     print("Kurse je Quelle:", sources or "keine")
-    print(f"Kurse: {len(failed)} ohne neue Daten")
-    for f in failed[:15]:
-        print("  -", f)
-    if not sources:
+    print(f"Kurse: {fresh} aktuell, {len(kept)} veraltet, {len(missing)} ohne Daten (von {total})")
+    for e in errors[:15]:
+        print("  -", e)
+    if not sources and not old:
         print("Kurse: keine Quelle erreichbar, Datei bleibt unverändert")
         return
+    hint = ""
+    if fresh < total * 0.5:
+        hint = stooq_blocked or "Kursquellen haben die Abfrage abgelehnt. Siehe README, Abschnitt Aktienkurse."
     n = now_berlin()
     save_json("markets.json", {
         "updatedAt": n.isoformat(),
         "updatedAtLabel": label_de(n),
         "source": ", ".join(sources),
+        "status": {"total": total, "fresh": fresh, "stale": kept, "missing": missing,
+                   "hint": hint, "errors": errors[:8]},
         "quotes": quotes,
     })
 
@@ -334,7 +458,21 @@ FEEDS = [
     ("arstechnica", "technologie", "https://feeds.arstechnica.com/arstechnica/index"),
     ("wired", "technologie", "https://www.wired.com/feed/rss"),
     ("techreview", "ki", "https://www.technologyreview.com/feed/"),
+    # Erweiterung Oktober 2026: mehr Wirtschaft, mehr KI, mehr internationale Sicht.
+    # Fällt ein Feed aus, wird er einfach übersprungen.
+    ("handelsblatt", "wirtschaft", "https://www.handelsblatt.com/contentexport/feed/schlagzeilen"),
+    ("wiwo", "wirtschaft", "https://www.wiwo.de/contentexport/feed/rss/schlagzeilen"),
+    ("managermagazin", "wirtschaft", "https://www.manager-magazin.de/news/index.rss"),
+    ("gruenderszene", "wirtschaft", "https://www.businessinsider.de/gruenderszene/feed/"),
+    ("bbc", "wirtschaft", "https://feeds.bbci.co.uk/news/business/rss.xml"),
+    ("guardian", "technologie", "https://www.theguardian.com/uk/technology/rss"),
+    ("netzpolitik", "technologie", "https://netzpolitik.org/feed/"),
+    ("thedecoder", "ki", "https://the-decoder.de/feed/"),
+    ("venturebeat", "ki", "https://venturebeat.com/category/ai/feed/"),
 ]
+NEWS_COUNT = 15        # so viele Meldungen kommen pro Tag ins Dashboard (angezeigt werden erst 5)
+PER_FEED = 8           # höchstens so viele aktuelle Meldungen je Quelle als Kandidaten
+AD_PATTERN = re.compile(r"^\s*[\[(]?\s*(anzeige|sponsored|werbung|advertorial|partner-?content)\b", re.I)
 PODCAST_FEED = "https://handelsblatt-morningbriefing.podigee.io/feed/mp3"
 NS = {"atom": "http://www.w3.org/2005/Atom",
       "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
@@ -388,13 +526,14 @@ def collect_candidates():
     for src, cat, url in FEEDS:
         try:
             items = parse_feed(fetch(url, timeout=15, tries=2))
-            recent = [i for i in items if not i["date"] or i["date"] > cutoff][:10]
+            recent = [i for i in items if (not i["date"] or i["date"] > cutoff)
+                      and not AD_PATTERN.search(i["title"])][:PER_FEED]
         except Exception as e:  # noqa: BLE001
             print(f"  Feed fehlgeschlagen: {src} ({e.__class__.__name__}: {e})")
             continue
         for i in recent:
             out.append({"src": src, "cat": cat, **{k: i[k] for k in ("title", "url", "summary")}})
-    print(f"Nachrichten: {len(out)} Kandidaten aus den Feeds")
+    print(f"Nachrichten: {len(out)} Kandidaten aus {len({c['src'] for c in out})} Quellen")
     return out
 
 
@@ -420,23 +559,108 @@ def latest_podcast():
     }
 
 
+def shorten(text, limit):
+    """Kürzt an einer Wortgrenze und hängt … an, statt mitten im Wort abzuschneiden."""
+    text = (text or "").strip()
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(" ", 1)[0].rstrip(",;:-–")
+    return cut + " …"
+
+
+STOPWORDS = set("""
+der die das den dem des ein eine einer eines einem einen und oder aber auch auf aus bei bis durch für gegen
+im in ins mit nach nicht noch nur ob ohne seit sich sie er es wir ihr um unter vom von vor wie wird werden wurde
+zu zum zur über so als am an ist sind sein hat haben mehr neue neuen neuer neues jetzt soll sollen will kann können
+heute gibt was wer warum wieso the a an of to for on in and or with how why what new is are was from at by after
+beim dass wegen sowie diese dieser weitere weiter mehr erste ersten zwei drei viele jahr jahre jahren prozent millionen milliarden euro dollar laut sagt
+""".split())
+
+
+def keywords(text, n=6):
+    words = re.findall(r"[A-Za-zÄÖÜäöüß0-9][A-Za-zÄÖÜäöüß0-9\-]{2,}", text or "")
+    out = []
+    for w in words:
+        lw = w.lower()
+        if lw in STOPWORDS or lw.isdigit() or lw in (o.lower() for o in out):
+            continue
+        out.append(w)
+    # Großgeschriebene, längere Wörter (Namen, Fachbegriffe) zuerst
+    out.sort(key=lambda w: (not w[0].isupper(), -len(w)))
+    return out[:n]
+
+
+def similar(a, b):
+    """Ähnlichkeit zweier Überschriften (0 bis 1) über gemeinsame Schlagworte."""
+    A = {w.lower() for w in keywords(a, 12) if len(w) >= 4}
+    B = {w.lower() for w in keywords(b, 12) if len(w) >= 4}
+    common = A & B
+    if len(common) < 2:
+        return 0.0
+    return len(common) / len(A | B)
+
+
+def group_duplicates(cands):
+    """Fasst Meldungen zum selben Ereignis zusammen (ohne KI, über Titel-Ähnlichkeit)."""
+    groups = []
+    for c in cands:
+        for g in groups:
+            if g[0]["src"] != c["src"] and similar(g[0]["title"], c["title"]) >= 0.3:
+                if all(x["src"] != c["src"] for x in g):
+                    g.append(c)
+                break
+        else:
+            groups.append([c])
+    return groups
+
+
+def story_from(group, cat=None, headline=None, takeaway=None, topic=None, tags=None):
+    main = group[0]
+    seen, sources = set(), []
+    for c in group:
+        if c["src"] in seen:
+            continue
+        seen.add(c["src"])
+        sources.append({"src": c["src"], "url": c["url"]})
+    kw = keywords(main["title"])
+    return {
+        "cat": cat if cat in ("wirtschaft", "technologie", "ki") else main["cat"],
+        "src": main["src"],
+        "url": main["url"],
+        "headline": clean(headline, 160) or main["title"],
+        "takeaway": clean(takeaway, 260) if takeaway else shorten(main["summary"], 200),
+        "topic": clean(topic, 40) or (kw[0] if kw else ""),
+        "tags": [clean(t, 30) for t in (tags or kw[:4]) if t][:5],
+        "sources": sources,
+    }
+
+
 def ask_claude(candidates, podcast):
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key:
+        print("  Kein ANTHROPIC_API_KEY gesetzt: Auswahl ohne KI")
         return None
     model = os.environ.get("CLAUDE_MODEL") or "claude-haiku-4-5-20251001"
     listing = "\n".join(
-        f"[{n}] ({c['src']}, {c['cat']}) {c['title']} :: {c['summary']}"
+        f"[{n}] ({c['src']}, {c['cat']}) {c['title']} :: {shorten(c['summary'], 220)}"
         for n, c in enumerate(candidates))
     prompt = f"""Du kuratierst das Morgen-Dashboard "Teconomic News" für einen deutschen BWL-Studenten (International Business).
 
-Aufgabe 1: Wähle aus den Meldungen unten die 5 wichtigsten des Tages aus den Bereichen Wirtschaft, Technologie und KI. Mische die Bereiche, vermeide Dubletten zum selben Ereignis, bevorzuge deutsche Quellen bei gleicher Relevanz.
-Für jede Meldung: eine deutsche Überschrift (max. 110 Zeichen, sachlich) und eine Kernaussage in einem deutschen Satz (max. 170 Zeichen), die erklärt, worum es geht oder warum es relevant ist. Kategorie: "wirtschaft", "technologie" oder "ki".
+Aufgabe 1: Wähle aus den Meldungen unten die {NEWS_COUNT} wichtigsten des Tages aus Wirtschaft, Technologie und KI, sortiert nach Wichtigkeit (wichtigste zuerst).
+- Berichten mehrere Quellen über dasselbe Ereignis, ist das EINE Meldung: nenne in "ids" alle zugehörigen Nummern, die beste Quelle zuerst.
+- Mische die Bereiche und Quellen: höchstens 3 Meldungen mit derselben Hauptquelle. Bevorzuge deutsche Quellen bei gleicher Relevanz.
+- Keine Werbung, keine Gewinnspiele, keine reinen Produkttests oder Kaufberatungen.
+Für jede Meldung:
+- "headline": deutsche Überschrift, max. 110 Zeichen, sachlich
+- "takeaway": Kernaussage in einem deutschen Satz, max. 170 Zeichen: worum es geht und warum es relevant ist. Neutral, keine Anlageempfehlung.
+- "cat": "wirtschaft", "technologie" oder "ki"
+- "topic": das Thema in 1 bis 3 Wörtern, mit dem man es über mehrere Tage verfolgen kann (z. B. "Erbschaftsteuer", "Nvidia", "EU AI Act")
+- "tags": 2 bis 4 kurze deutsche Schlagworte (Unternehmen, Branche, Themenfeld)
 
 Aufgabe 2: Fasse die Podcast-Folge in genau 3 kurzen deutschen Kernaussagen zusammen (je max. 130 Zeichen). Nutze nur die Folgenbeschreibung, erfinde nichts.
 
 Antworte NUR mit JSON in dieser Form:
-{{"topStories":[{{"id":<Nummer der Meldung>,"cat":"...","headline":"...","takeaway":"..."}}],"podcastTakeaways":["...","...","..."]}}
+{{"topStories":[{{"ids":[<Nummer>, ...],"cat":"...","headline":"...","takeaway":"...","topic":"...","tags":["...","..."]}}],"podcastTakeaways":["...","...","..."]}}
 
 MELDUNGEN:
 {listing}
@@ -446,10 +670,10 @@ PODCAST: {podcast['title'] if podcast else '(nicht verfügbar)'}
 """
     body = json.dumps({
         "model": model,
-        "max_tokens": 2000,
+        "max_tokens": 6000,
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
-    raw = fetch("https://api.anthropic.com/v1/messages", data=body, timeout=90, headers={
+    raw = fetch("https://api.anthropic.com/v1/messages", data=body, timeout=120, headers={
         "x-api-key": key,
         "anthropic-version": "2023-06-01",
         "content-type": "application/json",
@@ -458,20 +682,28 @@ PODCAST: {podcast['title'] if podcast else '(nicht verfügbar)'}
     return json.loads(text[text.find("{"): text.rfind("}") + 1])
 
 
-def fallback_selection(candidates):
-    """Ohne KI: je Quelle die neueste Meldung, Bereiche abwechselnd."""
+def fallback_selection(candidates, have_urls=()):
+    """Ohne KI: Dubletten zusammenfassen, dann Bereiche und Quellen abwechselnd mischen."""
+    groups = [g for g in group_duplicates(candidates) if not any(c["url"] in have_urls for c in g)]
+    # Ereignisse, über die mehrere Quellen berichten, sind meist wichtiger
+    groups.sort(key=lambda g: -len(g))
     by_cat = {}
-    used = set()
-    for c in candidates:
-        if c["src"] not in used:
-            used.add(c["src"])
-            by_cat.setdefault(c["cat"], []).append(c)
-    picked = []
-    while len(picked) < 5 and any(by_cat.values()):
+    for g in groups:
+        by_cat.setdefault(g[0]["cat"], []).append(g)
+    picked, per_src = [], {}
+    while len(picked) < NEWS_COUNT and any(by_cat.values()):
         for cat in ("wirtschaft", "technologie", "ki"):
-            if by_cat.get(cat) and len(picked) < 5:
-                c = by_cat[cat].pop(0)
-                picked.append({**c, "headline": c["title"], "takeaway": c["summary"][:170]})
+            pool = by_cat.get(cat) or []
+            while pool:
+                g = pool.pop(0)
+                if per_src.get(g[0]["src"], 0) < 2:
+                    per_src[g[0]["src"]] = per_src.get(g[0]["src"], 0) + 1
+                    picked.append(story_from(g))
+                    break
+            if len(picked) >= NEWS_COUNT:
+                break
+        if all(not v for v in by_cat.values()):
+            break
     return picked
 
 
@@ -495,23 +727,30 @@ def update_news():
         print(f"  KI-Aufruf fehlgeschlagen ({e}); nutze Anreißer der Quellen")
         ai = None
     if ai:
-        for s in ai.get("topStories", [])[:5]:
-            try:
-                c = candidates[int(s["id"])]
-            except (KeyError, ValueError, IndexError, TypeError):
+        used = set()
+        for s in ai.get("topStories", [])[:NEWS_COUNT]:
+            ids = s.get("ids") if isinstance(s.get("ids"), list) else [s.get("id")]
+            group = []
+            for i in ids:
+                try:
+                    i = int(i)
+                except (TypeError, ValueError):
+                    continue
+                if 0 <= i < len(candidates) and i not in used:
+                    used.add(i)
+                    group.append(candidates[i])
+            if not group:
                 continue
-            cat = s.get("cat") if s.get("cat") in ("wirtschaft", "technologie", "ki") else c["cat"]
-            stories.append({"cat": cat, "src": c["src"], "url": c["url"],
-                            "headline": clean(s.get("headline"), 160) or c["title"],
-                            "takeaway": clean(s.get("takeaway"), 240)})
+            tags = s.get("tags") if isinstance(s.get("tags"), list) else None
+            stories.append(story_from(group, s.get("cat"), s.get("headline"), s.get("takeaway"),
+                                      s.get("topic"), tags))
         pod_points = [clean(t, 200) for t in ai.get("podcastTakeaways", [])][:3]
         print(f"Nachrichten: {len(stories)} Meldungen mit KI-Kernaussage")
-    if len(stories) < 5:
-        have = {s["url"] for s in stories}
-        extra = [{k: c[k] for k in ("cat", "src", "url", "headline", "takeaway")}
-                 for c in fallback_selection(candidates) if c["url"] not in have]
-        stories += extra[:5 - len(stories)]
-        print(f"Nachrichten: {len(extra[:5])} Meldungen ohne KI ergänzt")
+    if len(stories) < NEWS_COUNT:
+        have = {x["url"] for s in stories for x in s["sources"]}
+        extra = fallback_selection(candidates, have)[:NEWS_COUNT - len(stories)]
+        stories += extra
+        print(f"Nachrichten: {len(extra)} Meldungen ohne KI ergänzt")
 
     old = load_json("news.json", {})
     n = now_berlin()
@@ -519,6 +758,7 @@ def update_news():
         "date": n.date().isoformat(),
         "updatedAt": n.isoformat(),
         "updatedAtLabel": n.strftime("%d.%m.%Y, %H:%M Uhr"),
+        "ai": bool(ai),
         "topStories": stories or old.get("topStories", []),
         "podcastEpisode": old.get("podcastEpisode"),
     }
