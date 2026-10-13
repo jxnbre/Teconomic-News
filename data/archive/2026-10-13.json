@@ -1,0 +1,352 @@
+{
+  "date": "2026-10-13",
+  "updatedAt": "2026-10-13T09:05:28.105140+02:00",
+  "updatedAtLabel": "13.10.2026, 09:05 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
+      "headline": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
+      "takeaway": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
+      "topic": "Wirtschaft",
+      "tags": [
+        "Wirtschaft",
+        "Prognose",
+        "IWF",
+        "deutsche"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/konjunktur-iwf-hebt-prognose-fuer-deutsche-wirtschaft-deutlich-an-a-5117dca6-b15c-4c1e-8b99-b4b4d3957f44#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-iwf-blickt-deutlich-optimistischer-auf-deutsche-wirtschaft/100261717.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
+      "headline": "No Man’s Sky is coming to the iPhone and iPad",
+      "takeaway": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both …",
+      "topic": "Man",
+      "tags": [
+        "Man",
+        "Sky",
+        "coming",
+        "iPhone"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date"
+        },
+        {
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "headline": "The Download: moon city problems and drone traffic controllers",
+      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US …",
+      "topic": "Download",
+      "tags": [
+        "Download",
+        "controllers",
+        "problems",
+        "traffic"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/galeria-beschaeftigte-erhalten-insolvenzgeld-a-22346891-3fab-4871-bbb4-f7a90caadc07#ref=rss",
+      "headline": "Galeria-Beschäftigte erhalten Insolvenzgeld",
+      "takeaway": "Galeria geht durch die vierte Insolvenz in sechs Jahren, mindestens ein Drittel der Filialen wird vielleicht dichtmachen. Vorerst soll die Bundesagentur für Arbeit die Mitarbeitenden nun wohl doch …",
+      "topic": "Galeria-Beschäftigte",
+      "tags": [
+        "Galeria-Beschäftigte",
+        "Insolvenzgeld",
+        "erhalten"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/galeria-beschaeftigte-erhalten-insolvenzgeld-a-22346891-3fab-4871-bbb4-f7a90caadc07#ref=rss"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-mitarbeiter-erhalten-insolvenzgeld/100260823.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/handel/galeria-insolvenz-beschaeftigte-der-warenhauskette-erhalten-insolvenzgeld/100261754.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Bitkom-Mehrheit-der-Lehrkraefte-will-Pflichtfortbildungen-zu-digitalen-Themen-11484716.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Bitkom: Mehrheit der Lehrkräfte will Pflichtfortbildungen zu digitalen Themen",
+      "takeaway": "Es gibt mehr Lehrkräfte, die ihre Fähigkeiten für digitalen Unterricht als „gut“ oder „sehr gut“ einstufen. Darauf wollen sie sich aber offenbar nicht ausruhen.",
+      "topic": "Pflichtfortbildungen",
+      "tags": [
+        "Pflichtfortbildungen",
+        "Lehrkräfte",
+        "Mehrheit",
+        "Bitkom"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Bitkom-Mehrheit-der-Lehrkraefte-will-Pflichtfortbildungen-zu-digitalen-Themen-11484716.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "headline": "Mars may be a hellhole, but the moon is not far behind",
+      "takeaway": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint …",
+      "topic": "Mars",
+      "tags": [
+        "Mars",
+        "hellhole",
+        "behind",
+        "moon"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/digitalminister-karsten-wildberger-will-ki-umsaetze-in-deutschland-besteuern-a-a10bfd19-847f-4d49-b0ee-f32a5ea1a285#ref=rss",
+      "headline": "Digitalminister Karsten Wildberger will KI-Umsätze in Deutschland besteuern",
+      "takeaway": "Firmen verdienen mit künstlicher Intelligenz Milliarden. Bundesminister Karsten Wildberger fordert eine Abgabe auf die Wertschöpfung und hat auch eine Idee, wofür er das Geld ausgeben würde.",
+      "topic": "Digitalminister",
+      "tags": [
+        "Digitalminister",
+        "Deutschland",
+        "Wildberger",
+        "KI-Umsätze"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/digitalminister-karsten-wildberger-will-ki-umsaetze-in-deutschland-besteuern-a-a10bfd19-847f-4d49-b0ee-f32a5ea1a285#ref=rss"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wildberger-will-ki-umsaetze-in-deutschland-besteuern-accg-201312507.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/ki-digitalminister-wildberger-will-ki-umsaetze-in-deutschland-besteuern/100261744.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Schnellstlade-Elektroauto-fuer-Early-Adopter-SUV-BYD-Atto-8-11484622.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "BYD Atto 8: Was hinter dem Megawatt-Laden steckt – und was noch offen ist",
+      "takeaway": "BYD zeigt in Paris den Atto 8, das erste Europa-Modell mit Flash Charging, macht aber noch keine Angaben zu Preis und Ladeinfrastruktur.",
+      "topic": "Megawatt-Laden",
+      "tags": [
+        "Megawatt-Laden",
+        "Atto",
+        "BYD",
+        "hinter"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Schnellstlade-Elektroauto-fuer-Early-Adopter-SUV-BYD-Atto-8-11484622.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/metas-neues-frontier-modell-muse-wonder-schafft-den-sprung-in-die-ki-spitzengruppe/",
+      "headline": "Metas neues Frontier-Modell Muse Wonder schafft den Sprung in die KI-Spitzengruppe",
+      "takeaway": "Meta veröffentlicht mit Muse Wonder zwei neue Frontier-Modelle, die in sechs von zehn Benchmarks unter die Top drei kommen. Besonders bei agentischen Aufgaben zeigt sich ein großer Sprung. Der …",
+      "topic": "KI-Spitzengruppe",
+      "tags": [
+        "KI-Spitzengruppe",
+        "Frontier-Modell",
+        "Wonder",
+        "Sprung"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/metas-neues-frontier-modell-muse-wonder-schafft-den-sprung-in-die-ki-spitzengruppe/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-september-statistisches-bundesamt-energiepreise",
+      "headline": "Inflationsrate in Deutschland: Inflation in Deutschland steigt erstmals seit 2023 über drei Prozent",
+      "takeaway": "Wegen der hohen Energiepreise ist die Inflationsrate in Deutschland im September auf 3,3 Prozent gestiegen. Das ist der höchste Stand seit Dezember 2023.",
+      "topic": "Inflationsrate",
+      "tags": [
+        "Inflationsrate",
+        "Deutschland",
+        "Inflation",
+        "erstmals"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-september-statistisches-bundesamt-energiepreise"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/konjunktur/preise-inflation-steigt-erstmals-seit-ende-2023-ueber-drei-prozent/100261759.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/apple-oktober-event-smarthome-homeview-1767414/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "\"Welcome home\": Was Apple auf dem Oktober-Event vorstellen könnte",
+      "takeaway": "Nach dem iPhone Duo ist offenbar noch nicht Schluss. Unter dem Motto „Welcome home“ kündigt Apple für den 13. Oktober die nächste Produktvorstellung an. Der Titel macht schon klar, worum es gehen …",
+      "topic": "Oktober-Event",
+      "tags": [
+        "Oktober-Event",
+        "Welcome",
+        "Apple",
+        "vorstellen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/apple-oktober-event-smarthome-homeview-1767414/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/selbstverbessernde-ki-zeigt-fortschritte-doch-fehlerhafte-ergebnisse-gehen-leicht-als-erfolg-durch/",
+      "headline": "Selbstverbessernde KI zeigt Fortschritte, doch fehlerhafte Ergebnisse gehen leicht als Erfolg durch",
+      "takeaway": "Sakana AI lässt ein einzelnes Sprachmodell sich selbst verbessern, indem es gleichzeitig als Problemlöser, Bewerter und Optimierer agiert. Die sogenannte MASS-Methode steigert die Siegquote gegen das …",
+      "topic": "Selbstverbessernde",
+      "tags": [
+        "Selbstverbessernde",
+        "Fortschritte",
+        "Ergebnisse",
+        "Erfolg"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/selbstverbessernde-ki-zeigt-fortschritte-doch-fehlerhafte-ergebnisse-gehen-leicht-als-erfolg-durch/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/vw-id.tiguan-dieses-suv-soll-id.4-und-id.5-abloesen/100261763.html",
+      "headline": "Volkswagen: Dieser elektrische VW Tiguan soll ID.4 und ID5 ablösen",
+      "takeaway": "VW spendiert seinem Elektro-SUV ein neues Design, mehr Reichweite und ein Retro-Cockpit. Auch klassische Bedienelemente und Türgriffe feiern ihr Comeback.",
+      "topic": "Volkswagen",
+      "tags": [
+        "Volkswagen",
+        "Tiguan",
+        "ID5",
+        "elektrische"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/vw-id.tiguan-dieses-suv-soll-id.4-und-id.5-abloesen/100261763.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/volkswagen-vw-legt-elektro-suv-neu-auf-und-nennt-ihn-id.-tiguan/100261742.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/maus-tastatur-mehrere-pcs-teilen-windows-mac-linux-1766390/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Maus und Tastatur mit mehreren PCs teilen: So geht’s unter Windows, Mac und Linux",
+      "takeaway": "Hast du mehrere Windows-PCs oder Macs, die du mit einer Tastatur und einer Maus betreiben willst? Das geht dank dieser Hard- und Softwarelösungen mit wenigen Ha weiterlesen auf t3n.de",
+      "topic": "Tastatur",
+      "tags": [
+        "Tastatur",
+        "Windows",
+        "Linux",
+        "Maus"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/maus-tastatur-mehrere-pcs-teilen-windows-mac-linux-1766390/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+      "headline": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+      "takeaway": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf …",
+      "topic": "Autoindustrie",
+      "tags": [
+        "Autoindustrie",
+        "Slowakei",
+        "Krise",
+        "hoffnungsvolle"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Verfassungsgericht: Verhandlung über Besteuerung von Erbe",
+    "dateLabel": "Folge vom 13.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2219-neue-episode-13-10",
+    "takeaways": [
+      "Die Koalition hat gerade einen turbulenten Montag hinter sich, da droht neues Ungemach: Ab heute verhandelt das Verfassungsgericht über die Erbschaftssteuer.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}

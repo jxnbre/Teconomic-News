@@ -1,79 +1,194 @@
 {
-  "updatedAt": "2026-10-12T18:31:06.064210+02:00",
-  "updatedAtLabel": "12.10.2026, 18:31 Uhr",
-  "source": "CoinGecko/EZB",
+  "updatedAt": "2026-10-13T09:05:08.036341+02:00",
+  "updatedAtLabel": "13.10.2026, 09:05 Uhr",
+  "source": "CoinGecko, EZB",
+  "status": {
+    "total": 87,
+    "fresh": 9,
+    "stale": [
+      "sp500"
+    ],
+    "missing": [
+      "dax",
+      "mdax",
+      "sdax",
+      "dow",
+      "nasdaq",
+      "stoxx",
+      "ftse",
+      "nikkei",
+      "adidas",
+      "airbus",
+      "allianz",
+      "basf",
+      "bayer",
+      "beiersdorf",
+      "bmw",
+      "brenntag",
+      "commerzbank",
+      "continental",
+      "covestro",
+      "daimlertruck",
+      "db",
+      "deutscheboerse",
+      "dhlgroup",
+      "telekom",
+      "eon",
+      "fresenius",
+      "fmc",
+      "hannoverrueck",
+      "heidelbergmat",
+      "henkel",
+      "infineon",
+      "mbg",
+      "merck",
+      "mtu",
+      "munichre",
+      "porscheag",
+      "porschese",
+      "qiagen",
+      "rheinmetall",
+      "rwe",
+      "sap",
+      "sartorius",
+      "siemens",
+      "siemensenergy",
+      "siemenshealth",
+      "symrise",
+      "vw",
+      "vonovia",
+      "zalando",
+      "apple",
+      "msft",
+      "nvda",
+      "amzn",
+      "googl",
+      "meta",
+      "tsla",
+      "brka",
+      "lly",
+      "v",
+      "ma",
+      "jpm",
+      "jnj",
+      "avgo",
+      "nflx",
+      "wmt",
+      "xom",
+      "pg",
+      "ko",
+      "asml",
+      "lvmh",
+      "novo",
+      "toyota",
+      "samsung",
+      "tsm",
+      "shell",
+      "nestle",
+      "novartis"
+    ],
+    "hint": "Kursquellen haben die Abfrage abgelehnt. Siehe README, Abschnitt Aktienkurse.",
+    "errors": [
+      "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
+      "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
+      "Stooq ^GDAXI: RuntimeError: Stooq: keine Daten (<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=",
+      "Stooq ^MDAXI: RuntimeError: Stooq: keine Daten (<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=",
+      "Stooq ^SDAXI: RuntimeError: Stooq: keine Daten (<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=",
+      "Stooq ^DJI: RuntimeError: Stooq: keine Daten (<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=",
+      "Stooq ^NDX: RuntimeError: Stooq: keine Daten (<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=",
+      "Stooq ^GSPC: RuntimeError: Stooq: keine Daten (<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name="
+    ]
+  },
   "quotes": {
     "btc": {
-      "price": "73.916 €",
+      "price": "74.997 €",
       "change": {
-        "week": -0.59,
-        "month": -2.15,
-        "year": -25.7
-      }
+        "week": 2.95,
+        "month": -0.38,
+        "year": -24.48
+      },
+      "asOf": "2026-10-13",
+      "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.257,11 €",
+      "price": "2.270,42 €",
       "change": {
-        "week": -1.76,
-        "month": -6.76,
-        "year": -37.12
-      }
+        "week": 2.95,
+        "month": -5.58,
+        "year": -37.95
+      },
+      "asOf": "2026-10-13",
+      "src": "CoinGecko"
     },
     "sol": {
-      "price": "97,21 €",
+      "price": "97,31 €",
       "change": {
-        "week": -6.32,
-        "month": -6.25,
-        "year": -42.99
-      }
+        "week": -0.37,
+        "month": -6.0,
+        "year": -45.88
+      },
+      "asOf": "2026-10-13",
+      "src": "CoinGecko"
     },
     "xrp": {
       "price": "1,23 €",
       "change": {
-        "week": -2.95,
-        "month": -8.05,
-        "year": -43.71
-      }
+        "week": 0.32,
+        "month": -10.1,
+        "year": -45.09
+      },
+      "asOf": "2026-10-13",
+      "src": "CoinGecko"
     },
     "bnb": {
-      "price": "666,40 €",
+      "price": "667,80 €",
       "change": {
-        "week": -3.32,
-        "month": -4.41,
-        "year": -40.86
-      }
+        "week": 1.82,
+        "month": -3.0,
+        "year": -40.14
+      },
+      "asOf": "2026-10-13",
+      "src": "CoinGecko"
     },
     "eurusd": {
       "price": "1,1181",
       "change": {
         "week": -0.21,
         "month": -3.55,
-        "year": -4.16
-      }
+        "year": -3.84
+      },
+      "asOf": "2026-10-12",
+      "src": "EZB"
     },
     "eurgbp": {
       "price": "0,8448",
       "change": {
         "week": -0.29,
         "month": -1.56,
-        "year": -2.93
-      }
+        "year": -2.57
+      },
+      "asOf": "2026-10-12",
+      "src": "EZB"
     },
     "eurchf": {
       "price": "0,9312",
       "change": {
         "week": 0.01,
         "month": -1.47,
-        "year": -0.02
-      }
+        "year": 0.08
+      },
+      "asOf": "2026-10-12",
+      "src": "EZB"
     },
     "usdjpy": {
       "price": "158,60",
       "change": {
         "week": 0.23,
         "month": 2.96,
-        "year": 5.1
-      }
+        "year": 3.87
+      },
+      "asOf": "2026-10-12",
+      "src": "EZB"
     },
     "sp500": {
       "price": "7.776 Pkt.",
@@ -81,7 +196,8 @@
         "week": 1.63,
         "month": 1.34,
         "year": 15.81
-      }
+      },
+      "stale": true
     }
   }
 }
