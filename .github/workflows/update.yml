@@ -57,6 +57,8 @@ jobs:
             echo "Keine Änderungen"
           else
             git commit -m "Daten aktualisiert $(TZ=Europe/Berlin date '+%d.%m.%Y %H:%M')"
+            # Falls das Dashboard in der Zwischenzeit eine eigene Website eingetragen hat
+            git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi
 
