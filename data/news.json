@@ -1,351 +1,348 @@
 {
-  "date": "2026-10-13",
-  "updatedAt": "2026-10-13T09:05:28.105140+02:00",
-  "updatedAtLabel": "13.10.2026, 09:05 Uhr",
+  "date": "2026-10-14",
+  "updatedAt": "2026-10-14T07:37:01.333975+02:00",
+  "updatedAtLabel": "14.10.2026, 07:37 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
-      "headline": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
-      "takeaway": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
-      "topic": "Wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+      "takeaway": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
+      "topic": "OpenAI",
       "tags": [
-        "Wirtschaft",
-        "Prognose",
-        "IWF",
-        "deutsche"
+        "OpenAI",
+        "Saudi",
+        "FBI",
+        "conference"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
         },
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/konjunktur-iwf-hebt-prognose-fuer-deutsche-wirtschaft-deutlich-an-a-5117dca6-b15c-4c1e-8b99-b4b4d3957f44#ref=rss"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
         },
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-iwf-blickt-deutlich-optimistischer-auf-deutsche-wirtschaft/100261717.html"
+          "src": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-      "headline": "No Man’s Sky is coming to the iPhone and iPad",
-      "takeaway": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both …",
-      "topic": "Man",
+      "src": "t3n",
+      "url": "https://t3n.de/news/google-gemini-4-argon-rollout-preise-1768086/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Überraschung: Google veröffentlicht Gemini 4 Argon",
+      "takeaway": "Googles neuestes KI-Sprachmodell verlässt die geschlossene Testphase und zieht in die offizielle App des Anbieters ein. Die neuen Funktionen beim Programmieren und bei der Fehleranalyse haben für die …",
+      "topic": "Überraschung",
       "tags": [
-        "Man",
-        "Sky",
-        "coming",
-        "iPhone"
+        "Überraschung",
+        "Google",
+        "Gemini",
+        "Argon"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date"
+          "src": "t3n",
+          "url": "https://t3n.de/news/google-gemini-4-argon-rollout-preise-1768086/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         },
         {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/"
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/google-veroeffentlicht-gemini-4-argon-neues-spitzenmodell-ab-sofort-weltweit-verfuegbar/"
         }
       ]
     },
     {
       "cat": "ki",
       "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "headline": "The Download: moon city problems and drone traffic controllers",
-      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US …",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "headline": "The Download: open model trade-offs and geothermal power’s promise",
+      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? …",
       "topic": "Download",
       "tags": [
         "Download",
-        "controllers",
-        "problems",
-        "traffic"
+        "trade-offs",
+        "geothermal",
+        "promise"
       ],
       "sources": [
         {
           "src": "techreview",
-          "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+          "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/galeria-beschaeftigte-erhalten-insolvenzgeld-a-22346891-3fab-4871-bbb4-f7a90caadc07#ref=rss",
-      "headline": "Galeria-Beschäftigte erhalten Insolvenzgeld",
-      "takeaway": "Galeria geht durch die vierte Insolvenz in sechs Jahren, mindestens ein Drittel der Filialen wird vielleicht dichtmachen. Vorerst soll die Bundesagentur für Arbeit die Mitarbeitenden nun wohl doch …",
-      "topic": "Galeria-Beschäftigte",
+      "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss",
+      "headline": "Zuckersteuer: Koalition legt Streit bei",
+      "takeaway": "Union und SPD wollen eine Steuer auf stark gezuckerte Getränke einführen. Um die Details wurde lange gerungen. Jetzt gibt es einen Kompromiss.",
+      "topic": "Zuckersteuer",
       "tags": [
-        "Galeria-Beschäftigte",
-        "Insolvenzgeld",
-        "erhalten"
+        "Zuckersteuer",
+        "Koalition",
+        "Streit",
+        "legt"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/galeria-beschaeftigte-erhalten-insolvenzgeld-a-22346891-3fab-4871-bbb4-f7a90caadc07#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss"
         },
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/warenhaeuser-galeria-mitarbeiter-erhalten-insolvenzgeld/100260823.html"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/koalition-legt-streit-ueber-zuckersteuer-bei-accg-201315884.html"
         },
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/handel/galeria-insolvenz-beschaeftigte-der-warenhauskette-erhalten-insolvenzgeld/100261754.html"
+          "url": "https://www.wiwo.de/politik/deutschland/bundesregierung-koalition-legt-streit-ueber-zuckersteuer-bei/100262029.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/Bitkom-Mehrheit-der-Lehrkraefte-will-Pflichtfortbildungen-zu-digitalen-Themen-11484716.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Bitkom: Mehrheit der Lehrkräfte will Pflichtfortbildungen zu digitalen Themen",
-      "takeaway": "Es gibt mehr Lehrkräfte, die ihre Fähigkeiten für digitalen Unterricht als „gut“ oder „sehr gut“ einstufen. Darauf wollen sie sich aber offenbar nicht ausruhen.",
-      "topic": "Pflichtfortbildungen",
+      "url": "https://www.heise.de/news/Meetings-heimlich-aufgenommen-OpenAI-Angestellter-festgenommen-und-gefeuert-11487158.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Wanze in Konferenzraum versteckt: OpenAI-Angestellter festgenommen",
+      "takeaway": "In einem Konferenzraum von OpenAI wurde ein verstecktes Aufzeichnungsgerät entdeckt. Der Mann, der es angebracht haben soll, wurde festgenommen – und gefeuert.",
+      "topic": "OpenAI-Angestellter",
       "tags": [
-        "Pflichtfortbildungen",
-        "Lehrkräfte",
-        "Mehrheit",
-        "Bitkom"
+        "OpenAI-Angestellter",
+        "Konferenzraum",
+        "Wanze",
+        "festgenommen"
       ],
       "sources": [
         {
           "src": "heise",
-          "url": "https://www.heise.de/news/Bitkom-Mehrheit-der-Lehrkraefte-will-Pflichtfortbildungen-zu-digitalen-Themen-11484716.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "url": "https://www.heise.de/news/Meetings-heimlich-aufgenommen-OpenAI-Angestellter-festgenommen-und-gefeuert-11487158.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         }
       ]
     },
     {
       "cat": "ki",
       "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-      "headline": "Mars may be a hellhole, but the moon is not far behind",
-      "takeaway": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it’s a sprint …",
-      "topic": "Mars",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "headline": "Open models have real benefits. Do they outweigh the risks?",
+      "takeaway": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late …",
+      "topic": "Open",
       "tags": [
-        "Mars",
-        "hellhole",
-        "behind",
-        "moon"
+        "Open",
+        "benefits",
+        "outweigh",
+        "models"
       ],
       "sources": [
         {
           "src": "techreview",
-          "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
+          "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/digitalminister-karsten-wildberger-will-ki-umsaetze-in-deutschland-besteuern-a-a10bfd19-847f-4d49-b0ee-f32a5ea1a285#ref=rss",
-      "headline": "Digitalminister Karsten Wildberger will KI-Umsätze in Deutschland besteuern",
-      "takeaway": "Firmen verdienen mit künstlicher Intelligenz Milliarden. Bundesminister Karsten Wildberger fordert eine Abgabe auf die Wertschöpfung und hat auch eine Idee, wofür er das Geld ausgeben würde.",
-      "topic": "Digitalminister",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bank-of-america-finanzministerium-ahndet-laxe-geldwaeschekontrollen-mit-milliardenstrafe-a-9b3ffe37-9558-422b-9fe6-9292926f4632#ref=rss",
+      "headline": "Bank of America: Finanzministerium ahndet laxe Geldwäschekontrollen mit Milliardenstrafe",
+      "takeaway": "Die zweitgrößte Bank der USA hat es laut Finanzministerium versäumt, konsequent gegen Geldwäscher vorzugehen. Das wird für die Bank of America jetzt teuer. Sehr teuer sogar.",
+      "topic": "Geldwäschekontrollen",
       "tags": [
-        "Digitalminister",
-        "Deutschland",
-        "Wildberger",
-        "KI-Umsätze"
+        "Geldwäschekontrollen",
+        "Finanzministerium",
+        "Milliardenstrafe",
+        "America"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/digitalminister-karsten-wildberger-will-ki-umsaetze-in-deutschland-besteuern-a-a10bfd19-847f-4d49-b0ee-f32a5ea1a285#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/bank-of-america-finanzministerium-ahndet-laxe-geldwaeschekontrollen-mit-milliardenstrafe-a-9b3ffe37-9558-422b-9fe6-9292926f4632#ref=rss"
         },
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wildberger-will-ki-umsaetze-in-deutschland-besteuern-accg-201312507.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/ki-digitalminister-wildberger-will-ki-umsaetze-in-deutschland-besteuern/100261744.html"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/bank-of-america-geldwaesche-strafe-usa"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/Schnellstlade-Elektroauto-fuer-Early-Adopter-SUV-BYD-Atto-8-11484622.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "BYD Atto 8: Was hinter dem Megawatt-Laden steckt – und was noch offen ist",
-      "takeaway": "BYD zeigt in Paris den Atto 8, das erste Europa-Modell mit Flash Charging, macht aber noch keine Angaben zu Preis und Ladeinfrastruktur.",
-      "topic": "Megawatt-Laden",
+      "url": "https://www.heise.de/news/HomeView-Apples-neue-Heimzentrale-in-zweifacher-Ausfuehrung-11484991.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "HomeView: Apples neue Heimzentrale in zweifacher Ausführung",
+      "takeaway": "Nach langer Wartezeit hat Apple sein neues Heimgerät fertig. Damit kommt nach der Apple Watch eine neue Modellreihe hinzu. EU-Bürger brauchen allerdings Geduld.",
+      "topic": "Heimzentrale",
       "tags": [
-        "Megawatt-Laden",
-        "Atto",
-        "BYD",
-        "hinter"
+        "Heimzentrale",
+        "Ausführung",
+        "HomeView",
+        "Apples"
       ],
       "sources": [
         {
           "src": "heise",
-          "url": "https://www.heise.de/news/Schnellstlade-Elektroauto-fuer-Early-Adopter-SUV-BYD-Atto-8-11484622.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "url": "https://www.heise.de/news/HomeView-Apples-neue-Heimzentrale-in-zweifacher-Ausfuehrung-11484991.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         }
       ]
     },
     {
       "cat": "ki",
       "src": "thedecoder",
-      "url": "https://the-decoder.de/metas-neues-frontier-modell-muse-wonder-schafft-den-sprung-in-die-ki-spitzengruppe/",
-      "headline": "Metas neues Frontier-Modell Muse Wonder schafft den Sprung in die KI-Spitzengruppe",
-      "takeaway": "Meta veröffentlicht mit Muse Wonder zwei neue Frontier-Modelle, die in sechs von zehn Benchmarks unter die Top drei kommen. Besonders bei agentischen Aufgaben zeigt sich ein großer Sprung. Der …",
-      "topic": "KI-Spitzengruppe",
+      "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/",
+      "headline": "Offener Brief von 406 Wissenschaftlern fordert sofortige Abschottung von KI-Modellen vom Internet",
+      "takeaway": "In einem offenen Brief fordern 406 Wissenschaftler – darunter Geoffrey Hinton, Yoshua Bengio und Stuart Russell – sofortiges Airgapping von KI-Modellen und verbindliche Sicherheitsstandards. Anlass …",
+      "topic": "Wissenschaftlern",
       "tags": [
-        "KI-Spitzengruppe",
-        "Frontier-Modell",
-        "Wonder",
-        "Sprung"
+        "Wissenschaftlern",
+        "Abschottung",
+        "KI-Modellen",
+        "Internet"
       ],
       "sources": [
         {
           "src": "thedecoder",
-          "url": "https://the-decoder.de/metas-neues-frontier-modell-muse-wonder-schafft-den-sprung-in-die-ki-spitzengruppe/"
+          "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-september-statistisches-bundesamt-energiepreise",
-      "headline": "Inflationsrate in Deutschland: Inflation in Deutschland steigt erstmals seit 2023 über drei Prozent",
-      "takeaway": "Wegen der hohen Energiepreise ist die Inflationsrate in Deutschland im September auf 3,3 Prozent gestiegen. Das ist der höchste Stand seit Dezember 2023.",
-      "topic": "Inflationsrate",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/nvidia-doctolib-beteiligung-ki-plattform-gesundheit",
+      "headline": "Künstliche Intelligenz: Nvidia übernimmt Anteile von Ärzteplattform Doctolib",
+      "takeaway": "Der Techkonzern Nvidia ist Minderheitsaktionär beim Praxisdienstleister Doctolib geworden. Das französische Unternehmen erhofft sich dadurch auch Zugang zu KI-Experten.",
+      "topic": "Ärzteplattform",
       "tags": [
-        "Inflationsrate",
-        "Deutschland",
-        "Inflation",
-        "erstmals"
+        "Ärzteplattform",
+        "Intelligenz",
+        "Künstliche",
+        "Doctolib"
       ],
       "sources": [
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-september-statistisches-bundesamt-energiepreise"
+          "url": "https://www.zeit.de/wirtschaft/2026-10/nvidia-doctolib-beteiligung-ki-plattform-gesundheit"
         },
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/konjunktur/preise-inflation-steigt-erstmals-seit-ende-2023-ueber-drei-prozent/100261759.html"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/doctolib-nvidia-beteiligt-sich-an-aerzteplattform-a-1f32a7ff-a4ab-45c1-acad-bb709cd647a4#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/apple-oktober-event-smarthome-homeview-1767414/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "\"Welcome home\": Was Apple auf dem Oktober-Event vorstellen könnte",
-      "takeaway": "Nach dem iPhone Duo ist offenbar noch nicht Schluss. Unter dem Motto „Welcome home“ kündigt Apple für den 13. Oktober die nächste Produktvorstellung an. Der Titel macht schon klar, worum es gehen …",
-      "topic": "Oktober-Event",
+      "url": "https://t3n.de/news/smarthome-apple-homeview-hub-1768033/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Homeview-Hub, Thermostate und Türschloss: Apple zeigt neue Smarthome-Produkte – doch es gibt einen Haken",
+      "takeaway": "Apple hat eine Reihe von neuen Smarthome-Produkten vorgestellt. Im Zentrum der Ankündigung steht dabei der neue Homeview-Hub. Was du zu den neuen Gadgets wissen musst. weiterlesen auf t3n.de",
+      "topic": "Smarthome-Produkte",
       "tags": [
-        "Oktober-Event",
-        "Welcome",
-        "Apple",
-        "vorstellen"
+        "Smarthome-Produkte",
+        "Homeview-Hub",
+        "Thermostate",
+        "Türschloss"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/apple-oktober-event-smarthome-homeview-1767414/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/smarthome-apple-homeview-hub-1768033/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "ki",
       "src": "thedecoder",
-      "url": "https://the-decoder.de/selbstverbessernde-ki-zeigt-fortschritte-doch-fehlerhafte-ergebnisse-gehen-leicht-als-erfolg-durch/",
-      "headline": "Selbstverbessernde KI zeigt Fortschritte, doch fehlerhafte Ergebnisse gehen leicht als Erfolg durch",
-      "takeaway": "Sakana AI lässt ein einzelnes Sprachmodell sich selbst verbessern, indem es gleichzeitig als Problemlöser, Bewerter und Optimierer agiert. Die sogenannte MASS-Methode steigert die Siegquote gegen das …",
-      "topic": "Selbstverbessernde",
+      "url": "https://the-decoder.de/renommierter-informatiker-laesst-kein-gutes-haar-an-ai-doomern-und-naiven-nachwuchsforschern/",
+      "headline": "Renommierter Informatiker lässt kein gutes Haar an AI-Doomern und naiven Nachwuchsforschern",
+      "takeaway": "Michael I. Jordan, von Science als \"einflussreichster Informatiker\" bezeichnet, hält die Warnungen vor Superintelligenz für Science-Fiction. Rücktritte junger KI-Forscher nennt er \"moralisierende …",
+      "topic": "Nachwuchsforschern",
       "tags": [
-        "Selbstverbessernde",
-        "Fortschritte",
-        "Ergebnisse",
-        "Erfolg"
+        "Nachwuchsforschern",
+        "Renommierter",
+        "Informatiker",
+        "AI-Doomern"
       ],
       "sources": [
         {
           "src": "thedecoder",
-          "url": "https://the-decoder.de/selbstverbessernde-ki-zeigt-fortschritte-doch-fehlerhafte-ergebnisse-gehen-leicht-als-erfolg-durch/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/vw-id.tiguan-dieses-suv-soll-id.4-und-id.5-abloesen/100261763.html",
-      "headline": "Volkswagen: Dieser elektrische VW Tiguan soll ID.4 und ID5 ablösen",
-      "takeaway": "VW spendiert seinem Elektro-SUV ein neues Design, mehr Reichweite und ein Retro-Cockpit. Auch klassische Bedienelemente und Türgriffe feiern ihr Comeback.",
-      "topic": "Volkswagen",
-      "tags": [
-        "Volkswagen",
-        "Tiguan",
-        "ID5",
-        "elektrische"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/vw-id.tiguan-dieses-suv-soll-id.4-und-id.5-abloesen/100261763.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/auto/volkswagen-vw-legt-elektro-suv-neu-auf-und-nennt-ihn-id.-tiguan/100261742.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/maus-tastatur-mehrere-pcs-teilen-windows-mac-linux-1766390/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Maus und Tastatur mit mehreren PCs teilen: So geht’s unter Windows, Mac und Linux",
-      "takeaway": "Hast du mehrere Windows-PCs oder Macs, die du mit einer Tastatur und einer Maus betreiben willst? Das geht dank dieser Hard- und Softwarelösungen mit wenigen Ha weiterlesen auf t3n.de",
-      "topic": "Tastatur",
-      "tags": [
-        "Tastatur",
-        "Windows",
-        "Linux",
-        "Maus"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/maus-tastatur-mehrere-pcs-teilen-windows-mac-linux-1766390/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://the-decoder.de/renommierter-informatiker-laesst-kein-gutes-haar-an-ai-doomern-und-naiven-nachwuchsforschern/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
-      "headline": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
-      "takeaway": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf …",
-      "topic": "Autoindustrie",
+      "url": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
+      "headline": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
+      "takeaway": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? …",
+      "topic": "Hybrid-Importe",
       "tags": [
-        "Autoindustrie",
-        "Slowakei",
-        "Krise",
-        "hoffnungsvolle"
+        "Hybrid-Importe",
+        "Autobauer",
+        "profitieren",
+        "deutsche"
       ],
       "sources": [
         {
           "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/llm-googles-neue-top-ki-gemini-4-argon-ist-da-2610-214075.html",
+      "headline": "LLM: Googles neue Top-KI Gemini 4 Argon ist da",
+      "takeaway": "Googles neues KI-Modell Gemini 4 Argon ist zunächst für Sicherheitsexperten gedacht. Ziel ist es, Schwachstellen autonom zu finden und zu schließen. ( Gemini , Google )",
+      "topic": "Googles",
+      "tags": [
+        "Googles",
+        "Top-KI",
+        "Gemini",
+        "Argon"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/llm-googles-neue-top-ki-gemini-4-argon-ist-da-2610-214075.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
+      "headline": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
+      "takeaway": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an. Ob das in Ordnung ist, muss nun das Verfassungsgericht …",
+      "topic": "Bundesverfassungsgericht",
+      "tags": [
+        "Bundesverfassungsgericht",
+        "Erbschaftsteuer",
+        "gerecht"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Verfassungsgericht: Verhandlung über Besteuerung von Erbe",
-    "dateLabel": "Folge vom 13.10. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2219-neue-episode-13-10",
+    "title": "Galeria: Weiterbetrieb gesichert, Rettung fraglich / BMW: Fachkräftemangel in Vorzeigewerk",
+    "dateLabel": "Folge vom 14.10. · 7 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2220-galeria-weiterbetrieb-gesichert-rettung-fraglich-bmw-fachkraftemangel-in-vorzeigewerk",
     "takeaways": [
-      "Die Koalition hat gerade einen turbulenten Montag hinter sich, da droht neues Ungemach: Ab heute verhandelt das Verfassungsgericht über die Erbschaftssteuer.",
+      "Galeria ist vorerst gerettet, doch die Substanz fehlt.",
+      "Jetzt muss der Insolvenzverwalter in drei Monaten neue Eigentümer finden, die Eigenkapital mitbringen.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
     ]
   }
