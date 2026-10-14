@@ -541,13 +541,13 @@
       <div class="group" id="sourcePrefs"></div>
     </section>
 
-    <section class="section">
+    <section class="section" hidden>
       <div class="section-head"><div><h2>Was das Dashboard gelernt hat</h2><div class="section-sub">Aus deinen „Relevant“- und „Nicht relevant“-Bewertungen. Wirkt ab dem nächsten Laden.</div></div></div>
       <div class="group card-pad" id="learnBox"></div>
       <div class="btn-row"><button class="btn danger" id="resetLearn" type="button">Gelerntes zurücksetzen</button></div>
     </section>
 
-    <section class="section">
+    <section class="section" hidden>
       <div class="section-head"><div><h2>Themen-Verlauf</h2><div class="section-sub" id="historyNote">Treffer zu deinen Themen aus den letzten 30 Tagen</div></div></div>
       <div class="group" id="topicHistory"></div>
     </section>
@@ -1705,8 +1705,6 @@
       sug.appendChild(b);
     });
     renderSourcePrefs();
-    renderLearn();
-    renderHistory();
     renderArchive();
   }
 
