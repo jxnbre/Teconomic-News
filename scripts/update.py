@@ -284,6 +284,8 @@ def stooq_history(ticker):
         url += "&apikey=" + urllib.parse.quote(STOOQ_APIKEY)
     raw = fetch(url, timeout=12, tries=1).decode("utf-8", "replace")
     low = raw.lower()
+    if low.lstrip().startswith("<"):
+        raise StooqBlocked("Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)")
     if "apikey" in low or "api key" in low:
         raise StooqBlocked("Stooq verlangt einen API-Schlüssel (Secret STOOQ_APIKEY anlegen, siehe README)")
     if "limit" in low and "exceeded" in low:
@@ -349,6 +351,39 @@ def fx_quotes():
             for sid, v in series.items()}
 
 
+def yfinance_quotes(tickers):
+    """Yahoo über das Paket yfinance. Es tritt gegenüber Yahoo wie ein echter Chrome-Browser auf
+    (curl_cffi). Ohne das blockt Yahoo Anfragen aus GitHub Actions mit „429 Too Many Requests“.
+    Gibt {ticker: (preis, schlusskurse, währung, datum)} zurück."""
+    import yfinance as yf  # wird im Workflow installiert (pip install yfinance)
+    df = yf.download(list(tickers), period="1y", interval="1d", group_by="ticker", auto_adjust=False,
+                     progress=False, threads=4, timeout=20)
+    out = {}
+    if df is None or getattr(df, "empty", True):
+        return out
+    cols = df.columns
+    lvl0 = set(cols.get_level_values(0)) if getattr(cols, "nlevels", 1) > 1 else set()
+    for t in tickers:
+        try:
+            if t in lvl0:
+                s = df[t]["Close"]
+            elif "Close" in lvl0:
+                s = df["Close"][t]
+            elif len(tickers) == 1 and "Close" in cols:
+                s = df["Close"]
+            else:
+                continue
+            s = s.dropna()
+            if len(s) < 2:
+                continue
+            closes = [float(x) for x in s.tolist()]
+            day = s.index[-1].date().isoformat()
+            out[t] = (closes[-1], closes, None, day)
+        except Exception:  # noqa: BLE001
+            continue
+    return out
+
+
 def update_markets():
     old = load_json("markets.json", {}).get("quotes", {})
     quotes, sources, errors = {}, {}, []
@@ -373,8 +408,21 @@ def update_markets():
 
     todo = {sid: t for sid, t in TICKERS.items() if sid not in quotes}
 
-    # 1) Yahoo gebündelt: ca. 4 Anfragen statt 80
-    yahoo = Yahoo()
+    # 1) yfinance (zuverlässigster Weg aus GitHub Actions)
+    try:
+        got = yfinance_quotes(list(todo.values()))
+        for sid, ticker in todo.items():
+            if ticker in got:
+                put(sid, ticker, got[ticker], "Yahoo")
+        print(f"  yfinance: {len(got)} von {len(todo)} Werten")
+    except ImportError:
+        errors.append("yfinance nicht installiert (Workflow-Schritt „Python-Pakete installieren“ fehlt)")
+    except Exception as e:  # noqa: BLE001
+        errors.append(f"yfinance: {e.__class__.__name__}: {str(e)[:80]}")
+    todo = {sid: t for sid, t in todo.items() if sid not in quotes}
+
+    # 2) Ausweichweg: Yahoo direkt, gebündelt
+    yahoo = Yahoo() if todo else None
     items = list(todo.items())
     for i in range(0, len(items), 20):
         chunk = dict(items[i:i + 20])
@@ -388,13 +436,13 @@ def update_markets():
                 put(sid, ticker, got[ticker], "Yahoo")
         time.sleep(1)
 
-    # 2) Was fehlt: einzeln bei Yahoo, sonst Stooq
+    # 3) Was fehlt: einzeln bei Yahoo, sonst Stooq
     stooq_blocked = None
     for sid, ticker in TICKERS.items():
         if sid in quotes:
             continue
         for name, fn in (("Yahoo", yahoo.history), ("Stooq", stooq_history)):
-            if name == "Yahoo" and yahoo.blocked:
+            if name == "Yahoo" and (yahoo.blocked or len(errors) > 40):
                 continue
             if name == "Stooq" and stooq_blocked:
                 continue
@@ -408,7 +456,7 @@ def update_markets():
                 errors.append(f"{name} {ticker}: {e.__class__.__name__}: {str(e)[:80]}")
         time.sleep(0.3)
 
-    # 3) Was dann noch fehlt: letzten bekannten Wert behalten und als veraltet markieren
+    # 4) Was dann noch fehlt: letzten bekannten Wert behalten und als veraltet markieren
     kept, missing = [], []
     for sid in TICKERS:
         if sid in quotes:
