@@ -34,11 +34,16 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Python-Pakete installieren
+        if: github.event_name != 'push'
+        run: pip install --quiet --disable-pip-version-check yfinance
+
       - name: Daten holen
         if: github.event_name != 'push'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          STOOQ_APIKEY: ${{ secrets.STOOQ_APIKEY }}
           FORCE_NEWS: ${{ inputs.force_news }}
         run: python scripts/update.py
 
