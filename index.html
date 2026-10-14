@@ -529,7 +529,27 @@
 
     <section class="section">
       <div class="section-head"><div><h2>Quellen</h2><div class="section-sub">Bevorzugte Quellen rutschen nach oben, ausgeschaltete verschwinden aus „Heute“.</div></div></div>
-      <div class="group" id="sourcePrefs"></div>
+      <div class="group card-pad" id="customBox">
+        <div class="stat-label">Eigene Websites</div>
+        <p class="lead" style="margin-top:6px">Füge Nachrichtenseiten hinzu, die du magst. Passende Meldungen zu Wirtschaft, Technologie und KI erscheinen dann unter „Heute“, mit Kernaussage.</p>
+        <div id="ghSetup" hidden>
+          <p class="lead">Einmalig nötig: ein GitHub-Zugang, damit das Dashboard die Website in dein Repository eintragen kann. <a href="https://github.com/jxnbre/Teconomic-News#eigene-websites-einmalige-einrichtung" target="_blank" rel="noopener noreferrer" style="color:var(--blue);font-weight:600">Anleitung</a></p>
+          <form class="topic-form" id="ghTokenForm" autocomplete="off">
+            <input class="field" id="ghTokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="GitHub-Token einfügen (github_pat_…)" aria-label="GitHub-Token">
+            <button class="btn" type="submit">Speichern</button>
+          </form>
+        </div>
+        <div id="ghReady" hidden>
+          <form class="topic-form" id="customForm" autocomplete="off">
+            <input class="field" id="customInput" type="text" placeholder="Website, z. B. fnweb.de" aria-label="Website-Adresse">
+            <button class="btn" type="submit">Hinzufügen</button>
+          </form>
+        </div>
+        <div class="section-sub" id="customMsg" style="margin-top:8px"></div>
+        <div id="customList" style="margin-top:6px"></div>
+        <button class="text-btn" id="ghForget" type="button" hidden style="font-size:13px;margin-top:6px">GitHub-Zugang auf diesem Gerät entfernen</button>
+      </div>
+      <div class="group" id="sourcePrefs" style="margin-top:10px"></div>
     </section>
 
     <section class="section" hidden>
@@ -733,6 +753,224 @@
     if(!s) return esc(id);
     return s.label + (s.paywall ? LOCK_SVG : '');
   }
+
+
+  // =====================================================================
+  //  Eigene Websites
+  //  Die Liste steht in config/sources.json im Repository. Das Dashboard ändert sie
+  //  über die GitHub-API mit einem Token, das nur in diesem Browser gespeichert ist.
+  //  Das Update-Skript sucht den Feed der Website, data/sources.json meldet den Status.
+  // =====================================================================
+  var CUSTOM_IDS = {};
+  var customStatus = [];
+  var GH_KEY = 'teconomic:ghToken', PENDING_KEY = 'teconomic:customPending';
+  var GH_REPO = (function(){
+    var m = location.hostname.match(/^([a-z0-9-]+)\.github\.io$/i);
+    var seg = location.pathname.split('/').filter(Boolean)[0];
+    return m && seg ? m[1] + '/' + seg : 'jxnbre/Teconomic-News';
+  })();
+  var ghBranch = null;
+
+  function ghToken(){ try{ return localStorage.getItem(GH_KEY) || ''; }catch(e){ return ''; } }
+  function registerSource(id, label, homepage){
+    CUSTOM_IDS[id] = true;
+    if(!SOURCE_BY_ID[id]){
+      var s = {id:id, label:label || id, homepage:homepage || '#', custom:true};
+      SOURCES.push(s); SOURCE_BY_ID[id] = s;
+    } else if(label){ SOURCE_BY_ID[id].label = label; }
+    if(FEED_SOURCES.indexOf(id) === -1) FEED_SOURCES.unshift(id);
+  }
+  function pendingList(){
+    var p = load(PENDING_KEY, []);
+    // nach 2 Stunden gilt ein Eintrag nicht mehr als „wird eingebunden“
+    return (Array.isArray(p) ? p : []).filter(function(x){ return Date.now() - x.t < 2 * 3600000; });
+  }
+  function loadCustomSources(){
+    return getJSON('data/sources.json').then(function(d){
+      customStatus = Array.isArray(d.custom) ? d.custom : [];
+    }).catch(function(){ customStatus = []; }).then(function(){
+      customStatus.forEach(function(c){ registerSource(c.id, c.label, c.homepage); });
+      pendingList().forEach(function(p){ if(p.action === 'add') registerSource(p.id, p.domain, p.url); });
+    });
+  }
+
+  function gh(method, path, body){
+    return fetch('https://api.github.com/repos/' + GH_REPO + path, {
+      method:method,
+      headers:{'Authorization':'Bearer ' + ghToken(), 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28'},
+      body: body ? JSON.stringify(body) : undefined
+    }).then(function(r){
+      if(r.status === 204) return null;
+      return r.json().catch(function(){ return null; }).then(function(j){
+        if(!r.ok){ var e = new Error((j && j.message) || ('HTTP ' + r.status)); e.status = r.status; throw e; }
+        return j;
+      });
+    });
+  }
+  function ghRepoInfo(){
+    if(ghBranch) return Promise.resolve(ghBranch);
+    return gh('GET', '').then(function(j){ ghBranch = j.default_branch || 'main'; return ghBranch; });
+  }
+  function b64encode(str){ return btoa(unescape(encodeURIComponent(str))); }
+  function b64decode(str){ return decodeURIComponent(escape(atob(String(str).replace(/\s/g, '')))); }
+  function readConfig(){
+    return ghRepoInfo().then(function(branch){
+      return gh('GET', '/contents/config/sources.json?ref=' + encodeURIComponent(branch)).then(function(j){
+        var data = {}; try{ data = JSON.parse(b64decode(j.content)); }catch(e){}
+        if(!Array.isArray(data.custom)) data.custom = [];
+        return {data:data, sha:j.sha, branch:branch};
+      }).catch(function(e){
+        if(e.status === 404) return {data:{custom:[]}, sha:null, branch:branch};
+        throw e;
+      });
+    });
+  }
+  function writeConfig(cfg, message){
+    var body = {message:message, content:b64encode(JSON.stringify(cfg.data, null, 2) + '\n'), branch:cfg.branch};
+    if(cfg.sha) body.sha = cfg.sha;
+    return gh('PUT', '/contents/config/sources.json', body);
+  }
+  function startRun(branch){
+    return gh('POST', '/actions/workflows/update.yml/dispatches', {ref:branch, inputs:{force_news:'true'}});
+  }
+  function ghError(e){
+    if(e.status === 401) return 'Der GitHub-Zugang ist ungültig oder abgelaufen. Bitte neu einrichten.';
+    if(e.status === 403) return 'Dem GitHub-Zugang fehlen Rechte (Contents und Actions: Read and write).';
+    if(e.status === 404) return 'Repository nicht gefunden. Ist der Zugang für ' + GH_REPO + ' freigegeben?';
+    if(e.status === 409) return 'Gerade wurde gleichzeitig etwas geändert. Bitte nochmal versuchen.';
+    return 'Fehler bei GitHub: ' + e.message;
+  }
+  function customMsg(text, bad){
+    var el = document.getElementById('customMsg');
+    el.textContent = text || '';
+    el.style.color = bad ? 'var(--ink-orange)' : '';
+  }
+  function normalizeSite(input){
+    var v = String(input || '').trim();
+    if(!v) return null;
+    if(!/^https?:\/\//i.test(v)) v = 'https://' + v;
+    var u; try{ u = new URL(v); }catch(e){ return null; }
+    if(!/\./.test(u.hostname)) return null;
+    var domain = u.hostname.replace(/^www\./i, '').toLowerCase();
+    var id = domain.replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 40);
+    return {url:u.origin + (u.pathname !== '/' ? u.pathname : ''), domain:domain, id:id};
+  }
+
+  function renderCustom(){
+    var has = !!ghToken();
+    document.getElementById('ghSetup').hidden = has;
+    document.getElementById('ghReady').hidden = !has;
+    document.getElementById('ghForget').hidden = !has;
+    var pend = pendingList();
+    var rows = [];
+    var removing = {};
+    pend.forEach(function(p){ if(p.action === 'remove') removing[p.id] = true; });
+    customStatus.forEach(function(c){
+      if(removing[c.id]) return;
+      var info = c.ok ? (c.recent ? c.recent + ' aktuelle Meldungen' : 'keine neuen Meldungen in den letzten 30 Std.') +
+        (c.via === 'google' ? ' · über Google News' : '') : 'kein Nachrichten-Feed gefunden';
+      rows.push({id:c.id, label:c.label || c.domain, sub:c.domain + ' · ' + info, bad:!c.ok});
+    });
+    pend.forEach(function(p){
+      if(p.action !== 'add' || customStatus.some(function(c){ return c.id === p.id; })) return;
+      rows.push({id:p.id, label:p.domain, sub:'wird eingebunden, die ersten Meldungen erscheinen in ca. 3 bis 5 Minuten'});
+    });
+    var box = document.getElementById('customList');
+    box.innerHTML = rows.length ? '' : '<div class="section-sub">Noch keine eigenen Websites.</div>';
+    rows.forEach(function(r){
+      var el = document.createElement('div');
+      el.className = 'src-pref';
+      el.style.padding = '8px 0';
+      el.innerHTML = '<div style="min-width:0"><div class="name">' + esc(r.label) + '</div><div class="stock-sub"' + (r.bad ? ' style="color:var(--ink-orange)"' : '') + '>' + esc(r.sub) + '</div></div>' +
+        (has ? '<button type="button" class="rate-btn" aria-label="' + esc(r.label) + ' entfernen">Entfernen</button>' : '');
+      var btn = el.querySelector('button');
+      if(btn) btn.addEventListener('click', function(){ removeCustom(r.id, r.label, btn); });
+      box.appendChild(el);
+    });
+  }
+
+  function setPending(entry){
+    var p = pendingList().filter(function(x){ return x.id !== entry.id; });
+    p.push(entry); save(PENDING_KEY, p);
+  }
+
+  function addCustom(raw){
+    var site = normalizeSite(raw);
+    if(!site){ customMsg('Das sieht nicht wie eine Website-Adresse aus. Beispiel: fnweb.de', true); return; }
+    var pend = pendingList();
+    var removedNow = pend.some(function(p){ return p.id === site.id && p.action === 'remove'; });
+    var addedNow = pend.some(function(p){ return p.id === site.id && p.action === 'add'; });
+    if(addedNow || (customStatus.some(function(c){ return c.id === site.id; }) && !removedNow)){
+      customMsg(site.domain + ' ist schon dabei.'); return;
+    }
+    customMsg('Wird eingetragen …');
+    var cfg;
+    readConfig().then(function(c){
+      cfg = c;
+      cfg.data.custom = cfg.data.custom.filter(function(x){ return x.id !== site.id; });
+      cfg.data.custom.push({id:site.id, url:site.url, added:new Date().toISOString().slice(0, 10)});
+      return writeConfig(cfg, 'Eigene Website hinzugefügt: ' + site.domain);
+    }).then(function(){
+      return startRun(cfg.branch).catch(function(){ return 'norun'; });
+    }).then(function(res){
+      setPending({id:site.id, domain:site.domain, url:site.url, action:'add', t:Date.now()});
+      if(srcPrefs[site.id] === 'off'){ delete srcPrefs[site.id]; save(PKEY, srcPrefs); }
+      registerSource(site.id, site.domain, site.url);
+      document.getElementById('customInput').value = '';
+      customMsg(res === 'norun'
+        ? 'Hinzugefügt. Sie wird beim nächsten automatischen Lauf eingebunden (der Zugang darf keine Läufe starten).'
+        : 'Hinzugefügt. In ca. 3 bis 5 Minuten die Seite neu laden, dann sind die ersten Meldungen da.');
+      renderCustom(); renderSourcePrefs();
+    }).catch(function(e){ customMsg(ghError(e), true); });
+  }
+
+  function removeCustom(id, label, btn){
+    if(btn.getAttribute('data-armed') !== '1'){
+      btn.setAttribute('data-armed', '1'); btn.textContent = 'Wirklich entfernen?';
+      setTimeout(function(){ btn.removeAttribute('data-armed'); btn.textContent = 'Entfernen'; }, 4000);
+      return;
+    }
+    customMsg('Wird entfernt …');
+    var cfg;
+    readConfig().then(function(c){
+      cfg = c;
+      cfg.data.custom = cfg.data.custom.filter(function(x){ return x.id !== id; });
+      return writeConfig(cfg, 'Eigene Website entfernt: ' + label);
+    }).then(function(){
+      return startRun(cfg.branch).catch(function(){ return null; });
+    }).then(function(){
+      setPending({id:id, action:'remove', t:Date.now()});
+      srcPrefs[id] = 'off'; save(PKEY, srcPrefs);      // sofort aus „Heute“ ausblenden
+      orderedStories = null;
+      customMsg(label + ' wurde entfernt.');
+      renderCustom(); renderSourcePrefs(); renderTopStories();
+    }).catch(function(e){ customMsg(ghError(e), true); });
+  }
+
+  document.getElementById('ghTokenForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var inp = document.getElementById('ghTokenInput');
+    var t = inp.value.trim();
+    if(!t){ return; }
+    try{ localStorage.setItem(GH_KEY, t); }catch(err){ customMsg('Dieser Browser erlaubt kein Speichern.', true); return; }
+    inp.value = '';
+    customMsg('Zugang wird geprüft …');
+    ghBranch = null;
+    ghRepoInfo().then(function(){
+      customMsg('GitHub-Zugang gespeichert. Du kannst jetzt Websites hinzufügen.');
+      renderCustom();
+    }).catch(function(err){
+      try{ localStorage.removeItem(GH_KEY); }catch(x){}
+      customMsg(ghError(err), true); renderCustom();
+    });
+  });
+  document.getElementById('customForm').addEventListener('submit', function(e){
+    e.preventDefault(); addCustom(document.getElementById('customInput').value);
+  });
+  document.getElementById('ghForget').addEventListener('click', function(){
+    try{ localStorage.removeItem(GH_KEY); }catch(e){}
+    ghBranch = null; customMsg('GitHub-Zugang von diesem Gerät entfernt.'); renderCustom();
+  });
 
   // Fallback, falls die Datenbank (noch) nichts liefert
   var FALLBACK_TOP_STORIES = [
@@ -1185,7 +1423,7 @@
     el.innerHTML = '<span class="stand' + (st.stale ? ' is-stale' : '') + '">' + esc(st.text) + '</span>' + (extra ? ' · ' + extra : '');
   }
 
-  getJSON('data/news.json').then(function(data){
+  loadCustomSources().then(function(){ return getJSON('data/news.json'); }).then(function(data){
     newsDate = data.date || null;
     if(Array.isArray(data.topStories) && data.topStories.length){
       renderTopStories(data.topStories);
@@ -1509,7 +1747,7 @@
   if(!srcPrefs || typeof srcPrefs !== 'object' || Array.isArray(srcPrefs)) srcPrefs = {};
   var learn = load(LKEY, {items:{}});
   if(!learn || typeof learn.items !== 'object') learn = {items:{}};
-  function srcPref(id){ return srcPrefs[id] || 'normal'; }
+  function srcPref(id){ return srcPrefs[id] || (CUSTOM_IDS[id] ? 'fav' : 'normal'); }
 
   function learnFrom(id, val, a){
     if(val === 0 || val === 1){
@@ -1613,7 +1851,10 @@
   function renderSourcePrefs(){
     var box = document.getElementById('sourcePrefs');
     box.innerHTML = '';
+    var removed = {};
+    pendingList().forEach(function(p){ if(p.action === 'remove') removed[p.id] = true; });
     FEED_SOURCES.forEach(function(id){
+      if(removed[id]) return;
       var row = document.createElement('div');
       row.className = 'src-pref';
       row.innerHTML = '<div class="name"><span class="dot" style="background:var(--src-' + id + ', var(--gray))"></span>' + srcLabelHTML(id) + '</div>' +
@@ -1625,7 +1866,7 @@
       Array.prototype.forEach.call(row.querySelectorAll('.seg'), function(b){
         b.addEventListener('click', function(){
           var v = b.getAttribute('data-v');
-          if(v === 'normal') delete srcPrefs[id]; else srcPrefs[id] = v;
+          if(v === 'normal' && !CUSTOM_IDS[id]) delete srcPrefs[id]; else srcPrefs[id] = v;
           save(PKEY, srcPrefs);
           orderedStories = null;
           renderSourcePrefs(); renderTopStories();
@@ -1696,6 +1937,7 @@
       b.addEventListener('click', function(){ topics.push(s); saveTopics(); });
       sug.appendChild(b);
     });
+    renderCustom();
     renderSourcePrefs();
     renderArchive();
   }
