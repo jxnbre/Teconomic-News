@@ -514,26 +514,17 @@
   <!-- ================= MEINE THEMEN ================= -->
   <div class="view" data-view="themen" hidden>
     <section class="section">
-      <div class="section-head"><div><h2>Meine Themen</h2><div class="section-sub">Stichworte, denen du folgen willst. Passende Meldungen werden markiert.</div></div></div>
-      <div class="group card-pad">
-        <div class="chips" id="topicChips"></div>
-        <form class="topic-form" id="topicForm">
+      <div class="section-head"><div><h2>Meine Themen</h2><div class="section-sub">Themen, denen du folgst, mit den neuesten Meldungen der letzten 7 Tage. Passende Meldungen werden unter „Heute“ markiert.</div></div></div>
+      <div class="group" id="followList"></div>
+      <div class="group card-pad" style="margin-top:10px">
+        <div class="chips" id="topicChips" hidden></div>
+        <form class="topic-form" id="topicForm" style="margin-top:0">
           <input class="field" id="topicInput" type="text" maxlength="40" placeholder="Neues Thema, z. B. SAP oder Inflation" aria-label="Neues Thema">
           <button class="btn" type="submit">Hinzufügen</button>
         </form>
         <div class="section-sub" style="margin-top:12px">Vorschläge:</div>
         <div class="chips" id="topicSuggest" style="margin-top:6px"></div>
       </div>
-    </section>
-
-    <section class="section" id="followSection" hidden>
-      <div class="section-head">
-        <div>
-          <h2>Verfolgte Themen</h2>
-          <div class="section-sub">Neueste Meldungen der letzten 7 Tage zu deinen Themen</div>
-        </div>
-      </div>
-      <div class="group" id="followList"></div>
     </section>
 
     <section class="section">
@@ -1569,10 +1560,11 @@
   }
   var newsDate = null;
   function renderFollow(){
-    var sec = document.getElementById('followSection');
     var box = document.getElementById('followList');
-    if(!topics.length){ sec.hidden = true; return; }
-    sec.hidden = false;
+    if(!topics.length){
+      box.innerHTML = '<div class="empty">Noch keine Themen. Füge unten eins hinzu oder tippe unter „Heute“ bei einer Meldung auf „Thema verfolgen“.</div>';
+      return;
+    }
     var todays = (currentStories || []).map(function(a){ return {day:newsDate, a:a}; });
     getArchiveIndex().then(function(days){
       return Promise.all(days.slice(0, 7).map(function(d){
