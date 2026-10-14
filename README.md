@@ -7,16 +7,31 @@ Dashboard mit Nachrichten, Podcast und Kursen zu Wirtschaft, Technologie und KI.
 | Bereich | Wann | Quelle |
 |---|---|---|
 | Aktien, Indizes, Krypto, Devisen | stündlich | Yahoo Finance |
-| Top-Meldungen mit KI-Kernaussage | täglich ab ca. 7:00 Uhr | RSS-Feeds (Tagesschau, Spiegel, FAZ, Heise, t3n u. a.) + Claude |
+| Top-Meldungen mit KI-Kernaussage | täglich ab ca. 7:00 Uhr | 23 RSS-Feeds (Tagesschau, Spiegel, Handelsblatt, Heise, The Decoder u. a.) + Claude |
 | Podcast-Folge mit Kernaussagen | täglich ab ca. 7:00 Uhr | Feed des Handelsblatt Morning Briefing + Claude |
 
 GitHub startet geplante Läufe manchmal mit 10 bis 30 Minuten Verspätung.
+
+## Neu (Oktober 2026)
+
+- **15 statt 5 Meldungen pro Tag.** Oben stehen 5, der Rest über „Weitere Meldungen anzeigen“.
+- **Dubletten zusammengefasst.** Berichten mehrere Quellen über dasselbe, erscheint es einmal mit „Auch berichtet von: …“.
+- **Sortierung „Für dich“.** Lernt aus „Relevant“ / „Nicht relevant“ (Schlagworte, Quelle, Bereich) und sortiert ab dem nächsten Laden danach. Umschaltbar auf „Nach Wichtigkeit“. Unter „Meine Themen“ steht, was gelernt wurde.
+- **Quellen einstellen.** Unter „Meine Themen → Quellen“: Bevorzugt / Normal / Aus.
+- **Thema verfolgen.** Button an jeder Meldung. Verfolgte Themen stehen 7 Tage lang unter „Heute“.
+- **Stand-Anzeige.** Uhrzeit und Alter der Ausgabe, Warnung wenn es noch keine Ausgabe von heute gibt.
+- **Aktienkurse.** Gebündelter Abruf (ca. 4 statt 80 Anfragen), Kennzeichnung „verzögert“, veraltete Werte grau, fehlende Werte als „keine Daten“.
+- Werbung („Anzeige:“) wird aussortiert, Kernaussagen werden an Wortgrenzen gekürzt.
+
+Bewertungen, Quellen-Einstellungen und verfolgte Themen werden nur im eigenen Browser gespeichert.
 
 ## Dateien
 
 - `index.html`: das Dashboard
 - `data/news.json`, `data/markets.json`: die Daten, die das Dashboard lädt
 - `scripts/update.py`: holt neue Daten
+- `config/sources.json`: eigene Websites (wird vom Dashboard gepflegt)
+- `data/sources.json`: Status der eigenen Websites (wird vom Skript geschrieben)
 - `.github/workflows/update.yml`: Zeitplan und Veröffentlichung
 
 ## Einrichtung (einmalig, ca. 15 Minuten)
@@ -63,6 +78,36 @@ Optional: Unter **Variables** eine Variable `CLAUDE_MODEL` anlegen, um ein ander
 - **Uhrzeit der Nachrichten:** `NEWS_HOUR` in `scripts/update.py`.
 - **Nachrichtenquellen:** Liste `FEEDS` in `scripts/update.py`. Die Quellen-ID muss in `SOURCES` in `index.html` vorkommen.
 - **Aktien:** `TICKERS` in `scripts/update.py` (Yahoo-Kürzel) und `STOCKS` in `index.html` (Anzeige). Die IDs müssen übereinstimmen.
+
+## Eigene Websites: einmalige Einrichtung
+
+Unter **Meine Themen → Quellen → Eigene Websites** kannst du eigene Nachrichtenseiten hinzufügen. Das Dashboard trägt sie in `config/sources.json` ein und startet sofort einen Lauf. Das Skript sucht den Nachrichten-Feed der Seite (sonst ihre Schlagzeilen über Google News), die KI nimmt passende Meldungen zu Wirtschaft, Technologie und KI bevorzugt auf.
+
+Dafür braucht das Dashboard einmal pro Gerät einen GitHub-Zugang:
+
+1. Auf github.com oben rechts auf dein Profilbild → **Settings** → ganz unten **Developer settings** → **Personal access tokens** → **Fine-grained tokens** → **Generate new token**.
+2. **Token name:** `Teconomic Dashboard`. **Expiration:** z. B. 1 Jahr.
+3. **Repository access:** **Only select repositories** → `Teconomic-News` auswählen.
+4. **Permissions → Repository permissions:**
+   - **Contents:** Read and write
+   - **Actions:** Read and write
+5. **Generate token**, den Schlüssel (beginnt mit `github_pat_`) kopieren.
+6. Im Dashboard unter **Meine Themen → Quellen → Eigene Websites** einfügen und **Speichern**.
+
+Der Schlüssel wird nur im Browser dieses Geräts gespeichert, nicht im Code. Er kann nur dieses eine Repository ändern. Bei Verlust auf GitHub unter Fine-grained tokens löschen.
+
+## Aktienkurse: wenn Werte fehlen
+
+Die kostenlosen Kursquellen sperren Anfragen aus GitHub Actions manchmal. So prüfst du den Zustand:
+
+1. `https://<dein-github-name>.github.io/teconomic-news/data/markets.json` öffnen.
+2. Unter `status` stehen `fresh` (aktuelle Werte), `missing` (ohne Daten), `hint` und `errors`.
+
+Steht dort, dass **Stooq einen API-Schlüssel verlangt**:
+
+1. Auf stooq.com eine Kursseite öffnen (z. B. `https://stooq.com/q/d/?s=sap.de`) und unten den Download als CSV anklicken. Stooq zeigt dann an, wie man den kostenlosen Schlüssel bekommt.
+2. Im Repository: **Settings → Secrets and variables → Actions → New repository secret**, Name `STOOQ_APIKEY`, Wert: der Schlüssel.
+3. Unter **Actions** den Workflow einmal von Hand starten.
 
 ## Hinweise
 
