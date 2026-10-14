@@ -580,7 +580,7 @@ def collect_candidates():
             print(f"  Feed fehlgeschlagen: {src} ({e.__class__.__name__}: {e})")
             continue
         for i in recent:
-            out.append({"src": src, "cat": cat, **{k: i[k] for k in ("title", "url", "summary")}})
+            out.append({"src": src, "cat": cat, "date": i["date"], **{k: i[k] for k in ("title", "url", "summary")}})
     print(f"Nachrichten: {len(out)} Kandidaten aus {len({c['src'] for c in out})} Quellen")
     return out
 
@@ -731,26 +731,31 @@ PODCAST: {podcast['title'] if podcast else '(nicht verfügbar)'}
 
 
 def fallback_selection(candidates, have_urls=()):
-    """Ohne KI: Dubletten zusammenfassen, dann Bereiche und Quellen abwechselnd mischen."""
+    """Ohne KI: Dubletten zusammenfassen und nach Nachrichtenlage des Tages sortieren,
+    nicht nach der festen Reihenfolge der Feeds. Kriterien:
+      1. Über wie viele Quellen wird das Ereignis berichtet? (wichtigstes Signal)
+      2. Wie frisch ist die Meldung?
+    Dazu höchstens 2 Meldungen je Quelle und eine Mischung der Bereiche."""
     groups = [g for g in group_duplicates(candidates) if not any(c["url"] in have_urls for c in g)]
-    # Ereignisse, über die mehrere Quellen berichten, sind meist wichtiger
-    groups.sort(key=lambda g: -len(g))
-    by_cat = {}
+    now = dt.datetime.now(dt.timezone.utc)
+
+    def score(g):
+        dates = [c.get("date") for c in g if c.get("date")]
+        hours = min((now - d).total_seconds() / 3600 for d in dates) if dates else 24
+        freshness = max(0.0, 1 - max(0.0, hours) / 30)          # 1 = gerade erschienen, 0 = 30 Std. alt
+        return 2.0 * (len(g) - 1) + freshness
+
+    groups.sort(key=score, reverse=True)
+    cat_cap = NEWS_COUNT // 2 + 1                                 # kein Bereich nimmt mehr als gut die Hälfte ein
+    picked, per_src, per_cat = [], {}, {}
     for g in groups:
-        by_cat.setdefault(g[0]["cat"], []).append(g)
-    picked, per_src = [], {}
-    while len(picked) < NEWS_COUNT and any(by_cat.values()):
-        for cat in ("wirtschaft", "technologie", "ki"):
-            pool = by_cat.get(cat) or []
-            while pool:
-                g = pool.pop(0)
-                if per_src.get(g[0]["src"], 0) < 2:
-                    per_src[g[0]["src"]] = per_src.get(g[0]["src"], 0) + 1
-                    picked.append(story_from(g))
-                    break
-            if len(picked) >= NEWS_COUNT:
-                break
-        if all(not v for v in by_cat.values()):
+        src, cat = g[0]["src"], g[0]["cat"]
+        if per_src.get(src, 0) >= 2 or per_cat.get(cat, 0) >= cat_cap:
+            continue
+        per_src[src] = per_src.get(src, 0) + 1
+        per_cat[cat] = per_cat.get(cat, 0) + 1
+        picked.append(story_from(g))
+        if len(picked) >= NEWS_COUNT:
             break
     return picked
 
