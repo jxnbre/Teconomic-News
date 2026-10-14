@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T09:12:17.903134+02:00",
-  "updatedAtLabel": "14.10.2026, 09:12 Uhr",
+  "updatedAt": "2026-10-14T09:59:06.624847+02:00",
+  "updatedAtLabel": "14.10.2026, 09:59 Uhr",
   "ai": false,
   "topStories": [
     {
@@ -37,114 +37,26 @@
       ]
     },
     {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/google-gemini-4-argon-rollout-preise-1768086/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Überraschung: Google veröffentlicht Gemini 4 Argon",
-      "takeaway": "Googles neuestes KI-Sprachmodell verlässt die geschlossene Testphase und zieht in die offizielle App des Anbieters ein. Die neuen Funktionen beim Programmieren und bei der Fehleranalyse haben für die …",
-      "topic": "Überraschung",
-      "tags": [
-        "Überraschung",
-        "Google",
-        "Gemini",
-        "Argon"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/google-gemini-4-argon-rollout-preise-1768086/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        },
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/google-veroeffentlicht-gemini-4-argon-neues-spitzenmodell-ab-sofort-weltweit-verfuegbar/"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "headline": "The Download: open model trade-offs and geothermal power’s promise",
-      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? …",
-      "topic": "Download",
-      "tags": [
-        "Download",
-        "trade-offs",
-        "geothermal",
-        "promise"
-      ],
-      "sources": [
-        {
-          "src": "techreview",
-          "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
-        }
-      ]
-    },
-    {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss",
-      "headline": "Zuckersteuer: Koalition legt Streit bei",
-      "takeaway": "Union und SPD wollen eine Steuer auf stark gezuckerte Getränke einführen. Um die Details wurde lange gerungen. Jetzt gibt es einen Kompromiss.",
-      "topic": "Zuckersteuer",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/konjunktur/inflation-grosshandelspreise-mit-staerkstem-anstieg-seit-2023/100262116.html",
+      "headline": "Inflation: Großhandelspreise mit stärkstem Anstieg seit Anfang 2023",
+      "takeaway": "Mit 8,7 Prozent steigen die Großhandelspreise im September so stark wie seit 2023 nicht. Am stärksten sind Mineralölerzeugnisse betroffen.",
+      "topic": "Großhandelspreise",
       "tags": [
-        "Zuckersteuer",
-        "Koalition",
-        "Streit",
-        "legt"
+        "Großhandelspreise",
+        "Inflation",
+        "Anstieg",
+        "Anfang"
       ],
       "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss"
-        },
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/bundesregierung-koalition-legt-streit-ueber-zuckersteuer-bei/100262029.html"
+          "url": "https://www.wiwo.de/politik/konjunktur/inflation-grosshandelspreise-mit-staerkstem-anstieg-seit-2023/100262116.html"
         },
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/zuckersteuer-koalition-legt-streit-bei-a-f9a4ad85-8da3-48b0-9355-252c716657ca#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Digitalministerium stellt klar: Kein Rückzug bei KI-Projekt mit SAP und Mistral",
-      "takeaway": "Das Digitalressort widerspricht Berichten über einen Projekt-Stopp mit Mistral: Die Zusammenarbeit laufe unverändert, der Bund setze weiter auf europäische KI.",
-      "topic": "Digitalministerium",
-      "tags": [
-        "Digitalministerium",
-        "KI-Projekt",
-        "Rückzug",
-        "Mistral"
-      ],
-      "sources": [
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "headline": "Open models have real benefits. Do they outweigh the risks?",
-      "takeaway": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late …",
-      "topic": "Open",
-      "tags": [
-        "Open",
-        "benefits",
-        "outweigh",
-        "models"
-      ],
-      "sources": [
-        {
-          "src": "techreview",
-          "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+          "url": "https://www.manager-magazin.de/unternehmen/grosshandelspreise-staerkster-anstieg-seit-dreieinhalb-jahren-treibt-inflation-a-538404fd-ae4f-4662-b31d-4b1f0ad04f63#ref=rss"
         }
       ]
     },
@@ -172,46 +84,6 @@
       ]
     },
     {
-      "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Meetings-heimlich-aufgenommen-OpenAI-Angestellter-festgenommen-und-gefeuert-11487158.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Wanze in Konferenzraum versteckt: OpenAI-Angestellter festgenommen",
-      "takeaway": "In einem Konferenzraum von OpenAI wurde ein verstecktes Aufzeichnungsgerät entdeckt. Der Mann, der es angebracht haben soll, wurde festgenommen – und gefeuert.",
-      "topic": "OpenAI-Angestellter",
-      "tags": [
-        "OpenAI-Angestellter",
-        "Konferenzraum",
-        "Wanze",
-        "festgenommen"
-      ],
-      "sources": [
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Meetings-heimlich-aufgenommen-OpenAI-Angestellter-festgenommen-und-gefeuert-11487158.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/",
-      "headline": "Offener Brief von 406 Wissenschaftlern fordert sofortige Abschottung von KI-Modellen vom Internet",
-      "takeaway": "In einem offenen Brief fordern 406 Wissenschaftler – darunter Geoffrey Hinton, Yoshua Bengio und Stuart Russell – sofortiges Airgapping von KI-Modellen und verbindliche Sicherheitsstandards. Anlass …",
-      "topic": "Wissenschaftlern",
-      "tags": [
-        "Wissenschaftlern",
-        "Abschottung",
-        "KI-Modellen",
-        "Internet"
-      ],
-      "sources": [
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/"
-        }
-      ]
-    },
-    {
       "cat": "wirtschaft",
       "src": "spiegel",
       "url": "https://www.spiegel.de/wirtschaft/unternehmen/bank-of-america-finanzministerium-ahndet-laxe-geldwaeschekontrollen-mit-milliardenstrafe-a-9b3ffe37-9558-422b-9fe6-9292926f4632#ref=rss",
@@ -231,91 +103,7 @@
         },
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/bank-of-america-geldwaesche-strafe-usa"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/wanze-im-konferenzraum-fbi-nimmt-openai-mitarbeiter-wegen-spionageverdachts-fest-1768113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Wanze im Konferenzraum: FBI nimmt OpenAI-Mitarbeiter wegen Spionageverdachts fest",
-      "takeaway": "In einem wichtigen Konferenzraum des ChatGPT-Entwicklers OpenAI wird ein Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter. weiterlesen auf t3n.de",
-      "topic": "OpenAI-Mitarbeiter",
-      "tags": [
-        "OpenAI-Mitarbeiter",
-        "Spionageverdachts",
-        "Konferenzraum",
-        "Wanze"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/wanze-im-konferenzraum-fbi-nimmt-openai-mitarbeiter-wegen-spionageverdachts-fest-1768113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/renommierter-informatiker-laesst-kein-gutes-haar-an-ai-doomern-und-naiven-nachwuchsforschern/",
-      "headline": "Renommierter Informatiker lässt kein gutes Haar an AI-Doomern und naiven Nachwuchsforschern",
-      "takeaway": "Michael I. Jordan, von Science als \"einflussreichster Informatiker\" bezeichnet, hält die Warnungen vor Superintelligenz für Science-Fiction. Rücktritte junger KI-Forscher nennt er \"moralisierende …",
-      "topic": "Nachwuchsforschern",
-      "tags": [
-        "Nachwuchsforschern",
-        "Renommierter",
-        "Informatiker",
-        "AI-Doomern"
-      ],
-      "sources": [
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/renommierter-informatiker-laesst-kein-gutes-haar-an-ai-doomern-und-naiven-nachwuchsforschern/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ueber-1-2-milliarden-dollar-strafe-fuer-bank-of-america-accg-201315938.html",
-      "headline": "Finanzkriminalität: Über 1,2 Milliarden Dollar Strafe für Bank of America",
-      "takeaway": "Der zweitgrößten US-Bank steht eine Milliarden-Strafzahlung ins Haus. Der US-Regierung zufolge waren ihre Kontrollen unter anderem bei Geldwäsche nicht strikt genug.",
-      "topic": "Finanzkriminalität",
-      "tags": [
-        "Finanzkriminalität",
-        "America",
-        "Strafe",
-        "Bank"
-      ],
-      "sources": [
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ueber-1-2-milliarden-dollar-strafe-fuer-bank-of-america-accg-201315938.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/banken/us-grossbank-ueber-12-milliarden-dollar-strafe-fuer-bank-of-amerika/100262038.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/maschinentraeume-4-halluzinationen-halunkinationen-und-fatale-fehler-2610-213888.html",
-      "headline": "Maschinenträume 4: Halluzinationen, Halunkinationen und fatale Fehler",
-      "takeaway": "KI stellt Fehldiagnosen, verwechselt Giftpilze und produziert unsicheren Code. Trotzdem soll sie immer mehr entscheiden. Was kann da schon schiefgehen? Von P. R. Rhesia ( Maschinenträume , KI )",
-      "topic": "Maschinenträume",
-      "tags": [
-        "Maschinenträume",
-        "Halluzinationen",
-        "Halunkinationen",
-        "Fehler"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/maschinentraeume-4-halluzinationen-halunkinationen-und-fatale-fehler-2610-213888.html"
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/bank-of-america-geldwaesche-strafe-usa-gxe"
         }
       ]
     },
@@ -340,6 +128,209 @@
         {
           "src": "managermagazin",
           "url": "https://www.manager-magazin.de/unternehmen/banken/bank-of-america-zweitgroesste-us-bank-muss-milliardenstrafe-wegen-geldwaesche-zahlen-a-3efa2c6b-b826-4039-b898-0ba162664630#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss",
+      "headline": "Zuckersteuer: Koalition legt Streit bei",
+      "takeaway": "Union und SPD wollen eine Steuer auf stark gezuckerte Getränke einführen. Um die Details wurde lange gerungen. Jetzt gibt es einen Kompromiss.",
+      "topic": "Zuckersteuer",
+      "tags": [
+        "Zuckersteuer",
+        "Koalition",
+        "Streit",
+        "legt"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/zuckersteuer-koalition-legt-streit-bei-a-f9a4ad85-8da3-48b0-9355-252c716657ca#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
+      "headline": "Alexander Schweitzer: „Ich habe damals deutlich gespürt: Ich muss aktiv werden“",
+      "takeaway": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte.",
+      "topic": "Schweitzer",
+      "tags": [
+        "Schweitzer",
+        "Alexander",
+        "Ich",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sport-englische-fussballclubs-haben-schulden-in-milliardenhoehe/100262138.html",
+      "headline": "Sport: Englische Fußballclubs haben Schulden in Milliardenhöhe",
+      "takeaway": "Englands Fußballbehörde schlägt Alarm. Die Finanzen vieler Clubs seien katastrophal, viele von ihnen „technisch insolvent“. 94 Prozent aller englischen Profi-Vereine erwirtschaften Verluste.",
+      "topic": "Milliardenhöhe",
+      "tags": [
+        "Milliardenhöhe",
+        "Fußballclubs",
+        "Englische",
+        "Schulden"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sport-englische-fussballclubs-haben-schulden-in-milliardenhoehe/100262138.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/ki-agenten-aufseher-in-usa-und-europa-pruefen-ki-risiken-bei-banken-2610-214079.html",
+      "headline": "KI-Agenten: Aufseher in USA und Europa prüfen KI-Risiken bei Banken",
+      "takeaway": "US-Aufseher fragen Banken, wie sie KI-Agenten kontrollieren und abschalten. Auch in Europa wächst die Sorge. ( Wirtschaft , OpenAI )",
+      "topic": "KI-Agenten",
+      "tags": [
+        "KI-Agenten",
+        "KI-Risiken",
+        "Aufseher",
+        "Europa"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/ki-agenten-aufseher-in-usa-und-europa-pruefen-ki-risiken-bei-banken-2610-214079.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/ki-in-der-eu-nvidia-investiert-in-doctolib-2610-214077.html",
+      "headline": "KI in der EU: Nvidia investiert in Doctolib",
+      "takeaway": "Doctolib will KI-Systeme für Patientendaten entwickeln. Nvidia soll die Grundlage dafür stellen. ( Nvidia , KI )",
+      "topic": "Doctolib",
+      "tags": [
+        "Doctolib",
+        "Nvidia",
+        "investiert"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/ki-in-der-eu-nvidia-investiert-in-doctolib-2610-214077.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/datenleck-bei-autohaeusern-so-erkennst-du-gefaelschte-zahlungsaufforderungen-1768121/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Datenleck bei Autohäusern: So erkennst du gefälschte Zahlungsaufforderungen",
+      "takeaway": "Autokäufer könnten sich nun Betrugsversuchen gegenübersehen, die besonders schwierig zu erkennen sind. Vor allem Häuser mit Marken eines Konzerns nutzen das System und könnten betroffen sein. …",
+      "topic": "Zahlungsaufforderungen",
+      "tags": [
+        "Zahlungsaufforderungen",
+        "Autohäusern",
+        "Datenleck",
+        "gefälschte"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/datenleck-bei-autohaeusern-so-erkennst-du-gefaelschte-zahlungsaufforderungen-1768121/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/typographic-intelligence-warum-designsysteme-nicht-mehr-ausreichen-1761122/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Typographic Intelligence: Warum Designsysteme nicht mehr ausreichen",
+      "takeaway": "KI beschleunigt kreative Prozesse und ermöglicht immer mehr Output in immer kürzerer Zeit. Doch damit entsteht ein neuer Engpass: die fundierte Entscheidung. Moderne Markenführung braucht Systeme …",
+      "topic": "Designsysteme",
+      "tags": [
+        "Designsysteme",
+        "Intelligence",
+        "Typographic",
+        "ausreichen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/typographic-intelligence-warum-designsysteme-nicht-mehr-ausreichen-1761122/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Digitalministerium stellt klar: Kein Rückzug bei KI-Projekt mit SAP und Mistral",
+      "takeaway": "Das Digitalressort widerspricht Berichten über einen Projekt-Stopp mit Mistral: Die Zusammenarbeit laufe unverändert, der Bund setze weiter auf europäische KI.",
+      "topic": "Digitalministerium",
+      "tags": [
+        "Digitalministerium",
+        "KI-Projekt",
+        "Rückzug",
+        "Mistral"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "headline": "Peacock Promo Codes: 40% Off October 2026",
+      "takeaway": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "topic": "Peacock",
+      "tags": [
+        "Peacock",
+        "October",
+        "Promo",
+        "Codes"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/peacock-promo-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "headline": "Dell Coupon Codes: 20% Off for October 2026",
+      "takeaway": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "topic": "October",
+      "tags": [
+        "October",
+        "Coupon",
+        "Codes",
+        "Dell"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/dell-coupon-code/"
         }
       ]
     }

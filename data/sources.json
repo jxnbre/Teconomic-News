@@ -1,0 +1,14 @@
+{
+  "custom": [
+    {
+      "id": "hms-harvard-edu",
+      "label": "hms.harvard.edu",
+      "homepage": "https://hms.harvard.edu/news",
+      "domain": "hms.harvard.edu",
+      "via": null,
+      "ok": false,
+      "recent": 0
+    }
+  ],
+  "checkedAt": "2026-10-14T09:59:03.491639+02:00"
+}
