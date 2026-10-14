@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T07:37:01.333975+02:00",
-  "updatedAtLabel": "14.10.2026, 07:37 Uhr",
+  "updatedAt": "2026-10-14T09:12:17.903134+02:00",
+  "updatedAtLabel": "14.10.2026, 09:12 Uhr",
   "ai": false,
   "topStories": [
     {
@@ -99,12 +99,75 @@
           "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss"
         },
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/koalition-legt-streit-ueber-zuckersteuer-bei-accg-201315884.html"
-        },
-        {
           "src": "wiwo",
           "url": "https://www.wiwo.de/politik/deutschland/bundesregierung-koalition-legt-streit-ueber-zuckersteuer-bei/100262029.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/zuckersteuer-koalition-legt-streit-bei-a-f9a4ad85-8da3-48b0-9355-252c716657ca#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Digitalministerium stellt klar: Kein Rückzug bei KI-Projekt mit SAP und Mistral",
+      "takeaway": "Das Digitalressort widerspricht Berichten über einen Projekt-Stopp mit Mistral: Die Zusammenarbeit laufe unverändert, der Bund setze weiter auf europäische KI.",
+      "topic": "Digitalministerium",
+      "tags": [
+        "Digitalministerium",
+        "KI-Projekt",
+        "Rückzug",
+        "Mistral"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "headline": "Open models have real benefits. Do they outweigh the risks?",
+      "takeaway": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late …",
+      "topic": "Open",
+      "tags": [
+        "Open",
+        "benefits",
+        "outweigh",
+        "models"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
+      "headline": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
+      "takeaway": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an. Ob das in Ordnung ist, muss nun das Verfassungsgericht …",
+      "topic": "Bundesverfassungsgericht",
+      "tags": [
+        "Bundesverfassungsgericht",
+        "Erbschaftsteuer",
+        "gerecht"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben-a-b94502b9-729f-4058-a884-c67ddeb2fecd#ref=rss"
         }
       ]
     },
@@ -130,21 +193,21 @@
     },
     {
       "cat": "ki",
-      "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "headline": "Open models have real benefits. Do they outweigh the risks?",
-      "takeaway": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late …",
-      "topic": "Open",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/",
+      "headline": "Offener Brief von 406 Wissenschaftlern fordert sofortige Abschottung von KI-Modellen vom Internet",
+      "takeaway": "In einem offenen Brief fordern 406 Wissenschaftler – darunter Geoffrey Hinton, Yoshua Bengio und Stuart Russell – sofortiges Airgapping von KI-Modellen und verbindliche Sicherheitsstandards. Anlass …",
+      "topic": "Wissenschaftlern",
       "tags": [
-        "Open",
-        "benefits",
-        "outweigh",
-        "models"
+        "Wissenschaftlern",
+        "Abschottung",
+        "KI-Modellen",
+        "Internet"
       ],
       "sources": [
         {
-          "src": "techreview",
-          "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/"
         }
       ]
     },
@@ -174,85 +237,21 @@
     },
     {
       "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/HomeView-Apples-neue-Heimzentrale-in-zweifacher-Ausfuehrung-11484991.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "HomeView: Apples neue Heimzentrale in zweifacher Ausführung",
-      "takeaway": "Nach langer Wartezeit hat Apple sein neues Heimgerät fertig. Damit kommt nach der Apple Watch eine neue Modellreihe hinzu. EU-Bürger brauchen allerdings Geduld.",
-      "topic": "Heimzentrale",
-      "tags": [
-        "Heimzentrale",
-        "Ausführung",
-        "HomeView",
-        "Apples"
-      ],
-      "sources": [
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/HomeView-Apples-neue-Heimzentrale-in-zweifacher-Ausfuehrung-11484991.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/",
-      "headline": "Offener Brief von 406 Wissenschaftlern fordert sofortige Abschottung von KI-Modellen vom Internet",
-      "takeaway": "In einem offenen Brief fordern 406 Wissenschaftler – darunter Geoffrey Hinton, Yoshua Bengio und Stuart Russell – sofortiges Airgapping von KI-Modellen und verbindliche Sicherheitsstandards. Anlass …",
-      "topic": "Wissenschaftlern",
-      "tags": [
-        "Wissenschaftlern",
-        "Abschottung",
-        "KI-Modellen",
-        "Internet"
-      ],
-      "sources": [
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/offener-brief-von-406-wissenschaftlern-fordert-sofortige-abschottung-von-ki-modellen-vom-internet/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/nvidia-doctolib-beteiligung-ki-plattform-gesundheit",
-      "headline": "Künstliche Intelligenz: Nvidia übernimmt Anteile von Ärzteplattform Doctolib",
-      "takeaway": "Der Techkonzern Nvidia ist Minderheitsaktionär beim Praxisdienstleister Doctolib geworden. Das französische Unternehmen erhofft sich dadurch auch Zugang zu KI-Experten.",
-      "topic": "Ärzteplattform",
-      "tags": [
-        "Ärzteplattform",
-        "Intelligenz",
-        "Künstliche",
-        "Doctolib"
-      ],
-      "sources": [
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/nvidia-doctolib-beteiligung-ki-plattform-gesundheit"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/doctolib-nvidia-beteiligt-sich-an-aerzteplattform-a-1f32a7ff-a4ab-45c1-acad-bb709cd647a4#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/smarthome-apple-homeview-hub-1768033/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Homeview-Hub, Thermostate und Türschloss: Apple zeigt neue Smarthome-Produkte – doch es gibt einen Haken",
-      "takeaway": "Apple hat eine Reihe von neuen Smarthome-Produkten vorgestellt. Im Zentrum der Ankündigung steht dabei der neue Homeview-Hub. Was du zu den neuen Gadgets wissen musst. weiterlesen auf t3n.de",
-      "topic": "Smarthome-Produkte",
+      "url": "https://t3n.de/news/wanze-im-konferenzraum-fbi-nimmt-openai-mitarbeiter-wegen-spionageverdachts-fest-1768113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Wanze im Konferenzraum: FBI nimmt OpenAI-Mitarbeiter wegen Spionageverdachts fest",
+      "takeaway": "In einem wichtigen Konferenzraum des ChatGPT-Entwicklers OpenAI wird ein Aufnahmegerät entdeckt. Nach einer Festnahme ermittelt das FBI weiter. weiterlesen auf t3n.de",
+      "topic": "OpenAI-Mitarbeiter",
       "tags": [
-        "Smarthome-Produkte",
-        "Homeview-Hub",
-        "Thermostate",
-        "Türschloss"
+        "OpenAI-Mitarbeiter",
+        "Spionageverdachts",
+        "Konferenzraum",
+        "Wanze"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/smarthome-apple-homeview-hub-1768033/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/wanze-im-konferenzraum-fbi-nimmt-openai-mitarbeiter-wegen-spionageverdachts-fest-1768113/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
@@ -278,60 +277,69 @@
     },
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
-      "headline": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
-      "takeaway": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? …",
-      "topic": "Hybrid-Importe",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ueber-1-2-milliarden-dollar-strafe-fuer-bank-of-america-accg-201315938.html",
+      "headline": "Finanzkriminalität: Über 1,2 Milliarden Dollar Strafe für Bank of America",
+      "takeaway": "Der zweitgrößten US-Bank steht eine Milliarden-Strafzahlung ins Haus. Der US-Regierung zufolge waren ihre Kontrollen unter anderem bei Geldwäsche nicht strikt genug.",
+      "topic": "Finanzkriminalität",
       "tags": [
-        "Hybrid-Importe",
-        "Autobauer",
-        "profitieren",
-        "deutsche"
+        "Finanzkriminalität",
+        "America",
+        "Strafe",
+        "Bank"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ueber-1-2-milliarden-dollar-strafe-fuer-bank-of-america-accg-201315938.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/banken/us-grossbank-ueber-12-milliarden-dollar-strafe-fuer-bank-of-amerika/100262038.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/llm-googles-neue-top-ki-gemini-4-argon-ist-da-2610-214075.html",
-      "headline": "LLM: Googles neue Top-KI Gemini 4 Argon ist da",
-      "takeaway": "Googles neues KI-Modell Gemini 4 Argon ist zunächst für Sicherheitsexperten gedacht. Ziel ist es, Schwachstellen autonom zu finden und zu schließen. ( Gemini , Google )",
-      "topic": "Googles",
+      "url": "https://www.golem.de/news/maschinentraeume-4-halluzinationen-halunkinationen-und-fatale-fehler-2610-213888.html",
+      "headline": "Maschinenträume 4: Halluzinationen, Halunkinationen und fatale Fehler",
+      "takeaway": "KI stellt Fehldiagnosen, verwechselt Giftpilze und produziert unsicheren Code. Trotzdem soll sie immer mehr entscheiden. Was kann da schon schiefgehen? Von P. R. Rhesia ( Maschinenträume , KI )",
+      "topic": "Maschinenträume",
       "tags": [
-        "Googles",
-        "Top-KI",
-        "Gemini",
-        "Argon"
+        "Maschinenträume",
+        "Halluzinationen",
+        "Halunkinationen",
+        "Fehler"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/llm-googles-neue-top-ki-gemini-4-argon-ist-da-2610-214075.html"
+          "url": "https://www.golem.de/news/maschinentraeume-4-halluzinationen-halunkinationen-und-fatale-fehler-2610-213888.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
-      "headline": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
-      "takeaway": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an. Ob das in Ordnung ist, muss nun das Verfassungsgericht …",
-      "topic": "Bundesverfassungsgericht",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Bank-of-America-muss-Milliardenstrafe-zahlen-id31415280.html",
+      "headline": "Kampf gegen Geldwäsche: Bank of America muss Milliardenstrafe zahlen",
+      "takeaway": "Das US-Finanzministerium verhängt gegen die Bank of America die bisher dritthöchste Geldstrafe seiner Geschichte. Das Finanzinstitut muss über eine Milliarde Dollar entrichten, weil es verdächtige …",
+      "topic": "Milliardenstrafe",
       "tags": [
-        "Bundesverfassungsgericht",
-        "Erbschaftsteuer",
-        "gerecht"
+        "Milliardenstrafe",
+        "Geldwäsche",
+        "America",
+        "Kampf"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Bank-of-America-muss-Milliardenstrafe-zahlen-id31415280.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/banken/bank-of-america-zweitgroesste-us-bank-muss-milliardenstrafe-wegen-geldwaesche-zahlen-a-3efa2c6b-b826-4039-b898-0ba162664630#ref=rss"
         }
       ]
     }
