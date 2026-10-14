@@ -568,6 +568,130 @@ def parse_feed(raw):
     return [i for i in items if i["title"] and i["url"]]
 
 
+# ---------------------------------------------------------------- Eigene Websites
+# Das Dashboard trägt eigene Websites in config/sources.json ein (über die GitHub-API).
+# Hier wird für jede Website ein Nachrichten-Feed gesucht; das Ergebnis landet in
+# data/sources.json, damit das Dashboard Namen und Status anzeigen kann.
+
+CONFIG = os.path.join(ROOT, "config")
+FEED_LINK = re.compile(r"<link\b[^>]*type=[\"']application/(?:rss|atom)\+xml[\"'][^>]*>", re.I)
+HREF = re.compile(r"href=[\"']([^\"']+)[\"']", re.I)
+TITLE_ATTR = re.compile(r"title=[\"']([^\"']+)[\"']", re.I)
+RELEVANT = re.compile(
+    r"wirtschaft|unternehm|konzern|\bfirm(a|en)\b|börse|aktie|anleger|\bbank|\bzins|inflation|\bpreis(e|n)?\b|"
+    r"\bpreiserhöh|\beuro\b|\bdollar|umsatz|\bgewinn(e|s|warnung)?\b|\bverlust|insolvenz|pleite|investi|"
+    r"\bmärkte\b|\bmarkt\b|\bhandel|export|import|\bzölle?\b|\bsteuer(n|reform)?\b|haushalt|arbeitsplätz|"
+    r"\bjobs?\b|arbeitsmarkt|\btarif|\bstreik|industrie|mittelstand|start-?ups?|gründer|energie|\bstrom|"
+    r"\bgas\b|\böl(preis)?\b|immobilie|\bmiete|konjunktur|wachstum|rezession|\bezb\b|notenbank|"
+    r"technolog|digital|software|internet|\bdaten|cyber|hacker|\bchips?\b|halbleiter|smartphone|\bapps?\b|"
+    r"plattform|künstliche intelligenz|\bki\b|\bai\b|roboter|automatis|e-auto|elektroauto|batterie|"
+    r"economy|business|\bstocks?\b|\btech\b|startup", re.I)
+
+
+def domain_of(url):
+    host = urllib.parse.urlparse(url if "://" in url else "https://" + url).netloc.lower()
+    return host[4:] if host.startswith("www.") else host
+
+
+def load_custom_sources():
+    try:
+        with open(os.path.join(CONFIG, "sources.json"), encoding="utf-8") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        return []
+    except Exception as e:  # noqa: BLE001
+        print(f"  config/sources.json nicht lesbar ({e})")
+        return []
+    out = []
+    for s in data.get("custom", []):
+        url = str(s.get("url") or "").strip()
+        sid = re.sub(r"[^a-z0-9-]", "", str(s.get("id") or "").lower())
+        if url and sid:
+            out.append({"id": sid, "url": url if "://" in url else "https://" + url, "label": s.get("label") or ""})
+    return out
+
+
+def try_feed(url):
+    """Gibt (Einträge, Feed-Titel) zurück, wenn unter url ein lesbarer Feed liegt, sonst None."""
+    try:
+        raw = fetch(url, timeout=12, tries=1)
+        if not raw.lstrip()[:200].lower().startswith((b"<?xml", b"<rss", b"<feed", b"<rdf")):
+            return None
+        items = parse_feed(raw)
+        if not items:
+            return None
+        root = ET.fromstring(raw)
+        title = (root.findtext("channel/title") or root.findtext("{http://www.w3.org/2005/Atom}title") or "").strip()
+        return items, title
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def resolve_custom(src):
+    """Sucht den Feed einer Website: 1. Adresse ist schon ein Feed, 2. Feed-Link in der Startseite,
+    3. übliche Feed-Adressen, 4. Schlagzeilen der Website über Google News."""
+    url, dom = src["url"], domain_of(src["url"])
+    found = try_feed(url)
+    if found:
+        return {"feed": url, "via": "rss", "items": found[0], "title": found[1]}
+    page = ""
+    try:
+        page = fetch(url, timeout=12, tries=1).decode("utf-8", "replace")
+    except Exception as e:  # noqa: BLE001
+        print(f"  {dom}: Startseite nicht erreichbar ({e.__class__.__name__})")
+    links = []
+    for tag in FEED_LINK.findall(page):
+        m = HREF.search(tag)
+        if m:
+            links.append(urllib.parse.urljoin(url, html.unescape(m.group(1))))
+    base = f"https://{urllib.parse.urlparse(url).netloc}"
+    links += [base + p for p in ("/feed", "/rss", "/rss.xml", "/feed.xml", "/index.rss", "/feed/rss", "/rss/")]
+    seen = set()
+    for link in links:
+        if link in seen:
+            continue
+        seen.add(link)
+        found = try_feed(link)
+        if found:
+            return {"feed": link, "via": "rss", "items": found[0], "title": found[1]}
+    gn = ("https://news.google.com/rss/search?q=" + urllib.parse.quote(f"site:{dom} when:2d")
+          + "&hl=de&gl=DE&ceid=DE:de")
+    found = try_feed(gn)
+    if found:
+        items = found[0]
+        for i in items:  # Google News hängt „ - Quelle“ an die Überschrift
+            i["title"] = re.sub(r"\s+[-–]\s+[^-–]{2,60}$", "", i["title"])
+        return {"feed": gn, "via": "google", "items": items, "title": ""}
+    return {"feed": None, "via": None, "items": [], "title": ""}
+
+
+def custom_label(src, title, dom):
+    if src.get("label"):
+        return src["label"]
+    title = re.split(r"\s+[-–|:]\s+", title or "")[0].strip()
+    return title[:40] if 2 < len(title) <= 40 else dom
+
+
+def collect_custom(cutoff):
+    out, status = [], []
+    for src in load_custom_sources():
+        dom = domain_of(src["url"])
+        res = resolve_custom(src)
+        label = custom_label(src, res["title"], dom)
+        recent = [i for i in res["items"] if (not i["date"] or i["date"] > cutoff)
+                  and not AD_PATTERN.search(i["title"])]
+        for i in recent[:PER_FEED]:
+            out.append({"src": src["id"], "cat": "wirtschaft", "date": i["date"], "fav": True,
+                        "relevant": bool(RELEVANT.search(i["title"] + " " + i["summary"])),
+                        **{k: i[k] for k in ("title", "url", "summary")}})
+        status.append({"id": src["id"], "label": label, "homepage": src["url"], "domain": dom,
+                       "via": res["via"], "ok": bool(res["feed"]), "recent": len(recent)})
+        print(f"  Eigene Website {dom}: {'Feed gefunden' if res['feed'] else 'kein Feed'}"
+              f" ({res['via'] or '-'}), {len(recent)} aktuelle Meldungen")
+    save_json("sources.json", {"custom": status, "checkedAt": now_berlin().isoformat()})
+    return out
+
+
 def collect_candidates():
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(hours=30)
     out = []
@@ -581,6 +705,10 @@ def collect_candidates():
             continue
         for i in recent:
             out.append({"src": src, "cat": cat, "date": i["date"], **{k: i[k] for k in ("title", "url", "summary")}})
+    try:
+        out += collect_custom(cutoff)
+    except Exception as e:  # noqa: BLE001
+        print(f"  Eigene Websites: Fehler ({e.__class__.__name__}: {e})")
     print(f"Nachrichten: {len(out)} Kandidaten aus {len({c['src'] for c in out})} Quellen")
     return out
 
@@ -690,7 +818,7 @@ def ask_claude(candidates, podcast):
         return None
     model = os.environ.get("CLAUDE_MODEL") or "claude-haiku-4-5-20251001"
     listing = "\n".join(
-        f"[{n}] ({c['src']}, {c['cat']}) {c['title']} :: {shorten(c['summary'], 220)}"
+        f"[{n}]{' ★' if c.get('fav') else ''} ({c['src']}, {c['cat']}) {c['title']} :: {shorten(c['summary'], 220)}"
         for n, c in enumerate(candidates))
     prompt = f"""Du kuratierst das Morgen-Dashboard "Teconomic News" für einen deutschen BWL-Studenten (International Business).
 
@@ -698,6 +826,7 @@ Aufgabe 1: Wähle aus den Meldungen unten die {NEWS_COUNT} wichtigsten des Tages
 - Berichten mehrere Quellen über dasselbe Ereignis, ist das EINE Meldung: nenne in "ids" alle zugehörigen Nummern, die beste Quelle zuerst.
 - Mische die Bereiche und Quellen: höchstens 3 Meldungen mit derselben Hauptquelle. Bevorzuge deutsche Quellen bei gleicher Relevanz.
 - Keine Werbung, keine Gewinnspiele, keine reinen Produkttests oder Kaufberatungen.
+- Mit ★ markierte Meldungen stammen aus Lieblings-Websites des Nutzers. Nimm sie bevorzugt auf (auch wenn sie etwas weniger wichtig sind), aber NUR, wenn sie wirklich zu Wirtschaft, Technologie oder KI gehören. Sport, Polizeimeldungen, Lokales ohne Wirtschaftsbezug oder Vermischtes lässt du weg. Die Kategorie bestimmst du selbst.
 Für jede Meldung:
 - "headline": deutsche Überschrift, max. 110 Zeichen, sachlich
 - "takeaway": Kernaussage in einem deutschen Satz, max. 170 Zeichen: worum es geht und warum es relevant ist. Neutral, keine Anlageempfehlung.
@@ -743,8 +872,11 @@ def fallback_selection(candidates, have_urls=()):
         dates = [c.get("date") for c in g if c.get("date")]
         hours = min((now - d).total_seconds() / 3600 for d in dates) if dates else 24
         freshness = max(0.0, 1 - max(0.0, hours) / 30)          # 1 = gerade erschienen, 0 = 30 Std. alt
-        return 2.0 * (len(g) - 1) + freshness
+        fav = 1.0 if any(c.get("fav") for c in g) else 0.0        # eigene Websites bevorzugen
+        return 2.0 * (len(g) - 1) + freshness + fav
 
+    # Meldungen eigener Websites ohne Wirtschafts-/Technik-Bezug weglassen
+    groups = [g for g in groups if not (g[0].get("fav") and not g[0].get("relevant"))]
     groups.sort(key=score, reverse=True)
     cat_cap = NEWS_COUNT // 2 + 1                                 # kein Bereich nimmt mehr als gut die Hälfte ein
     picked, per_src, per_cat = [], {}, {}
