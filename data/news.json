@@ -1,157 +1,82 @@
 {
-  "date": "2026-10-14",
-  "updatedAt": "2026-10-14T09:59:06.624847+02:00",
-  "updatedAtLabel": "14.10.2026, 09:59 Uhr",
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-15T07:29:44.678000+02:00",
+  "updatedAtLabel": "15.10.2026, 07:29 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-      "takeaway": "The Tuesday incident comes as the ChatGPT-maker, along with competitors, faces heightened scrutiny over its safety practices.",
-      "topic": "OpenAI",
-      "tags": [
-        "OpenAI",
-        "Saudi",
-        "FBI",
-        "conference"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
-        },
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/"
-        },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
-        },
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/konjunktur/inflation-grosshandelspreise-mit-staerkstem-anstieg-seit-2023/100262116.html",
-      "headline": "Inflation: Großhandelspreise mit stärkstem Anstieg seit Anfang 2023",
-      "takeaway": "Mit 8,7 Prozent steigen die Großhandelspreise im September so stark wie seit 2023 nicht. Am stärksten sind Mineralölerzeugnisse betroffen.",
-      "topic": "Großhandelspreise",
-      "tags": [
-        "Großhandelspreise",
-        "Inflation",
-        "Anstieg",
-        "Anfang"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/konjunktur/inflation-grosshandelspreise-mit-staerkstem-anstieg-seit-2023/100262116.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/grosshandelspreise-staerkster-anstieg-seit-dreieinhalb-jahren-treibt-inflation-a-538404fd-ae4f-4662-b31d-4b1f0ad04f63#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
-      "headline": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
-      "takeaway": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an. Ob das in Ordnung ist, muss nun das Verfassungsgericht …",
-      "topic": "Bundesverfassungsgericht",
-      "tags": [
-        "Bundesverfassungsgericht",
-        "Erbschaftsteuer",
-        "gerecht"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html"
-        },
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/erbschaftsteuer-bundesverfassungsgericht-prueft-steuerprivilegien-fuer-firmenerben-a-b94502b9-729f-4058-a884-c67ddeb2fecd#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bank-of-america-finanzministerium-ahndet-laxe-geldwaeschekontrollen-mit-milliardenstrafe-a-9b3ffe37-9558-422b-9fe6-9292926f4632#ref=rss",
-      "headline": "Bank of America: Finanzministerium ahndet laxe Geldwäschekontrollen mit Milliardenstrafe",
-      "takeaway": "Die zweitgrößte Bank der USA hat es laut Finanzministerium versäumt, konsequent gegen Geldwäscher vorzugehen. Das wird für die Bank of America jetzt teuer. Sehr teuer sogar.",
-      "topic": "Geldwäschekontrollen",
+      "url": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss",
+      "headline": "Frankfurt Airport: Lufthansa reagiert wegen möglichen Kerosin-Engpässen",
+      "takeaway": "Die Rede ist von reduzierter Kapazität bei den Pipelines: Laut Berichten könnte am Flughafen Frankfurt am Main der Jet-Treibstoff knapp werden. Die größte deutsche Airline sorgt deshalb vor.",
+      "topic": "Kerosin-Engpässen",
       "tags": [
-        "Geldwäschekontrollen",
-        "Finanzministerium",
-        "Milliardenstrafe",
-        "America"
+        "Kerosin-Engpässen",
+        "Frankfurt",
+        "Lufthansa",
+        "Airport"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/bank-of-america-finanzministerium-ahndet-laxe-geldwaeschekontrollen-mit-milliardenstrafe-a-9b3ffe37-9558-422b-9fe6-9292926f4632#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss"
         },
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/bank-of-america-geldwaesche-strafe-usa-gxe"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Bank-of-America-muss-Milliardenstrafe-zahlen-id31415280.html",
-      "headline": "Kampf gegen Geldwäsche: Bank of America muss Milliardenstrafe zahlen",
-      "takeaway": "Das US-Finanzministerium verhängt gegen die Bank of America die bisher dritthöchste Geldstrafe seiner Geschichte. Das Finanzinstitut muss über eine Milliarde Dollar entrichten, weil es verdächtige …",
-      "topic": "Milliardenstrafe",
-      "tags": [
-        "Milliardenstrafe",
-        "Geldwäsche",
-        "America",
-        "Kampf"
-      ],
-      "sources": [
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Bank-of-America-muss-Milliardenstrafe-zahlen-id31415280.html"
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/kerosin-flughafen-frankfurt-lufthansa-tankering-pipeline"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/banken/bank-of-america-zweitgroesste-us-bank-muss-milliardenstrafe-wegen-geldwaesche-zahlen-a-3efa2c6b-b826-4039-b898-0ba162664630#ref=rss"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-kerosin-mangel-am-flughafen-frankfurt-lufthansa-reagiert-faz-200452404.html"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Am-Drehkreuz-Frankfurt-ist-das-Kerosin-knapp-id31419059.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss",
-      "headline": "Zuckersteuer: Koalition legt Streit bei",
-      "takeaway": "Union und SPD wollen eine Steuer auf stark gezuckerte Getränke einführen. Um die Details wurde lange gerungen. Jetzt gibt es einen Kompromiss.",
-      "topic": "Zuckersteuer",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
+      "headline": "Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+      "takeaway": "Der durchschnittliche Zusatzbeitrag für die gesetzliche Krankenversicherung muss nicht erhöht werden. Gesundheitsminister Carsten Linnemann sieht das als gutes Zeichen. Die Finanzlage der Kassen sei …",
+      "topic": "Krankenversicherung",
       "tags": [
-        "Zuckersteuer",
-        "Koalition",
-        "Streit",
-        "legt"
+        "Krankenversicherung",
+        "Zusatzbeitrag",
+        "bleiben",
+        "stabil"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/zuckersteuer-koalition-legt-streit-bei-a-30edbf41-9e59-46e1-9e06-6d0accbe7ed2#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/zuckersteuer-koalition-legt-streit-bei-a-f9a4ad85-8da3-48b0-9355-252c716657ca#ref=rss"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html",
+      "headline": "+++ USA +++: USA erwägen Lockerung von Sanktionen gegen Schattenflotten-Tanker",
+      "takeaway": "Trump würde Informanten für Geheimnisverrat erschießen lassen +++ Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl …",
+      "topic": "Schattenflotten-Tanker",
+      "tags": [
+        "Schattenflotten-Tanker",
+        "Sanktionen",
+        "Lockerung",
+        "USA"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html"
         }
       ]
     },
@@ -177,132 +102,153 @@
     },
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sport-englische-fussballclubs-haben-schulden-in-milliardenhoehe/100262138.html",
-      "headline": "Sport: Englische Fußballclubs haben Schulden in Milliardenhöhe",
-      "takeaway": "Englands Fußballbehörde schlägt Alarm. Die Finanzen vieler Clubs seien katastrophal, viele von ihnen „technisch insolvent“. 94 Prozent aller englischen Profi-Vereine erwirtschaften Verluste.",
-      "topic": "Milliardenhöhe",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/energie/solar-branche-pleitewelle-der-solarteure-warum-dieser-pv-grosshaendler-optimistisch-bleibt/100261850.html",
+      "headline": "Fotovoltaik: „Viele können sich im Moment vor Aufträgen kaum retten“",
+      "takeaway": "Der boomenden Solarbranche drohe eine Pleitewelle, warnten zuletzt zahlreiche Banken. Ein großer Solarkomponenten-Händler zeichnet ein anderes Bild.",
+      "topic": "Fotovoltaik",
       "tags": [
-        "Milliardenhöhe",
-        "Fußballclubs",
-        "Englische",
-        "Schulden"
+        "Fotovoltaik",
+        "Aufträgen",
+        "Moment",
+        "retten"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/energie/solar-branche-pleitewelle-der-solarteure-warum-dieser-pv-grosshaendler-optimistisch-bleibt/100261850.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html",
+      "headline": "Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen",
+      "takeaway": "Tesla plant in Grünheide eine zweite Produktionshalle. Im Endausbau soll die Produktionskapazität auf eine Million Autos pro Jahr erhöht werden. ( Gigafactory Berlin , Elektroauto )",
+      "topic": "Gigafactory",
+      "tags": [
+        "Gigafactory",
+        "Fahrzeuge",
+        "Million",
+        "Berlin"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-harte-auslese-deutschland-sollte-von-trade-republic-lernen-01/100262164.html",
+      "headline": "Kommentar: Mut zur harten Auslese: Deutschland sollte von Trade Republic lernen",
+      "takeaway": "Die Berliner Neobank trennt sich schneller von schwächeren Beschäftigten, als es hierzulande üblich ist. Warum die Kritik an der Bank zu kurz greift.",
+      "topic": "Deutschland",
+      "tags": [
+        "Deutschland",
+        "Kommentar",
+        "Republic",
+        "Auslese"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/sport-englische-fussballclubs-haben-schulden-in-milliardenhoehe/100262138.html"
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-harte-auslese-deutschland-sollte-von-trade-republic-lernen-01/100262164.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "headline": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "takeaway": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "topic": "Hynix",
+      "tags": [
+        "Hynix",
+        "Asia",
+        "Fed",
+        "funding"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/angebotsmieten-wohnungen-grossstaedte-berlin-hamburg-kiel-institut",
+      "headline": "Mieten: Wohnungsmieten in Deutschland ziehen wieder stärker an",
+      "takeaway": "Die Mieten in Deutschland sind im dritten Quartal im Vergleich zum Vorquartal gestiegen. Unter den großen Städten stiegen sie in Berlin und Düsseldorf am stärksten.",
+      "topic": "Wohnungsmieten",
+      "tags": [
+        "Wohnungsmieten",
+        "Deutschland",
+        "Mieten",
+        "stärker"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/angebotsmieten-wohnungen-grossstaedte-berlin-hamburg-kiel-institut"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/ki-agenten-aufseher-in-usa-und-europa-pruefen-ki-risiken-bei-banken-2610-214079.html",
-      "headline": "KI-Agenten: Aufseher in USA und Europa prüfen KI-Risiken bei Banken",
-      "takeaway": "US-Aufseher fragen Banken, wie sie KI-Agenten kontrollieren und abschalten. Auch in Europa wächst die Sorge. ( Wirtschaft , OpenAI )",
-      "topic": "KI-Agenten",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+      "headline": "Poland looks to economic heights in a country transformed since Soviet days",
+      "takeaway": "In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living Above the rain-soaked streets of Warsaw, the observation deck of the Varso tower …",
+      "topic": "Poland",
       "tags": [
-        "KI-Agenten",
-        "KI-Risiken",
-        "Aufseher",
-        "Europa"
+        "Poland",
+        "Soviet",
+        "transformed",
+        "economic"
       ],
       "sources": [
         {
-          "src": "golem",
-          "url": "https://www.golem.de/news/ki-agenten-aufseher-in-usa-und-europa-pruefen-ki-risiken-bei-banken-2610-214079.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/ki-in-der-eu-nvidia-investiert-in-doctolib-2610-214077.html",
-      "headline": "KI in der EU: Nvidia investiert in Doctolib",
-      "takeaway": "Doctolib will KI-Systeme für Patientendaten entwickeln. Nvidia soll die Grundlage dafür stellen. ( Nvidia , KI )",
-      "topic": "Doctolib",
-      "tags": [
-        "Doctolib",
-        "Nvidia",
-        "investiert"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/ki-in-der-eu-nvidia-investiert-in-doctolib-2610-214077.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/datenleck-bei-autohaeusern-so-erkennst-du-gefaelschte-zahlungsaufforderungen-1768121/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Datenleck bei Autohäusern: So erkennst du gefälschte Zahlungsaufforderungen",
-      "takeaway": "Autokäufer könnten sich nun Betrugsversuchen gegenübersehen, die besonders schwierig zu erkennen sind. Vor allem Häuser mit Marken eines Konzerns nutzen das System und könnten betroffen sein. …",
-      "topic": "Zahlungsaufforderungen",
-      "tags": [
-        "Zahlungsaufforderungen",
-        "Autohäusern",
-        "Datenleck",
-        "gefälschte"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/datenleck-bei-autohaeusern-so-erkennst-du-gefaelschte-zahlungsaufforderungen-1768121/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/typographic-intelligence-warum-designsysteme-nicht-mehr-ausreichen-1761122/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Typographic Intelligence: Warum Designsysteme nicht mehr ausreichen",
-      "takeaway": "KI beschleunigt kreative Prozesse und ermöglicht immer mehr Output in immer kürzerer Zeit. Doch damit entsteht ein neuer Engpass: die fundierte Entscheidung. Moderne Markenführung braucht Systeme …",
-      "topic": "Designsysteme",
-      "tags": [
-        "Designsysteme",
-        "Intelligence",
-        "Typographic",
-        "ausreichen"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/typographic-intelligence-warum-designsysteme-nicht-mehr-ausreichen-1761122/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Digitalministerium stellt klar: Kein Rückzug bei KI-Projekt mit SAP und Mistral",
-      "takeaway": "Das Digitalressort widerspricht Berichten über einen Projekt-Stopp mit Mistral: Die Zusammenarbeit laufe unverändert, der Bund setze weiter auf europäische KI.",
-      "topic": "Digitalministerium",
-      "tags": [
-        "Digitalministerium",
-        "KI-Projekt",
-        "Rückzug",
-        "Mistral"
-      ],
-      "sources": [
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "headline": "Peacock Promo Codes: 40% Off October 2026",
-      "takeaway": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "topic": "Peacock",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "headline": "Lenovo Coupon Codes: 15% Off in October 2026",
+      "takeaway": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "topic": "October",
       "tags": [
-        "Peacock",
+        "October",
+        "Lenovo",
+        "Coupon",
+        "Codes"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/lenovo-coupon-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "headline": "Walmart Promo Codes: 20% Off for October 2026",
+      "takeaway": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "topic": "Walmart",
+      "tags": [
+        "Walmart",
         "October",
         "Promo",
         "Codes"
@@ -310,38 +256,76 @@
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/peacock-promo-code/"
+          "url": "https://www.wired.com/story/top-walmart-promo-codes/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "headline": "Dell Coupon Codes: 20% Off for October 2026",
-      "takeaway": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "topic": "October",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "headline": "Figma announces new features to define how agents work on its platform",
+      "takeaway": "Figma is also releasing its code layers feature in open beta.",
+      "topic": "Figma",
       "tags": [
-        "October",
-        "Coupon",
-        "Codes",
-        "Dell"
+        "Figma",
+        "announces",
+        "features",
+        "platform"
       ],
       "sources": [
         {
-          "src": "wired",
-          "url": "https://www.wired.com/story/dell-coupon-code/"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "takeaway": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip …",
+      "topic": "Intelligence",
+      "tags": [
+        "Intelligence",
+        "AI-designed",
+        "Ricursive",
+        "betting"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "headline": "The AI race is back on",
+      "takeaway": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far …",
+      "topic": "race",
+      "tags": [
+        "race",
+        "back"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Galeria: Weiterbetrieb gesichert, Rettung fraglich / BMW: Fachkräftemangel in Vorzeigewerk",
-    "dateLabel": "Folge vom 14.10. · 7 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2220-galeria-weiterbetrieb-gesichert-rettung-fraglich-bmw-fachkraftemangel-in-vorzeigewerk",
+    "title": "Offshore-Krise trifft deutsche Industrie / Europas Antwort auf den China-Schock 2.0",
+    "dateLabel": "Folge vom 15.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2221-offshore-krise-trifft-deutsche-industrie-europas-antwort-auf-den-china-schock-2-0",
     "takeaways": [
-      "Galeria ist vorerst gerettet, doch die Substanz fehlt.",
-      "Jetzt muss der Insolvenzverwalter in drei Monaten neue Eigentümer finden, die Eigenkapital mitbringen.",
+      "Die Offshore-Windkraft steuert auf einen Rückschlag zu: Seit zwei Jahren ist in Deutschland kein neuer Windpark gestartet.",
+      "Zugleich blickt Europa nach Brüssel, wo die Staats- und Regierungschefs über die Ukraine und Abwehrinstrumente gegen chinesische Billigimporte beraten.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
     ]
   }

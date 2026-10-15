@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-15T07:29:44.678000+02:00",
+  "updatedAtLabel": "15.10.2026, 07:29 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss",
+      "headline": "Frankfurt Airport: Lufthansa reagiert wegen möglichen Kerosin-Engpässen",
+      "takeaway": "Die Rede ist von reduzierter Kapazität bei den Pipelines: Laut Berichten könnte am Flughafen Frankfurt am Main der Jet-Treibstoff knapp werden. Die größte deutsche Airline sorgt deshalb vor.",
+      "topic": "Kerosin-Engpässen",
+      "tags": [
+        "Kerosin-Engpässen",
+        "Frankfurt",
+        "Lufthansa",
+        "Airport"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/kerosin-flughafen-frankfurt-lufthansa-tankering-pipeline"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-kerosin-mangel-am-flughafen-frankfurt-lufthansa-reagiert-faz-200452404.html"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Am-Drehkreuz-Frankfurt-ist-das-Kerosin-knapp-id31419059.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
+      "headline": "Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+      "takeaway": "Der durchschnittliche Zusatzbeitrag für die gesetzliche Krankenversicherung muss nicht erhöht werden. Gesundheitsminister Carsten Linnemann sieht das als gutes Zeichen. Die Finanzlage der Kassen sei …",
+      "topic": "Krankenversicherung",
+      "tags": [
+        "Krankenversicherung",
+        "Zusatzbeitrag",
+        "bleiben",
+        "stabil"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html",
+      "headline": "+++ USA +++: USA erwägen Lockerung von Sanktionen gegen Schattenflotten-Tanker",
+      "takeaway": "Trump würde Informanten für Geheimnisverrat erschießen lassen +++ Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl …",
+      "topic": "Schattenflotten-Tanker",
+      "tags": [
+        "Schattenflotten-Tanker",
+        "Sanktionen",
+        "Lockerung",
+        "USA"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
+      "headline": "Alexander Schweitzer: „Ich habe damals deutlich gespürt: Ich muss aktiv werden“",
+      "takeaway": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte.",
+      "topic": "Schweitzer",
+      "tags": [
+        "Schweitzer",
+        "Alexander",
+        "Ich",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/energie/solar-branche-pleitewelle-der-solarteure-warum-dieser-pv-grosshaendler-optimistisch-bleibt/100261850.html",
+      "headline": "Fotovoltaik: „Viele können sich im Moment vor Aufträgen kaum retten“",
+      "takeaway": "Der boomenden Solarbranche drohe eine Pleitewelle, warnten zuletzt zahlreiche Banken. Ein großer Solarkomponenten-Händler zeichnet ein anderes Bild.",
+      "topic": "Fotovoltaik",
+      "tags": [
+        "Fotovoltaik",
+        "Aufträgen",
+        "Moment",
+        "retten"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/energie/solar-branche-pleitewelle-der-solarteure-warum-dieser-pv-grosshaendler-optimistisch-bleibt/100261850.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html",
+      "headline": "Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen",
+      "takeaway": "Tesla plant in Grünheide eine zweite Produktionshalle. Im Endausbau soll die Produktionskapazität auf eine Million Autos pro Jahr erhöht werden. ( Gigafactory Berlin , Elektroauto )",
+      "topic": "Gigafactory",
+      "tags": [
+        "Gigafactory",
+        "Fahrzeuge",
+        "Million",
+        "Berlin"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-harte-auslese-deutschland-sollte-von-trade-republic-lernen-01/100262164.html",
+      "headline": "Kommentar: Mut zur harten Auslese: Deutschland sollte von Trade Republic lernen",
+      "takeaway": "Die Berliner Neobank trennt sich schneller von schwächeren Beschäftigten, als es hierzulande üblich ist. Warum die Kritik an der Bank zu kurz greift.",
+      "topic": "Deutschland",
+      "tags": [
+        "Deutschland",
+        "Kommentar",
+        "Republic",
+        "Auslese"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-harte-auslese-deutschland-sollte-von-trade-republic-lernen-01/100262164.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "headline": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "takeaway": "A sell-off in global technology hardware stocks deepened Thursday.",
+      "topic": "Hynix",
+      "tags": [
+        "Hynix",
+        "Asia",
+        "Fed",
+        "funding"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/angebotsmieten-wohnungen-grossstaedte-berlin-hamburg-kiel-institut",
+      "headline": "Mieten: Wohnungsmieten in Deutschland ziehen wieder stärker an",
+      "takeaway": "Die Mieten in Deutschland sind im dritten Quartal im Vergleich zum Vorquartal gestiegen. Unter den großen Städten stiegen sie in Berlin und Düsseldorf am stärksten.",
+      "topic": "Wohnungsmieten",
+      "tags": [
+        "Wohnungsmieten",
+        "Deutschland",
+        "Mieten",
+        "stärker"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/angebotsmieten-wohnungen-grossstaedte-berlin-hamburg-kiel-institut"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+      "headline": "Poland looks to economic heights in a country transformed since Soviet days",
+      "takeaway": "In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living Above the rain-soaked streets of Warsaw, the observation deck of the Varso tower …",
+      "topic": "Poland",
+      "tags": [
+        "Poland",
+        "Soviet",
+        "transformed",
+        "economic"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/lenovo-coupon-code/",
+      "headline": "Lenovo Coupon Codes: 15% Off in October 2026",
+      "takeaway": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+      "topic": "October",
+      "tags": [
+        "October",
+        "Lenovo",
+        "Coupon",
+        "Codes"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/lenovo-coupon-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "headline": "Walmart Promo Codes: 20% Off for October 2026",
+      "takeaway": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "topic": "Walmart",
+      "tags": [
+        "Walmart",
+        "October",
+        "Promo",
+        "Codes"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/top-walmart-promo-codes/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "headline": "Figma announces new features to define how agents work on its platform",
+      "takeaway": "Figma is also releasing its code layers feature in open beta.",
+      "topic": "Figma",
+      "tags": [
+        "Figma",
+        "announces",
+        "features",
+        "platform"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "takeaway": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip …",
+      "topic": "Intelligence",
+      "tags": [
+        "Intelligence",
+        "AI-designed",
+        "Ricursive",
+        "betting"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "headline": "The AI race is back on",
+      "takeaway": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far …",
+      "topic": "race",
+      "tags": [
+        "race",
+        "back"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Offshore-Krise trifft deutsche Industrie / Europas Antwort auf den China-Schock 2.0",
+    "dateLabel": "Folge vom 15.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2221-offshore-krise-trifft-deutsche-industrie-europas-antwort-auf-den-china-schock-2-0",
+    "takeaways": [
+      "Die Offshore-Windkraft steuert auf einen Rückschlag zu: Seit zwei Jahren ist in Deutschland kein neuer Windpark gestartet.",
+      "Zugleich blickt Europa nach Brüssel, wo die Staats- und Regierungschefs über die Ukraine und Abwehrinstrumente gegen chinesische Billigimporte beraten.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
