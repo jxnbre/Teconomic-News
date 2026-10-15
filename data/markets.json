@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T03:31:47.951026+02:00",
-  "updatedAtLabel": "15.10.2026, 03:31 Uhr",
+  "updatedAt": "2026-10-15T04:30:13.741228+02:00",
+  "updatedAtLabel": "15.10.2026, 04:30 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -18,51 +18,51 @@
   },
   "quotes": {
     "btc": {
-      "price": "72.753 €",
+      "price": "72.130 €",
       "change": {
-        "week": -1.7,
-        "month": -1.93,
-        "year": -23.22
+        "week": -2.55,
+        "month": -2.77,
+        "year": -23.87
       },
       "asOf": "2026-10-15",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.154,18 €",
+      "price": "2.106,15 €",
       "change": {
-        "week": -3.63,
-        "month": -8.82,
-        "year": -36.86
+        "week": -5.78,
+        "month": -10.86,
+        "year": -38.27
       },
       "asOf": "2026-10-15",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "92,90 €",
+      "price": "91,07 €",
       "change": {
-        "week": -5.39,
-        "month": -9.7,
-        "year": -43.97
+        "week": -7.25,
+        "month": -11.48,
+        "year": -45.08
       },
       "asOf": "2026-10-15",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "1,18 €",
+      "price": "1,16 €",
       "change": {
-        "week": -5.55,
-        "month": -12.41,
-        "year": -42.71
+        "week": -7.1,
+        "month": -13.85,
+        "year": -43.65
       },
       "asOf": "2026-10-15",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "650,40 €",
+      "price": "638,16 €",
       "change": {
-        "week": -2.79,
-        "month": -4.73,
-        "year": -34.64
+        "week": -4.62,
+        "month": -6.52,
+        "year": -35.87
       },
       "asOf": "2026-10-15",
       "src": "CoinGecko"
@@ -128,13 +128,13 @@
       "src": "Yahoo"
     },
     "sdax": {
-      "price": "18.068 Pkt.",
+      "price": "18.177 Pkt.",
       "change": {
-        "week": -1.72,
-        "month": -0.63,
-        "year": 6.29
+        "week": 0.04,
+        "month": 0.27,
+        "year": 6.93
       },
-      "asOf": "2026-10-13",
+      "asOf": "2026-10-14",
       "src": "Yahoo"
     },
     "dow": {
@@ -188,11 +188,11 @@
       "src": "Yahoo"
     },
     "nikkei": {
-      "price": "65.086 Pkt.",
+      "price": "64.666 Pkt.",
       "change": {
-        "week": -7.07,
-        "month": -0.28,
-        "year": 36.53
+        "week": -7.67,
+        "month": -0.93,
+        "year": 35.65
       },
       "asOf": "2026-10-15",
       "src": "Yahoo"
@@ -648,13 +648,13 @@
       "src": "Yahoo"
     },
     "meta": {
-      "price": "762,50 $",
+      "price": "737,54 $",
       "change": {
-        "week": 3.2,
-        "month": 14.56,
-        "year": 6.26
+        "week": 2.25,
+        "month": 10.04,
+        "year": 2.79
       },
-      "asOf": "2026-10-13",
+      "asOf": "2026-10-14",
       "src": "Yahoo"
     },
     "tsla": {
