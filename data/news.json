@@ -1,82 +1,114 @@
 {
-  "date": "2026-10-15",
-  "updatedAt": "2026-10-15T07:29:44.678000+02:00",
-  "updatedAtLabel": "15.10.2026, 07:29 Uhr",
+  "date": "2026-10-16",
+  "updatedAt": "2026-10-16T07:30:44.107185+02:00",
+  "updatedAtLabel": "16.10.2026, 07:30 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss",
-      "headline": "Frankfurt Airport: Lufthansa reagiert wegen möglichen Kerosin-Engpässen",
-      "takeaway": "Die Rede ist von reduzierter Kapazität bei den Pipelines: Laut Berichten könnte am Flughafen Frankfurt am Main der Jet-Treibstoff knapp werden. Die größte deutsche Airline sorgt deshalb vor.",
-      "topic": "Kerosin-Engpässen",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
+      "headline": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
+      "takeaway": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
+      "topic": "Commerzbank",
       "tags": [
-        "Kerosin-Engpässen",
-        "Frankfurt",
-        "Lufthansa",
-        "Airport"
+        "Commerzbank",
+        "UniCredit",
+        "Übernahme",
+        "Licht"
       ],
       "sources": [
         {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html"
+        },
+        {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/frankfurt-airport-lufthansa-reagiert-wegen-moeglichen-kerosin-engpaessen-a-3e3e5829-e3d8-4b55-8386-756b92b44937#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/ezb-erlaubt-unicredit-offenbar-uebernahme-von-commerzbank-anteilen-a-4fdb9120-ecc0-4431-ac6c-3d5340d5bb4a#ref=rss"
         },
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/kerosin-flughafen-frankfurt-lufthansa-tankering-pipeline"
+          "url": "https://www.zeit.de/wirtschaft/2026-10/unicredit-commerzbank-uebernahme-ezb-genehmigung"
         },
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-kerosin-mangel-am-flughafen-frankfurt-lufthansa-reagiert-faz-200452404.html"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Am-Drehkreuz-Frankfurt-ist-das-Kerosin-knapp-id31419059.html"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/banken/unicredit-und-commerzbank-ezb-genehmigt-uebernahme-von-commerzbank-anteilen/100262741.html"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss",
-      "headline": "Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
-      "takeaway": "Der durchschnittliche Zusatzbeitrag für die gesetzliche Krankenversicherung muss nicht erhöht werden. Gesundheitsminister Carsten Linnemann sieht das als gutes Zeichen. Die Finanzlage der Kassen sei …",
-      "topic": "Krankenversicherung",
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html",
+      "headline": "Hypersportwagen: Tesla Roadster kann fliegen",
+      "takeaway": "Tesla hat seinen neuen Roadster vorgestellt - komplett mit rekordverdächtigen Beschleunigung, Kaltgas-Triebwerken und einer Show voller Stunts ( Tesla , Elektroauto )",
+      "topic": "Hypersportwagen",
       "tags": [
-        "Krankenversicherung",
-        "Zusatzbeitrag",
-        "bleiben",
-        "stabil"
+        "Hypersportwagen",
+        "Roadster",
+        "Tesla",
+        "fliegen"
       ],
       "sources": [
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/krankenversicherung-zusatzbeitrag-kann-2027-stabil-bleiben-a-20efc3bb-48e7-469d-8357-16d70bbb12fd#ref=rss"
+          "src": "golem",
+          "url": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html"
         },
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/linnemann-zusatzbeitrag-zur-krankenkasse-bleibt-2027-stabil-201322938.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html",
-      "headline": "+++ USA +++: USA erwägen Lockerung von Sanktionen gegen Schattenflotten-Tanker",
-      "takeaway": "Trump würde Informanten für Geheimnisverrat erschießen lassen +++ Demokraten planen bei Mehrheitsgewinn ein Blitzprogramm +++ Anthropic integriert Wahlinformationen in KI-Chatbot Claude vor US-Wahl …",
-      "topic": "Schattenflotten-Tanker",
-      "tags": [
-        "Schattenflotten-Tanker",
-        "Sanktionen",
-        "Lockerung",
-        "USA"
-      ],
-      "sources": [
+          "src": "wired",
+          "url": "https://www.wired.com/story/tesla-roadster-2-launch/"
+        },
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/usa-usa-erwaegen-lockerung-von-sanktionen-gegen-schattenflotten-tanker/29669594.html"
+          "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/tesla-roadster-der-musk-sportwagen-kann-fuer-ein-paar-sekunden-fliegen/100262731.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-roadster-mit-raketenduesen-elon-musk-praesentiert-fliegenden-sportwagen-accg-201458990.html",
+      "headline": "Produktion ab 2028?: Tesla lässt Sportwagen mit Raketendüsen abheben",
+      "takeaway": "Der Tesla Roadster kann dank Kaltgas-Düsen ein wenig fliegen. Für die „Rocket“-Variante soll es allerdings Einschränkungen geben.",
+      "topic": "Raketendüsen",
+      "tags": [
+        "Raketendüsen",
+        "Produktion",
+        "Sportwagen",
+        "Tesla"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-roadster-mit-raketenduesen-elon-musk-praesentiert-fliegenden-sportwagen-accg-201458990.html"
+        },
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/fliegen-tesla-sportwagen-rakete-1768501/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
+      "headline": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
+      "takeaway": "Maschen, mit denen Betrüger Zugriff auf die Konten ihrer Opfer bekommen, werden immer besser. Der EuGH hat jetzt mit einem Urteil die Rechte betroffener Verbraucher gestärkt. Von Antonetta Stephany.",
+      "topic": "EuGH-Urteil",
+      "tags": [
+        "EuGH-Urteil",
+        "Kontobetrug",
+        "Banken",
+        "Geld"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/eugh-banken-muessen-kontobetrugs-opfern-geld-erst-einmal-erstatten-a-b98afec4-7771-4302-9845-b48b995cc9d4#ref=rss"
         }
       ]
     },
@@ -102,153 +134,152 @@
     },
     {
       "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/energie/solar-branche-pleitewelle-der-solarteure-warum-dieser-pv-grosshaendler-optimistisch-bleibt/100261850.html",
-      "headline": "Fotovoltaik: „Viele können sich im Moment vor Aufträgen kaum retten“",
-      "takeaway": "Der boomenden Solarbranche drohe eine Pleitewelle, warnten zuletzt zahlreiche Banken. Ein großer Solarkomponenten-Händler zeichnet ein anderes Bild.",
-      "topic": "Fotovoltaik",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/it-medien/bela-bajaria-netflix-setzt-die-programmchefin-ab/100262740.html",
+      "headline": "Bela Bajaria: Netflix setzt die Programmchefin ab",
+      "takeaway": "Die Nutzerzahlen des Streamingdienstes haben sich zuletzt schwach entwickelt. Nach zehn Jahren im Unternehmen muss darum die Chefkreative gehen. Es kommt ein erfahrener TV-Manager.",
+      "topic": "Programmchefin",
       "tags": [
-        "Fotovoltaik",
-        "Aufträgen",
-        "Moment",
-        "retten"
+        "Programmchefin",
+        "Bajaria",
+        "Netflix",
+        "Bela"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/energie/solar-branche-pleitewelle-der-solarteure-warum-dieser-pv-grosshaendler-optimistisch-bleibt/100261850.html"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/it-medien/bela-bajaria-netflix-setzt-die-programmchefin-ab/100262740.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "headline": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "takeaway": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+      "topic": "Benchmark",
+      "tags": [
+        "Benchmark",
+        "Even",
+        "eroding",
+        "venture"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html",
-      "headline": "Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen",
-      "takeaway": "Tesla plant in Grünheide eine zweite Produktionshalle. Im Endausbau soll die Produktionskapazität auf eine Million Autos pro Jahr erhöht werden. ( Gigafactory Berlin , Elektroauto )",
-      "topic": "Gigafactory",
+      "url": "https://www.golem.de/news/grenzwerte-e-auto-boom-macht-co2-ziele-erreichbar-2610-214166.html",
+      "headline": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar",
+      "takeaway": "Eine neue Analyse zeigt: Wenn der Elektroauto-Boom anhält, schaffen die Autobauer die strengen CO2-Ziele der EU auch ohne Nachbesserung. ( Elektroauto , Auto )",
+      "topic": "E-Auto-Boom",
       "tags": [
-        "Gigafactory",
-        "Fahrzeuge",
-        "Million",
-        "Berlin"
+        "E-Auto-Boom",
+        "Grenzwerte",
+        "CO2-Ziele",
+        "erreichbar"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html"
+          "url": "https://www.golem.de/news/grenzwerte-e-auto-boom-macht-co2-ziele-erreichbar-2610-214166.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-harte-auslese-deutschland-sollte-von-trade-republic-lernen-01/100262164.html",
-      "headline": "Kommentar: Mut zur harten Auslese: Deutschland sollte von Trade Republic lernen",
-      "takeaway": "Die Berliner Neobank trennt sich schneller von schwächeren Beschäftigten, als es hierzulande üblich ist. Warum die Kritik an der Bank zu kurz greift.",
-      "topic": "Deutschland",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/porsche-familie-warum-sie-um-ihre-milliarden-bangt-a-eddbf8f7-9c15-4ef2-83da-29218a69a12c#ref=rss",
+      "headline": "Porsche-Familie: Warum sie um ihre Milliarden bangt",
+      "takeaway": "2022 stand eine der großen deutschen Automobilfamilien scheinbar auf dem Gipfel: Die Porsches kontrollierten Volkswagen, der Sportwagenbauer Porsche war zurück an der Börse. Warum der Clan jetzt so …",
+      "topic": "Porsche-Familie",
       "tags": [
-        "Deutschland",
-        "Kommentar",
-        "Republic",
-        "Auslese"
+        "Porsche-Familie",
+        "bangt",
+        "ihre"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-harte-auslese-deutschland-sollte-von-trade-republic-lernen-01/100262164.html"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/porsche-familie-warum-sie-um-ihre-milliarden-bangt-a-eddbf8f7-9c15-4ef2-83da-29218a69a12c#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "headline": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-      "takeaway": "A sell-off in global technology hardware stocks deepened Thursday.",
-      "topic": "Hynix",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/ausland/eu-gegen-china-zoelle-gegen-die-uebermacht-aus-peking/100262423.html",
+      "headline": "Europa vs. China: Wie Chinas Billigimporte ganze Branchen bedrohen",
+      "takeaway": "China flutet die Weltmärkte mit Autos, Maschinen und Konsumgütern. Die EU wehrt sich mit Zöllen und Quoten. Wird das reichen, um Europas Industrie zu schützen?",
+      "topic": "Billigimporte",
       "tags": [
-        "Hynix",
-        "Asia",
-        "Fed",
-        "funding"
+        "Billigimporte",
+        "Branchen",
+        "Europa",
+        "Chinas"
       ],
       "sources": [
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/eu-gegen-china-zoelle-gegen-die-uebermacht-aus-peking/100262423.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/angebotsmieten-wohnungen-grossstaedte-berlin-hamburg-kiel-institut",
-      "headline": "Mieten: Wohnungsmieten in Deutschland ziehen wieder stärker an",
-      "takeaway": "Die Mieten in Deutschland sind im dritten Quartal im Vergleich zum Vorquartal gestiegen. Unter den großen Städten stiegen sie in Berlin und Düsseldorf am stärksten.",
-      "topic": "Wohnungsmieten",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/hbm/kuenstliche-intelligenz-warum-der-ki-turbo-uns-naehe-und-arbeitsfreude-kostet-und-wie-wir-sie-uns-zurueckholen-a-3c3918dd-31d8-40b7-a9ba-a6cfbd228e52#ref=rss",
+      "headline": "Künstliche Intelligenz: Warum der KI-Turbo uns Nähe und Arbeitsfreude kostet und wie wir sie uns zurückholen",
+      "takeaway": "Mit Beginn des vierten Quartals wird in den Chefetagen gerade noch einmal alles hochgefahren – in diesem Jahr mit KI als Turbo. Die neuen Tools sollten uns Zeit schenken. Doch was im Effizienzrausch …",
+      "topic": "Arbeitsfreude",
       "tags": [
-        "Wohnungsmieten",
-        "Deutschland",
-        "Mieten",
-        "stärker"
+        "Arbeitsfreude",
+        "Intelligenz",
+        "Künstliche",
+        "KI-Turbo"
       ],
       "sources": [
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/angebotsmieten-wohnungen-grossstaedte-berlin-hamburg-kiel-institut"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
-      "headline": "Poland looks to economic heights in a country transformed since Soviet days",
-      "takeaway": "In the final part of our series on the country, Poles tell how wages have soared – along with the cost of living Above the rain-soaked streets of Warsaw, the observation deck of the Varso tower …",
-      "topic": "Poland",
-      "tags": [
-        "Poland",
-        "Soviet",
-        "transformed",
-        "economic"
-      ],
-      "sources": [
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/hbm/kuenstliche-intelligenz-warum-der-ki-turbo-uns-naehe-und-arbeitsfreude-kostet-und-wie-wir-sie-uns-zurueckholen-a-3c3918dd-31d8-40b7-a9ba-a6cfbd228e52#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/lenovo-coupon-code/",
-      "headline": "Lenovo Coupon Codes: 15% Off in October 2026",
-      "takeaway": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "topic": "October",
+      "url": "https://www.wired.com/story/skechers-coupon-codes/",
+      "headline": "Skechers Coupon Codes 20% Off",
+      "takeaway": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
+      "topic": "Skechers",
       "tags": [
-        "October",
-        "Lenovo",
+        "Skechers",
         "Coupon",
-        "Codes"
+        "Codes",
+        "Off"
       ],
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/lenovo-coupon-code/"
+          "url": "https://www.wired.com/story/skechers-coupon-codes/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "headline": "Walmart Promo Codes: 20% Off for October 2026",
-      "takeaway": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "topic": "Walmart",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "headline": "Surfshark Promo Codes: 87% Off | October 2026",
+      "takeaway": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "topic": "Surfshark",
       "tags": [
-        "Walmart",
+        "Surfshark",
         "October",
         "Promo",
         "Codes"
@@ -256,76 +287,58 @@
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/top-walmart-promo-codes/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "headline": "Figma announces new features to define how agents work on its platform",
-      "takeaway": "Figma is also releasing its code layers feature in open beta.",
-      "topic": "Figma",
-      "tags": [
-        "Figma",
-        "announces",
-        "features",
-        "platform"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "takeaway": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip …",
-      "topic": "Intelligence",
-      "tags": [
-        "Intelligence",
-        "AI-designed",
-        "Ricursive",
-        "betting"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+          "url": "https://www.wired.com/story/surfshark-coupon/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "theverge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "headline": "The AI race is back on",
-      "takeaway": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far …",
-      "topic": "race",
+      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+      "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+      "takeaway": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down …",
+      "topic": "Roadster",
       "tags": [
-        "race",
-        "back"
+        "Roadster",
+        "Tesla",
+        "upside",
+        "second"
       ],
       "sources": [
         {
           "src": "theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+          "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "headline": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "takeaway": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+      "topic": "SpaceX-powered",
+      "tags": [
+        "SpaceX-powered",
+        "Roadster",
+        "Tesla",
+        "reveals"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Offshore-Krise trifft deutsche Industrie / Europas Antwort auf den China-Schock 2.0",
-    "dateLabel": "Folge vom 15.10. · 8 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2221-offshore-krise-trifft-deutsche-industrie-europas-antwort-auf-den-china-schock-2-0",
+    "title": "Totalschaden in der Koalition? / Merz und Macron machen Autopakt klar",
+    "dateLabel": "Folge vom 16.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2222-totalschaden-in-der-koalition-merz-und-macron-machen-autopakt-klar",
     "takeaways": [
-      "Die Offshore-Windkraft steuert auf einen Rückschlag zu: Seit zwei Jahren ist in Deutschland kein neuer Windpark gestartet.",
-      "Zugleich blickt Europa nach Brüssel, wo die Staats- und Regierungschefs über die Ukraine und Abwehrinstrumente gegen chinesische Billigimporte beraten.",
+      "Miteinander geht nicht, ohne einander aber auch nicht: Union und SPD streiten, doch Neuwahlen scheuen beide.",
+      "Nun entscheidet sich, ob die Abgeordneten am Reformkurs festhalten oder ausscheren.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
     ]
   }
