@@ -1,51 +1,48 @@
 {
-  "updatedAt": "2026-10-16T04:29:59.802868+02:00",
-  "updatedAtLabel": "16.10.2026, 04:29 Uhr",
+  "updatedAt": "2026-10-16T05:30:20.695999+02:00",
+  "updatedAtLabel": "16.10.2026, 05:30 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
-    "fresh": 85,
-    "stale": [
-      "brenntag"
-    ],
+    "fresh": 86,
+    "stale": [],
     "missing": [
       "covestro"
     ],
     "hint": "",
     "errors": [
       "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
-      "Yahoo BNR.DE: HTTPError: HTTP Error 429: Too Many Requests",
-      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)",
-      "Yahoo 1COV.DE: HTTPError: HTTP Error 429: Too Many Requests"
+      "Yahoo 1COV.DE: HTTPError: HTTP Error 429: Too Many Requests",
+      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
     ]
   },
   "quotes": {
     "btc": {
-      "price": "73.146 €",
+      "price": "73.110 €",
       "change": {
-        "week": -2.07,
-        "month": -0.89,
-        "year": -21.15
+        "week": -2.12,
+        "month": -0.94,
+        "year": -21.19
       },
       "asOf": "2026-10-16",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.173,51 €",
+      "price": "2.174,62 €",
       "change": {
-        "week": -3.92,
-        "month": -7.99,
-        "year": -34.91
+        "week": -3.87,
+        "month": -7.94,
+        "year": -34.88
       },
       "asOf": "2026-10-16",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "93,91 €",
+      "price": "94,03 €",
       "change": {
-        "week": -5.42,
-        "month": -12.37,
-        "year": -40.71
+        "week": -5.3,
+        "month": -12.26,
+        "year": -40.63
       },
       "asOf": "2026-10-16",
       "src": "CoinGecko"
@@ -53,19 +50,19 @@
     "xrp": {
       "price": "1,19 €",
       "change": {
-        "week": -5.53,
-        "month": -13.7,
-        "year": -40.47
+        "week": -5.25,
+        "month": -13.45,
+        "year": -40.3
       },
       "asOf": "2026-10-16",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "648,44 €",
+      "price": "649,91 €",
       "change": {
-        "week": -3.57,
-        "month": -4.93,
-        "year": -33.99
+        "week": -3.35,
+        "month": -4.71,
+        "year": -33.84
       },
       "asOf": "2026-10-16",
       "src": "CoinGecko"
@@ -191,11 +188,11 @@
       "src": "Yahoo"
     },
     "nikkei": {
-      "price": "65.359 Pkt.",
+      "price": "65.551 Pkt.",
       "change": {
-        "week": -5.33,
-        "month": 2.11,
-        "year": 35.38
+        "week": -5.06,
+        "month": 2.4,
+        "year": 35.78
       },
       "asOf": "2026-10-16",
       "src": "Yahoo"
@@ -266,6 +263,16 @@
         "week": 2.12,
         "month": -12.82,
         "year": -30.53
+      },
+      "asOf": "2026-10-14",
+      "src": "Yahoo"
+    },
+    "brenntag": {
+      "price": "64,50 €",
+      "change": {
+        "week": 4.81,
+        "month": 6.26,
+        "year": 34.1
       },
       "asOf": "2026-10-14",
       "src": "Yahoo"
@@ -821,11 +828,11 @@
       "src": "Yahoo"
     },
     "samsung": {
-      "price": "215.000 ₩",
+      "price": "216.500 ₩",
       "change": {
-        "week": -17.94,
-        "month": -17.15,
-        "year": 120.06
+        "week": -17.37,
+        "month": -16.57,
+        "year": 121.6
       },
       "asOf": "2026-10-16",
       "src": "Yahoo"
@@ -869,17 +876,6 @@
       },
       "asOf": "2026-10-15",
       "src": "Yahoo"
-    },
-    "brenntag": {
-      "price": "64,50 €",
-      "change": {
-        "week": 4.81,
-        "month": 6.26,
-        "year": 34.1
-      },
-      "asOf": "2026-10-14",
-      "src": "Yahoo",
-      "stale": true
     }
   }
 }
