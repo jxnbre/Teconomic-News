@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T12:25:30.643112+02:00",
-  "updatedAtLabel": "17.10.2026, 12:25 Uhr",
+  "updatedAt": "2026-10-17T13:25:21.807142+02:00",
+  "updatedAtLabel": "17.10.2026, 13:25 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -13,36 +13,36 @@
     "errors": [
       "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
       "Yahoo 1COV.DE: HTTPError: HTTP Error 429: Too Many Requests",
-      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
+      "Stooq 1COV.DE: URLError: <urlopen error timed out>"
     ]
   },
   "quotes": {
     "btc": {
-      "price": "72.533 €",
+      "price": "72.504 €",
       "change": {
-        "week": -1.04,
-        "month": -2.13,
-        "year": -20.6
+        "week": -1.08,
+        "month": -2.16,
+        "year": -20.63
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.164,58 €",
+      "price": "2.164,53 €",
       "change": {
         "week": -1.24,
         "month": -8.53,
-        "year": -34.2
+        "year": -34.21
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "93,11 €",
+      "price": "93,02 €",
       "change": {
-        "week": -1.63,
-        "month": -12.62,
-        "year": -40.41
+        "week": -1.73,
+        "month": -12.71,
+        "year": -40.47
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
@@ -50,17 +50,17 @@
     "xrp": {
       "price": "1,16 €",
       "change": {
-        "week": -3.43,
-        "month": -13.46,
-        "year": -41.09
+        "week": -3.29,
+        "month": -13.33,
+        "year": -41.0
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "640,78 €",
+      "price": "640,75 €",
       "change": {
-        "week": -2.35,
+        "week": -2.36,
         "month": -5.61,
         "year": -30.32
       },
