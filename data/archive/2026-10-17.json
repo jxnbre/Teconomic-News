@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-17T07:26:27.669863+02:00",
+  "updatedAtLabel": "17.10.2026, 07:26 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
+      "headline": "Eurowings streicht Flüge und prüft Kurzarbeit",
+      "takeaway": "Der Kostendruck steigt: Eurowings streicht Flüge und prüft die Möglichkeit von Kurzarbeit für seine Mitarbeitenden. Als Grund nennt die Lufthansa-Tochter die gestiegenen Preise für Kerosin durch den …",
+      "topic": "Kurzarbeit",
+      "tags": [
+        "Kurzarbeit",
+        "Eurowings",
+        "Flüge",
+        "streicht"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/eurowings-kurzarbeit-kerosinkosten-fluege-lufthansa"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/eurowings-prueft-kurzarbeit-und-streicht-fluege-sowie-weihnachtsfeier-a-c1700ca6-d261-41d4-8c5d-0e2d154ee812#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+      "headline": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+      "takeaway": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit …",
+      "topic": "US-Chiphersteller",
+      "tags": [
+        "US-Chiphersteller",
+        "Bundesregierung",
+        "Kooperation",
+        "Nvidia"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bundesregierung-plant-ki-kooperation-mit-nvidia-faz-200452404.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
+      "headline": "Alexander Schweitzer: „Ich habe damals deutlich gespürt: Ich muss aktiv werden“",
+      "takeaway": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte.",
+      "topic": "Schweitzer",
+      "tags": [
+        "Schweitzer",
+        "Alexander",
+        "Ich",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/weniger-demo-mehr-daten-was-unternehmen-nach-dem-ki-hype-wirklich-beschaeftigt-1765690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Weniger Demo, mehr Daten: Was Unternehmen nach dem KI-Hype wirklich beschäftigt",
+      "takeaway": "Chatbots, Copiloten und beeindruckende Demos gibt es inzwischen genug. 2026 wollen Unternehmen vor allem wissen, welche KI-Anwendungen im Arbeitsalltag funktionieren und sich rechnen. Drei …",
+      "topic": "Unternehmen",
+      "tags": [
+        "Unternehmen",
+        "Weniger",
+        "KI-Hype",
+        "Daten"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/weniger-demo-mehr-daten-was-unternehmen-nach-dem-ki-hype-wirklich-beschaeftigt-1765690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/slamdam-hochwasserschutz-landwirtschaft-innovation-1767425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Schutz vor Fluten und Dürre: Der mobile Damm, der Landwirten hilft",
+      "takeaway": "Das niederländische Unternehmen WaveSave hat seine mobile Schutzeinrichtung gegen Überschwemmungen bereits auf drei Kontinenten eingesetzt. Sie schützt systemre weiterlesen auf t3n.de",
+      "topic": "Landwirten",
+      "tags": [
+        "Landwirten",
+        "Schutz",
+        "Fluten",
+        "Dürre"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/slamdam-hochwasserschutz-landwirtschaft-innovation-1767425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "headline": "Not cool: who hacked France’s supermarket fridges?",
+      "takeaway": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last …",
+      "topic": "France",
+      "tags": [
+        "France",
+        "Not",
+        "supermarket",
+        "fridges"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/geldanlage/gold-verkaufen-was-haendler-zahlen-und-welche-abschlaege-drohen/100254700.html",
+      "headline": "Ratgeber: 1000 Euro Differenz – was Händler beim Goldverkauf wirklich zahlen",
+      "takeaway": "Luxusmeile, Handelskette oder Bahnhofsviertel? Der Praxistest im Goldverkauf überrascht. Ab welchem Abschlag Sie besser weitersuchen.",
+      "topic": "Goldverkauf",
+      "tags": [
+        "Goldverkauf",
+        "Differenz",
+        "Ratgeber",
+        "Händler"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/geldanlage/gold-verkaufen-was-haendler-zahlen-und-welche-abschlaege-drohen/100254700.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/sorge-vor-gewalt-wir-haben-die-schnauze-voll-frankreich-vor-protesttag/100262942.html",
+      "headline": "Sorge vor Gewalt: „Wir haben die Schnauze voll!“ - Frankreich vor Protesttag",
+      "takeaway": "Hohe Kosten für Lebensmittel, Energie und Benzin bringen Menschen auf die Straße. Anders als sonst kommt der Protestaufruf diesmal über soziale Medien – könnte eine neue Gelbwestenbewegung entstehen?",
+      "topic": "Frankreich",
+      "tags": [
+        "Frankreich",
+        "Protesttag",
+        "Schnauze",
+        "Gewalt"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/sorge-vor-gewalt-wir-haben-die-schnauze-voll-frankreich-vor-protesttag/100262942.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-zusammenstoesse-warum-turtelnde-wildtiere-im-herbst-fuer-mehr-unfaelle-sorgen/100262941.html",
+      "headline": "Gefährliche Zusammenstöße: Warum turtelnde Wildtiere im Herbst für mehr Unfälle sorgen",
+      "takeaway": "Zwischen Oktober und Dezember kracht es nach Angaben des Jagdverbands besonders häufig mit Wildtieren. Dafür gibt es mehrere Gründe.",
+      "topic": "Zusammenstöße",
+      "tags": [
+        "Zusammenstöße",
+        "Gefährliche",
+        "Wildtiere",
+        "Unfälle"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-zusammenstoesse-warum-turtelnde-wildtiere-im-herbst-fuer-mehr-unfaelle-sorgen/100262941.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "headline": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "takeaway": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing …",
+      "topic": "Wahlberg",
+      "tags": [
+        "Wahlberg",
+        "Mark",
+        "longevity-startup",
+        "affordable"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html",
+      "headline": "Auch wegen Zoll-Rückzahlungen: US-Neuverschuldung steigt auf Fünf-Jahres-Hoch",
+      "takeaway": "Als Donald Trump zum zweiten Mal ins Weiße Haus einzieht, verkündet er, er werde die Staatsausgaben und somit auch die Neuverschuldung senken. Aktuell geht der Trend aber in die andere Richtung: Die …",
+      "topic": "Zoll-Rückzahlungen",
+      "tags": [
+        "Zoll-Rückzahlungen",
+        "US-Neuverschuldung",
+        "Fünf-Jahres-Hoch",
+        "steigt"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html",
+      "headline": "„Wie eine Rakete“: Fliegender Tesla-Roadster ruft US-Verkehrsbehörde auf den Plan",
+      "takeaway": "Musk zufolge soll der Roadster 2028 in Produktion gehen, Interessenten können ihn auf der Tesla-Website bereits reservieren. Verstößt die „Rocket“-Variante gegen Sicherheitsvorschriften und …",
+      "topic": "US-Verkehrsbehörde",
+      "tags": [
+        "US-Verkehrsbehörde",
+        "Tesla-Roadster",
+        "Fliegender",
+        "Rakete"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "headline": "Why Apple is finally making its own smart home devices",
+      "takeaway": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats …",
+      "topic": "Apple",
+      "tags": [
+        "Apple",
+        "finally",
+        "devices",
+        "making"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "headline": "All the news about the iPhone Duo",
+      "takeaway": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely …",
+      "topic": "All",
+      "tags": [
+        "All",
+        "Duo",
+        "iPhone",
+        "about"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "headline": "The Leap Second Is No More",
+      "takeaway": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "topic": "Second",
+      "tags": [
+        "Second",
+        "Leap",
+        "More"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Totalschaden in der Koalition? / Merz und Macron machen Autopakt klar",
+    "dateLabel": "Folge vom 16.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2222-totalschaden-in-der-koalition-merz-und-macron-machen-autopakt-klar",
+    "takeaways": [
+      "Miteinander geht nicht, ohne einander aber auch nicht: Union und SPD streiten, doch Neuwahlen scheuen beide.",
+      "Nun entscheidet sich, ob die Abgeordneten am Reformkurs festhalten oder ausscheren.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}

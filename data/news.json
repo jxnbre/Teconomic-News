@@ -1,114 +1,62 @@
 {
-  "date": "2026-10-16",
-  "updatedAt": "2026-10-16T07:30:44.107185+02:00",
-  "updatedAtLabel": "16.10.2026, 07:30 Uhr",
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-17T07:26:27.669863+02:00",
+  "updatedAtLabel": "17.10.2026, 07:26 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html",
-      "headline": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
-      "takeaway": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
-      "topic": "Commerzbank",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
+      "headline": "Eurowings streicht Flüge und prüft Kurzarbeit",
+      "takeaway": "Der Kostendruck steigt: Eurowings streicht Flüge und prüft die Möglichkeit von Kurzarbeit für seine Mitarbeitenden. Als Grund nennt die Lufthansa-Tochter die gestiegenen Preise für Kerosin durch den …",
+      "topic": "Kurzarbeit",
       "tags": [
-        "Commerzbank",
-        "UniCredit",
-        "Übernahme",
-        "Licht"
+        "Kurzarbeit",
+        "Eurowings",
+        "Flüge",
+        "streicht"
       ],
       "sources": [
         {
           "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html"
         },
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/ezb-erlaubt-unicredit-offenbar-uebernahme-von-commerzbank-anteilen-a-4fdb9120-ecc0-4431-ac6c-3d5340d5bb4a#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss"
         },
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/unicredit-commerzbank-uebernahme-ezb-genehmigung"
+          "url": "https://www.zeit.de/wirtschaft/2026-10/eurowings-kurzarbeit-kerosinkosten-fluege-lufthansa"
         },
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/banken/unicredit-und-commerzbank-ezb-genehmigt-uebernahme-von-commerzbank-anteilen/100262741.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html",
-      "headline": "Hypersportwagen: Tesla Roadster kann fliegen",
-      "takeaway": "Tesla hat seinen neuen Roadster vorgestellt - komplett mit rekordverdächtigen Beschleunigung, Kaltgas-Triebwerken und einer Show voller Stunts ( Tesla , Elektroauto )",
-      "topic": "Hypersportwagen",
-      "tags": [
-        "Hypersportwagen",
-        "Roadster",
-        "Tesla",
-        "fliegen"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/hypersportwagen-tesla-roadster-kann-fliegen-2610-214167.html"
-        },
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/tesla-roadster-2-launch/"
-        },
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/tesla-roadster-der-musk-sportwagen-kann-fuer-ein-paar-sekunden-fliegen/100262731.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-roadster-mit-raketenduesen-elon-musk-praesentiert-fliegenden-sportwagen-accg-201458990.html",
-      "headline": "Produktion ab 2028?: Tesla lässt Sportwagen mit Raketendüsen abheben",
-      "takeaway": "Der Tesla Roadster kann dank Kaltgas-Düsen ein wenig fliegen. Für die „Rocket“-Variante soll es allerdings Einschränkungen geben.",
-      "topic": "Raketendüsen",
-      "tags": [
-        "Raketendüsen",
-        "Produktion",
-        "Sportwagen",
-        "Tesla"
-      ],
-      "sources": [
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/tesla-roadster-mit-raketenduesen-elon-musk-praesentiert-fliegenden-sportwagen-accg-201458990.html"
-        },
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/fliegen-tesla-sportwagen-rakete-1768501/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/eurowings-prueft-kurzarbeit-und-streicht-fluege-sowie-weihnachtsfeier-a-c1700ca6-d261-41d4-8c5d-0e2d154ee812#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html",
-      "headline": "EuGH-Urteil: Banken müssen bei Kontobetrug Geld erstatten",
-      "takeaway": "Maschen, mit denen Betrüger Zugriff auf die Konten ihrer Opfer bekommen, werden immer besser. Der EuGH hat jetzt mit einem Urteil die Rechte betroffener Verbraucher gestärkt. Von Antonetta Stephany.",
-      "topic": "EuGH-Urteil",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
+      "headline": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
+      "takeaway": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit …",
+      "topic": "US-Chiphersteller",
       "tags": [
-        "EuGH-Urteil",
-        "Kontobetrug",
-        "Banken",
-        "Geld"
+        "US-Chiphersteller",
+        "Bundesregierung",
+        "Kooperation",
+        "Nvidia"
       ],
       "sources": [
         {
           "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eugh-konto-betrug-phishing-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html"
         },
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/eugh-banken-muessen-kontobetrugs-opfern-geld-erst-einmal-erstatten-a-b98afec4-7771-4302-9845-b48b995cc9d4#ref=rss"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bundesregierung-plant-ki-kooperation-mit-nvidia-faz-200452404.html"
         }
       ]
     },
@@ -133,201 +81,241 @@
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/it-medien/bela-bajaria-netflix-setzt-die-programmchefin-ab/100262740.html",
-      "headline": "Bela Bajaria: Netflix setzt die Programmchefin ab",
-      "takeaway": "Die Nutzerzahlen des Streamingdienstes haben sich zuletzt schwach entwickelt. Nach zehn Jahren im Unternehmen muss darum die Chefkreative gehen. Es kommt ein erfahrener TV-Manager.",
-      "topic": "Programmchefin",
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/weniger-demo-mehr-daten-was-unternehmen-nach-dem-ki-hype-wirklich-beschaeftigt-1765690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Weniger Demo, mehr Daten: Was Unternehmen nach dem KI-Hype wirklich beschäftigt",
+      "takeaway": "Chatbots, Copiloten und beeindruckende Demos gibt es inzwischen genug. 2026 wollen Unternehmen vor allem wissen, welche KI-Anwendungen im Arbeitsalltag funktionieren und sich rechnen. Drei …",
+      "topic": "Unternehmen",
       "tags": [
-        "Programmchefin",
-        "Bajaria",
-        "Netflix",
-        "Bela"
+        "Unternehmen",
+        "Weniger",
+        "KI-Hype",
+        "Daten"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/it-medien/bela-bajaria-netflix-setzt-die-programmchefin-ab/100262740.html"
+          "src": "t3n",
+          "url": "https://t3n.de/news/weniger-demo-mehr-daten-was-unternehmen-nach-dem-ki-hype-wirklich-beschaeftigt-1765690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "headline": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "takeaway": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-      "topic": "Benchmark",
+      "src": "t3n",
+      "url": "https://t3n.de/news/slamdam-hochwasserschutz-landwirtschaft-innovation-1767425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Schutz vor Fluten und Dürre: Der mobile Damm, der Landwirten hilft",
+      "takeaway": "Das niederländische Unternehmen WaveSave hat seine mobile Schutzeinrichtung gegen Überschwemmungen bereits auf drei Kontinenten eingesetzt. Sie schützt systemre weiterlesen auf t3n.de",
+      "topic": "Landwirten",
       "tags": [
-        "Benchmark",
-        "Even",
-        "eroding",
-        "venture"
+        "Landwirten",
+        "Schutz",
+        "Fluten",
+        "Dürre"
       ],
       "sources": [
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/"
+          "src": "t3n",
+          "url": "https://t3n.de/news/slamdam-hochwasserschutz-landwirtschaft-innovation-1767425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/grenzwerte-e-auto-boom-macht-co2-ziele-erreichbar-2610-214166.html",
-      "headline": "Grenzwerte: E-Auto-Boom macht CO2-Ziele erreichbar",
-      "takeaway": "Eine neue Analyse zeigt: Wenn der Elektroauto-Boom anhält, schaffen die Autobauer die strengen CO2-Ziele der EU auch ohne Nachbesserung. ( Elektroauto , Auto )",
-      "topic": "E-Auto-Boom",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "headline": "Not cool: who hacked France’s supermarket fridges?",
+      "takeaway": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last …",
+      "topic": "France",
       "tags": [
-        "E-Auto-Boom",
-        "Grenzwerte",
-        "CO2-Ziele",
-        "erreichbar"
+        "France",
+        "Not",
+        "supermarket",
+        "fridges"
       ],
       "sources": [
         {
-          "src": "golem",
-          "url": "https://www.golem.de/news/grenzwerte-e-auto-boom-macht-co2-ziele-erreichbar-2610-214166.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/porsche-familie-warum-sie-um-ihre-milliarden-bangt-a-eddbf8f7-9c15-4ef2-83da-29218a69a12c#ref=rss",
-      "headline": "Porsche-Familie: Warum sie um ihre Milliarden bangt",
-      "takeaway": "2022 stand eine der großen deutschen Automobilfamilien scheinbar auf dem Gipfel: Die Porsches kontrollierten Volkswagen, der Sportwagenbauer Porsche war zurück an der Börse. Warum der Clan jetzt so …",
-      "topic": "Porsche-Familie",
-      "tags": [
-        "Porsche-Familie",
-        "bangt",
-        "ihre"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/porsche-familie-warum-sie-um-ihre-milliarden-bangt-a-eddbf8f7-9c15-4ef2-83da-29218a69a12c#ref=rss"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/ausland/eu-gegen-china-zoelle-gegen-die-uebermacht-aus-peking/100262423.html",
-      "headline": "Europa vs. China: Wie Chinas Billigimporte ganze Branchen bedrohen",
-      "takeaway": "China flutet die Weltmärkte mit Autos, Maschinen und Konsumgütern. Die EU wehrt sich mit Zöllen und Quoten. Wird das reichen, um Europas Industrie zu schützen?",
-      "topic": "Billigimporte",
+      "url": "https://www.wiwo.de/finanzen/geldanlage/gold-verkaufen-was-haendler-zahlen-und-welche-abschlaege-drohen/100254700.html",
+      "headline": "Ratgeber: 1000 Euro Differenz – was Händler beim Goldverkauf wirklich zahlen",
+      "takeaway": "Luxusmeile, Handelskette oder Bahnhofsviertel? Der Praxistest im Goldverkauf überrascht. Ab welchem Abschlag Sie besser weitersuchen.",
+      "topic": "Goldverkauf",
       "tags": [
-        "Billigimporte",
-        "Branchen",
-        "Europa",
-        "Chinas"
+        "Goldverkauf",
+        "Differenz",
+        "Ratgeber",
+        "Händler"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/ausland/eu-gegen-china-zoelle-gegen-die-uebermacht-aus-peking/100262423.html"
+          "url": "https://www.wiwo.de/finanzen/geldanlage/gold-verkaufen-was-haendler-zahlen-und-welche-abschlaege-drohen/100254700.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/hbm/kuenstliche-intelligenz-warum-der-ki-turbo-uns-naehe-und-arbeitsfreude-kostet-und-wie-wir-sie-uns-zurueckholen-a-3c3918dd-31d8-40b7-a9ba-a6cfbd228e52#ref=rss",
-      "headline": "Künstliche Intelligenz: Warum der KI-Turbo uns Nähe und Arbeitsfreude kostet und wie wir sie uns zurückholen",
-      "takeaway": "Mit Beginn des vierten Quartals wird in den Chefetagen gerade noch einmal alles hochgefahren – in diesem Jahr mit KI als Turbo. Die neuen Tools sollten uns Zeit schenken. Doch was im Effizienzrausch …",
-      "topic": "Arbeitsfreude",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/sorge-vor-gewalt-wir-haben-die-schnauze-voll-frankreich-vor-protesttag/100262942.html",
+      "headline": "Sorge vor Gewalt: „Wir haben die Schnauze voll!“ - Frankreich vor Protesttag",
+      "takeaway": "Hohe Kosten für Lebensmittel, Energie und Benzin bringen Menschen auf die Straße. Anders als sonst kommt der Protestaufruf diesmal über soziale Medien – könnte eine neue Gelbwestenbewegung entstehen?",
+      "topic": "Frankreich",
       "tags": [
-        "Arbeitsfreude",
-        "Intelligenz",
-        "Künstliche",
-        "KI-Turbo"
+        "Frankreich",
+        "Protesttag",
+        "Schnauze",
+        "Gewalt"
       ],
       "sources": [
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/hbm/kuenstliche-intelligenz-warum-der-ki-turbo-uns-naehe-und-arbeitsfreude-kostet-und-wie-wir-sie-uns-zurueckholen-a-3c3918dd-31d8-40b7-a9ba-a6cfbd228e52#ref=rss"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/sorge-vor-gewalt-wir-haben-die-schnauze-voll-frankreich-vor-protesttag/100262942.html"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/skechers-coupon-codes/",
-      "headline": "Skechers Coupon Codes 20% Off",
-      "takeaway": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
-      "topic": "Skechers",
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-zusammenstoesse-warum-turtelnde-wildtiere-im-herbst-fuer-mehr-unfaelle-sorgen/100262941.html",
+      "headline": "Gefährliche Zusammenstöße: Warum turtelnde Wildtiere im Herbst für mehr Unfälle sorgen",
+      "takeaway": "Zwischen Oktober und Dezember kracht es nach Angaben des Jagdverbands besonders häufig mit Wildtieren. Dafür gibt es mehrere Gründe.",
+      "topic": "Zusammenstöße",
       "tags": [
-        "Skechers",
-        "Coupon",
-        "Codes",
-        "Off"
+        "Zusammenstöße",
+        "Gefährliche",
+        "Wildtiere",
+        "Unfälle"
       ],
       "sources": [
         {
-          "src": "wired",
-          "url": "https://www.wired.com/story/skechers-coupon-codes/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/surfshark-coupon/",
-      "headline": "Surfshark Promo Codes: 87% Off | October 2026",
-      "takeaway": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-      "topic": "Surfshark",
-      "tags": [
-        "Surfshark",
-        "October",
-        "Promo",
-        "Codes"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/surfshark-coupon/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-      "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-      "takeaway": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down …",
-      "topic": "Roadster",
-      "tags": [
-        "Roadster",
-        "Tesla",
-        "upside",
-        "second"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-zusammenstoesse-warum-turtelnde-wildtiere-im-herbst-fuer-mehr-unfaelle-sorgen/100262941.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "headline": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "takeaway": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "topic": "SpaceX-powered",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "headline": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "takeaway": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing …",
+      "topic": "Wahlberg",
       "tags": [
-        "SpaceX-powered",
-        "Roadster",
-        "Tesla",
-        "reveals"
+        "Wahlberg",
+        "Mark",
+        "longevity-startup",
+        "affordable"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
+          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html",
+      "headline": "Auch wegen Zoll-Rückzahlungen: US-Neuverschuldung steigt auf Fünf-Jahres-Hoch",
+      "takeaway": "Als Donald Trump zum zweiten Mal ins Weiße Haus einzieht, verkündet er, er werde die Staatsausgaben und somit auch die Neuverschuldung senken. Aktuell geht der Trend aber in die andere Richtung: Die …",
+      "topic": "Zoll-Rückzahlungen",
+      "tags": [
+        "Zoll-Rückzahlungen",
+        "US-Neuverschuldung",
+        "Fünf-Jahres-Hoch",
+        "steigt"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html",
+      "headline": "„Wie eine Rakete“: Fliegender Tesla-Roadster ruft US-Verkehrsbehörde auf den Plan",
+      "takeaway": "Musk zufolge soll der Roadster 2028 in Produktion gehen, Interessenten können ihn auf der Tesla-Website bereits reservieren. Verstößt die „Rocket“-Variante gegen Sicherheitsvorschriften und …",
+      "topic": "US-Verkehrsbehörde",
+      "tags": [
+        "US-Verkehrsbehörde",
+        "Tesla-Roadster",
+        "Fliegender",
+        "Rakete"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "headline": "Why Apple is finally making its own smart home devices",
+      "takeaway": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats …",
+      "topic": "Apple",
+      "tags": [
+        "Apple",
+        "finally",
+        "devices",
+        "making"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "headline": "All the news about the iPhone Duo",
+      "takeaway": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely …",
+      "topic": "All",
+      "tags": [
+        "All",
+        "Duo",
+        "iPhone",
+        "about"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
+      "headline": "The Leap Second Is No More",
+      "takeaway": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
+      "topic": "Second",
+      "tags": [
+        "Second",
+        "Leap",
+        "More"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
         }
       ]
     }
