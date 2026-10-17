@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T20:27:15.603363+02:00",
-  "updatedAtLabel": "17.10.2026, 20:27 Uhr",
+  "updatedAt": "2026-10-17T21:23:49.793285+02:00",
+  "updatedAtLabel": "17.10.2026, 21:23 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -13,14 +13,14 @@
     "errors": [
       "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
       "Yahoo 1COV.DE: HTTPError: HTTP Error 429: Too Many Requests",
-      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
+      "Stooq 1COV.DE: URLError: <urlopen error timed out>"
     ]
   },
   "quotes": {
     "btc": {
-      "price": "72.480 €",
+      "price": "72.474 €",
       "change": {
-        "week": -1.11,
+        "week": -1.12,
         "month": -2.2,
         "year": -20.66
       },
@@ -28,21 +28,21 @@
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.149,70 €",
+      "price": "2.148,17 €",
       "change": {
-        "week": -1.92,
-        "month": -9.16,
-        "year": -34.66
+        "week": -1.99,
+        "month": -9.22,
+        "year": -34.7
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "92,27 €",
+      "price": "92,45 €",
       "change": {
-        "week": -2.52,
-        "month": -13.41,
-        "year": -40.95
+        "week": -2.33,
+        "month": -13.24,
+        "year": -40.83
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
@@ -50,19 +50,19 @@
     "xrp": {
       "price": "1,15 €",
       "change": {
-        "week": -4.04,
-        "month": -14.0,
-        "year": -41.46
+        "week": -3.94,
+        "month": -13.91,
+        "year": -41.4
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "636,34 €",
+      "price": "635,88 €",
       "change": {
-        "week": -3.03,
-        "month": -6.26,
-        "year": -30.8
+        "week": -3.1,
+        "month": -6.33,
+        "year": -30.85
       },
       "asOf": "2026-10-17",
       "src": "CoinGecko"
