@@ -1,48 +1,51 @@
 {
-  "updatedAt": "2026-10-18T03:31:19.853077+02:00",
-  "updatedAtLabel": "18.10.2026, 03:31 Uhr",
+  "updatedAt": "2026-10-18T04:27:45.970669+02:00",
+  "updatedAtLabel": "18.10.2026, 04:27 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
-    "fresh": 86,
-    "stale": [],
+    "fresh": 85,
+    "stale": [
+      "adidas"
+    ],
     "missing": [
       "covestro"
     ],
     "hint": "",
     "errors": [
       "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
-      "Yahoo 1COV.DE: HTTPError: HTTP Error 429: Too Many Requests",
-      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
+      "Yahoo ADS.DE: HTTPError: HTTP Error 429: Too Many Requests",
+      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)",
+      "Yahoo 1COV.DE: HTTPError: HTTP Error 429: Too Many Requests"
     ]
   },
   "quotes": {
     "btc": {
-      "price": "72.545 €",
+      "price": "72.681 €",
       "change": {
-        "week": -2.23,
-        "month": -2.26,
-        "year": -21.11
+        "week": -2.05,
+        "month": -2.08,
+        "year": -20.96
       },
       "asOf": "2026-10-18",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.139,93 €",
+      "price": "2.145,04 €",
       "change": {
-        "week": -3.99,
-        "month": -9.4,
-        "year": -35.87
+        "week": -3.76,
+        "month": -9.19,
+        "year": -35.71
       },
       "asOf": "2026-10-18",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "92,13 €",
+      "price": "92,28 €",
       "change": {
-        "week": -3.32,
-        "month": -14.04,
-        "year": -42.76
+        "week": -3.17,
+        "month": -13.9,
+        "year": -42.67
       },
       "asOf": "2026-10-18",
       "src": "CoinGecko"
@@ -50,19 +53,19 @@
     "xrp": {
       "price": "1,15 €",
       "change": {
-        "week": -5.46,
-        "month": -13.55,
-        "year": -43.08
+        "week": -5.28,
+        "month": -13.39,
+        "year": -42.98
       },
       "asOf": "2026-10-18",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "639,38 €",
+      "price": "640,21 €",
       "change": {
-        "week": -3.38,
-        "month": -6.56,
-        "year": -31.78
+        "week": -3.25,
+        "month": -6.44,
+        "year": -31.69
       },
       "asOf": "2026-10-18",
       "src": "CoinGecko"
@@ -193,16 +196,6 @@
         "week": -5.38,
         "month": 2.05,
         "year": 35.31
-      },
-      "asOf": "2026-10-16",
-      "src": "Yahoo"
-    },
-    "adidas": {
-      "price": "158,50 €",
-      "change": {
-        "week": 5.77,
-        "month": 11.31,
-        "year": -17.73
       },
       "asOf": "2026-10-16",
       "src": "Yahoo"
@@ -876,6 +869,17 @@
       },
       "asOf": "2026-10-16",
       "src": "Yahoo"
+    },
+    "adidas": {
+      "price": "158,50 €",
+      "change": {
+        "week": 5.77,
+        "month": 11.31,
+        "year": -17.73
+      },
+      "asOf": "2026-10-16",
+      "src": "Yahoo",
+      "stale": true
     }
   }
 }
