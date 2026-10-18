@@ -1,62 +1,54 @@
 {
-  "date": "2026-10-17",
-  "updatedAt": "2026-10-17T07:26:27.669863+02:00",
-  "updatedAtLabel": "17.10.2026, 07:26 Uhr",
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T07:26:48.548046+02:00",
+  "updatedAtLabel": "18.10.2026, 07:26 Uhr",
   "ai": false,
   "topStories": [
     {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
-      "headline": "Eurowings streicht Flüge und prüft Kurzarbeit",
-      "takeaway": "Der Kostendruck steigt: Eurowings streicht Flüge und prüft die Möglichkeit von Kurzarbeit für seine Mitarbeitenden. Als Grund nennt die Lufthansa-Tochter die gestiegenen Preise für Kerosin durch den …",
-      "topic": "Kurzarbeit",
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "headline": "Meta removes language that raised scraping and AI training concerns",
+      "takeaway": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "topic": "Meta",
       "tags": [
-        "Kurzarbeit",
-        "Eurowings",
-        "Flüge",
-        "streicht"
+        "Meta",
+        "language",
+        "scraping",
+        "training"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
         },
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/eurowings-kurzarbeit-kerosinkosten-fluege-lufthansa"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/eurowings-prueft-kurzarbeit-und-streicht-fluege-sowie-weihnachtsfeier-a-c1700ca6-d261-41d4-8c5d-0e2d154ee812#ref=rss"
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html",
-      "headline": "KI: Bundesregierung plant Kooperation mit US-Chiphersteller Nvidia",
-      "takeaway": "Deutschland will beim KI-Boom mitwirken - die Industrie soll zukunftsfähig gemacht und der Standort für Investoren attraktiver werden. Um das zu erreichen, hat die Regierung offenbar einen Deal mit …",
-      "topic": "US-Chiphersteller",
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "headline": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "takeaway": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "topic": "TikTok",
       "tags": [
-        "US-Chiphersteller",
-        "Bundesregierung",
-        "Kooperation",
-        "Nvidia"
+        "TikTok",
+        "Musk",
+        "permanently",
+        "documentary"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-bundesregierung-ki-100.html"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
         },
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bundesregierung-plant-ki-kooperation-mit-nvidia-faz-200452404.html"
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary"
         }
       ]
     },
@@ -81,241 +73,242 @@
       ]
     },
     {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/weniger-demo-mehr-daten-was-unternehmen-nach-dem-ki-hype-wirklich-beschaeftigt-1765690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Weniger Demo, mehr Daten: Was Unternehmen nach dem KI-Hype wirklich beschäftigt",
-      "takeaway": "Chatbots, Copiloten und beeindruckende Demos gibt es inzwischen genug. 2026 wollen Unternehmen vor allem wissen, welche KI-Anwendungen im Arbeitsalltag funktionieren und sich rechnen. Drei …",
-      "topic": "Unternehmen",
-      "tags": [
-        "Unternehmen",
-        "Weniger",
-        "KI-Hype",
-        "Daten"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/weniger-demo-mehr-daten-was-unternehmen-nach-dem-ki-hype-wirklich-beschaeftigt-1765690/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/slamdam-hochwasserschutz-landwirtschaft-innovation-1767425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Schutz vor Fluten und Dürre: Der mobile Damm, der Landwirten hilft",
-      "takeaway": "Das niederländische Unternehmen WaveSave hat seine mobile Schutzeinrichtung gegen Überschwemmungen bereits auf drei Kontinenten eingesetzt. Sie schützt systemre weiterlesen auf t3n.de",
-      "topic": "Landwirten",
-      "tags": [
-        "Landwirten",
-        "Schutz",
-        "Fluten",
-        "Dürre"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/slamdam-hochwasserschutz-landwirtschaft-innovation-1767425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-      "headline": "Not cool: who hacked France’s supermarket fridges?",
-      "takeaway": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last …",
-      "topic": "France",
-      "tags": [
-        "France",
-        "Not",
-        "supermarket",
-        "fridges"
-      ],
-      "sources": [
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/geldanlage/gold-verkaufen-was-haendler-zahlen-und-welche-abschlaege-drohen/100254700.html",
-      "headline": "Ratgeber: 1000 Euro Differenz – was Händler beim Goldverkauf wirklich zahlen",
-      "takeaway": "Luxusmeile, Handelskette oder Bahnhofsviertel? Der Praxistest im Goldverkauf überrascht. Ab welchem Abschlag Sie besser weitersuchen.",
-      "topic": "Goldverkauf",
-      "tags": [
-        "Goldverkauf",
-        "Differenz",
-        "Ratgeber",
-        "Händler"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/geldanlage/gold-verkaufen-was-haendler-zahlen-und-welche-abschlaege-drohen/100254700.html"
-        }
-      ]
-    },
-    {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/sorge-vor-gewalt-wir-haben-die-schnauze-voll-frankreich-vor-protesttag/100262942.html",
-      "headline": "Sorge vor Gewalt: „Wir haben die Schnauze voll!“ - Frankreich vor Protesttag",
-      "takeaway": "Hohe Kosten für Lebensmittel, Energie und Benzin bringen Menschen auf die Straße. Anders als sonst kommt der Protestaufruf diesmal über soziale Medien – könnte eine neue Gelbwestenbewegung entstehen?",
-      "topic": "Frankreich",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/zahlen-zu-vergiftungen-einige-hundert-schwere-pilzvergiftungen-pro-jahr/100263041.html",
+      "headline": "Zahlen zu Vergiftungen: Einige Hundert schwere Pilzvergiftungen pro Jahr",
+      "takeaway": "Beim Pilze sammeln ist Vorsicht geboten. Was wirkt wie ein Speisepilz, kann auch mal ein giftiger sein – der nur ähnlich aussieht. Wie viele Menschen sich vergiften, ist nicht ganz leicht zu erfassen.",
+      "topic": "Pilzvergiftungen",
       "tags": [
-        "Frankreich",
-        "Protesttag",
-        "Schnauze",
-        "Gewalt"
+        "Pilzvergiftungen",
+        "Vergiftungen",
+        "Hundert",
+        "Zahlen"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/sorge-vor-gewalt-wir-haben-die-schnauze-voll-frankreich-vor-protesttag/100262942.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-zusammenstoesse-warum-turtelnde-wildtiere-im-herbst-fuer-mehr-unfaelle-sorgen/100262941.html",
-      "headline": "Gefährliche Zusammenstöße: Warum turtelnde Wildtiere im Herbst für mehr Unfälle sorgen",
-      "takeaway": "Zwischen Oktober und Dezember kracht es nach Angaben des Jagdverbands besonders häufig mit Wildtieren. Dafür gibt es mehrere Gründe.",
-      "topic": "Zusammenstöße",
-      "tags": [
-        "Zusammenstöße",
-        "Gefährliche",
-        "Wildtiere",
-        "Unfälle"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/technik/forschung-innovation/gefaehrliche-zusammenstoesse-warum-turtelnde-wildtiere-im-herbst-fuer-mehr-unfaelle-sorgen/100262941.html"
+          "url": "https://www.handelsblatt.com/technik/forschung-innovation/zahlen-zu-vergiftungen-einige-hundert-schwere-pilzvergiftungen-pro-jahr/100263041.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-      "headline": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-      "takeaway": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing …",
-      "topic": "Wahlberg",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ki-agenten-geheimsprache-casino-1765425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Karten zählen im Casino: Wie KI-Agenten heimlich eine Geheimsprache erfanden",
+      "takeaway": "Einzeln betrachtet, wirken agentische Systeme oft harmlos. Gemeinsam können sie allerdings ihre Kräfte bündeln und ihre Kommunikation gezielt verschleiern. In der realen Welt könnten sie so großen …",
+      "topic": "Geheimsprache",
       "tags": [
-        "Wahlberg",
-        "Mark",
-        "longevity-startup",
-        "affordable"
+        "Geheimsprache",
+        "KI-Agenten",
+        "Karten",
+        "Casino"
       ],
       "sources": [
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-agenten-geheimsprache-casino-1765425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html",
-      "headline": "Auch wegen Zoll-Rückzahlungen: US-Neuverschuldung steigt auf Fünf-Jahres-Hoch",
-      "takeaway": "Als Donald Trump zum zweiten Mal ins Weiße Haus einzieht, verkündet er, er werde die Staatsausgaben und somit auch die Neuverschuldung senken. Aktuell geht der Trend aber in die andere Richtung: Die …",
-      "topic": "Zoll-Rückzahlungen",
+      "url": "https://www.n-tv.de/wirtschaft/Diese-Wirtschaftsdaten-lassen-Trump-vor-den-Midterms-schwitzen-id31427232.html",
+      "headline": "Machtbasis unter Druck: Diese Wirtschaftsdaten lassen Trump vor den Midterms schwitzen",
+      "takeaway": "Den US-Republikanern unter Präsident Trump droht bei den anstehenden Zwischenwahlen im November ein Debakel. In beiden Kongresskammern könnten sie ihre Mehrheit verlieren und Trump damit die Basis …",
+      "topic": "Wirtschaftsdaten",
       "tags": [
-        "Zoll-Rückzahlungen",
-        "US-Neuverschuldung",
-        "Fünf-Jahres-Hoch",
-        "steigt"
+        "Wirtschaftsdaten",
+        "Machtbasis",
+        "Midterms",
+        "Druck"
       ],
       "sources": [
         {
           "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/US-Neuverschuldung-steigt-auf-Fuenf-Jahres-Hoch-id31428432.html"
+          "url": "https://www.n-tv.de/wirtschaft/Diese-Wirtschaftsdaten-lassen-Trump-vor-den-Midterms-schwitzen-id31427232.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/10-milliarden-jahre-radiosignal-1767609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Älter als unsere Sonne: Wie ein 10 Milliarden Jahre altes Radiosignal die Erde erreichte",
+      "takeaway": "Ein sehr kurzes, aber energiereiches Signal aus den Tiefen des Weltraums beschäftigt die Wissenschaft. Die Herkunft war lange unklar, bis das modernste Infrarotteleskop seine Instrumente auf die …",
+      "topic": "Radiosignal",
+      "tags": [
+        "Radiosignal",
+        "Älter",
+        "Sonne",
+        "Erde"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/10-milliarden-jahre-radiosignal-1767609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/it-internet/apple-bestseller-25-jahre-ipod-startschuss-fuer-apples-hoehenflug/100263035.html",
+      "headline": "Apple-Bestseller: 25 Jahre iPod: Startschuss für Apples Höhenflug",
+      "takeaway": "1.000 Songs in der Tasche - mit diesem Versprechen brachte Apple vor 25 Jahren den iPod auf den Markt. Das kleine Gerät bereitete den Weg für das iPhone - und krempelte nebenbei die Musikbranche um.",
+      "topic": "Apple-Bestseller",
+      "tags": [
+        "Apple-Bestseller",
+        "Startschuss",
+        "Höhenflug",
+        "Apples"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/it-internet/apple-bestseller-25-jahre-ipod-startschuss-fuer-apples-hoehenflug/100263035.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "headline": "How day of protests unfolded as disorder breaks out across France",
+      "takeaway": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "topic": "France",
+      "tags": [
+        "France",
+        "protests",
+        "unfolded",
+        "disorder"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html",
-      "headline": "„Wie eine Rakete“: Fliegender Tesla-Roadster ruft US-Verkehrsbehörde auf den Plan",
-      "takeaway": "Musk zufolge soll der Roadster 2028 in Produktion gehen, Interessenten können ihn auf der Tesla-Website bereits reservieren. Verstößt die „Rocket“-Variante gegen Sicherheitsvorschriften und …",
-      "topic": "US-Verkehrsbehörde",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/akkuzuege-in-deutschland-zukunft-ohne-dieselzuege-201292141.html",
+      "headline": "Alternative Bahnantriebe: Im Akkubetrieb durchs Land",
+      "takeaway": "Dieselzüge sollen bis 2040 von den Gleisen verschwinden. Schon jetzt fahren immer mehr Batteriezüge. Das ist auch gut für die Fahrgäste.",
+      "topic": "Bahnantriebe",
       "tags": [
-        "US-Verkehrsbehörde",
-        "Tesla-Roadster",
-        "Fliegender",
-        "Rakete"
+        "Bahnantriebe",
+        "Alternative",
+        "Akkubetrieb",
+        "Land"
       ],
       "sources": [
         {
           "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tesla-roadster-nhtsa-mahnt-elon-musk-zur-einhaltung-der-verkehrsregeln-accg-201591956.html"
+          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/akkuzuege-in-deutschland-zukunft-ohne-dieselzuege-201292141.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "takeaway": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "topic": "Zelenskyy",
+      "tags": [
+        "Zelenskyy",
+        "Russia",
+        "Trump",
+        "sanctions"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ulrich-bettermann-patriarch-aus-dem-sauerland-mit-milliardenvermoegen-201312041.html",
+      "headline": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
+      "takeaway": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten. Wer ist dieser Patriarch aus dem Sauerland?",
+      "topic": "Unternehmer",
+      "tags": [
+        "Unternehmer",
+        "Bettermann",
+        "Ulrich",
+        "Schlag"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ulrich-bettermann-patriarch-aus-dem-sauerland-mit-milliardenvermoegen-201312041.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "theverge",
-      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-      "headline": "Why Apple is finally making its own smart home devices",
-      "takeaway": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats …",
-      "topic": "Apple",
+      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "headline": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "takeaway": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew …",
+      "topic": "Elon",
       "tags": [
-        "Apple",
-        "finally",
-        "devices",
-        "making"
+        "Elon",
+        "Musk",
+        "lawsuits",
+        "giveaway"
       ],
       "sources": [
         {
           "src": "theverge",
-          "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home"
+          "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/",
+      "headline": "Wildgewordene OpenAI-Agenten erbeuten Krankenhausdaten, Krypto-Wallets und interne Datenbanken",
+      "takeaway": "OpenAI dokumentiert vier neue Fälle, in denen KI-Modelle eigenständig Sicherheitsgrenzen umgingen, darunter ein Modell, das Server-Geheimnisse einer Regierungswebsite auslas und 24 Jahre …",
+      "topic": "Krankenhausdaten",
+      "tags": [
+        "Krankenhausdaten",
+        "OpenAI-Agenten",
+        "Krypto-Wallets",
+        "Wildgewordene"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "headline": "All the news about the iPhone Duo",
-      "takeaway": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely …",
-      "topic": "All",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "headline": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
+      "takeaway": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed …",
+      "topic": "Britain",
       "tags": [
-        "All",
-        "Duo",
-        "iPhone",
-        "about"
+        "Britain",
+        "Chinese",
+        "should",
+        "reject"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/",
-      "headline": "The Leap Second Is No More",
-      "takeaway": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they’re dead.",
-      "topic": "Second",
-      "tags": [
-        "Second",
-        "Leap",
-        "More"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai"
         }
       ]
     }

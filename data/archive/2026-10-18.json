@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T07:26:48.548046+02:00",
+  "updatedAtLabel": "18.10.2026, 07:26 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "headline": "Meta removes language that raised scraping and AI training concerns",
+      "takeaway": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "topic": "Meta",
+      "tags": [
+        "Meta",
+        "language",
+        "scraping",
+        "training"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "headline": "TikTok permanently bans ‘Musk’ documentary advertising account",
+      "takeaway": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+      "topic": "TikTok",
+      "tags": [
+        "TikTok",
+        "Musk",
+        "permanently",
+        "documentary"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
+      "headline": "Alexander Schweitzer: „Ich habe damals deutlich gespürt: Ich muss aktiv werden“",
+      "takeaway": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte.",
+      "topic": "Schweitzer",
+      "tags": [
+        "Schweitzer",
+        "Alexander",
+        "Ich",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/zahlen-zu-vergiftungen-einige-hundert-schwere-pilzvergiftungen-pro-jahr/100263041.html",
+      "headline": "Zahlen zu Vergiftungen: Einige Hundert schwere Pilzvergiftungen pro Jahr",
+      "takeaway": "Beim Pilze sammeln ist Vorsicht geboten. Was wirkt wie ein Speisepilz, kann auch mal ein giftiger sein – der nur ähnlich aussieht. Wie viele Menschen sich vergiften, ist nicht ganz leicht zu erfassen.",
+      "topic": "Pilzvergiftungen",
+      "tags": [
+        "Pilzvergiftungen",
+        "Vergiftungen",
+        "Hundert",
+        "Zahlen"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/forschung-innovation/zahlen-zu-vergiftungen-einige-hundert-schwere-pilzvergiftungen-pro-jahr/100263041.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ki-agenten-geheimsprache-casino-1765425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Karten zählen im Casino: Wie KI-Agenten heimlich eine Geheimsprache erfanden",
+      "takeaway": "Einzeln betrachtet, wirken agentische Systeme oft harmlos. Gemeinsam können sie allerdings ihre Kräfte bündeln und ihre Kommunikation gezielt verschleiern. In der realen Welt könnten sie so großen …",
+      "topic": "Geheimsprache",
+      "tags": [
+        "Geheimsprache",
+        "KI-Agenten",
+        "Karten",
+        "Casino"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-agenten-geheimsprache-casino-1765425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Diese-Wirtschaftsdaten-lassen-Trump-vor-den-Midterms-schwitzen-id31427232.html",
+      "headline": "Machtbasis unter Druck: Diese Wirtschaftsdaten lassen Trump vor den Midterms schwitzen",
+      "takeaway": "Den US-Republikanern unter Präsident Trump droht bei den anstehenden Zwischenwahlen im November ein Debakel. In beiden Kongresskammern könnten sie ihre Mehrheit verlieren und Trump damit die Basis …",
+      "topic": "Wirtschaftsdaten",
+      "tags": [
+        "Wirtschaftsdaten",
+        "Machtbasis",
+        "Midterms",
+        "Druck"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Diese-Wirtschaftsdaten-lassen-Trump-vor-den-Midterms-schwitzen-id31427232.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/10-milliarden-jahre-radiosignal-1767609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Älter als unsere Sonne: Wie ein 10 Milliarden Jahre altes Radiosignal die Erde erreichte",
+      "takeaway": "Ein sehr kurzes, aber energiereiches Signal aus den Tiefen des Weltraums beschäftigt die Wissenschaft. Die Herkunft war lange unklar, bis das modernste Infrarotteleskop seine Instrumente auf die …",
+      "topic": "Radiosignal",
+      "tags": [
+        "Radiosignal",
+        "Älter",
+        "Sonne",
+        "Erde"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/10-milliarden-jahre-radiosignal-1767609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/it-internet/apple-bestseller-25-jahre-ipod-startschuss-fuer-apples-hoehenflug/100263035.html",
+      "headline": "Apple-Bestseller: 25 Jahre iPod: Startschuss für Apples Höhenflug",
+      "takeaway": "1.000 Songs in der Tasche - mit diesem Versprechen brachte Apple vor 25 Jahren den iPod auf den Markt. Das kleine Gerät bereitete den Weg für das iPhone - und krempelte nebenbei die Musikbranche um.",
+      "topic": "Apple-Bestseller",
+      "tags": [
+        "Apple-Bestseller",
+        "Startschuss",
+        "Höhenflug",
+        "Apples"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/it-internet/apple-bestseller-25-jahre-ipod-startschuss-fuer-apples-hoehenflug/100263035.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+      "headline": "How day of protests unfolded as disorder breaks out across France",
+      "takeaway": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "topic": "France",
+      "tags": [
+        "France",
+        "protests",
+        "unfolded",
+        "disorder"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/akkuzuege-in-deutschland-zukunft-ohne-dieselzuege-201292141.html",
+      "headline": "Alternative Bahnantriebe: Im Akkubetrieb durchs Land",
+      "takeaway": "Dieselzüge sollen bis 2040 von den Gleisen verschwinden. Schon jetzt fahren immer mehr Batteriezüge. Das ist auch gut für die Fahrgäste.",
+      "topic": "Bahnantriebe",
+      "tags": [
+        "Bahnantriebe",
+        "Alternative",
+        "Akkubetrieb",
+        "Land"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/akkuzuege-in-deutschland-zukunft-ohne-dieselzuege-201292141.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "takeaway": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "topic": "Zelenskyy",
+      "tags": [
+        "Zelenskyy",
+        "Russia",
+        "Trump",
+        "sanctions"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ulrich-bettermann-patriarch-aus-dem-sauerland-mit-milliardenvermoegen-201312041.html",
+      "headline": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
+      "takeaway": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten. Wer ist dieser Patriarch aus dem Sauerland?",
+      "topic": "Unternehmer",
+      "tags": [
+        "Unternehmer",
+        "Bettermann",
+        "Ulrich",
+        "Schlag"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ulrich-bettermann-patriarch-aus-dem-sauerland-mit-milliardenvermoegen-201312041.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+      "headline": "Elon Musk settles lawsuits over $1 million voter giveaway",
+      "takeaway": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew …",
+      "topic": "Elon",
+      "tags": [
+        "Elon",
+        "Musk",
+        "lawsuits",
+        "giveaway"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/",
+      "headline": "Wildgewordene OpenAI-Agenten erbeuten Krankenhausdaten, Krypto-Wallets und interne Datenbanken",
+      "takeaway": "OpenAI dokumentiert vier neue Fälle, in denen KI-Modelle eigenständig Sicherheitsgrenzen umgingen, darunter ein Modell, das Server-Geheimnisse einer Regierungswebsite auslas und 24 Jahre …",
+      "topic": "Krankenhausdaten",
+      "tags": [
+        "Krankenhausdaten",
+        "OpenAI-Agenten",
+        "Krypto-Wallets",
+        "Wildgewordene"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "headline": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
+      "takeaway": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed …",
+      "topic": "Britain",
+      "tags": [
+        "Britain",
+        "Chinese",
+        "should",
+        "reject"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Totalschaden in der Koalition? / Merz und Macron machen Autopakt klar",
+    "dateLabel": "Folge vom 16.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2222-totalschaden-in-der-koalition-merz-und-macron-machen-autopakt-klar",
+    "takeaways": [
+      "Miteinander geht nicht, ohne einander aber auch nicht: Union und SPD streiten, doch Neuwahlen scheuen beide.",
+      "Nun entscheidet sich, ob die Abgeordneten am Reformkurs festhalten oder ausscheren.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
