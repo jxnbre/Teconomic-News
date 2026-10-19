@@ -1,54 +1,126 @@
 {
-  "date": "2026-10-18",
-  "updatedAt": "2026-10-18T07:26:48.548046+02:00",
-  "updatedAtLabel": "18.10.2026, 07:26 Uhr",
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T07:32:29.718101+02:00",
+  "updatedAtLabel": "19.10.2026, 07:32 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "headline": "Meta removes language that raised scraping and AI training concerns",
-      "takeaway": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "topic": "Meta",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "takeaway": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "topic": "Anthropic",
       "tags": [
-        "Meta",
-        "language",
-        "scraping",
-        "training"
+        "Anthropic",
+        "committing",
+        "benefit",
+        "shares"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
         },
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss",
+      "headline": "Türkei: Energieminister plant Dieselimporte aus dem Deal zwischen den USA und Russland",
+      "takeaway": "Nach dem umstrittenen Dieselabkommen zwischen den USA und Russland möchte der türkische Energieminister einen Teil des Kraftstoffs in die Türkei holen. Zugleich will das Land seine Gasförderung …",
+      "topic": "Energieminister",
+      "tags": [
+        "Energieminister",
+        "Dieselimporte",
+        "Russland",
+        "Türkei"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-7e5ecb9c-3a5d-4f62-a9ff-0316a210c5d0#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss",
+      "headline": "Energiepreise: Netzentgelte für Strom und Gas steigen 2027 bundesweit leicht",
+      "takeaway": "Strom und Gas werden teurer – aber nicht überall gleich. Die Netzentgelte werden im Jahr 2027 bundesweit höher ausfallen, zeigt eine neue Auswertung. In Hamburg wird es besonders teuer.",
+      "topic": "Energiepreise",
+      "tags": [
+        "Energiepreise",
+        "Netzentgelte",
+        "Strom",
+        "Gas"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/energie/netzentgelte-netzgebuehren-fuer-strom-und-gas-steigen-a-77145102-76b3-4214-a90d-733a444d86d2#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-      "headline": "TikTok permanently bans ‘Musk’ documentary advertising account",
-      "takeaway": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-      "topic": "TikTok",
+      "src": "wired",
+      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+      "headline": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+      "takeaway": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+      "topic": "Gifts",
       "tags": [
-        "TikTok",
-        "Musk",
-        "permanently",
-        "documentary"
+        "Gifts",
+        "Manly",
+        "Best",
+        "Men"
       ],
       "sources": [
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+          "src": "wired",
+          "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/"
         },
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/ki-und-solar-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien-2610-214223.html",
+      "headline": "KI und Solar: China plant neue Exportkontrollen für Schlüsseltechnologien",
+      "takeaway": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon. ( China , KI )",
+      "topic": "Schlüsseltechnologien",
+      "tags": [
+        "Schlüsseltechnologien",
+        "Exportkontrollen",
+        "Solar",
+        "China"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/ki-und-solar-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien-2610-214223.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/china-peking-plant-neue-exportkontrollen-fuer-schluesseltechnologien-wie-ki-a-934d9c8c-7092-4e81-9905-9aae499f8498#ref=rss"
         }
       ]
     },
@@ -75,251 +147,191 @@
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/zahlen-zu-vergiftungen-einige-hundert-schwere-pilzvergiftungen-pro-jahr/100263041.html",
-      "headline": "Zahlen zu Vergiftungen: Einige Hundert schwere Pilzvergiftungen pro Jahr",
-      "takeaway": "Beim Pilze sammeln ist Vorsicht geboten. Was wirkt wie ein Speisepilz, kann auch mal ein giftiger sein – der nur ähnlich aussieht. Wie viele Menschen sich vergiften, ist nicht ganz leicht zu erfassen.",
-      "topic": "Pilzvergiftungen",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-so-ringt-piechs-familie-um-das-erbe-des-frueheren-vw-patriarchen-01/100254644.html",
+      "headline": "Volkswagen: So ringt Piëchs Familie bis heute um das Erbe des Patriarchen",
+      "takeaway": "Nach Ferdinand Piëchs Tod stritten seine Erben öffentlich um den Nachlass. Exklusive Dokumente belegen, wie der Zwist um das Milliardenerbe enden sollte – und doch bis heute weitergeht.",
+      "topic": "Patriarchen",
       "tags": [
-        "Pilzvergiftungen",
-        "Vergiftungen",
-        "Hundert",
-        "Zahlen"
+        "Patriarchen",
+        "Volkswagen",
+        "Familie",
+        "Erbe"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/technik/forschung-innovation/zahlen-zu-vergiftungen-einige-hundert-schwere-pilzvergiftungen-pro-jahr/100263041.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/ki-agenten-geheimsprache-casino-1765425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Karten zählen im Casino: Wie KI-Agenten heimlich eine Geheimsprache erfanden",
-      "takeaway": "Einzeln betrachtet, wirken agentische Systeme oft harmlos. Gemeinsam können sie allerdings ihre Kräfte bündeln und ihre Kommunikation gezielt verschleiern. In der realen Welt könnten sie so großen …",
-      "topic": "Geheimsprache",
-      "tags": [
-        "Geheimsprache",
-        "KI-Agenten",
-        "Karten",
-        "Casino"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/ki-agenten-geheimsprache-casino-1765425/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-so-ringt-piechs-familie-um-das-erbe-des-frueheren-vw-patriarchen-01/100254644.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Diese-Wirtschaftsdaten-lassen-Trump-vor-den-Midterms-schwitzen-id31427232.html",
-      "headline": "Machtbasis unter Druck: Diese Wirtschaftsdaten lassen Trump vor den Midterms schwitzen",
-      "takeaway": "Den US-Republikanern unter Präsident Trump droht bei den anstehenden Zwischenwahlen im November ein Debakel. In beiden Kongresskammern könnten sie ihre Mehrheit verlieren und Trump damit die Basis …",
-      "topic": "Wirtschaftsdaten",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lindt-spruengli-entlaesst-konzernchef-lechner-faz-200452404.html",
+      "headline": "Business-Ticker: Lindt & Sprüngli entlässt Konzernchef Lechner",
+      "takeaway": "Anthropic will neuen Gemeinwohl-Fonds gründen: Fünf Prozent der Anteile sollen in den neuen Fonds fließen +++ Türkei will Diesel aus dem Trump-Putin-Deal beziehen +++ Neuigkeiten im …",
+      "topic": "Business-Ticker",
       "tags": [
-        "Wirtschaftsdaten",
-        "Machtbasis",
-        "Midterms",
-        "Druck"
+        "Business-Ticker",
+        "Konzernchef",
+        "Sprüngli",
+        "Lechner"
       ],
       "sources": [
         {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Diese-Wirtschaftsdaten-lassen-Trump-vor-den-Midterms-schwitzen-id31427232.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/10-milliarden-jahre-radiosignal-1767609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Älter als unsere Sonne: Wie ein 10 Milliarden Jahre altes Radiosignal die Erde erreichte",
-      "takeaway": "Ein sehr kurzes, aber energiereiches Signal aus den Tiefen des Weltraums beschäftigt die Wissenschaft. Die Herkunft war lange unklar, bis das modernste Infrarotteleskop seine Instrumente auf die …",
-      "topic": "Radiosignal",
-      "tags": [
-        "Radiosignal",
-        "Älter",
-        "Sonne",
-        "Erde"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/10-milliarden-jahre-radiosignal-1767609/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lindt-spruengli-entlaesst-konzernchef-lechner-faz-200452404.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/technik/it-internet/apple-bestseller-25-jahre-ipod-startschuss-fuer-apples-hoehenflug/100263035.html",
-      "headline": "Apple-Bestseller: 25 Jahre iPod: Startschuss für Apples Höhenflug",
-      "takeaway": "1.000 Songs in der Tasche - mit diesem Versprechen brachte Apple vor 25 Jahren den iPod auf den Markt. Das kleine Gerät bereitete den Weg für das iPhone - und krempelte nebenbei die Musikbranche um.",
-      "topic": "Apple-Bestseller",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/banken/bitcoin-und-co-sparkassen-starten-schrittweise-kryptohandel-mit-warnung/100263121.html",
+      "headline": "Bitcoin und Co.: Sparkassen starten schrittweise Kryptohandel",
+      "takeaway": "Die Sparkassen wollen Kryptohandel für Privatkunden anbieten. Sie rollen schrittweise ein neues Angebot aus. Was dahintersteckt.",
+      "topic": "Kryptohandel",
       "tags": [
-        "Apple-Bestseller",
-        "Startschuss",
-        "Höhenflug",
-        "Apples"
+        "Kryptohandel",
+        "Sparkassen",
+        "Bitcoin",
+        "schrittweise"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/technik/it-internet/apple-bestseller-25-jahre-ipod-startschuss-fuer-apples-hoehenflug/100263035.html"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/banken/bitcoin-und-co-sparkassen-starten-schrittweise-kryptohandel-mit-warnung/100263121.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
-      "headline": "How day of protests unfolded as disorder breaks out across France",
-      "takeaway": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
-      "topic": "France",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "headline": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "takeaway": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "topic": "China",
       "tags": [
-        "France",
-        "protests",
-        "unfolded",
-        "disorder"
+        "China",
+        "accelerates",
+        "outweighs",
+        "domestic"
       ],
       "sources": [
         {
           "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/akkuzuege-in-deutschland-zukunft-ohne-dieselzuege-201292141.html",
-      "headline": "Alternative Bahnantriebe: Im Akkubetrieb durchs Land",
-      "takeaway": "Dieselzüge sollen bis 2040 von den Gleisen verschwinden. Schon jetzt fahren immer mehr Batteriezüge. Das ist auch gut für die Fahrgäste.",
-      "topic": "Bahnantriebe",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+      "headline": "Marktbericht: DAX steht schwacher Wochenstart bevor",
+      "takeaway": "Positive Konjunkturdaten aus China, Gegenwind der US-Börsen und eine unübersichtliche Lage in Frankreich - ein Mix, der den DAX zum Wochenauftakt belasten könnte.",
+      "topic": "Marktbericht",
       "tags": [
-        "Bahnantriebe",
-        "Alternative",
-        "Akkubetrieb",
-        "Land"
+        "Marktbericht",
+        "Wochenstart",
+        "DAX",
+        "schwacher"
       ],
       "sources": [
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/akkuzuege-in-deutschland-zukunft-ohne-dieselzuege-201292141.html"
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-      "headline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-      "takeaway": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-      "topic": "Zelenskyy",
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/linkedin-warum-ankuendigungsposts-floppen-und-was-die-erste-zeile-damit-zu-tun-hat-1768612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Linkedin: Warum Ankündigungsposts floppen und was die erste Zeile damit zu tun hat",
+      "takeaway": "Heute bin ich bei diesem, morgen bei jenem Event: So posten manche Führungskräfte auf Linkedin. Céline Flores Willers hält das für einen Fehler. Im Interview erklärt sie, was eine KI-Analyse ihres …",
+      "topic": "Ankündigungsposts",
       "tags": [
-        "Zelenskyy",
-        "Russia",
-        "Trump",
-        "sanctions"
+        "Ankündigungsposts",
+        "Linkedin",
+        "Zeile",
+        "floppen"
       ],
       "sources": [
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ulrich-bettermann-patriarch-aus-dem-sauerland-mit-milliardenvermoegen-201312041.html",
-      "headline": "Ulrich Bettermann: Einer der letzten Unternehmer vom alten Schlag",
-      "takeaway": "Bekannter von Merz, Freund von Schröder, Pilot, Jäger und ein reicher Mann: Ulrich Bettermann sprüht auch mit achtzig Jahren nur vor Abenteuergeschichten. Wer ist dieser Patriarch aus dem Sauerland?",
-      "topic": "Unternehmer",
-      "tags": [
-        "Unternehmer",
-        "Bettermann",
-        "Ulrich",
-        "Schlag"
-      ],
-      "sources": [
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ulrich-bettermann-patriarch-aus-dem-sauerland-mit-milliardenvermoegen-201312041.html"
+          "src": "t3n",
+          "url": "https://t3n.de/news/linkedin-warum-ankuendigungsposts-floppen-und-was-die-erste-zeile-damit-zu-tun-hat-1768612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "theverge",
-      "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-      "headline": "Elon Musk settles lawsuits over $1 million voter giveaway",
-      "takeaway": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew …",
-      "topic": "Elon",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "headline": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "takeaway": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE …",
+      "topic": "Savannah",
       "tags": [
-        "Elon",
-        "Musk",
-        "lawsuits",
-        "giveaway"
+        "Savannah",
+        "Flock",
+        "ICE",
+        "officer"
       ],
       "sources": [
         {
           "src": "theverge",
-          "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/",
-      "headline": "Wildgewordene OpenAI-Agenten erbeuten Krankenhausdaten, Krypto-Wallets und interne Datenbanken",
-      "takeaway": "OpenAI dokumentiert vier neue Fälle, in denen KI-Modelle eigenständig Sicherheitsgrenzen umgingen, darunter ein Modell, das Server-Geheimnisse einer Regierungswebsite auslas und 24 Jahre …",
-      "topic": "Krankenhausdaten",
-      "tags": [
-        "Krankenhausdaten",
-        "OpenAI-Agenten",
-        "Krypto-Wallets",
-        "Wildgewordene"
-      ],
-      "sources": [
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/wildgewordene-openai-agenten-erbeuten-krankenhausdaten-krypto-wallets-und-interne-datenbanken/"
+          "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-      "headline": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
-      "takeaway": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed …",
-      "topic": "Britain",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "headline": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "takeaway": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "topic": "Francisco",
       "tags": [
-        "Britain",
-        "Chinese",
-        "should",
-        "reject"
+        "Francisco",
+        "Benchmark",
+        "San",
+        "investing"
       ],
       "sources": [
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ki-menschen-falsche-erinnerungen-1768784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "MIT-Forscherin warnt: KI könnte bei Menschen falsche Erinnerungen erzeugen",
+      "takeaway": "Die Professorin Pattie Maes vom MIT Media Lab hat in einem Experiment gezeigt, dass KI menschliche Erinnerungen beeinflussen kann. Maes hält das für „sehr gefährlich“ – sowohl für Gerichtsverfahren …",
+      "topic": "MIT-Forscherin",
+      "tags": [
+        "MIT-Forscherin",
+        "Erinnerungen",
+        "Menschen",
+        "erzeugen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-menschen-falsche-erinnerungen-1768784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Totalschaden in der Koalition? / Merz und Macron machen Autopakt klar",
-    "dateLabel": "Folge vom 16.10. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2222-totalschaden-in-der-koalition-merz-und-macron-machen-autopakt-klar",
+    "title": "Rückenwind für den Standort Deutschland? / Frankreich sucht Antworten auf die Gewaltwelle",
+    "dateLabel": "Folge vom 19.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2223-ruckenwind-fur-den-standort-deutschland-frankreich-sucht-antworten-auf-die-gewaltwelle",
     "takeaways": [
-      "Miteinander geht nicht, ohne einander aber auch nicht: Union und SPD streiten, doch Neuwahlen scheuen beide.",
-      "Nun entscheidet sich, ob die Abgeordneten am Reformkurs festhalten oder ausscheren.",
+      "Beim Investorengipfel „Invest in Germany“ in Berlin wirbt Bundeskanzler Merz heute und morgen um internationale Geldgeber.",
+      "Zu den Gästen gehören Blackrock-Chef Larry Fink und Nvidia-Chef Jensen Huang.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
     ]
   }

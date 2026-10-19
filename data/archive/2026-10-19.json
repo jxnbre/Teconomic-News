@@ -1,0 +1,338 @@
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T07:32:29.718101+02:00",
+  "updatedAtLabel": "19.10.2026, 07:32 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "takeaway": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "topic": "Anthropic",
+      "tags": [
+        "Anthropic",
+        "committing",
+        "benefit",
+        "shares"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+        },
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss",
+      "headline": "Türkei: Energieminister plant Dieselimporte aus dem Deal zwischen den USA und Russland",
+      "takeaway": "Nach dem umstrittenen Dieselabkommen zwischen den USA und Russland möchte der türkische Energieminister einen Teil des Kraftstoffs in die Türkei holen. Zugleich will das Land seine Gasförderung …",
+      "topic": "Energieminister",
+      "tags": [
+        "Energieminister",
+        "Dieselimporte",
+        "Russland",
+        "Türkei"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-7e5ecb9c-3a5d-4f62-a9ff-0316a210c5d0#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss",
+      "headline": "Energiepreise: Netzentgelte für Strom und Gas steigen 2027 bundesweit leicht",
+      "takeaway": "Strom und Gas werden teurer – aber nicht überall gleich. Die Netzentgelte werden im Jahr 2027 bundesweit höher ausfallen, zeigt eine neue Auswertung. In Hamburg wird es besonders teuer.",
+      "topic": "Energiepreise",
+      "tags": [
+        "Energiepreise",
+        "Netzentgelte",
+        "Strom",
+        "Gas"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/energie/netzentgelte-netzgebuehren-fuer-strom-und-gas-steigen-a-77145102-76b3-4214-a90d-733a444d86d2#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
+      "headline": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
+      "takeaway": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
+      "topic": "Gifts",
+      "tags": [
+        "Gifts",
+        "Manly",
+        "Best",
+        "Men"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/ki-und-solar-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien-2610-214223.html",
+      "headline": "KI und Solar: China plant neue Exportkontrollen für Schlüsseltechnologien",
+      "takeaway": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon. ( China , KI )",
+      "topic": "Schlüsseltechnologien",
+      "tags": [
+        "Schlüsseltechnologien",
+        "Exportkontrollen",
+        "Solar",
+        "China"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/ki-und-solar-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien-2610-214223.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/china-peking-plant-neue-exportkontrollen-fuer-schluesseltechnologien-wie-ki-a-934d9c8c-7092-4e81-9905-9aae499f8498#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
+      "headline": "Alexander Schweitzer: „Ich habe damals deutlich gespürt: Ich muss aktiv werden“",
+      "takeaway": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte.",
+      "topic": "Schweitzer",
+      "tags": [
+        "Schweitzer",
+        "Alexander",
+        "Ich",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-so-ringt-piechs-familie-um-das-erbe-des-frueheren-vw-patriarchen-01/100254644.html",
+      "headline": "Volkswagen: So ringt Piëchs Familie bis heute um das Erbe des Patriarchen",
+      "takeaway": "Nach Ferdinand Piëchs Tod stritten seine Erben öffentlich um den Nachlass. Exklusive Dokumente belegen, wie der Zwist um das Milliardenerbe enden sollte – und doch bis heute weitergeht.",
+      "topic": "Patriarchen",
+      "tags": [
+        "Patriarchen",
+        "Volkswagen",
+        "Familie",
+        "Erbe"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-so-ringt-piechs-familie-um-das-erbe-des-frueheren-vw-patriarchen-01/100254644.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lindt-spruengli-entlaesst-konzernchef-lechner-faz-200452404.html",
+      "headline": "Business-Ticker: Lindt & Sprüngli entlässt Konzernchef Lechner",
+      "takeaway": "Anthropic will neuen Gemeinwohl-Fonds gründen: Fünf Prozent der Anteile sollen in den neuen Fonds fließen +++ Türkei will Diesel aus dem Trump-Putin-Deal beziehen +++ Neuigkeiten im …",
+      "topic": "Business-Ticker",
+      "tags": [
+        "Business-Ticker",
+        "Konzernchef",
+        "Sprüngli",
+        "Lechner"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lindt-spruengli-entlaesst-konzernchef-lechner-faz-200452404.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/banken/bitcoin-und-co-sparkassen-starten-schrittweise-kryptohandel-mit-warnung/100263121.html",
+      "headline": "Bitcoin und Co.: Sparkassen starten schrittweise Kryptohandel",
+      "takeaway": "Die Sparkassen wollen Kryptohandel für Privatkunden anbieten. Sie rollen schrittweise ein neues Angebot aus. Was dahintersteckt.",
+      "topic": "Kryptohandel",
+      "tags": [
+        "Kryptohandel",
+        "Sparkassen",
+        "Bitcoin",
+        "schrittweise"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/banken/bitcoin-und-co-sparkassen-starten-schrittweise-kryptohandel-mit-warnung/100263121.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "headline": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "takeaway": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "topic": "China",
+      "tags": [
+        "China",
+        "accelerates",
+        "outweighs",
+        "domestic"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+      "headline": "Marktbericht: DAX steht schwacher Wochenstart bevor",
+      "takeaway": "Positive Konjunkturdaten aus China, Gegenwind der US-Börsen und eine unübersichtliche Lage in Frankreich - ein Mix, der den DAX zum Wochenauftakt belasten könnte.",
+      "topic": "Marktbericht",
+      "tags": [
+        "Marktbericht",
+        "Wochenstart",
+        "DAX",
+        "schwacher"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/linkedin-warum-ankuendigungsposts-floppen-und-was-die-erste-zeile-damit-zu-tun-hat-1768612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Linkedin: Warum Ankündigungsposts floppen und was die erste Zeile damit zu tun hat",
+      "takeaway": "Heute bin ich bei diesem, morgen bei jenem Event: So posten manche Führungskräfte auf Linkedin. Céline Flores Willers hält das für einen Fehler. Im Interview erklärt sie, was eine KI-Analyse ihres …",
+      "topic": "Ankündigungsposts",
+      "tags": [
+        "Ankündigungsposts",
+        "Linkedin",
+        "Zeile",
+        "floppen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/linkedin-warum-ankuendigungsposts-floppen-und-was-die-erste-zeile-damit-zu-tun-hat-1768612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "headline": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "takeaway": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE …",
+      "topic": "Savannah",
+      "tags": [
+        "Savannah",
+        "Flock",
+        "ICE",
+        "officer"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "headline": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "takeaway": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+      "topic": "Francisco",
+      "tags": [
+        "Francisco",
+        "Benchmark",
+        "San",
+        "investing"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ki-menschen-falsche-erinnerungen-1768784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "MIT-Forscherin warnt: KI könnte bei Menschen falsche Erinnerungen erzeugen",
+      "takeaway": "Die Professorin Pattie Maes vom MIT Media Lab hat in einem Experiment gezeigt, dass KI menschliche Erinnerungen beeinflussen kann. Maes hält das für „sehr gefährlich“ – sowohl für Gerichtsverfahren …",
+      "topic": "MIT-Forscherin",
+      "tags": [
+        "MIT-Forscherin",
+        "Erinnerungen",
+        "Menschen",
+        "erzeugen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-menschen-falsche-erinnerungen-1768784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Rückenwind für den Standort Deutschland? / Frankreich sucht Antworten auf die Gewaltwelle",
+    "dateLabel": "Folge vom 19.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2223-ruckenwind-fur-den-standort-deutschland-frankreich-sucht-antworten-auf-die-gewaltwelle",
+    "takeaways": [
+      "Beim Investorengipfel „Invest in Germany“ in Berlin wirbt Bundeskanzler Merz heute und morgen um internationale Geldgeber.",
+      "Zu den Gästen gehören Blackrock-Chef Larry Fink und Nvidia-Chef Jensen Huang.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
