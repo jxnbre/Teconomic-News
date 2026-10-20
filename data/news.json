@@ -1,126 +1,102 @@
 {
-  "date": "2026-10-19",
-  "updatedAt": "2026-10-19T07:32:29.718101+02:00",
-  "updatedAtLabel": "19.10.2026, 07:32 Uhr",
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T07:32:01.321034+02:00",
+  "updatedAtLabel": "20.10.2026, 07:32 Uhr",
   "ai": false,
   "topStories": [
     {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "takeaway": "Anthropic said that it will commit 5% of its shares to the fund.",
-      "topic": "Anthropic",
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Immobilienkredite-so-teuer-wie-zur-Finanzkrise-2009-id31436330.html",
+      "headline": "Rekordzins wegen des Iran-Kriegs: Immobilienkredite so teuer wie zur Finanzkrise 2009",
+      "takeaway": "Wer ein Haus kaufen will, muss für die Zinsen derzeit besonders tief in die Tasche greifen. Der Iran-Krieg treibt die Inflation, was in einer Kettenreaktion auf Baudarlehen durchschlägt. Sogar die …",
+      "topic": "Immobilienkredite",
       "tags": [
-        "Anthropic",
-        "committing",
-        "benefit",
-        "shares"
+        "Immobilienkredite",
+        "Iran-Kriegs",
+        "Finanzkrise",
+        "Rekordzins"
       ],
       "sources": [
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Immobilienkredite-so-teuer-wie-zur-Finanzkrise-2009-id31436330.html"
         },
         {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/immobilien/trumpflation-immobilienkredite-so-teuer-wie-seit-2009-nicht-mehr/100263407.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss",
-      "headline": "Türkei: Energieminister plant Dieselimporte aus dem Deal zwischen den USA und Russland",
-      "takeaway": "Nach dem umstrittenen Dieselabkommen zwischen den USA und Russland möchte der türkische Energieminister einen Teil des Kraftstoffs in die Türkei holen. Zugleich will das Land seine Gasförderung …",
-      "topic": "Energieminister",
+      "url": "https://www.spiegel.de/wirtschaft/peter-christian-zinkann-langjaehriger-miele-chef-ist-tot-a-e092a512-8bd3-4c5f-904f-4bd7789cc436#ref=rss",
+      "headline": "Peter Christian Zinkann: Langjähriger Miele-Chef ist tot",
+      "takeaway": "Sein Großvater hatte die Firma Miele einst mitgegründet, Peter Christian Zinkann selbst leitete sie mehr als vier Jahrzehnte lang. Nun trauert der Haushaltsgerätehersteller um eine »herausragende …",
+      "topic": "Langjähriger",
       "tags": [
-        "Energieminister",
-        "Dieselimporte",
-        "Russland",
-        "Türkei"
+        "Langjähriger",
+        "Miele-Chef",
+        "Christian",
+        "Zinkann"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-65f2e817-68f7-43d0-9efb-3141d0e055de#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/peter-christian-zinkann-langjaehriger-miele-chef-ist-tot-a-e092a512-8bd3-4c5f-904f-4bd7789cc436#ref=rss"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/tuerkei-energieminister-plant-dieselimporte-aus-dem-deal-zwischen-den-usa-und-russland-a-7e5ecb9c-3a5d-4f62-a9ff-0316a210c5d0#ref=rss"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/peter-christian-zinkann-langjaehriger-miele-chef-im-alter-von-98-jahren-gestorben-201603371.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss",
-      "headline": "Energiepreise: Netzentgelte für Strom und Gas steigen 2027 bundesweit leicht",
-      "takeaway": "Strom und Gas werden teurer – aber nicht überall gleich. Die Netzentgelte werden im Jahr 2027 bundesweit höher ausfallen, zeigt eine neue Auswertung. In Hamburg wird es besonders teuer.",
-      "topic": "Energiepreise",
+      "url": "https://www.spiegel.de/wirtschaft/elon-musk-verspricht-jedem-us-kind-eine-spacex-aktie-a-953bf991-f366-474f-a8f2-c4f49abcd2aa#ref=rss",
+      "headline": "Elon Musk verspricht jedem US-Kind eine SpaceX-Aktie",
+      "takeaway": "Wenn es darum geht, die Gefolgschaft zu mehren, gehen der Clique rund um US-Präsident Donald Trump die Ideen nicht aus. Jetzt will Techmilliardär Elon Musk sehr viel Geld unter die Bevölkerung …",
+      "topic": "SpaceX-Aktie",
       "tags": [
-        "Energiepreise",
-        "Netzentgelte",
-        "Strom",
-        "Gas"
+        "SpaceX-Aktie",
+        "US-Kind",
+        "Elon",
+        "Musk"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/energiepreise-netzentgelte-fuer-strom-und-gas-steigen-2027-bundesweit-leicht-a-652e639f-d708-4994-a432-d8733fe7cf3c#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/elon-musk-verspricht-jedem-us-kind-eine-spacex-aktie-a-953bf991-f366-474f-a8f2-c4f49abcd2aa#ref=rss"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/energie/netzentgelte-netzgebuehren-fuer-strom-und-gas-steigen-a-77145102-76b3-4214-a90d-733a444d86d2#ref=rss"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-musk-verspricht-jedem-us-kind-eine-spacex-aktie-faz-200452404.html"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
-      "headline": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
-      "takeaway": "When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.",
-      "topic": "Gifts",
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
+      "headline": "Volkswagen will offenbar Gehälter einfrieren",
+      "takeaway": "Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
+      "topic": "Volkswagen",
       "tags": [
-        "Gifts",
-        "Manly",
-        "Best",
-        "Men"
+        "Volkswagen",
+        "Gehälter",
+        "einfrieren",
+        "offenbar"
       ],
       "sources": [
         {
-          "src": "wired",
-          "url": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/"
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html"
         },
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/ki-und-solar-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien-2610-214223.html",
-      "headline": "KI und Solar: China plant neue Exportkontrollen für Schlüsseltechnologien",
-      "takeaway": "Peking will den Export von KI- und Solartechnik stärker kontrollieren. Die Regeln sind noch in Vorbereitung, doch erste Pflichten gelten schon. ( China , KI )",
-      "topic": "Schlüsseltechnologien",
-      "tags": [
-        "Schlüsseltechnologien",
-        "Exportkontrollen",
-        "Solar",
-        "China"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/ki-und-solar-china-plant-neue-exportkontrollen-fuer-schluesseltechnologien-2610-214223.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/china-peking-plant-neue-exportkontrollen-fuer-schluesseltechnologien-wie-ki-a-934d9c8c-7092-4e81-9905-9aae499f8498#ref=rss"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/vw-gehaelter-beschaeftigte-nullrunde-ig-metall"
         }
       ]
     },
@@ -146,193 +122,213 @@
     },
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-so-ringt-piechs-familie-um-das-erbe-des-frueheren-vw-patriarchen-01/100254644.html",
-      "headline": "Volkswagen: So ringt Piëchs Familie bis heute um das Erbe des Patriarchen",
-      "takeaway": "Nach Ferdinand Piëchs Tod stritten seine Erben öffentlich um den Nachlass. Exklusive Dokumente belegen, wie der Zwist um das Milliardenerbe enden sollte – und doch bis heute weitergeht.",
-      "topic": "Patriarchen",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "headline": "The world’s finance chiefs see new risks — and less China angst",
+      "takeaway": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "topic": "China",
       "tags": [
-        "Patriarchen",
-        "Volkswagen",
-        "Familie",
-        "Erbe"
+        "China",
+        "finance",
+        "chiefs",
+        "world"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-so-ringt-piechs-familie-um-das-erbe-des-frueheren-vw-patriarchen-01/100254644.html"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lindt-spruengli-entlaesst-konzernchef-lechner-faz-200452404.html",
-      "headline": "Business-Ticker: Lindt & Sprüngli entlässt Konzernchef Lechner",
-      "takeaway": "Anthropic will neuen Gemeinwohl-Fonds gründen: Fünf Prozent der Anteile sollen in den neuen Fonds fließen +++ Türkei will Diesel aus dem Trump-Putin-Deal beziehen +++ Neuigkeiten im …",
-      "topic": "Business-Ticker",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html",
+      "headline": "Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht",
+      "takeaway": "Die große Rentenreform hängt politisch am seidenen Faden. Jetzt diskutieren Unions-Abgeordnete offenbar einen Kompromiss. Worum geht es für die Versicherten? Ein Überblick.",
+      "topic": "Rentenreform",
       "tags": [
-        "Business-Ticker",
-        "Konzernchef",
-        "Sprüngli",
-        "Lechner"
+        "Rentenreform",
+        "Zittern",
+        "Rente",
+        "brisant"
       ],
       "sources": [
         {
           "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lindt-spruengli-entlaesst-konzernchef-lechner-faz-200452404.html"
+          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/banken/bitcoin-und-co-sparkassen-starten-schrittweise-kryptohandel-mit-warnung/100263121.html",
-      "headline": "Bitcoin und Co.: Sparkassen starten schrittweise Kryptohandel",
-      "takeaway": "Die Sparkassen wollen Kryptohandel für Privatkunden anbieten. Sie rollen schrittweise ein neues Angebot aus. Was dahintersteckt.",
-      "topic": "Kryptohandel",
+      "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-putin-schlaegt-trump-und-xi-ukraine-gipfel-vor/100263178.html",
+      "headline": "Dreiergipfel zur Ukraine: Trump zeigt sich offen für Treffen mit Putin und Xi",
+      "takeaway": "Donald Trump ist offen für einen Dreiergipfel mit Putin und Xi Jinping über den Ukraine-Krieg – auch ohne Selenskyj. Wie die Führung in Kiew reagiert.",
+      "topic": "Dreiergipfel",
       "tags": [
-        "Kryptohandel",
-        "Sparkassen",
-        "Bitcoin",
-        "schrittweise"
+        "Dreiergipfel",
+        "Ukraine",
+        "Treffen",
+        "Trump"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/banken/bitcoin-und-co-sparkassen-starten-schrittweise-kryptohandel-mit-warnung/100263121.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "headline": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "takeaway": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-      "topic": "China",
-      "tags": [
-        "China",
-        "accelerates",
-        "outweighs",
-        "domestic"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
-      "headline": "Marktbericht: DAX steht schwacher Wochenstart bevor",
-      "takeaway": "Positive Konjunkturdaten aus China, Gegenwind der US-Börsen und eine unübersichtliche Lage in Frankreich - ein Mix, der den DAX zum Wochenauftakt belasten könnte.",
-      "topic": "Marktbericht",
-      "tags": [
-        "Marktbericht",
-        "Wochenstart",
-        "DAX",
-        "schwacher"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html"
+          "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-putin-schlaegt-trump-und-xi-ukraine-gipfel-vor/100263178.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/linkedin-warum-ankuendigungsposts-floppen-und-was-die-erste-zeile-damit-zu-tun-hat-1768612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Linkedin: Warum Ankündigungsposts floppen und was die erste Zeile damit zu tun hat",
-      "takeaway": "Heute bin ich bei diesem, morgen bei jenem Event: So posten manche Führungskräfte auf Linkedin. Céline Flores Willers hält das für einen Fehler. Im Interview erklärt sie, was eine KI-Analyse ihres …",
-      "topic": "Ankündigungsposts",
+      "src": "golem",
+      "url": "https://www.golem.de/news/eine-aktie-fuer-jedes-kind-elon-musks-milliarden-versprechen-2610-214275.html",
+      "headline": "Eine Aktie für jedes Kind: Elon Musks Milliarden-Versprechen",
+      "takeaway": "Elon Musk will jedem Kind in den USA eine SpaceX-Aktie schenken. Bei einem Kurs von 146 US-Dollar entspräche das einem Wert von rund 10 Milliarden US-Dollar. ( Donald Trump , Wirtschaft )",
+      "topic": "Milliarden-Versprechen",
       "tags": [
-        "Ankündigungsposts",
-        "Linkedin",
-        "Zeile",
-        "floppen"
+        "Milliarden-Versprechen",
+        "Aktie",
+        "Musks",
+        "Kind"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/linkedin-warum-ankuendigungsposts-floppen-und-was-die-erste-zeile-damit-zu-tun-hat-1768612/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "golem",
+          "url": "https://www.golem.de/news/eine-aktie-fuer-jedes-kind-elon-musks-milliarden-versprechen-2610-214275.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
-      "headline": "A Savannah police officer gave her Flock login to her ICE agent husband",
-      "takeaway": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE …",
-      "topic": "Savannah",
+      "src": "wired",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
+      "headline": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
+      "takeaway": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+      "topic": "Adorama",
       "tags": [
-        "Savannah",
-        "Flock",
-        "ICE",
-        "officer"
+        "Adorama",
+        "October",
+        "Camera",
+        "Coupon"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband"
+          "src": "wired",
+          "url": "https://www.wired.com/story/adorama-promo-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "headline": "Mint Mobile Discounts for October 2026",
+      "takeaway": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "topic": "Discounts",
+      "tags": [
+        "Discounts",
+        "October",
+        "Mobile",
+        "Mint"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/mint-mobile-promo-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "headline": "‘These risks are real’: the threat of AI bioweapons – podcast",
+      "takeaway": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new …",
+      "topic": "These",
+      "tags": [
+        "These",
+        "bioweapons",
+        "podcast",
+        "threat"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "headline": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "takeaway": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-      "topic": "Francisco",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "headline": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "takeaway": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "topic": "Flipkart",
       "tags": [
-        "Francisco",
-        "Benchmark",
-        "San",
-        "investing"
+        "Flipkart",
+        "Walmart",
+        "India",
+        "challenger"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"
+          "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/ki-menschen-falsche-erinnerungen-1768784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "MIT-Forscherin warnt: KI könnte bei Menschen falsche Erinnerungen erzeugen",
-      "takeaway": "Die Professorin Pattie Maes vom MIT Media Lab hat in einem Experiment gezeigt, dass KI menschliche Erinnerungen beeinflussen kann. Maes hält das für „sehr gefährlich“ – sowohl für Gerichtsverfahren …",
-      "topic": "MIT-Forscherin",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "headline": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "takeaway": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "topic": "Mamdani",
       "tags": [
-        "MIT-Forscherin",
-        "Erinnerungen",
-        "Menschen",
-        "erzeugen"
+        "Mamdani",
+        "Yorkers",
+        "abdicated",
+        "urges"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/ki-menschen-falsche-erinnerungen-1768784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "headline": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "takeaway": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II …",
+      "topic": "promises",
+      "tags": [
+        "promises",
+        "without",
+        "selling",
+        "needed"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Rückenwind für den Standort Deutschland? / Frankreich sucht Antworten auf die Gewaltwelle",
-    "dateLabel": "Folge vom 19.10. · 8 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2223-ruckenwind-fur-den-standort-deutschland-frankreich-sucht-antworten-auf-die-gewaltwelle",
+    "title": "Nvidia-Chef blickt positiv auf Deutschland / VW droht Shutdown",
+    "dateLabel": "Folge vom 20.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2224-nvidia-chef-blickt-positiv-auf-deutschland-vw-droht-shutdown",
     "takeaways": [
-      "Beim Investorengipfel „Invest in Germany“ in Berlin wirbt Bundeskanzler Merz heute und morgen um internationale Geldgeber.",
-      "Zu den Gästen gehören Blackrock-Chef Larry Fink und Nvidia-Chef Jensen Huang.",
-      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+      "Nvidia-Chef Jensen Huang traut Deutschland bei der industriellen Anwendung von KI eine Führungsrolle zu.",
+      "Beim Investitionsgipfel in Berlin entscheidet sich, welche privaten Investoren mitziehen.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }
 }

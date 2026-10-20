@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T07:32:01.321034+02:00",
+  "updatedAtLabel": "20.10.2026, 07:32 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Immobilienkredite-so-teuer-wie-zur-Finanzkrise-2009-id31436330.html",
+      "headline": "Rekordzins wegen des Iran-Kriegs: Immobilienkredite so teuer wie zur Finanzkrise 2009",
+      "takeaway": "Wer ein Haus kaufen will, muss für die Zinsen derzeit besonders tief in die Tasche greifen. Der Iran-Krieg treibt die Inflation, was in einer Kettenreaktion auf Baudarlehen durchschlägt. Sogar die …",
+      "topic": "Immobilienkredite",
+      "tags": [
+        "Immobilienkredite",
+        "Iran-Kriegs",
+        "Finanzkrise",
+        "Rekordzins"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Immobilienkredite-so-teuer-wie-zur-Finanzkrise-2009-id31436330.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/immobilien/trumpflation-immobilienkredite-so-teuer-wie-seit-2009-nicht-mehr/100263407.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/peter-christian-zinkann-langjaehriger-miele-chef-ist-tot-a-e092a512-8bd3-4c5f-904f-4bd7789cc436#ref=rss",
+      "headline": "Peter Christian Zinkann: Langjähriger Miele-Chef ist tot",
+      "takeaway": "Sein Großvater hatte die Firma Miele einst mitgegründet, Peter Christian Zinkann selbst leitete sie mehr als vier Jahrzehnte lang. Nun trauert der Haushaltsgerätehersteller um eine »herausragende …",
+      "topic": "Langjähriger",
+      "tags": [
+        "Langjähriger",
+        "Miele-Chef",
+        "Christian",
+        "Zinkann"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/peter-christian-zinkann-langjaehriger-miele-chef-ist-tot-a-e092a512-8bd3-4c5f-904f-4bd7789cc436#ref=rss"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/peter-christian-zinkann-langjaehriger-miele-chef-im-alter-von-98-jahren-gestorben-201603371.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/elon-musk-verspricht-jedem-us-kind-eine-spacex-aktie-a-953bf991-f366-474f-a8f2-c4f49abcd2aa#ref=rss",
+      "headline": "Elon Musk verspricht jedem US-Kind eine SpaceX-Aktie",
+      "takeaway": "Wenn es darum geht, die Gefolgschaft zu mehren, gehen der Clique rund um US-Präsident Donald Trump die Ideen nicht aus. Jetzt will Techmilliardär Elon Musk sehr viel Geld unter die Bevölkerung …",
+      "topic": "SpaceX-Aktie",
+      "tags": [
+        "SpaceX-Aktie",
+        "US-Kind",
+        "Elon",
+        "Musk"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/elon-musk-verspricht-jedem-us-kind-eine-spacex-aktie-a-953bf991-f366-474f-a8f2-c4f49abcd2aa#ref=rss"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-musk-verspricht-jedem-us-kind-eine-spacex-aktie-faz-200452404.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html",
+      "headline": "Volkswagen will offenbar Gehälter einfrieren",
+      "takeaway": "Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
+      "topic": "Volkswagen",
+      "tags": [
+        "Volkswagen",
+        "Gehälter",
+        "einfrieren",
+        "offenbar"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/vw-gehaelter-beschaeftigte-nullrunde-ig-metall"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html",
+      "headline": "Alexander Schweitzer: „Ich habe damals deutlich gespürt: Ich muss aktiv werden“",
+      "takeaway": "Alexander Schweitzer, Ex-Ministerpräsident von Rheinland-Pfalz und neuer Bundesarbeitsminister, erkannte früh, wofür es sich zu kämpfen lohnt. Was ihn prägte.",
+      "topic": "Schweitzer",
+      "tags": [
+        "Schweitzer",
+        "Alexander",
+        "Ich",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/alexander-schweitzer-ich-habe-damals-deutlich-gespuert-ich-muss-aktiv-werden-/30011162.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "headline": "The world’s finance chiefs see new risks — and less China angst",
+      "takeaway": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "topic": "China",
+      "tags": [
+        "China",
+        "finance",
+        "chiefs",
+        "world"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html",
+      "headline": "Zittern um Rentenreform: Was die „Rente mit 63“ so brisant macht",
+      "takeaway": "Die große Rentenreform hängt politisch am seidenen Faden. Jetzt diskutieren Unions-Abgeordnete offenbar einen Kompromiss. Worum geht es für die Versicherten? Ein Überblick.",
+      "topic": "Rentenreform",
+      "tags": [
+        "Rentenreform",
+        "Zittern",
+        "Rente",
+        "brisant"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/rente-mit-63-was-die-abschlagsfreiheit-kostet-und-warum-sie-die-koalition-spaltet-201601670.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-putin-schlaegt-trump-und-xi-ukraine-gipfel-vor/100263178.html",
+      "headline": "Dreiergipfel zur Ukraine: Trump zeigt sich offen für Treffen mit Putin und Xi",
+      "takeaway": "Donald Trump ist offen für einen Dreiergipfel mit Putin und Xi Jinping über den Ukraine-Krieg – auch ohne Selenskyj. Wie die Führung in Kiew reagiert.",
+      "topic": "Dreiergipfel",
+      "tags": [
+        "Dreiergipfel",
+        "Ukraine",
+        "Treffen",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-putin-schlaegt-trump-und-xi-ukraine-gipfel-vor/100263178.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/eine-aktie-fuer-jedes-kind-elon-musks-milliarden-versprechen-2610-214275.html",
+      "headline": "Eine Aktie für jedes Kind: Elon Musks Milliarden-Versprechen",
+      "takeaway": "Elon Musk will jedem Kind in den USA eine SpaceX-Aktie schenken. Bei einem Kurs von 146 US-Dollar entspräche das einem Wert von rund 10 Milliarden US-Dollar. ( Donald Trump , Wirtschaft )",
+      "topic": "Milliarden-Versprechen",
+      "tags": [
+        "Milliarden-Versprechen",
+        "Aktie",
+        "Musks",
+        "Kind"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/eine-aktie-fuer-jedes-kind-elon-musks-milliarden-versprechen-2610-214275.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/adorama-promo-code/",
+      "headline": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
+      "takeaway": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
+      "topic": "Adorama",
+      "tags": [
+        "Adorama",
+        "October",
+        "Camera",
+        "Coupon"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/adorama-promo-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "headline": "Mint Mobile Discounts for October 2026",
+      "takeaway": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "topic": "Discounts",
+      "tags": [
+        "Discounts",
+        "October",
+        "Mobile",
+        "Mint"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/mint-mobile-promo-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+      "headline": "‘These risks are real’: the threat of AI bioweapons – podcast",
+      "takeaway": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new …",
+      "topic": "These",
+      "tags": [
+        "These",
+        "bioweapons",
+        "podcast",
+        "threat"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "headline": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "takeaway": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "topic": "Flipkart",
+      "tags": [
+        "Flipkart",
+        "Walmart",
+        "India",
+        "challenger"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "headline": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "takeaway": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "topic": "Mamdani",
+      "tags": [
+        "Mamdani",
+        "Yorkers",
+        "abdicated",
+        "urges"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+      "headline": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+      "takeaway": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II …",
+      "topic": "promises",
+      "tags": [
+        "promises",
+        "without",
+        "selling",
+        "needed"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Nvidia-Chef blickt positiv auf Deutschland / VW droht Shutdown",
+    "dateLabel": "Folge vom 20.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2224-nvidia-chef-blickt-positiv-auf-deutschland-vw-droht-shutdown",
+    "takeaways": [
+      "Nvidia-Chef Jensen Huang traut Deutschland bei der industriellen Anwendung von KI eine Führungsrolle zu.",
+      "Beim Investitionsgipfel in Berlin entscheidet sich, welche privaten Investoren mitziehen.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
