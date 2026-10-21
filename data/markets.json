@@ -1,68 +1,62 @@
 {
-  "updatedAt": "2026-10-21T22:30:15.074493+02:00",
-  "updatedAtLabel": "21.10.2026, 22:30 Uhr",
+  "updatedAt": "2026-10-21T23:30:44.844312+02:00",
+  "updatedAtLabel": "21.10.2026, 23:30 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
-    "fresh": 86,
-    "stale": [
-      "bayer"
-    ],
+    "fresh": 87,
+    "stale": [],
     "missing": [],
     "hint": "",
-    "errors": [
-      "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
-      "Yahoo BAYN.DE: HTTPError: HTTP Error 429: Too Many Requests",
-      "Stooq BAYN.DE: URLError: <urlopen error timed out>"
-    ]
+    "errors": []
   },
   "quotes": {
     "btc": {
-      "price": "75.247 €",
+      "price": "75.488 €",
       "change": {
-        "week": 3.74,
-        "month": 1.98,
-        "year": -19.35
+        "week": 4.07,
+        "month": 2.31,
+        "year": -19.1
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.217,67 €",
+      "price": "2.224,93 €",
       "change": {
-        "week": 2.97,
-        "month": -6.44,
-        "year": -33.42
+        "week": 3.31,
+        "month": -6.13,
+        "year": -33.2
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "96,19 €",
+      "price": "96,40 €",
       "change": {
-        "week": 3.63,
-        "month": -7.7,
-        "year": -39.89
+        "week": 3.86,
+        "month": -7.5,
+        "year": -39.75
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "1,24 €",
+      "price": "1,23 €",
       "change": {
-        "week": 6.15,
-        "month": -5.92,
-        "year": -40.74
+        "week": 5.9,
+        "month": -6.14,
+        "year": -40.88
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "666,79 €",
+      "price": "667,76 €",
       "change": {
-        "week": 3.96,
-        "month": -1.76,
-        "year": -26.8
+        "week": 4.11,
+        "month": -1.62,
+        "year": -26.69
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
@@ -233,6 +227,16 @@
         "week": 0.23,
         "month": 1.53,
         "year": 21.77
+      },
+      "asOf": "2026-10-21",
+      "src": "Yahoo"
+    },
+    "bayer": {
+      "price": "44,63 €",
+      "change": {
+        "week": -0.98,
+        "month": -9.93,
+        "year": 63.15
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
@@ -876,17 +880,6 @@
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
-    },
-    "bayer": {
-      "price": "44,63 €",
-      "change": {
-        "week": -0.98,
-        "month": -9.93,
-        "year": 63.15
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo",
-      "stale": true
     }
   }
 }
