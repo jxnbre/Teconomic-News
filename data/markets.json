@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-21T14:39:06.596948+02:00",
-  "updatedAtLabel": "21.10.2026, 14:39 Uhr",
-  "source": "CoinGecko, Yahoo",
+  "updatedAt": "2026-10-21T15:39:53.705945+02:00",
+  "updatedAtLabel": "21.10.2026, 15:39 Uhr",
+  "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
     "fresh": 87,
@@ -12,31 +12,31 @@
   },
   "quotes": {
     "btc": {
-      "price": "74.331 €",
+      "price": "74.216 €",
       "change": {
-        "week": 2.47,
-        "month": 0.74,
-        "year": -20.33
+        "week": 2.31,
+        "month": 0.58,
+        "year": -20.46
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.196,13 €",
+      "price": "2.193,14 €",
       "change": {
-        "week": 1.97,
-        "month": -7.34,
-        "year": -34.07
+        "week": 1.83,
+        "month": -7.47,
+        "year": -34.16
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "95,18 €",
+      "price": "94,86 €",
       "change": {
-        "week": 2.55,
-        "month": -8.67,
-        "year": -40.51
+        "week": 2.2,
+        "month": -8.98,
+        "year": -40.72
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
@@ -44,99 +44,139 @@
     "xrp": {
       "price": "1,21 €",
       "change": {
-        "week": 3.56,
-        "month": -8.21,
+        "week": 3.55,
+        "month": -8.22,
         "year": -42.19
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "663,98 €",
+      "price": "663,05 €",
       "change": {
-        "week": 3.52,
-        "month": -2.17,
-        "year": -27.1
+        "week": 3.37,
+        "month": -2.31,
+        "year": -27.21
       },
       "asOf": "2026-10-21",
       "src": "CoinGecko"
     },
-    "dax": {
-      "price": "25.532 Pkt.",
+    "eurusd": {
+      "price": "1,1215",
       "change": {
-        "week": 0.92,
-        "month": -0.18,
-        "year": 4.94
+        "week": 0.24,
+        "month": -2.39,
+        "year": -3.73
+      },
+      "asOf": "2026-10-20",
+      "src": "EZB"
+    },
+    "eurgbp": {
+      "price": "0,8403",
+      "change": {
+        "week": -0.51,
+        "month": -2.04,
+        "year": -3.15
+      },
+      "asOf": "2026-10-20",
+      "src": "EZB"
+    },
+    "eurchf": {
+      "price": "0,9237",
+      "change": {
+        "week": -0.81,
+        "month": -2.13,
+        "year": -0.7
+      },
+      "asOf": "2026-10-20",
+      "src": "EZB"
+    },
+    "usdjpy": {
+      "price": "158,13",
+      "change": {
+        "week": 0.0,
+        "month": 0.55,
+        "year": 4.52
+      },
+      "asOf": "2026-10-20",
+      "src": "EZB"
+    },
+    "dax": {
+      "price": "25.657 Pkt.",
+      "change": {
+        "week": 1.42,
+        "month": 0.31,
+        "year": 5.46
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "mdax": {
-      "price": "30.581 Pkt.",
+      "price": "30.709 Pkt.",
       "change": {
-        "week": 1.77,
-        "month": -3.01,
-        "year": 1.46
+        "week": 2.19,
+        "month": -2.6,
+        "year": 1.89
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "sdax": {
-      "price": "18.432 Pkt.",
+      "price": "18.466 Pkt.",
       "change": {
-        "week": 1.41,
-        "month": 0.12,
-        "year": 7.44
+        "week": 1.59,
+        "month": 0.3,
+        "year": 7.64
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "dow": {
-      "price": "52.496 Pkt.",
+      "price": "52.516 Pkt.",
       "change": {
-        "week": 1.6,
-        "month": 0.86,
-        "year": 11.87
+        "week": 1.73,
+        "month": 1.26,
+        "year": 11.92
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "nasdaq": {
-      "price": "29.490 Pkt.",
+      "price": "29.692 Pkt.",
       "change": {
-        "week": -3.53,
-        "month": -3.25,
-        "year": 17.36
+        "week": -0.86,
+        "month": -3.38,
+        "year": 18.17
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "sp500": {
-      "price": "7.713 Pkt.",
+      "price": "7.735 Pkt.",
       "change": {
-        "week": -1.19,
-        "month": -0.67,
-        "year": 14.51
+        "week": 0.2,
+        "month": -0.39,
+        "year": 14.84
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "stoxx": {
-      "price": "6.183 Pkt.",
+      "price": "6.206 Pkt.",
       "change": {
-        "week": -0.12,
-        "month": -2.25,
-        "year": 8.72
+        "week": 0.26,
+        "month": -1.87,
+        "year": 9.13
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "ftse": {
-      "price": "10.739 Pkt.",
+      "price": "10.771 Pkt.",
       "change": {
-        "week": 0.13,
-        "month": 0.28,
-        "year": 13.91
+        "week": 0.43,
+        "month": 0.59,
+        "year": 14.26
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
@@ -152,151 +192,151 @@
       "src": "Yahoo"
     },
     "adidas": {
-      "price": "162,45 €",
+      "price": "162,85 €",
       "change": {
-        "week": 5.21,
-        "month": 10.62,
-        "year": -16.59
+        "week": 5.47,
+        "month": 10.9,
+        "year": -16.38
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "airbus": {
-      "price": "195,52 €",
+      "price": "197,16 €",
       "change": {
-        "week": 2.73,
-        "month": 0.42,
-        "year": -5.75
+        "week": 3.59,
+        "month": 1.26,
+        "year": -4.96
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "allianz": {
-      "price": "434,80 €",
+      "price": "436,90 €",
       "change": {
-        "week": 2.02,
-        "month": 1.07,
-        "year": 23.28
+        "week": 2.51,
+        "month": 1.56,
+        "year": 23.87
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "basf": {
-      "price": "52,81 €",
+      "price": "53,01 €",
       "change": {
-        "week": 0.67,
-        "month": 1.97,
-        "year": 22.3
+        "week": 1.05,
+        "month": 2.36,
+        "year": 22.77
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "bayer": {
-      "price": "44,24 €",
+      "price": "44,41 €",
       "change": {
-        "week": -1.84,
-        "month": -10.72,
-        "year": 61.73
+        "week": -1.46,
+        "month": -10.37,
+        "year": 62.35
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "beiersdorf": {
-      "price": "81,64 €",
+      "price": "81,70 €",
       "change": {
-        "week": 0.79,
-        "month": 6.77,
-        "year": -14.66
+        "week": 0.86,
+        "month": 6.85,
+        "year": -14.59
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "bmw": {
-      "price": "57,38 €",
+      "price": "57,52 €",
       "change": {
-        "week": 4.71,
-        "month": -3.69,
-        "year": -29.54
+        "week": 4.96,
+        "month": -3.46,
+        "year": -29.37
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "brenntag": {
-      "price": "62,64 €",
+      "price": "63,16 €",
       "change": {
-        "week": -2.88,
-        "month": 4.02,
-        "year": 23.7
+        "week": -2.08,
+        "month": 4.88,
+        "year": 24.72
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "commerzbank": {
-      "price": "37,32 €",
+      "price": "37,57 €",
       "change": {
-        "week": -2.02,
-        "month": -10.12,
-        "year": 25.15
+        "week": -1.37,
+        "month": -9.51,
+        "year": 25.99
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "continental": {
-      "price": "68,42 €",
+      "price": "68,40 €",
       "change": {
-        "week": -2.4,
-        "month": -2.2,
-        "year": 9.51
+        "week": -2.43,
+        "month": -2.23,
+        "year": 9.48
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "covestro": {
-      "price": "60,20 €",
+      "price": "60,40 €",
       "change": {
-        "week": 0.17,
-        "month": 0.17,
-        "year": 0.17
+        "week": 0.5,
+        "month": 0.5,
+        "year": 0.5
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "daimlertruck": {
-      "price": "41,05 €",
+      "price": "41,31 €",
       "change": {
-        "week": 0.61,
-        "month": -4.98,
-        "year": 17.59
+        "week": 1.25,
+        "month": -4.37,
+        "year": 18.33
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "db": {
-      "price": "28,55 €",
+      "price": "28,80 €",
       "change": {
-        "week": -3.48,
-        "month": -12.53,
-        "year": -0.56
+        "week": -2.65,
+        "month": -11.78,
+        "year": 0.3
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "deutscheboerse": {
-      "price": "305,90 €",
+      "price": "305,20 €",
       "change": {
-        "week": 0.76,
-        "month": 9.29,
-        "year": 36.08
+        "week": 0.53,
+        "month": 9.04,
+        "year": 35.77
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "dhlgroup": {
-      "price": "57,88 €",
+      "price": "58,24 €",
       "change": {
-        "week": 1.94,
-        "month": -1.26,
-        "year": 46.01
+        "week": 2.57,
+        "month": -0.65,
+        "year": 46.92
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
@@ -312,483 +352,483 @@
       "src": "Yahoo"
     },
     "eon": {
-      "price": "18,07 €",
+      "price": "18,20 €",
       "change": {
-        "week": 4.6,
-        "month": 3.43,
-        "year": 10.52
+        "week": 5.35,
+        "month": 4.18,
+        "year": 11.31
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "fresenius": {
-      "price": "45,48 €",
+      "price": "45,53 €",
       "change": {
-        "week": 4.41,
-        "month": -0.2,
-        "year": -5.51
+        "week": 4.53,
+        "month": -0.08,
+        "year": -5.39
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "fmc": {
-      "price": "38,61 €",
+      "price": "38,54 €",
       "change": {
-        "week": 0.73,
-        "month": -1.76,
-        "year": -17.46
+        "week": 0.55,
+        "month": -1.93,
+        "year": -17.61
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "hannoverrueck": {
-      "price": "276,00 €",
+      "price": "276,80 €",
       "change": {
-        "week": 2.83,
-        "month": 9.26,
-        "year": 8.32
+        "week": 3.13,
+        "month": 9.58,
+        "year": 8.63
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "heidelbergmat": {
-      "price": "146,60 €",
+      "price": "147,10 €",
       "change": {
-        "week": 3.68,
-        "month": -0.48,
-        "year": -24.2
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo"
-    },
-    "henkel": {
-      "price": "78,26 €",
-      "change": {
-        "week": 1.32,
-        "month": 4.1,
-        "year": 8.72
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo"
-    },
-    "infineon": {
-      "price": "53,73 €",
-      "change": {
-        "week": -2.93,
-        "month": -10.64,
-        "year": 52.47
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo"
-    },
-    "mbg": {
-      "price": "41,20 €",
-      "change": {
-        "week": 4.08,
-        "month": -5.22,
+        "week": 4.03,
+        "month": -0.14,
         "year": -23.94
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
-    "merck": {
-      "price": "144,40 €",
+    "henkel": {
+      "price": "78,56 €",
       "change": {
-        "week": 1.76,
-        "month": 8.45,
-        "year": 25.78
+        "week": 1.71,
+        "month": 4.5,
+        "year": 9.14
+      },
+      "asOf": "2026-10-21",
+      "src": "Yahoo"
+    },
+    "infineon": {
+      "price": "53,84 €",
+      "change": {
+        "week": -2.73,
+        "month": -10.46,
+        "year": 52.78
+      },
+      "asOf": "2026-10-21",
+      "src": "Yahoo"
+    },
+    "mbg": {
+      "price": "41,38 €",
+      "change": {
+        "week": 4.52,
+        "month": -4.82,
+        "year": -23.62
+      },
+      "asOf": "2026-10-21",
+      "src": "Yahoo"
+    },
+    "merck": {
+      "price": "144,95 €",
+      "change": {
+        "week": 2.15,
+        "month": 8.86,
+        "year": 26.26
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "mtu": {
-      "price": "345,20 €",
+      "price": "349,30 €",
       "change": {
-        "week": -3.39,
-        "month": -3.55,
-        "year": -9.92
+        "week": -2.24,
+        "month": -2.4,
+        "year": -8.85
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "munichre": {
-      "price": "548,20 €",
+      "price": "549,80 €",
       "change": {
-        "week": 2.77,
-        "month": 9.25,
-        "year": 0.15
+        "week": 3.07,
+        "month": 9.57,
+        "year": 0.44
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "porscheag": {
-      "price": "42,55 €",
+      "price": "42,75 €",
       "change": {
-        "week": 2.83,
-        "month": -6.11,
-        "year": -2.68
+        "week": 3.31,
+        "month": -5.67,
+        "year": -2.22
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "porschese": {
-      "price": "25,32 €",
+      "price": "25,51 €",
       "change": {
-        "week": 3.39,
-        "month": -7.25,
-        "year": -27.18
+        "week": 4.16,
+        "month": -6.56,
+        "year": -26.63
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "qiagen": {
-      "price": "42,92 €",
+      "price": "42,85 €",
       "change": {
-        "week": 4.39,
-        "month": 11.75,
-        "year": -3.15
+        "week": 4.2,
+        "month": 11.55,
+        "year": -3.33
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "rheinmetall": {
-      "price": "1.041,00 €",
+      "price": "1.050,60 €",
       "change": {
-        "week": 5.87,
-        "month": 5.0,
-        "year": -41.53
+        "week": 6.84,
+        "month": 5.97,
+        "year": -40.99
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "rwe": {
-      "price": "57,84 €",
+      "price": "58,18 €",
       "change": {
-        "week": -1.97,
-        "month": -4.21,
-        "year": 41.97
+        "week": -1.39,
+        "month": -3.64,
+        "year": 42.81
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "sap": {
-      "price": "205,20 €",
+      "price": "206,00 €",
       "change": {
-        "week": 4.19,
-        "month": 12.55,
-        "year": -14.64
+        "week": 4.6,
+        "month": 12.99,
+        "year": -14.31
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "sartorius": {
-      "price": "258,20 €",
+      "price": "258,60 €",
       "change": {
-        "week": 0.08,
-        "month": 2.06,
-        "year": 8.12
+        "week": 0.23,
+        "month": 2.21,
+        "year": 8.29
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "siemens": {
-      "price": "264,90 €",
+      "price": "267,00 €",
       "change": {
-        "week": -3.69,
-        "month": -3.27,
-        "year": 9.51
+        "week": -2.93,
+        "month": -2.5,
+        "year": 10.38
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "siemensenergy": {
-      "price": "132,80 €",
+      "price": "133,94 €",
       "change": {
-        "week": -1.83,
-        "month": -8.95,
-        "year": 33.49
+        "week": -0.99,
+        "month": -8.17,
+        "year": 34.64
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "siemenshealth": {
-      "price": "41,54 €",
+      "price": "41,71 €",
       "change": {
-        "week": 3.67,
-        "month": 10.98,
-        "year": -14.53
+        "week": 4.09,
+        "month": 11.43,
+        "year": -14.18
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "symrise": {
-      "price": "100,60 €",
+      "price": "101,25 €",
       "change": {
-        "week": 3.73,
-        "month": 7.71,
-        "year": 24.69
+        "week": 4.4,
+        "month": 8.4,
+        "year": 25.5
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "vw": {
-      "price": "69,26 €",
+      "price": "69,48 €",
       "change": {
-        "week": 3.31,
-        "month": -7.92,
-        "year": -24.14
+        "week": 3.64,
+        "month": -7.63,
+        "year": -23.9
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "vonovia": {
-      "price": "16,72 €",
+      "price": "16,68 €",
       "change": {
-        "week": 1.12,
-        "month": -3.74,
-        "year": -39.94
+        "week": 0.88,
+        "month": -3.97,
+        "year": -40.09
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "zalando": {
-      "price": "25,61 €",
+      "price": "25,80 €",
       "change": {
-        "week": 6.89,
-        "month": 14.59,
-        "year": -3.83
+        "week": 7.68,
+        "month": 15.44,
+        "year": -3.12
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "apple": {
-      "price": "339,50 $",
+      "price": "339,92 $",
       "change": {
-        "week": -0.52,
-        "month": 0.15,
-        "year": 29.2
+        "week": -0.89,
+        "month": 0.05,
+        "year": 29.36
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "msft": {
-      "price": "531,87 $",
+      "price": "529,76 $",
       "change": {
-        "week": -2.13,
-        "month": 6.03,
-        "year": 2.75
+        "week": -0.74,
+        "month": 6.38,
+        "year": 2.34
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "nvda": {
-      "price": "216,47 $",
+      "price": "220,42 $",
       "change": {
-        "week": -5.27,
-        "month": -4.8,
-        "year": 19.49
+        "week": -0.4,
+        "month": -3.69,
+        "year": 21.67
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "amzn": {
-      "price": "262,63 $",
+      "price": "261,51 $",
       "change": {
-        "week": 1.57,
-        "month": 1.62,
-        "year": 18.29
+        "week": 2.92,
+        "month": 2.56,
+        "year": 17.78
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "googl": {
-      "price": "340,28 $",
+      "price": "333,06 $",
       "change": {
-        "week": -3.82,
-        "month": -4.14,
-        "year": 35.86
+        "week": -4.19,
+        "month": -5.15,
+        "year": 32.98
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "meta": {
-      "price": "694,25 $",
+      "price": "705,39 $",
       "change": {
-        "week": -8.95,
-        "month": -6.34,
-        "year": -5.32
+        "week": -4.36,
+        "month": -4.24,
+        "year": -3.8
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "tsla": {
-      "price": "373,71 $",
+      "price": "382,77 $",
       "change": {
-        "week": -0.41,
-        "month": -0.42,
-        "year": -15.56
+        "week": 4.25,
+        "month": 1.02,
+        "year": -13.52
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "brka": {
-      "price": "539,82 $",
+      "price": "541,00 $",
       "change": {
-        "week": 3.69,
-        "month": 7.53,
-        "year": 9.88
+        "week": 2.78,
+        "month": 7.45,
+        "year": 10.12
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "lly": {
-      "price": "1.283,66 $",
+      "price": "1.274,90 $",
       "change": {
-        "week": 10.04,
-        "month": 10.2,
-        "year": 60.54
+        "week": 5.47,
+        "month": 8.95,
+        "year": 59.45
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "v": {
-      "price": "406,57 $",
+      "price": "406,35 $",
       "change": {
-        "week": 2.65,
-        "month": 9.9,
-        "year": 17.1
+        "week": 3.81,
+        "month": 12.24,
+        "year": 17.03
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "ma": {
-      "price": "620,42 $",
+      "price": "620,19 $",
       "change": {
-        "week": 2.58,
-        "month": 9.3,
-        "year": 8.46
+        "week": 2.81,
+        "month": 11.57,
+        "year": 8.42
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "jpm": {
-      "price": "335,26 $",
+      "price": "334,15 $",
       "change": {
-        "week": 1.16,
-        "month": -4.77,
-        "year": 12.85
+        "week": -0.34,
+        "month": -1.72,
+        "year": 12.47
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "jnj": {
-      "price": "259,36 $",
+      "price": "257,00 $",
       "change": {
-        "week": 4.32,
-        "month": -3.75,
-        "year": 35.17
+        "week": 1.22,
+        "month": -4.53,
+        "year": 33.94
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "avgo": {
-      "price": "334,37 $",
+      "price": "337,12 $",
       "change": {
-        "week": -6.42,
-        "month": -7.8,
-        "year": -2.42
+        "week": -2.64,
+        "month": -7.52,
+        "year": -1.62
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "nflx": {
-      "price": "68,69 $",
+      "price": "65,77 $",
       "change": {
-        "week": -2.51,
-        "month": -6.37,
-        "year": -44.67
+        "week": -6.8,
+        "month": -8.86,
+        "year": -47.02
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "wmt": {
-      "price": "117,85 $",
+      "price": "117,72 $",
       "change": {
-        "week": 4.96,
-        "month": 9.69,
-        "year": 10.95
+        "week": 1.34,
+        "month": 6.9,
+        "year": 10.83
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "xom": {
-      "price": "177,86 $",
+      "price": "177,06 $",
       "change": {
-        "week": 2.17,
-        "month": 12.36,
-        "year": 57.8
+        "week": 0.03,
+        "month": 11.56,
+        "year": 57.09
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "pg": {
-      "price": "159,32 $",
+      "price": "158,07 $",
       "change": {
-        "week": 4.1,
-        "month": 9.06,
-        "year": 5.08
+        "week": 0.98,
+        "month": 6.65,
+        "year": 4.25
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "ko": {
-      "price": "93,49 $",
+      "price": "93,14 $",
       "change": {
-        "week": 3.75,
-        "month": 7.31,
-        "year": 31.27
+        "week": 1.48,
+        "month": 5.11,
+        "year": 30.78
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "asml": {
-      "price": "1.486,40 €",
+      "price": "1.496,40 €",
       "change": {
-        "week": -2.74,
-        "month": -1.39,
-        "year": 67.05
+        "week": -2.08,
+        "month": -0.73,
+        "year": 68.17
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "lvmh": {
-      "price": "388,85 €",
+      "price": "388,30 €",
       "change": {
-        "week": -0.18,
-        "month": -3.26,
-        "year": -36.96
+        "week": -0.32,
+        "month": -3.4,
+        "year": -37.05
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "novo": {
-      "price": "39,35 $",
+      "price": "39,31 $",
       "change": {
-        "week": 3.39,
-        "month": -1.13,
-        "year": -28.17
+        "week": 3.12,
+        "month": -0.23,
+        "year": -28.24
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "toyota": {
-      "price": "196,53 $",
+      "price": "196,21 $",
       "change": {
-        "week": 4.14,
-        "month": 2.09,
-        "year": -2.68
+        "week": 4.03,
+        "month": 2.16,
+        "year": -2.84
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "samsung": {
@@ -802,81 +842,41 @@
       "src": "Yahoo"
     },
     "tsm": {
-      "price": "425,08 $",
+      "price": "430,20 $",
       "change": {
-        "week": -4.5,
-        "month": -4.51,
-        "year": 44.33
+        "week": 0.05,
+        "month": -4.82,
+        "year": 46.07
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "shell": {
-      "price": "105,54 $",
+      "price": "105,21 $",
       "change": {
-        "week": 2.48,
-        "month": 13.16,
-        "year": 45.23
+        "week": 1.57,
+        "month": 12.0,
+        "year": 44.77
       },
-      "asOf": "2026-10-20",
+      "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "nestle": {
-      "price": "83,14 CHF",
+      "price": "83,50 CHF",
       "change": {
-        "week": 5.39,
-        "month": 7.85,
-        "year": 0.69
+        "week": 5.84,
+        "month": 8.31,
+        "year": 1.13
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
     },
     "novartis": {
-      "price": "126,34 CHF",
+      "price": "126,26 CHF",
       "change": {
-        "week": 3.0,
-        "month": 8.48,
-        "year": 20.83
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo"
-    },
-    "eurusd": {
-      "price": "1,1230",
-      "change": {
-        "week": 0.22,
-        "month": -2.05,
-        "year": -3.56
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo"
-    },
-    "eurgbp": {
-      "price": "0,8382",
-      "change": {
-        "week": -0.79,
-        "month": -2.24,
-        "year": -3.5
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo"
-    },
-    "eurchf": {
-      "price": "0,9255",
-      "change": {
-        "week": -0.78,
-        "month": -1.66,
-        "year": 0.3
-      },
-      "asOf": "2026-10-21",
-      "src": "Yahoo"
-    },
-    "usdjpy": {
-      "price": "157,93",
-      "change": {
-        "week": -0.25,
-        "month": 0.36,
-        "year": 4.75
+        "week": 2.93,
+        "month": 8.41,
+        "year": 20.75
       },
       "asOf": "2026-10-21",
       "src": "Yahoo"
