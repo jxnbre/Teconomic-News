@@ -1,0 +1,338 @@
+{
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-22T07:31:38.822623+02:00",
+  "updatedAtLabel": "22.10.2026, 07:31 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/pharma-finanzinvestor-eqt-will-diagnostikkonzern-qiagen-uebernehmen/100264099.html",
+      "headline": "Pharma: Finanzinvestor EQT will Diagnostikkonzern Qiagen übernehmen",
+      "takeaway": "Der Pharmadienstleister Qiagen wird von einem schwedischen Finanzinvestor umworben. Der legt ein Angebot für den Dax-Konzern vor.",
+      "topic": "Diagnostikkonzern",
+      "tags": [
+        "Diagnostikkonzern",
+        "Finanzinvestor",
+        "Pharma",
+        "Qiagen"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/pharma-finanzinvestor-eqt-will-diagnostikkonzern-qiagen-uebernehmen/100264099.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/qiagen-finanzinvestor-eqt-will-das-biotech-unternehmen-uebernehmen/100263847.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
+      "headline": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
+      "takeaway": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier …",
+      "topic": "Zusammenschluss",
+      "tags": [
+        "Zusammenschluss",
+        "SpaceX",
+        "Tesla",
+        "Macht"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html"
+        },
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "headline": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "takeaway": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "topic": "Airbnb",
+      "tags": [
+        "Airbnb",
+        "sparking",
+        "backlash",
+        "limits"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
+        },
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html",
+      "headline": "Datenskandal: Meta soll 25 Milliarden Dollar Strafe zahlen",
+      "takeaway": "Ein Rechtsstreit um einen der größten Skandale in seiner Geschichte endet für den Internetkonzern mit einem harten Urteil. Damit setzt sich eine Serie teurer juristischer Auseinandersetzungen fort.",
+      "topic": "Datenskandal",
+      "tags": [
+        "Datenskandal",
+        "Strafe",
+        "Meta",
+        "zahlen"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/meta-25-milliarden-dollar-strafe-im-fall-cambridge-analytica/100264029.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+      "headline": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+      "takeaway": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber …",
+      "topic": "Programmiersprache",
+      "tags": [
+        "Programmiersprache",
+        "Sicherheitslücke",
+        "Webseiten",
+        "PHP"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/php-sicherheitsluecke-php2shell-bsi-warnt-vor-cyberangriffen/100263975.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html",
+      "headline": "Milliardenversprechen: Elon Musk prophezeit Starlink-Mobilfunk astronomische Umsätze",
+      "takeaway": "Elon Musk stellt für den geplanten Satellitenmobilfunkdienst Starlink Mobile einen Jahresumsatz von mehreren hundert Milliarden US-Dollar in Aussicht. ( SpaceX , Mobilfunk )",
+      "topic": "Milliardenversprechen",
+      "tags": [
+        "Milliardenversprechen",
+        "Starlink-Mobilfunk",
+        "Umsätze",
+        "Elon"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nestle-wachstum-beschleunigt-konzern-uebertrifft-die-erwartungen/100263457.html",
+      "headline": "Sommerquartal: Wachstum beschleunigt: Nestlé übertrifft die Erwartungen",
+      "takeaway": "Der Schweizer Lebensmittelriese übertrifft die Prognosen beim Umsatz und beim organischen Wachstum. Auch Preiserhöhungen treiben das Geschäft über den Sommer an.",
+      "topic": "Sommerquartal",
+      "tags": [
+        "Sommerquartal",
+        "Erwartungen",
+        "Wachstum",
+        "Nestl"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nestle-wachstum-beschleunigt-konzern-uebertrifft-die-erwartungen/100263457.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/mark-zuckerberg-meta-aktienstruktur-kalifornien-milliardaersteuer-gxe",
+      "headline": "Meta: Meta-Chef Zuckerberg setzt neue Aktienstruktur im Unternehmen durch",
+      "takeaway": "In Kalifornien droht eine Abgabe auf Milliardenvermögen – und Mark Zuckerberg setzt vorsorglich auf Umstrukturierung. Rechtsstreits belasten die Meta-Quartalszahlen.",
+      "topic": "Aktienstruktur",
+      "tags": [
+        "Aktienstruktur",
+        "Unternehmen",
+        "Zuckerberg",
+        "Meta-Chef"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/mark-zuckerberg-meta-aktienstruktur-kalifornien-milliardaersteuer-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "headline": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "takeaway": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "topic": "Middle",
+      "tags": [
+        "Middle",
+        "Israel",
+        "East",
+        "Iran"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html",
+      "headline": "Bei Flug 15: Starship soll erstmals wie vorgesehen funktionieren",
+      "takeaway": "SpaceX plant für den kommenden Start des Starships, dass beide Stufen wieder landen sollen. Es wäre das erste Mal für ein orbitales Trägersystem. ( Starship , Elon Musk )",
+      "topic": "Starship",
+      "tags": [
+        "Starship",
+        "Flug",
+        "funktionieren",
+        "vorgesehen"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/hbm/strategie/der-ki-fehler-den-viele-unternehmen-machen-und-wie-es-besser-geht-a-266803f6-bf29-456e-9459-30185a74fac6#ref=rss",
+      "headline": "Der KI-Fehler, den viele Unternehmen machen (und wie es besser geht)",
+      "takeaway": "Viele Unternehmen testen KI an möglichst vielen Stellen. Konzerne wie Reckitt, Ikea und L’Oréal verfolgen einen anderen Ansatz: Sie konzentrieren sich bei der Einführung auf einige wenige Bereiche. …",
+      "topic": "Unternehmen",
+      "tags": [
+        "Unternehmen",
+        "KI-Fehler",
+        "machen",
+        "besser"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/hbm/strategie/der-ki-fehler-den-viele-unternehmen-machen-und-wie-es-besser-geht-a-266803f6-bf29-456e-9459-30185a74fac6#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "headline": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "takeaway": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have …",
+      "topic": "construction",
+      "tags": [
+        "construction",
+        "datacentre",
+        "threatened",
+        "protests"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "headline": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "takeaway": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "topic": "Vulnerabilities",
+      "tags": [
+        "Vulnerabilities",
+        "Exploited",
+        "Hackers",
+        "Patched"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+      "headline": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "takeaway": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who …",
+      "topic": "Canadian",
+      "tags": [
+        "Canadian",
+        "Bor",
+        "relationship",
+        "publisher"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "headline": "Tesla says it will start selling Cybercabs by end of year",
+      "takeaway": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued …",
+      "topic": "Cybercabs",
+      "tags": [
+        "Cybercabs",
+        "Tesla",
+        "selling",
+        "start"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Tesla und SpaceX: Fusion mit Sprengkraft / SAP trotzt der KI-Angst",
+    "dateLabel": "Folge vom 22.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2226-tesla-und-spacex-fusion-mit-sprengkraft-sap-trotzt-der-ki-angst",
+    "takeaways": [
+      "Elon Musk will seinen Konzernen einen neuen Rahmen geben: Mit einer möglichen Fusion von Tesla und SpaceX würde er Technik, Kapital und Macht in einer Hand bündeln.",
+      "Ob Aktionäre und Regulierer mitziehen, ist allerdings offen.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}

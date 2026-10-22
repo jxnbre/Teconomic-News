@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T06:31:57.048567+02:00",
-  "updatedAtLabel": "22.10.2026, 06:31 Uhr",
+  "updatedAt": "2026-10-22T07:31:15.807921+02:00",
+  "updatedAtLabel": "22.10.2026, 07:31 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -12,19 +12,19 @@
   },
   "quotes": {
     "btc": {
-      "price": "73.732 €",
+      "price": "73.800 €",
       "change": {
-        "week": 1.76,
-        "month": -2.25,
-        "year": -20.38
+        "week": 1.85,
+        "month": -2.16,
+        "year": -20.31
       },
       "asOf": "2026-10-22",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.175,49 €",
+      "price": "2.175,29 €",
       "change": {
-        "week": 1.83,
+        "week": 1.82,
         "month": -9.55,
         "year": -33.59
       },
@@ -32,11 +32,11 @@
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "93,87 €",
+      "price": "93,76 €",
       "change": {
-        "week": 2.04,
-        "month": -10.8,
-        "year": -39.44
+        "week": 1.92,
+        "month": -10.91,
+        "year": -39.51
       },
       "asOf": "2026-10-22",
       "src": "CoinGecko"
@@ -44,19 +44,19 @@
     "xrp": {
       "price": "1,20 €",
       "change": {
-        "week": 4.14,
-        "month": -9.79,
+        "week": 4.13,
+        "month": -9.8,
         "year": -41.11
       },
       "asOf": "2026-10-22",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "659,11 €",
+      "price": "658,42 €",
       "change": {
-        "week": 3.22,
-        "month": -3.89,
-        "year": -28.57
+        "week": 3.12,
+        "month": -4.0,
+        "year": -28.65
       },
       "asOf": "2026-10-22",
       "src": "CoinGecko"
@@ -182,11 +182,11 @@
       "src": "Yahoo"
     },
     "nikkei": {
-      "price": "63.346 Pkt.",
+      "price": "63.197 Pkt.",
       "change": {
-        "week": -1.68,
-        "month": -1.23,
-        "year": 28.47
+        "week": -1.91,
+        "month": -1.46,
+        "year": 28.17
       },
       "asOf": "2026-10-22",
       "src": "Yahoo"
@@ -832,11 +832,11 @@
       "src": "Yahoo"
     },
     "samsung": {
-      "price": "214.250 ₩",
+      "price": "214.500 ₩",
       "change": {
-        "week": 2.02,
-        "month": -15.15,
-        "year": 117.29
+        "week": 2.14,
+        "month": -15.05,
+        "year": 117.55
       },
       "asOf": "2026-10-22",
       "src": "Yahoo"

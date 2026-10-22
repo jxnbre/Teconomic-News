@@ -1,34 +1,50 @@
 {
-  "date": "2026-10-21",
-  "updatedAt": "2026-10-21T07:31:41.432587+02:00",
-  "updatedAtLabel": "21.10.2026, 07:31 Uhr",
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-22T07:31:38.822623+02:00",
+  "updatedAtLabel": "22.10.2026, 07:31 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/spacex-verdoppelt-umsatz-und-prueft-laut-elon-musk-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
-      "headline": "SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla",
-      "takeaway": "Im vergangenen Quartal hat die Weltraumfirma SpaceX einen Milliardengewinn erzielt, vor allem aus zwei Gründen. Außerdem berichtet Chef Elon Musk über Pläne zur Fusion mit seinem Autobauer Tesla.",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/pharma-finanzinvestor-eqt-will-diagnostikkonzern-qiagen-uebernehmen/100264099.html",
+      "headline": "Pharma: Finanzinvestor EQT will Diagnostikkonzern Qiagen übernehmen",
+      "takeaway": "Der Pharmadienstleister Qiagen wird von einem schwedischen Finanzinvestor umworben. Der legt ein Angebot für den Dax-Konzern vor.",
+      "topic": "Diagnostikkonzern",
+      "tags": [
+        "Diagnostikkonzern",
+        "Finanzinvestor",
+        "Pharma",
+        "Qiagen"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/pharma-finanzinvestor-eqt-will-diagnostikkonzern-qiagen-uebernehmen/100264099.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/qiagen-finanzinvestor-eqt-will-das-biotech-unternehmen-uebernehmen/100263847.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
+      "headline": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
+      "takeaway": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier …",
       "topic": "Zusammenschluss",
       "tags": [
         "Zusammenschluss",
         "SpaceX",
-        "Umsatz",
-        "Tesla"
+        "Tesla",
+        "Macht"
       ],
       "sources": [
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/spacex-verdoppelt-umsatz-und-prueft-laut-elon-musk-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/tesla-spacex-fusion-elon-musk-aktionaere"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/spacex-umsatz-verdoppelt-konzern-erwaegt-fusion-mit-tesla-a-bcbb00e7-519c-4ea6-8a76-673238fed873#ref=rss"
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html"
         },
         {
           "src": "bbc",
@@ -37,318 +53,286 @@
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html",
-      "headline": "VW ruft weltweit mehr als 70.000 E-Autos wegen Brandgefahr zurück",
-      "takeaway": "Der Rückruf von Millionen VW-Fahrzeugen liegt noch nicht lange zurück, nun muss Volkswagen erneut einen Mangel beheben. Auch in Deutschland sind viele Autos betroffen - wegen fehlerhafter Batterien.",
-      "topic": "Brandgefahr",
-      "tags": [
-        "Brandgefahr",
-        "E-Autos",
-        "weltweit",
-        "zurück"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-e-autos-rueckruf-100.html"
-        },
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/vw-ruft-weltweit-tausende-e-autos-zurueck-a-eaa02acb-17aa-4a19-bb65-7cd7c3a0c923#ref=rss"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/VW-ruft-wegen-fehlerhafter-Batterien-mehr-als-70-000-E-Autos-zurueck-id31439241.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Netflix-waechst-langsamer-Aktie-faellt-id31440496.html",
-      "headline": "Aktivität der Nutzer lässt nach: Netflix wächst langsamer - Aktie fällt",
-      "takeaway": "Noch ist Netflix der Platzhirsch beim Videostreaming - doch die Wachstumsdynamik schwächelt. Nach der Präsentation der Quartalszahlen geht die Aktie auf Tauchstation. Jetzt sollen neue Chefs die …",
-      "topic": "Aktivität",
-      "tags": [
-        "Aktivität",
-        "Netflix",
-        "Nutzer",
-        "Aktie"
-      ],
-      "sources": [
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Netflix-waechst-langsamer-Aktie-faellt-id31440496.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/dienstleister/video-streaming-netflix-waechst-langsamer-aktie-faellt/100263739.html"
-        }
-      ]
-    },
-    {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-      "headline": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-      "takeaway": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more …",
-      "topic": "Google",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+      "headline": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "takeaway": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "topic": "Airbnb",
       "tags": [
-        "Google",
-        "Gemini",
-        "assistant",
-        "bringing"
+        "Airbnb",
+        "sparking",
+        "backlash",
+        "limits"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+          "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
         },
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+          "src": "wired",
+          "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-      "headline": "Tesla and SpaceX are discussing a possible merger, Musk says",
-      "takeaway": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said …",
-      "topic": "SpaceX",
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html",
+      "headline": "Datenskandal: Meta soll 25 Milliarden Dollar Strafe zahlen",
+      "takeaway": "Ein Rechtsstreit um einen der größten Skandale in seiner Geschichte endet für den Internetkonzern mit einem harten Urteil. Damit setzt sich eine Serie teurer juristischer Auseinandersetzungen fort.",
+      "topic": "Datenskandal",
       "tags": [
-        "SpaceX",
-        "Tesla",
-        "Musk",
-        "discussing"
+        "Datenskandal",
+        "Strafe",
+        "Meta",
+        "zahlen"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html"
         },
         {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/meta-25-milliarden-dollar-strafe-im-fall-cambridge-analytica/100264029.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html",
-      "headline": "Bundesregierung spricht von Investitionszusagen in Milliardenhöhe",
-      "takeaway": "Der Investitionsgipfel in Berlin soll mehr Kapital nach Deutschland locken. Kanzler Merz und Wirtschaftsministerin Reiche sprechen bereits von ersten Zusagen: Unternehmen sollen milliardenschwere …",
-      "topic": "Investitionszusagen",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+      "headline": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
+      "takeaway": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber …",
+      "topic": "Programmiersprache",
       "tags": [
-        "Investitionszusagen",
-        "Bundesregierung",
-        "Milliardenhöhe",
-        "spricht"
+        "Programmiersprache",
+        "Sicherheitslücke",
+        "Webseiten",
+        "PHP"
       ],
       "sources": [
         {
           "src": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html"
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
         },
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/investitionen-deutschland-friedrich-merz-nvidia-jensen-huang-kuenstliche-intelligenz-gxe"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-so-will-lightbike-hersteller-novus-autofahrer-ueberzeugen-01/100261783.html",
-      "headline": "Mobilität: „Neue Fahrzeugklasse“: Novus will Autofahrer für seine Lightbikes begeistern",
-      "takeaway": "Das Start-up gewinnt namhafte Investoren. Die Entwicklung des Elektrozweirads dauerte länger als geplant – doch jetzt haben die Macher ehrgeizige Pläne.",
-      "topic": "Fahrzeugklasse",
-      "tags": [
-        "Fahrzeugklasse",
-        "Autofahrer",
-        "Lightbikes",
-        "Mobilität"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/mobilitaet-so-will-lightbike-hersteller-novus-autofahrer-ueberzeugen-01/100261783.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-eigentuemer-derzeit-besonders-schnell-einen-kaeufer-finden-01/100260831.html",
-      "headline": "Immobilien: Hohe Zinsen bremsen den Immobilienmarkt: Wo Verkäufer besonders lange auf Käufer warten",
-      "takeaway": "Die hohen Preise zeigen Wirkung: Eine exklusive Auswertung zeigt starke Unterschiede bei der Vermarktungsdauer von Wohnanzeigen. In welchen Städten es für Verkäufer nun am schnellsten geht.",
-      "topic": "Immobilienmarkt",
-      "tags": [
-        "Immobilienmarkt",
-        "Immobilien",
-        "Verkäufer",
-        "Zinsen"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-eigentuemer-derzeit-besonders-schnell-einen-kaeufer-finden-01/100260831.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/deutschland/investitionsgipfel-was-die-milliardenzusagen-wirklich-bringen/100263517.html",
-      "headline": "Investitionsgipfel: „Ein erfolgreicher Gipfel ist noch keine erfolgreiche Standortpolitik“",
-      "takeaway": "Werbung für den Standort Deutschland und Milliardenzusagen von Investoren – doch was bleibt? Gute Stimmung und Geld, sagt Ulrike Hinrichs, die große Investoren vertritt.",
-      "topic": "Investitionsgipfel",
-      "tags": [
-        "Investitionsgipfel",
-        "Standortpolitik",
-        "Gipfel",
-        "erfolgreicher"
-      ],
-      "sources": [
-        {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/investitionsgipfel-was-die-milliardenzusagen-wirklich-bringen/100263517.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/deutschland/schufa-score-wie-entsteht-der-bonitaetsscore/100263800.html",
-      "headline": "Bundesgerichtshof: Wie entsteht mein Schufa-Score? BGH prüft Auskunftsanspruch",
-      "takeaway": "Der Bonitätsscore der Schufa wurde von Kritikern lange als „Blackbox“ bezeichnet. Der BGH hat geprüft, in welchem Umfang die Auskunftei über ihr Berechnungsverfahren aufklären muss.",
-      "topic": "Bundesgerichtshof",
-      "tags": [
-        "Bundesgerichtshof",
-        "Auskunftsanspruch",
-        "Schufa-Score",
-        "BGH"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/schufa-score-wie-entsteht-der-bonitaetsscore/100263800.html"
+          "url": "https://www.wiwo.de/unternehmen/it/php-sicherheitsluecke-php2shell-bsi-warnt-vor-cyberangriffen/100263975.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/verbraucherzentrale-anbieter-beenden-stromlieferungen-vorzeitig-2610-214327.html",
-      "headline": "Verbraucherzentrale: Anbieter beenden Stromlieferungen vorzeitig",
-      "takeaway": "Mehrere deutsche Energieanbieter haben angekündigt, bestehende Lieferverträge von Strom und Gas vorzeitig zu beenden. ( Energie & Klima )",
-      "topic": "Verbraucherzentrale",
+      "url": "https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html",
+      "headline": "Milliardenversprechen: Elon Musk prophezeit Starlink-Mobilfunk astronomische Umsätze",
+      "takeaway": "Elon Musk stellt für den geplanten Satellitenmobilfunkdienst Starlink Mobile einen Jahresumsatz von mehreren hundert Milliarden US-Dollar in Aussicht. ( SpaceX , Mobilfunk )",
+      "topic": "Milliardenversprechen",
       "tags": [
-        "Verbraucherzentrale",
-        "Stromlieferungen",
-        "Anbieter",
-        "vorzeitig"
+        "Milliardenversprechen",
+        "Starlink-Mobilfunk",
+        "Umsätze",
+        "Elon"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/verbraucherzentrale-anbieter-beenden-stromlieferungen-vorzeitig-2610-214327.html"
+          "url": "https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nestle-wachstum-beschleunigt-konzern-uebertrifft-die-erwartungen/100263457.html",
+      "headline": "Sommerquartal: Wachstum beschleunigt: Nestlé übertrifft die Erwartungen",
+      "takeaway": "Der Schweizer Lebensmittelriese übertrifft die Prognosen beim Umsatz und beim organischen Wachstum. Auch Preiserhöhungen treiben das Geschäft über den Sommer an.",
+      "topic": "Sommerquartal",
+      "tags": [
+        "Sommerquartal",
+        "Erwartungen",
+        "Wachstum",
+        "Nestl"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nestle-wachstum-beschleunigt-konzern-uebertrifft-die-erwartungen/100263457.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/mark-zuckerberg-meta-aktienstruktur-kalifornien-milliardaersteuer-gxe",
+      "headline": "Meta: Meta-Chef Zuckerberg setzt neue Aktienstruktur im Unternehmen durch",
+      "takeaway": "In Kalifornien droht eine Abgabe auf Milliardenvermögen – und Mark Zuckerberg setzt vorsorglich auf Umstrukturierung. Rechtsstreits belasten die Meta-Quartalszahlen.",
+      "topic": "Aktienstruktur",
+      "tags": [
+        "Aktienstruktur",
+        "Unternehmen",
+        "Zuckerberg",
+        "Meta-Chef"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/mark-zuckerberg-meta-aktienstruktur-kalifornien-milliardaersteuer-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+      "headline": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+      "takeaway": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
+      "topic": "Middle",
+      "tags": [
+        "Middle",
+        "Israel",
+        "East",
+        "Iran"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html",
+      "headline": "Bei Flug 15: Starship soll erstmals wie vorgesehen funktionieren",
+      "takeaway": "SpaceX plant für den kommenden Start des Starships, dass beide Stufen wieder landen sollen. Es wäre das erste Mal für ein orbitales Trägersystem. ( Starship , Elon Musk )",
+      "topic": "Starship",
+      "tags": [
+        "Starship",
+        "Flug",
+        "funktionieren",
+        "vorgesehen"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/hbm/strategie/der-ki-fehler-den-viele-unternehmen-machen-und-wie-es-besser-geht-a-266803f6-bf29-456e-9459-30185a74fac6#ref=rss",
+      "headline": "Der KI-Fehler, den viele Unternehmen machen (und wie es besser geht)",
+      "takeaway": "Viele Unternehmen testen KI an möglichst vielen Stellen. Konzerne wie Reckitt, Ikea und L’Oréal verfolgen einen anderen Ansatz: Sie konzentrieren sich bei der Einführung auf einige wenige Bereiche. …",
+      "topic": "Unternehmen",
+      "tags": [
+        "Unternehmen",
+        "KI-Fehler",
+        "machen",
+        "besser"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/hbm/strategie/der-ki-fehler-den-viele-unternehmen-machen-und-wie-es-besser-geht-a-266803f6-bf29-456e-9459-30185a74fac6#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
-      "headline": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
-      "takeaway": "Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively small number …",
-      "topic": "Wikipedia",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "headline": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "takeaway": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have …",
+      "topic": "construction",
       "tags": [
-        "Wikipedia",
-        "difficult",
-        "tackling",
-        "editors"
+        "construction",
+        "datacentre",
+        "threatened",
+        "protests"
       ],
       "sources": [
         {
           "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages"
+          "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "headline": "LG Promo Codes and Coupons for October 2026",
-      "takeaway": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "topic": "Coupons",
+      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "headline": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "takeaway": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "topic": "Vulnerabilities",
       "tags": [
-        "Coupons",
-        "October",
-        "Promo",
-        "Codes"
+        "Vulnerabilities",
+        "Exploited",
+        "Hackers",
+        "Patched"
       ],
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/lg-promo-code/"
+          "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "headline": "Ulta Promo Codes: Up to 20% Off in October 2026",
-      "takeaway": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "topic": "October",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+      "headline": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+      "takeaway": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who …",
+      "topic": "Canadian",
       "tags": [
-        "October",
-        "Promo",
-        "Codes",
-        "Ulta"
+        "Canadian",
+        "Bor",
+        "relationship",
+        "publisher"
       ],
       "sources": [
         {
-          "src": "wired",
-          "url": "https://www.wired.com/story/ulta-coupon/"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "arstechnica",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-      "headline": "PHP warns it plans to release 2 emergency patches imminently",
-      "takeaway": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "topic": "PHP",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "headline": "Tesla says it will start selling Cybercabs by end of year",
+      "takeaway": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued …",
+      "topic": "Cybercabs",
       "tags": [
-        "PHP",
-        "imminently",
-        "emergency",
-        "release"
+        "Cybercabs",
+        "Tesla",
+        "selling",
+        "start"
       ],
       "sources": [
         {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Schattenverschuldung in Billionenhöhe / Musk: Aus zwei mach eins? / Merz wirbt um Milliarden",
-    "dateLabel": "Folge vom 21.10. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2225-schattenverschuldung-in-billionenhohe-musk-aus-zwei-mach-eins-merz-wirbt-um-milliarden",
+    "title": "Tesla und SpaceX: Fusion mit Sprengkraft / SAP trotzt der KI-Angst",
+    "dateLabel": "Folge vom 22.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2226-tesla-und-spacex-fusion-mit-sprengkraft-sap-trotzt-der-ki-angst",
     "takeaways": [
-      "Microsoft, Alphabet und Co.",
-      "finanzieren ihren KI-Boom mit Milliarden, die in keiner Bilanz stehen.",
-      "Das eigentliche Risiko steht im Kleingedruckten."
+      "Elon Musk will seinen Konzernen einen neuen Rahmen geben: Mit einer möglichen Fusion von Tesla und SpaceX würde er Technik, Kapital und Macht in einer Hand bündeln.",
+      "Ob Aktionäre und Regulierer mitziehen, ist allerdings offen.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }
 }
