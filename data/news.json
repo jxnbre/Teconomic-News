@@ -1,337 +1,325 @@
 {
-  "date": "2026-10-22",
-  "updatedAt": "2026-10-22T07:31:38.822623+02:00",
-  "updatedAtLabel": "22.10.2026, 07:31 Uhr",
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T07:30:52.475165+02:00",
+  "updatedAtLabel": "23.10.2026, 07:30 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/pharma-finanzinvestor-eqt-will-diagnostikkonzern-qiagen-uebernehmen/100264099.html",
-      "headline": "Pharma: Finanzinvestor EQT will Diagnostikkonzern Qiagen übernehmen",
-      "takeaway": "Der Pharmadienstleister Qiagen wird von einem schwedischen Finanzinvestor umworben. Der legt ein Angebot für den Dax-Konzern vor.",
-      "topic": "Diagnostikkonzern",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "takeaway": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "topic": "Zuckerberg",
       "tags": [
-        "Diagnostikkonzern",
-        "Finanzinvestor",
-        "Pharma",
-        "Qiagen"
+        "Zuckerberg",
+        "California",
+        "Meta",
+        "billionaire"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/pharma-finanzinvestor-eqt-will-diagnostikkonzern-qiagen-uebernehmen/100264099.html"
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/industrie/qiagen-finanzinvestor-eqt-will-das-biotech-unternehmen-uebernehmen/100263847.html"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
-      "headline": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
-      "takeaway": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier …",
-      "topic": "Zusammenschluss",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-a-c460c327-0d43-4d23-ac7e-8cc0e9e076d8#ref=rss",
+      "headline": "Agrarsubventionen: Wirtschaftsliberaler Kronberger Kreis fordert Abschaffung",
+      "takeaway": "Es ist ein radikaler Vorschlag: Prominente Wissenschaftler wie Ifo-Chef Clemens Fuest fordern den kompletten Ausstieg aus Agrarsubventionen. Ernährungssicherheit sei kein Argument.",
+      "topic": "Wirtschaftsliberaler",
       "tags": [
-        "Zusammenschluss",
-        "SpaceX",
-        "Tesla",
-        "Macht"
+        "Wirtschaftsliberaler",
+        "Agrarsubventionen",
+        "Abschaffung",
+        "Kronberger"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html"
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-a-c460c327-0d43-4d23-ac7e-8cc0e9e076d8#ref=rss"
         },
         {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-1792694929-a-6896423f-09ee-4c62-9701-003805b50538#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/europa/proteste-in-frankreich-warum-dem-land-eine-schuldenkrise-droht/100264192.html",
+      "headline": "Rechtsextreme profitieren: Die Gewalt in Frankreich bedroht auch Ihr Depot und die Euro-Zone",
+      "takeaway": "Die Ausschreitungen in Frankreich berühren eine Grundfrage westlicher Demokratien: Was passiert, wenn die Erwartungen der Bürger schneller wachsen als die Leistungsfähigkeit des Staates?",
+      "topic": "Rechtsextreme",
+      "tags": [
+        "Rechtsextreme",
+        "Frankreich",
+        "Euro-Zone",
+        "Gewalt"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/europa/proteste-in-frankreich-warum-dem-land-eine-schuldenkrise-droht/100264192.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "headline": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "takeaway": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-      "topic": "Airbnb",
+      "src": "golem",
+      "url": "https://www.golem.de/news/garmr-bundeswehr-holt-48-drohnenabwehr-systeme-von-diehl-2610-214416.html",
+      "headline": "GARMR: Bundeswehr holt 48 Drohnenabwehr-Systeme von Diehl",
+      "takeaway": "Der Skyranger lässt auf sich warten, die Bundeswehr braucht aber eine Drohnenabwehr. 48 GARMR-Systeme von Diehl sollen die Lücke schließen. ( Bundeswehr , Politik )",
+      "topic": "Drohnenabwehr-Systeme",
       "tags": [
-        "Airbnb",
-        "sparking",
-        "backlash",
-        "limits"
+        "Drohnenabwehr-Systeme",
+        "Bundeswehr",
+        "GARMR",
+        "Diehl"
       ],
       "sources": [
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/"
-        },
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/"
+          "src": "golem",
+          "url": "https://www.golem.de/news/garmr-bundeswehr-holt-48-drohnenabwehr-systeme-von-diehl-2610-214416.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html",
-      "headline": "Datenskandal: Meta soll 25 Milliarden Dollar Strafe zahlen",
-      "takeaway": "Ein Rechtsstreit um einen der größten Skandale in seiner Geschichte endet für den Internetkonzern mit einem harten Urteil. Damit setzt sich eine Serie teurer juristischer Auseinandersetzungen fort.",
-      "topic": "Datenskandal",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/satya-nadella-so-etwas-habe-ich-schon-lange-nicht-mehr-gesehen-accg-201611859.html",
+      "headline": "Satya Nadella in Köln: Wie sich Microsoft gegen das Misstrauen wehrt",
+      "takeaway": "Microsoft-Chef Satya Nadella will seine europäischen Kunden in Köln überzeugen, dass er noch ein vertrauenswürdiger Geschäftspartner ist. An den aktuellen IT-Sicherheitslücken kommt aber auch er …",
+      "topic": "Misstrauen",
       "tags": [
-        "Datenskandal",
-        "Strafe",
-        "Meta",
-        "zahlen"
+        "Misstrauen",
+        "Microsoft",
+        "Nadella",
+        "Satya"
       ],
       "sources": [
         {
           "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/meta-zu-25-milliarden-strafe-verurteilt-wegen-cambridge-analytica-201609794.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/it/meta-25-milliarden-dollar-strafe-im-fall-cambridge-analytica/100264029.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
-      "headline": "Programmiersprache PHP: Sicherheitslücke bedroht weltweit Webseiten",
-      "takeaway": "Eine gravierende Sicherheitslücke bedroht Millionen Webseiten. Betroffen ist die weitverbreitete Programmiersprache PHP. In Deutschland sind Internetseiten mehrerer Städte vorsichtshalber …",
-      "topic": "Programmiersprache",
-      "tags": [
-        "Programmiersprache",
-        "Sicherheitslücke",
-        "Webseiten",
-        "PHP"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/it/php-sicherheitsluecke-php2shell-bsi-warnt-vor-cyberangriffen/100263975.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html",
-      "headline": "Milliardenversprechen: Elon Musk prophezeit Starlink-Mobilfunk astronomische Umsätze",
-      "takeaway": "Elon Musk stellt für den geplanten Satellitenmobilfunkdienst Starlink Mobile einen Jahresumsatz von mehreren hundert Milliarden US-Dollar in Aussicht. ( SpaceX , Mobilfunk )",
-      "topic": "Milliardenversprechen",
-      "tags": [
-        "Milliardenversprechen",
-        "Starlink-Mobilfunk",
-        "Umsätze",
-        "Elon"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html"
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/satya-nadella-so-etwas-habe-ich-schon-lange-nicht-mehr-gesehen-accg-201611859.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nestle-wachstum-beschleunigt-konzern-uebertrifft-die-erwartungen/100263457.html",
-      "headline": "Sommerquartal: Wachstum beschleunigt: Nestlé übertrifft die Erwartungen",
-      "takeaway": "Der Schweizer Lebensmittelriese übertrifft die Prognosen beim Umsatz und beim organischen Wachstum. Auch Preiserhöhungen treiben das Geschäft über den Sommer an.",
-      "topic": "Sommerquartal",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264411.html",
+      "headline": "Pharma: Zollstreit mit Trump – Pharmabranche erwartet weniger Umsatz",
+      "takeaway": "Drohungen, Unsicherheit, kaum Planbarkeit: Der Streit um Pharmazölle mit Donald Trump hinterlässt Spuren in der Arzneibranche. Nach einem starken Vorjahr geht es nun abwärts.",
+      "topic": "Pharmabranche",
       "tags": [
-        "Sommerquartal",
-        "Erwartungen",
-        "Wachstum",
-        "Nestl"
+        "Pharmabranche",
+        "Zollstreit",
+        "Pharma",
+        "Umsatz"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nestle-wachstum-beschleunigt-konzern-uebertrifft-die-erwartungen/100263457.html"
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264411.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/mark-zuckerberg-meta-aktienstruktur-kalifornien-milliardaersteuer-gxe",
-      "headline": "Meta: Meta-Chef Zuckerberg setzt neue Aktienstruktur im Unternehmen durch",
-      "takeaway": "In Kalifornien droht eine Abgabe auf Milliardenvermögen – und Mark Zuckerberg setzt vorsorglich auf Umstrukturierung. Rechtsstreits belasten die Meta-Quartalszahlen.",
-      "topic": "Aktienstruktur",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-wladimir-putin-bereit-zu-gespraechen-mit-usa-und-ukraine/100264409.html",
+      "headline": "Ukraine-Krieg: Putin bereit zu Gesprächen mit USA und Ukraine",
+      "takeaway": "Nach dem Besuch von US-Unterhändler Witkoff betont Putin Gesprächsbereitschaft. Der Ukraine spricht er gleichzeitig ihre territoriale Integrität ab.",
+      "topic": "Ukraine-Krieg",
       "tags": [
-        "Aktienstruktur",
-        "Unternehmen",
-        "Zuckerberg",
-        "Meta-Chef"
+        "Ukraine-Krieg",
+        "Gesprächen",
+        "Ukraine",
+        "Putin"
       ],
       "sources": [
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/mark-zuckerberg-meta-aktienstruktur-kalifornien-milliardaersteuer-gxe"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-      "headline": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-      "takeaway": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-      "topic": "Middle",
-      "tags": [
-        "Middle",
-        "Israel",
-        "East",
-        "Iran"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html",
-      "headline": "Bei Flug 15: Starship soll erstmals wie vorgesehen funktionieren",
-      "takeaway": "SpaceX plant für den kommenden Start des Starships, dass beide Stufen wieder landen sollen. Es wäre das erste Mal für ein orbitales Trägersystem. ( Starship , Elon Musk )",
-      "topic": "Starship",
-      "tags": [
-        "Starship",
-        "Flug",
-        "funktionieren",
-        "vorgesehen"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-wladimir-putin-bereit-zu-gespraechen-mit-usa-und-ukraine/100264409.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/hbm/strategie/der-ki-fehler-den-viele-unternehmen-machen-und-wie-es-besser-geht-a-266803f6-bf29-456e-9459-30185a74fac6#ref=rss",
-      "headline": "Der KI-Fehler, den viele Unternehmen machen (und wie es besser geht)",
-      "takeaway": "Viele Unternehmen testen KI an möglichst vielen Stellen. Konzerne wie Reckitt, Ikea und L’Oréal verfolgen einen anderen Ansatz: Sie konzentrieren sich bei der Einführung auf einige wenige Bereiche. …",
-      "topic": "Unternehmen",
+      "url": "https://www.manager-magazin.de/unternehmen/podcast-manager-magazin-inside-23-10-2026-die-grosse-jobangst-der-manager-a-eef474a3-5347-4518-8793-b699b5b134bb#ref=rss",
+      "headline": "Podcast manager magazin INSIDE 23.10.2026: Die große Jobangst der Manager",
+      "takeaway": "Deutschlands Konzerne bauen Tausende Managementstellen ab. Welche Führungskräfte besonders gefährdet sind, warum die große Welle erst noch kommen könnte und wie eine Konzernkarriere trotzdem …",
+      "topic": "Jobangst",
       "tags": [
-        "Unternehmen",
-        "KI-Fehler",
-        "machen",
-        "besser"
+        "Jobangst",
+        "Podcast",
+        "INSIDE",
+        "manager"
       ],
       "sources": [
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/hbm/strategie/der-ki-fehler-den-viele-unternehmen-machen-und-wie-es-besser-geht-a-266803f6-bf29-456e-9459-30185a74fac6#ref=rss"
+          "url": "https://www.manager-magazin.de/unternehmen/podcast-manager-magazin-inside-23-10-2026-die-grosse-jobangst-der-manager-a-eef474a3-5347-4518-8793-b699b5b134bb#ref=rss"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-      "headline": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-      "takeaway": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style opposition AI companies have told ministers they have …",
-      "topic": "construction",
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/unternehmen/tech/news-zu-sebastian-stietzel-wanja-oberhof-commertunity-jens-spahn-neoclouds-cloudflair-sap-meta-a-7457adba-0574-49f1-82a4-396bb8e59148#ref=rss",
+      "headline": "News zu Sebastian Stietzel, Wanja Oberhof, Commertunity, Jens Spahn, Neoclouds, Cloudflair, SAP, Meta",
+      "takeaway": "Welche Rolle der Berliner IHK-Präsident Sebastian Stietzel im Netzwerk von Wanja Oberhof spielt und wieso sich Jens Spahn auf einmal in der Start-up-Szene umtut. Unser Newsletter „Tech Update“ …",
+      "topic": "Commertunity",
       "tags": [
-        "construction",
-        "datacentre",
-        "threatened",
-        "protests"
+        "Commertunity",
+        "Cloudflair",
+        "Sebastian",
+        "Neoclouds"
       ],
       "sources": [
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-      "headline": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-      "takeaway": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-      "topic": "Vulnerabilities",
-      "tags": [
-        "Vulnerabilities",
-        "Exploited",
-        "Hackers",
-        "Patched"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
-      "headline": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
-      "takeaway": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who …",
-      "topic": "Canadian",
-      "tags": [
-        "Canadian",
-        "Bor",
-        "relationship",
-        "publisher"
-      ],
-      "sources": [
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/news-zu-sebastian-stietzel-wanja-oberhof-commertunity-jens-spahn-neoclouds-cloudflair-sap-meta-a-7457adba-0574-49f1-82a4-396bb8e59148#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "headline": "Tesla says it will start selling Cybercabs by end of year",
-      "takeaway": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued …",
-      "topic": "Cybercabs",
+      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "headline": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "takeaway": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "topic": "Ultrahuman",
       "tags": [
-        "Cybercabs",
-        "Tesla",
-        "selling",
-        "start"
+        "Ultrahuman",
+        "Oura",
+        "threatening",
+        "comeback"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
+          "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "takeaway": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "topic": "Central",
+      "tags": [
+        "Central",
+        "Nvidia",
+        "Uber",
+        "Asia"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "headline": "Etsy is cracking down on AI slop listings",
+      "takeaway": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which …",
+      "topic": "Etsy",
+      "tags": [
+        "Etsy",
+        "cracking",
+        "listings",
+        "down"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+      "headline": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
+      "takeaway": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
+      "topic": "Genetically",
+      "tags": [
+        "Genetically",
+        "Modified",
+        "Military",
+        "Startup"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "headline": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "takeaway": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives …",
+      "topic": "Xbox",
+      "tags": [
+        "Xbox",
+        "next-gen",
+        "cost",
+        "won"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
+      "headline": "What to Know About Shamonda Virus Following the First Reported Human Infection",
+      "takeaway": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
+      "topic": "Following",
+      "tags": [
+        "Following",
+        "Infection",
+        "Shamonda",
+        "Reported"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Tesla und SpaceX: Fusion mit Sprengkraft / SAP trotzt der KI-Angst",
-    "dateLabel": "Folge vom 22.10. · 8 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2226-tesla-und-spacex-fusion-mit-sprengkraft-sap-trotzt-der-ki-angst",
+    "title": "Mercedes: Rettung oder Abstieg? / Ein Weckruf für das ganze Netz",
+    "dateLabel": "Folge vom 23.10. · 7 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2227-mercedes-rettung-oder-abstieg-ein-weckruf-fur-das-ganze-netz",
     "takeaways": [
-      "Elon Musk will seinen Konzernen einen neuen Rahmen geben: Mit einer möglichen Fusion von Tesla und SpaceX würde er Technik, Kapital und Macht in einer Hand bündeln.",
-      "Ob Aktionäre und Regulierer mitziehen, ist allerdings offen.",
+      "Mercedes verliert Absatz und Rendite, und auch die Belegschaft wird unruhig.",
+      "Ob der Konzern ein Weltunternehmen bleibt oder zur Regionalmarke schrumpft, hängt nun an einem Rettungsplan.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }
