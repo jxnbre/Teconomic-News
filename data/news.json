@@ -1,314 +1,314 @@
 {
-  "date": "2026-10-23",
-  "updatedAt": "2026-10-23T07:30:52.475165+02:00",
-  "updatedAtLabel": "23.10.2026, 07:30 Uhr",
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24T07:39:25.386916+02:00",
+  "updatedAtLabel": "24.10.2026, 07:39 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "takeaway": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "topic": "Zuckerberg",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/IG-Metall-stellt-Volkswagen-Ultimatum-bis-Ende-Oktober-id31451916.html",
+      "headline": "\"Wir sind vorbereitet\": IG Metall stellt Volkswagen Ultimatum bis Ende Oktober",
+      "takeaway": "Der Ton zwischen Volkswagen und seinen Beschäftigten wird rauer. Die IG Metall warnt vor einer \"gewaltigen Maschinerie\", falls der Konzern die Kündigungen der Haustarifverträge nicht zurücknimmt. Zum …",
+      "topic": "Volkswagen",
       "tags": [
-        "Zuckerberg",
-        "California",
-        "Meta",
-        "billionaire"
+        "Volkswagen",
+        "Ultimatum",
+        "Oktober",
+        "Metall"
       ],
       "sources": [
         {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-a-c460c327-0d43-4d23-ac7e-8cc0e9e076d8#ref=rss",
-      "headline": "Agrarsubventionen: Wirtschaftsliberaler Kronberger Kreis fordert Abschaffung",
-      "takeaway": "Es ist ein radikaler Vorschlag: Prominente Wissenschaftler wie Ifo-Chef Clemens Fuest fordern den kompletten Ausstieg aus Agrarsubventionen. Ernährungssicherheit sei kein Argument.",
-      "topic": "Wirtschaftsliberaler",
-      "tags": [
-        "Wirtschaftsliberaler",
-        "Agrarsubventionen",
-        "Abschaffung",
-        "Kronberger"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-a-c460c327-0d43-4d23-ac7e-8cc0e9e076d8#ref=rss"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/IG-Metall-stellt-Volkswagen-Ultimatum-bis-Ende-Oktober-id31451916.html"
         },
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/agrarsubventionen-wirtschaftsliberaler-kronberger-kreis-fordert-abschaffung-1792694929-a-6896423f-09ee-4c62-9701-003805b50538#ref=rss"
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/volkswagen-ig-metall-stellt-vorstand-ultimatum-und-droht-mit-arbeitskampf-a-cee12dd0-dc00-4345-9f6f-64c6108eacdd#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/europa/proteste-in-frankreich-warum-dem-land-eine-schuldenkrise-droht/100264192.html",
-      "headline": "Rechtsextreme profitieren: Die Gewalt in Frankreich bedroht auch Ihr Depot und die Euro-Zone",
-      "takeaway": "Die Ausschreitungen in Frankreich berühren eine Grundfrage westlicher Demokratien: Was passiert, wenn die Erwartungen der Bürger schneller wachsen als die Leistungsfähigkeit des Staates?",
-      "topic": "Rechtsextreme",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/warnstreiks-private-banken-verdi-agv-tarifrunde-gehalt",
+      "headline": "Tarifverhandlungen: Ver.di ruft zu Warnstreiks bei privaten Banken auf",
+      "takeaway": "Nach den abgelehnten Forderungen im Tarifstreit erhöht die Gewerkschaft Ver.di den Druck. Angestellte von privaten Banken sollen in der kommenden Woche streiken.",
+      "topic": "Tarifverhandlungen",
       "tags": [
-        "Rechtsextreme",
-        "Frankreich",
-        "Euro-Zone",
-        "Gewalt"
+        "Tarifverhandlungen",
+        "Warnstreiks",
+        "Banken",
+        "Ver"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/europa/proteste-in-frankreich-warum-dem-land-eine-schuldenkrise-droht/100264192.html"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/warnstreiks-private-banken-verdi-agv-tarifrunde-gehalt"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-verdi-ruft-zu-bundesweiten-warnstreiks-bei-privaten-banken-auf-faz-200452404.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/garmr-bundeswehr-holt-48-drohnenabwehr-systeme-von-diehl-2610-214416.html",
-      "headline": "GARMR: Bundeswehr holt 48 Drohnenabwehr-Systeme von Diehl",
-      "takeaway": "Der Skyranger lässt auf sich warten, die Bundeswehr braucht aber eine Drohnenabwehr. 48 GARMR-Systeme von Diehl sollen die Lücke schließen. ( Bundeswehr , Politik )",
-      "topic": "Drohnenabwehr-Systeme",
+      "url": "https://www.golem.de/news/30-jahre-baphomets-fluch-paris-sehen-und-tempelritter-jagen-2610-214384.html",
+      "headline": "30 Jahre Baphomets Fluch: Paris sehen und Tempelritter jagen",
+      "takeaway": "Ein Clown, ein Mord und die Geheimnisse der Tempelritter: Warum Baphomets Fluch auch 30 Jahre später noch beste Adventure-Unterhaltung bietet! Von Olaf Bleich und Benedikt Plass-Fleßenkämper ( …",
+      "topic": "Tempelritter",
       "tags": [
-        "Drohnenabwehr-Systeme",
-        "Bundeswehr",
-        "GARMR",
-        "Diehl"
+        "Tempelritter",
+        "Baphomets",
+        "Fluch",
+        "Paris"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/garmr-bundeswehr-holt-48-drohnenabwehr-systeme-von-diehl-2610-214416.html"
+          "url": "https://www.golem.de/news/30-jahre-baphomets-fluch-paris-sehen-und-tempelritter-jagen-2610-214384.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/satya-nadella-so-etwas-habe-ich-schon-lange-nicht-mehr-gesehen-accg-201611859.html",
-      "headline": "Satya Nadella in Köln: Wie sich Microsoft gegen das Misstrauen wehrt",
-      "takeaway": "Microsoft-Chef Satya Nadella will seine europäischen Kunden in Köln überzeugen, dass er noch ein vertrauenswürdiger Geschäftspartner ist. An den aktuellen IT-Sicherheitslücken kommt aber auch er …",
-      "topic": "Misstrauen",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Briten-uebernehmen-das-Ruder-bei-Hugo-Boss-id31453453.html",
+      "headline": "Übernahme erfolgreich: Briten übernehmen das Ruder bei Hugo Boss",
+      "takeaway": "Hugo Boss hat einen neuen Mehrheitseigentümer. Die britische Frasers-Holding von Milliardär Mike Ashley stockt den eigenen Anteil am schwäbischen Modekonzern auf über 50 Prozent auf.",
+      "topic": "Übernahme",
       "tags": [
-        "Misstrauen",
-        "Microsoft",
-        "Nadella",
-        "Satya"
+        "Übernahme",
+        "Briten",
+        "Ruder",
+        "Hugo"
       ],
       "sources": [
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/satya-nadella-so-etwas-habe-ich-schon-lange-nicht-mehr-gesehen-accg-201611859.html"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Briten-uebernehmen-das-Ruder-bei-Hugo-Boss-id31453453.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+      "takeaway": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial …",
+      "topic": "Britain",
+      "tags": [
+        "Britain",
+        "Healey",
+        "John",
+        "security"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264411.html",
-      "headline": "Pharma: Zollstreit mit Trump – Pharmabranche erwartet weniger Umsatz",
-      "takeaway": "Drohungen, Unsicherheit, kaum Planbarkeit: Der Streit um Pharmazölle mit Donald Trump hinterlässt Spuren in der Arzneibranche. Nach einem starken Vorjahr geht es nun abwärts.",
-      "topic": "Pharmabranche",
+      "url": "https://www.handelsblatt.com/politik/deutschland/fangmengen-wird-der-einzige-strohhalm-fuer-heringsfischer-abgeschafft/100264651.html",
+      "headline": "Fangmengen: Wird „der einzige Strohhalm“ für Heringsfischer abgeschafft?",
+      "takeaway": "In Kürze beraten EU-Minister wieder über Fischfangmengen in der Ostsee. Ein Teil der Diskussion sei überflüssig, sagt ein Experte und erklärt, was Autos mit dem Dorschbestand zu tun haben.",
+      "topic": "Heringsfischer",
       "tags": [
-        "Pharmabranche",
-        "Zollstreit",
-        "Pharma",
-        "Umsatz"
+        "Heringsfischer",
+        "Fangmengen",
+        "Strohhalm",
+        "abgeschafft"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-zollstreit-mit-trump-pharmabranche-erwartet-weniger-umsatz/100264411.html"
+          "url": "https://www.handelsblatt.com/politik/deutschland/fangmengen-wird-der-einzige-strohhalm-fuer-heringsfischer-abgeschafft/100264651.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/superhabitable-planeten-erde-1768470/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Superhabitable Planeten: Warum die Erde kein Idealmaß für Leben ist",
+      "takeaway": "Bei der Suche nach Leben im All galt ein zweiter blauer Planet lange als Maßstab. Doch ausgerechnet die Bedingungen auf unserem Heimatplaneten erweisen sich bei näherer Betrachtung der kosmischen …",
+      "topic": "Superhabitable",
+      "tags": [
+        "Superhabitable",
+        "Planeten",
+        "Idealmaß",
+        "Leben"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/superhabitable-planeten-erde-1768470/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-wladimir-putin-bereit-zu-gespraechen-mit-usa-und-ukraine/100264409.html",
-      "headline": "Ukraine-Krieg: Putin bereit zu Gesprächen mit USA und Ukraine",
-      "takeaway": "Nach dem Besuch von US-Unterhändler Witkoff betont Putin Gesprächsbereitschaft. Der Ukraine spricht er gleichzeitig ihre territoriale Integrität ab.",
-      "topic": "Ukraine-Krieg",
+      "url": "https://www.wiwo.de/unternehmen/it/nvidia-wie-der-fall-coreweave-den-riskanten-geldkreislauf-im-ki-boom-zeigt/100264111.html",
+      "headline": "Nvidia-CEO Jensen Huang: Der Tech-Superstar und sein gefährlicher Geld-Kreislauf",
+      "takeaway": "Nvidia verdient Milliarden am KI-Boom, der CEO wird gefeiert, wo immer er auftaucht. Weniger beachtet: Nvidia finanziert einen bedeutenden Teil dieses Hypes inzwischen selbst.",
+      "topic": "Tech-Superstar",
       "tags": [
-        "Ukraine-Krieg",
-        "Gesprächen",
-        "Ukraine",
-        "Putin"
+        "Tech-Superstar",
+        "Geld-Kreislauf",
+        "Nvidia-CEO",
+        "Jensen"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-wladimir-putin-bereit-zu-gespraechen-mit-usa-und-ukraine/100264409.html"
+          "url": "https://www.wiwo.de/unternehmen/it/nvidia-wie-der-fall-coreweave-den-riskanten-geldkreislauf-im-ki-boom-zeigt/100264111.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/podcast-manager-magazin-inside-23-10-2026-die-grosse-jobangst-der-manager-a-eef474a3-5347-4518-8793-b699b5b134bb#ref=rss",
-      "headline": "Podcast manager magazin INSIDE 23.10.2026: Die große Jobangst der Manager",
-      "takeaway": "Deutschlands Konzerne bauen Tausende Managementstellen ab. Welche Führungskräfte besonders gefährdet sind, warum die große Welle erst noch kommen könnte und wie eine Konzernkarriere trotzdem …",
-      "topic": "Jobangst",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/die-illusion-der-antifaschistischen-wirtschaftspolitik-201613520.html",
+      "headline": "Podcast Löhr & Pennekamp: Populismus von links",
+      "takeaway": "Die Ökonomin Isabella Weber hat das Skript für eine linke Regierung geschrieben. Ihre „antifaschistische Wirtschaftspolitik“ ist verklärend bis verheerend – trifft aber auch einen wunden Punkt.",
+      "topic": "Populismus",
       "tags": [
-        "Jobangst",
+        "Populismus",
+        "Pennekamp",
         "Podcast",
-        "INSIDE",
-        "manager"
+        "Löhr"
       ],
       "sources": [
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/podcast-manager-magazin-inside-23-10-2026-die-grosse-jobangst-der-manager-a-eef474a3-5347-4518-8793-b699b5b134bb#ref=rss"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/die-illusion-der-antifaschistischen-wirtschaftspolitik-201613520.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/e-commerce-fulfillment-skalieren-echtzeit-daten-1757982/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Nicht das Lager bremst dein Wachstum, sondern die Daten: Was gutes Fulfillment heute ausmacht",
+      "takeaway": "Wer ein E-Commerce-Business erfolgreich skalieren will, stößt früher oder später auf dasselbe strukturelle Problem: Modernes Fulfillment ist heute kein reines Platzproblem mehr, sondern eine …",
+      "topic": "Fulfillment",
+      "tags": [
+        "Fulfillment",
+        "Wachstum",
+        "Lager",
+        "Daten"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/e-commerce-fulfillment-skalieren-echtzeit-daten-1757982/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/tech/news-zu-sebastian-stietzel-wanja-oberhof-commertunity-jens-spahn-neoclouds-cloudflair-sap-meta-a-7457adba-0574-49f1-82a4-396bb8e59148#ref=rss",
-      "headline": "News zu Sebastian Stietzel, Wanja Oberhof, Commertunity, Jens Spahn, Neoclouds, Cloudflair, SAP, Meta",
-      "takeaway": "Welche Rolle der Berliner IHK-Präsident Sebastian Stietzel im Netzwerk von Wanja Oberhof spielt und wieso sich Jens Spahn auf einmal in der Start-up-Szene umtut. Unser Newsletter „Tech Update“ …",
-      "topic": "Commertunity",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/boerse/aktien-boerse-die-berichtssaison-haelt-ueberraschungen-fuer-anleger-bereit/100264194.html",
+      "headline": "BörsenWoche 582: Editorial: Diese Überraschungen hält die Berichtssaison bereit",
+      "takeaway": "Ob hohe Inflation oder Tech-Ausverkauf: Anleger haben gute Gründe, nervös zu sein. Warum jetzt defensive Werte überzeugen und was Anleger von den Quartalszahlen erwarten können.",
+      "topic": "Überraschungen",
       "tags": [
-        "Commertunity",
-        "Cloudflair",
-        "Sebastian",
-        "Neoclouds"
+        "Überraschungen",
+        "Berichtssaison",
+        "BörsenWoche",
+        "Editorial"
       ],
       "sources": [
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/news-zu-sebastian-stietzel-wanja-oberhof-commertunity-jens-spahn-neoclouds-cloudflair-sap-meta-a-7457adba-0574-49f1-82a4-396bb8e59148#ref=rss"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/boerse/aktien-boerse-die-berichtssaison-haelt-ueberraschungen-fuer-anleger-bereit/100264194.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/2026/46/vergesellschaftung-wohnungskonzerne-berlin-bundesregierung-wohnen-enteignung",
+      "headline": "Vergesellschaftung von Wohnungskonzernen: Wo bleibt das Eigentumsschutzgesetz der Bundesregierung?",
+      "takeaway": "In Berlin laufen die Vorbereitungen für die Vergesellschaftung Tausender Wohnungen. Und der Bund? Schaut zu, obwohl er versprach einzugreifen. Es wird höchste Zeit.",
+      "topic": "Eigentumsschutzgesetz",
+      "tags": [
+        "Eigentumsschutzgesetz",
+        "Vergesellschaftung",
+        "Wohnungskonzernen",
+        "Bundesregierung"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/2026/46/vergesellschaftung-wohnungskonzerne-berlin-bundesregierung-wohnen-enteignung"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "headline": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-      "takeaway": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-      "topic": "Ultrahuman",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "headline": "Startups don’t need to go viral to win customers",
+      "takeaway": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "topic": "Startups",
       "tags": [
-        "Ultrahuman",
-        "Oura",
-        "threatening",
-        "comeback"
+        "Startups",
+        "customers",
+        "viral",
+        "need"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/"
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "takeaway": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "topic": "Central",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "takeaway": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "topic": "OpenAI",
       "tags": [
-        "Central",
-        "Nvidia",
-        "Uber",
-        "Asia"
+        "OpenAI",
+        "significant",
+        "internet",
+        "longer"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-      "headline": "Etsy is cracking down on AI slop listings",
-      "takeaway": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which …",
-      "topic": "Etsy",
+      "src": "arstechnica",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "headline": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "takeaway": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+      "topic": "Orion",
       "tags": [
-        "Etsy",
-        "cracking",
-        "listings",
-        "down"
+        "Orion",
+        "NASA",
+        "Moon",
+        "long-festering"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-      "headline": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
-      "takeaway": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-      "topic": "Genetically",
-      "tags": [
-        "Genetically",
-        "Modified",
-        "Military",
-        "Startup"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
-      "headline": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-      "takeaway": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives …",
-      "topic": "Xbox",
-      "tags": [
-        "Xbox",
-        "next-gen",
-        "cost",
-        "won"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/",
-      "headline": "What to Know About Shamonda Virus Following the First Reported Human Infection",
-      "takeaway": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
-      "topic": "Following",
-      "tags": [
-        "Following",
-        "Infection",
-        "Shamonda",
-        "Reported"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/"
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
         }
       ]
     }

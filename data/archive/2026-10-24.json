@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24T07:39:25.386916+02:00",
+  "updatedAtLabel": "24.10.2026, 07:39 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/IG-Metall-stellt-Volkswagen-Ultimatum-bis-Ende-Oktober-id31451916.html",
+      "headline": "\"Wir sind vorbereitet\": IG Metall stellt Volkswagen Ultimatum bis Ende Oktober",
+      "takeaway": "Der Ton zwischen Volkswagen und seinen Beschäftigten wird rauer. Die IG Metall warnt vor einer \"gewaltigen Maschinerie\", falls der Konzern die Kündigungen der Haustarifverträge nicht zurücknimmt. Zum …",
+      "topic": "Volkswagen",
+      "tags": [
+        "Volkswagen",
+        "Ultimatum",
+        "Oktober",
+        "Metall"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/IG-Metall-stellt-Volkswagen-Ultimatum-bis-Ende-Oktober-id31451916.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/volkswagen-ig-metall-stellt-vorstand-ultimatum-und-droht-mit-arbeitskampf-a-cee12dd0-dc00-4345-9f6f-64c6108eacdd#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/warnstreiks-private-banken-verdi-agv-tarifrunde-gehalt",
+      "headline": "Tarifverhandlungen: Ver.di ruft zu Warnstreiks bei privaten Banken auf",
+      "takeaway": "Nach den abgelehnten Forderungen im Tarifstreit erhöht die Gewerkschaft Ver.di den Druck. Angestellte von privaten Banken sollen in der kommenden Woche streiken.",
+      "topic": "Tarifverhandlungen",
+      "tags": [
+        "Tarifverhandlungen",
+        "Warnstreiks",
+        "Banken",
+        "Ver"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/warnstreiks-private-banken-verdi-agv-tarifrunde-gehalt"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-verdi-ruft-zu-bundesweiten-warnstreiks-bei-privaten-banken-auf-faz-200452404.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/30-jahre-baphomets-fluch-paris-sehen-und-tempelritter-jagen-2610-214384.html",
+      "headline": "30 Jahre Baphomets Fluch: Paris sehen und Tempelritter jagen",
+      "takeaway": "Ein Clown, ein Mord und die Geheimnisse der Tempelritter: Warum Baphomets Fluch auch 30 Jahre später noch beste Adventure-Unterhaltung bietet! Von Olaf Bleich und Benedikt Plass-Fleßenkämper ( …",
+      "topic": "Tempelritter",
+      "tags": [
+        "Tempelritter",
+        "Baphomets",
+        "Fluch",
+        "Paris"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/30-jahre-baphomets-fluch-paris-sehen-und-tempelritter-jagen-2610-214384.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Briten-uebernehmen-das-Ruder-bei-Hugo-Boss-id31453453.html",
+      "headline": "Übernahme erfolgreich: Briten übernehmen das Ruder bei Hugo Boss",
+      "takeaway": "Hugo Boss hat einen neuen Mehrheitseigentümer. Die britische Frasers-Holding von Milliardär Mike Ashley stockt den eigenen Anteil am schwäbischen Modekonzern auf über 50 Prozent auf.",
+      "topic": "Übernahme",
+      "tags": [
+        "Übernahme",
+        "Briten",
+        "Ruder",
+        "Hugo"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Briten-uebernehmen-das-Ruder-bei-Hugo-Boss-id31453453.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+      "takeaway": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial …",
+      "topic": "Britain",
+      "tags": [
+        "Britain",
+        "Healey",
+        "John",
+        "security"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/fangmengen-wird-der-einzige-strohhalm-fuer-heringsfischer-abgeschafft/100264651.html",
+      "headline": "Fangmengen: Wird „der einzige Strohhalm“ für Heringsfischer abgeschafft?",
+      "takeaway": "In Kürze beraten EU-Minister wieder über Fischfangmengen in der Ostsee. Ein Teil der Diskussion sei überflüssig, sagt ein Experte und erklärt, was Autos mit dem Dorschbestand zu tun haben.",
+      "topic": "Heringsfischer",
+      "tags": [
+        "Heringsfischer",
+        "Fangmengen",
+        "Strohhalm",
+        "abgeschafft"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/fangmengen-wird-der-einzige-strohhalm-fuer-heringsfischer-abgeschafft/100264651.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/superhabitable-planeten-erde-1768470/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Superhabitable Planeten: Warum die Erde kein Idealmaß für Leben ist",
+      "takeaway": "Bei der Suche nach Leben im All galt ein zweiter blauer Planet lange als Maßstab. Doch ausgerechnet die Bedingungen auf unserem Heimatplaneten erweisen sich bei näherer Betrachtung der kosmischen …",
+      "topic": "Superhabitable",
+      "tags": [
+        "Superhabitable",
+        "Planeten",
+        "Idealmaß",
+        "Leben"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/superhabitable-planeten-erde-1768470/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/it/nvidia-wie-der-fall-coreweave-den-riskanten-geldkreislauf-im-ki-boom-zeigt/100264111.html",
+      "headline": "Nvidia-CEO Jensen Huang: Der Tech-Superstar und sein gefährlicher Geld-Kreislauf",
+      "takeaway": "Nvidia verdient Milliarden am KI-Boom, der CEO wird gefeiert, wo immer er auftaucht. Weniger beachtet: Nvidia finanziert einen bedeutenden Teil dieses Hypes inzwischen selbst.",
+      "topic": "Tech-Superstar",
+      "tags": [
+        "Tech-Superstar",
+        "Geld-Kreislauf",
+        "Nvidia-CEO",
+        "Jensen"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/nvidia-wie-der-fall-coreweave-den-riskanten-geldkreislauf-im-ki-boom-zeigt/100264111.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/die-illusion-der-antifaschistischen-wirtschaftspolitik-201613520.html",
+      "headline": "Podcast Löhr & Pennekamp: Populismus von links",
+      "takeaway": "Die Ökonomin Isabella Weber hat das Skript für eine linke Regierung geschrieben. Ihre „antifaschistische Wirtschaftspolitik“ ist verklärend bis verheerend – trifft aber auch einen wunden Punkt.",
+      "topic": "Populismus",
+      "tags": [
+        "Populismus",
+        "Pennekamp",
+        "Podcast",
+        "Löhr"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/die-illusion-der-antifaschistischen-wirtschaftspolitik-201613520.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/e-commerce-fulfillment-skalieren-echtzeit-daten-1757982/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Nicht das Lager bremst dein Wachstum, sondern die Daten: Was gutes Fulfillment heute ausmacht",
+      "takeaway": "Wer ein E-Commerce-Business erfolgreich skalieren will, stößt früher oder später auf dasselbe strukturelle Problem: Modernes Fulfillment ist heute kein reines Platzproblem mehr, sondern eine …",
+      "topic": "Fulfillment",
+      "tags": [
+        "Fulfillment",
+        "Wachstum",
+        "Lager",
+        "Daten"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/e-commerce-fulfillment-skalieren-echtzeit-daten-1757982/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/boerse/aktien-boerse-die-berichtssaison-haelt-ueberraschungen-fuer-anleger-bereit/100264194.html",
+      "headline": "BörsenWoche 582: Editorial: Diese Überraschungen hält die Berichtssaison bereit",
+      "takeaway": "Ob hohe Inflation oder Tech-Ausverkauf: Anleger haben gute Gründe, nervös zu sein. Warum jetzt defensive Werte überzeugen und was Anleger von den Quartalszahlen erwarten können.",
+      "topic": "Überraschungen",
+      "tags": [
+        "Überraschungen",
+        "Berichtssaison",
+        "BörsenWoche",
+        "Editorial"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/boerse/aktien-boerse-die-berichtssaison-haelt-ueberraschungen-fuer-anleger-bereit/100264194.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/2026/46/vergesellschaftung-wohnungskonzerne-berlin-bundesregierung-wohnen-enteignung",
+      "headline": "Vergesellschaftung von Wohnungskonzernen: Wo bleibt das Eigentumsschutzgesetz der Bundesregierung?",
+      "takeaway": "In Berlin laufen die Vorbereitungen für die Vergesellschaftung Tausender Wohnungen. Und der Bund? Schaut zu, obwohl er versprach einzugreifen. Es wird höchste Zeit.",
+      "topic": "Eigentumsschutzgesetz",
+      "tags": [
+        "Eigentumsschutzgesetz",
+        "Vergesellschaftung",
+        "Wohnungskonzernen",
+        "Bundesregierung"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/2026/46/vergesellschaftung-wohnungskonzerne-berlin-bundesregierung-wohnen-enteignung"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "headline": "Startups don’t need to go viral to win customers",
+      "takeaway": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "topic": "Startups",
+      "tags": [
+        "Startups",
+        "customers",
+        "viral",
+        "need"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "headline": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "takeaway": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "topic": "OpenAI",
+      "tags": [
+        "OpenAI",
+        "significant",
+        "internet",
+        "longer"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "arstechnica",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "headline": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "takeaway": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+      "topic": "Orion",
+      "tags": [
+        "Orion",
+        "NASA",
+        "Moon",
+        "long-festering"
+      ],
+      "sources": [
+        {
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Mercedes: Rettung oder Abstieg? / Ein Weckruf für das ganze Netz",
+    "dateLabel": "Folge vom 23.10. · 7 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2227-mercedes-rettung-oder-abstieg-ein-weckruf-fur-das-ganze-netz",
+    "takeaways": [
+      "Mercedes verliert Absatz und Rendite, und auch die Belegschaft wird unruhig.",
+      "Ob der Konzern ein Weltunternehmen bleibt oder zur Regionalmarke schrumpft, hängt nun an einem Rettungsplan.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
