@@ -1,0 +1,338 @@
+{
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25T12:12:34.160765+01:00",
+  "updatedAtLabel": "25.10.2026, 12:12 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/wohnungen-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen/100264774.html",
+      "headline": "Wohnungen: Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "takeaway": "Es ist ein Wettlauf gegen die Regierungsbildung in Berlin: Die Bundesregierung will ein Gesetz vorlegen, das Vergesellschaftungen deutlich komplizierter machen würde. Was soll drinstehen?",
+      "topic": "Vergesellschaftungen",
+      "tags": [
+        "Vergesellschaftungen",
+        "Wohnungen",
+        "Dobrindt",
+        "Hürden"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/wohnungen-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen/100264774.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/wohnungen-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen/100264776.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/investitionsschutzgesetz-bundesregierung-plant-hohe-huerden-fuer-vergesellschaftungen-a-b215833f-e2b3-4b01-852e-1b08e0090e1e#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/frankreich-1000-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html",
+      "headline": "Proteste: 1000 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
+      "takeaway": "In Frankreich gingen Hunderttausende friedlich auf die Straße, es gab aber auch wieder Randale. Auch in Italien eskalierten Proteste. Und Barcelona erlebte eine Nacht der Gewalt.",
+      "topic": "Plünderungen",
+      "tags": [
+        "Plünderungen",
+        "Festnahmen",
+        "Frankreich",
+        "Krawallen"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/frankreich-1000-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/europa/moegliche-krawallen-anspannung-in-frankreich-vor-demos/100264667.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
+      "headline": "Audi baut für vier Milliarden Dollar eigenes Werk in den USA",
+      "takeaway": "Bislang importiert Audi alle seine Fahrzeuge in die USA und zahlt dafür hohe Zölle. Nun will der Konzern erstmals vor Ort produzieren. Ausgerechnet Donald Trump darf die Milliardeninvestition im …",
+      "topic": "Audi",
+      "tags": [
+        "Audi",
+        "Werk",
+        "USA",
+        "eigenes"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
+      "headline": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
+      "takeaway": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet …",
+      "topic": "Gelegenheitsfahrer",
+      "tags": [
+        "Gelegenheitsfahrer",
+        "Deutschlandticket",
+        "Bilger",
+        "Idee"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Verkehrsminister-Bilger-findet-flexibles-Deutschlandticket-spannende-Idee-id31454568.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html",
+      "headline": "Keine Ablösung von Microsoft Office: Dänemark beendet Collabora-Test",
+      "takeaway": "Dänemark hat einen Test mit Collabora beendet. Damit bleibt offen, wie realistisch der Abschied von Microsoft Office in Behörden ist. ( Office , Office-Suite )",
+      "topic": "Collabora-Test",
+      "tags": [
+        "Collabora-Test",
+        "Microsoft",
+        "Ablösung",
+        "Dänemark"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+      "headline": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+      "takeaway": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet.",
+      "topic": "MacBook",
+      "tags": [
+        "MacBook",
+        "Dropped",
+        "Lowest",
+        "Price"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorge-muss-jetzt-die-bafin-bei-den-versorgungswerken-eingreifen/100264330.html",
+      "headline": "Altersvorsorge: Muss jetzt die Bafin bei den Versorgungswerken eingreifen?",
+      "takeaway": "Einige berufsständische Versorgungswerke haben viel Geld in riskanten Investments versenkt. Das hat ein juristisches Nachspiel.",
+      "topic": "Versorgungswerken",
+      "tags": [
+        "Versorgungswerken",
+        "Altersvorsorge",
+        "Bafin",
+        "Muss"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorge-muss-jetzt-die-bafin-bei-den-versorgungswerken-eingreifen/100264330.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/warum-die-spannendsten-ki-agenten-ziemlich-langweilige-aufgaben-erledigen-1765900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Warum die spannendsten KI-Agenten ziemlich langweilige Aufgaben erledigen",
+      "takeaway": "Autonome Super-Agenten bestimmen die Debatte. In Unternehmen liegt der größere Hebel oft woanders: bei Angeboten, Aufträgen, Rechnungen oder Serviceanfragen. Eine Studie zeigt, welche Prozesse sich …",
+      "topic": "KI-Agenten",
+      "tags": [
+        "KI-Agenten",
+        "Aufgaben",
+        "spannendsten",
+        "langweilige"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/warum-die-spannendsten-ki-agenten-ziemlich-langweilige-aufgaben-erledigen-1765900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/handel/dm-chef-christoph-werner-warum-meiden-unternehmer-talkshows/100264288.html",
+      "headline": "Debatten: Warum Talkshows so schwer Unternehmer als Gäste gewinnen",
+      "takeaway": "Wer als Unternehmer in der Öffentlichkeit steht, kann seine Marke in die Bredouille bringen. Trotzdem werden ihre Wortmeldungen gebraucht. Eine Kolumne.",
+      "topic": "Unternehmer",
+      "tags": [
+        "Unternehmer",
+        "Talkshows",
+        "Debatten",
+        "Gäste"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/handel/dm-chef-christoph-werner-warum-meiden-unternehmer-talkshows/100264288.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html",
+      "headline": "Local Wikipedia: Suchmaschine zeigt interessante Orte in Laufreichweite an",
+      "takeaway": "Ob Sehenswürdigkeiten, Clubs, Museen oder Fun Facts: Local Wikipedia gibt Wikipedia-Artikel aus, die zum eingegebenen Standort passen. ( Wikipedia , Suchmaschine )",
+      "topic": "Laufreichweite",
+      "tags": [
+        "Laufreichweite",
+        "Suchmaschine",
+        "Wikipedia",
+        "Local"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/",
+      "headline": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
+      "takeaway": "While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent.",
+      "topic": "Spills",
+      "tags": [
+        "Spills",
+        "Bottom",
+        "Decade",
+        "Wreak"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/warum-sonys-neue-walkmans-bis-zu-5000-euro-kosten-1768577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Walkman für 5.000 Euro: Was steckt in Sonys neuem Luxus-Musikplayer?",
+      "takeaway": "Sony bringt im November neue Luxus-Musikplayer auf den Markt. Das Topmodell kostet 5000 Euro – und wird ein Schmuckstück, sagen die Japaner. weiterlesen auf t3n.de",
+      "topic": "Luxus-Musikplayer",
+      "tags": [
+        "Luxus-Musikplayer",
+        "Walkman",
+        "Sonys",
+        "steckt"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/warum-sonys-neue-walkmans-bis-zu-5000-euro-kosten-1768577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/autokrise-vw-bmw-und-mercedes-verlieren-780-000-fahrzeuge-accg-201614859.html",
+      "headline": "Sinkende Verkaufszahlen: So schlimm ist die Autokrise",
+      "takeaway": "Die drei deutschen Autohersteller BMW, Mercedes und Volkswagen erleiden im Branchenvergleich besonders starke Einbußen. Doch es gibt auch Krisengewinner.",
+      "topic": "Verkaufszahlen",
+      "tags": [
+        "Verkaufszahlen",
+        "Autokrise",
+        "Sinkende",
+        "schlimm"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/autokrise-vw-bmw-und-mercedes-verlieren-780-000-fahrzeuge-accg-201614859.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html",
+      "headline": "Fabrik in Georgia: Der Audi-Chef macht sich zu Trumps Wahlhelfer",
+      "takeaway": "Das geplante Audi-Werk in den USA ist eine richtige Entscheidung. Die Verbeugung des Vorstandschefs Döllner vor dem amerikanischen Präsidenten auf offener Bühne dagegen sendet das falsche Signal.",
+      "topic": "Wahlhelfer",
+      "tags": [
+        "Wahlhelfer",
+        "Audi-Chef",
+        "Georgia",
+        "Fabrik"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
+      "headline": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
+      "takeaway": "We all know the highlights of the tomb raider’s storied career – but what about the lowlights? We dig deep to unearth the archaeologist’s less glorious moments Happy birthday, Lara! This month marks …",
+      "topic": "Croft",
+      "tags": [
+        "Croft",
+        "Lara",
+        "blunders",
+        "biggest"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Mercedes: Rettung oder Abstieg? / Ein Weckruf für das ganze Netz",
+    "dateLabel": "Folge vom 23.10. · 7 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2227-mercedes-rettung-oder-abstieg-ein-weckruf-fur-das-ganze-netz",
+    "takeaways": [
+      "Mercedes verliert Absatz und Rendite, und auch die Belegschaft wird unruhig.",
+      "Ob der Konzern ein Weltunternehmen bleibt oder zur Regionalmarke schrumpft, hängt nun an einem Rettungsplan.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
