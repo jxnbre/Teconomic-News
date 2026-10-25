@@ -1,62 +1,68 @@
 {
-  "updatedAt": "2026-10-25T12:12:10.412896+01:00",
-  "updatedAtLabel": "25.10.2026, 12:12 Uhr",
+  "updatedAt": "2026-10-25T16:59:35.883310+01:00",
+  "updatedAtLabel": "25.10.2026, 16:59 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
-    "fresh": 87,
-    "stale": [],
+    "fresh": 86,
+    "stale": [
+      "xom"
+    ],
     "missing": [],
     "hint": "",
-    "errors": []
+    "errors": [
+      "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
+      "Yahoo XOM: HTTPError: HTTP Error 429: Too Many Requests",
+      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
+    ]
   },
   "quotes": {
     "btc": {
-      "price": "71.618 €",
+      "price": "71.906 €",
       "change": {
-        "week": -3.07,
-        "month": -6.8,
-        "year": -25.38
+        "week": -2.68,
+        "month": -6.42,
+        "year": -25.08
       },
       "asOf": "2026-10-25",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.075,30 €",
+      "price": "2.090,39 €",
       "change": {
-        "week": -4.77,
-        "month": -14.31,
-        "year": -38.95
+        "week": -4.08,
+        "month": -13.69,
+        "year": -38.51
       },
       "asOf": "2026-10-25",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "89,86 €",
+      "price": "90,60 €",
       "change": {
-        "week": -5.18,
-        "month": -16.77,
-        "year": -46.11
+        "week": -4.39,
+        "month": -16.08,
+        "year": -45.66
       },
       "asOf": "2026-10-25",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "1,15 €",
+      "price": "1,16 €",
       "change": {
-        "week": -2.98,
-        "month": -14.6,
-        "year": -48.32
+        "week": -2.47,
+        "month": -14.15,
+        "year": -48.05
       },
       "asOf": "2026-10-25",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "659,88 €",
+      "price": "661,44 €",
       "change": {
-        "week": 0.01,
-        "month": -6.6,
-        "year": -31.27
+        "week": 0.24,
+        "month": -6.38,
+        "year": -31.11
       },
       "asOf": "2026-10-25",
       "src": "CoinGecko"
@@ -761,16 +767,6 @@
       "asOf": "2026-10-23",
       "src": "Yahoo"
     },
-    "xom": {
-      "price": "183,21 $",
-      "change": {
-        "week": 2.36,
-        "month": 12.99,
-        "year": 58.77
-      },
-      "asOf": "2026-10-23",
-      "src": "Yahoo"
-    },
     "pg": {
       "price": "161,02 $",
       "change": {
@@ -880,6 +876,17 @@
       },
       "asOf": "2026-10-23",
       "src": "Yahoo"
+    },
+    "xom": {
+      "price": "183,21 $",
+      "change": {
+        "week": 2.36,
+        "month": 12.99,
+        "year": 58.77
+      },
+      "asOf": "2026-10-23",
+      "src": "Yahoo",
+      "stale": true
     }
   }
 }
