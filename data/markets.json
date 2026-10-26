@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-25T22:38:44.668090+01:00",
-  "updatedAtLabel": "25.10.2026, 22:38 Uhr",
+  "updatedAt": "2026-10-26T01:05:32.353365+01:00",
+  "updatedAtLabel": "26.10.2026, 01:05 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -12,53 +12,53 @@
   },
   "quotes": {
     "btc": {
-      "price": "71.732 €",
+      "price": "71.309 €",
       "change": {
-        "week": -2.91,
-        "month": -6.65,
-        "year": -25.26
+        "week": -3.49,
+        "month": -7.2,
+        "year": -25.7
       },
-      "asOf": "2026-10-25",
+      "asOf": "2026-10-26",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.087,22 €",
+      "price": "2.071,69 €",
       "change": {
-        "week": -4.22,
-        "month": -13.82,
-        "year": -38.6
+        "week": -4.94,
+        "month": -14.46,
+        "year": -39.06
       },
-      "asOf": "2026-10-25",
+      "asOf": "2026-10-26",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "90,53 €",
+      "price": "90,19 €",
       "change": {
-        "week": -4.47,
-        "month": -16.15,
-        "year": -45.71
+        "week": -4.83,
+        "month": -16.46,
+        "year": -45.91
       },
-      "asOf": "2026-10-25",
+      "asOf": "2026-10-26",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "1,16 €",
+      "price": "1,15 €",
       "change": {
-        "week": -2.6,
-        "month": -14.26,
-        "year": -48.12
+        "week": -2.96,
+        "month": -14.58,
+        "year": -48.31
       },
-      "asOf": "2026-10-25",
+      "asOf": "2026-10-26",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "659,94 €",
+      "price": "657,38 €",
       "change": {
-        "week": 0.02,
-        "month": -6.59,
-        "year": -31.27
+        "week": -0.37,
+        "month": -6.95,
+        "year": -31.53
       },
-      "asOf": "2026-10-25",
+      "asOf": "2026-10-26",
       "src": "CoinGecko"
     },
     "eurusd": {
@@ -66,7 +66,7 @@
       "change": {
         "week": -0.53,
         "month": -1.53,
-        "year": -3.96
+        "year": -3.57
       },
       "asOf": "2026-10-23",
       "src": "EZB"
@@ -76,7 +76,7 @@
       "change": {
         "week": -0.78,
         "month": -2.63,
-        "year": -3.66
+        "year": -3.52
       },
       "asOf": "2026-10-23",
       "src": "EZB"
@@ -86,7 +86,7 @@
       "change": {
         "week": -0.49,
         "month": -1.93,
-        "year": -0.13
+        "year": -0.03
       },
       "asOf": "2026-10-23",
       "src": "EZB"
@@ -96,7 +96,7 @@
       "change": {
         "week": -0.77,
         "month": -1.29,
-        "year": 4.01
+        "year": 3.15
       },
       "asOf": "2026-10-23",
       "src": "EZB"
@@ -186,7 +186,7 @@
       "change": {
         "week": -4.03,
         "month": -3.58,
-        "year": 28.89
+        "year": 24.11
       },
       "asOf": "2026-10-23",
       "src": "Yahoo"
@@ -836,7 +836,7 @@
       "change": {
         "week": 0.0,
         "month": -17.43,
-        "year": 123.32
+        "year": 111.27
       },
       "asOf": "2026-10-23",
       "src": "Yahoo"
