@@ -1,337 +1,330 @@
 {
-  "date": "2026-10-25",
-  "updatedAt": "2026-10-25T12:12:34.160765+01:00",
-  "updatedAtLabel": "25.10.2026, 12:12 Uhr",
+  "date": "2026-10-26",
+  "updatedAt": "2026-10-26T11:57:47.091287+01:00",
+  "updatedAtLabel": "26.10.2026, 11:57 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/wohnungen-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen/100264774.html",
-      "headline": "Wohnungen: Dobrindt plant hohe Hürden für Vergesellschaftungen",
-      "takeaway": "Es ist ein Wettlauf gegen die Regierungsbildung in Berlin: Die Bundesregierung will ein Gesetz vorlegen, das Vergesellschaftungen deutlich komplizierter machen würde. Was soll drinstehen?",
-      "topic": "Vergesellschaftungen",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energie-eeg-foerderung-2027-wird-lautnetzbetreiber-teurer-als-geplant/100264929.html",
+      "headline": "Energie: EEG-Förderung 2027 wird laut Netzbetreiber teurer als geplant",
+      "takeaway": "Die Kosten für die Förderung sollen bei 17,52 Milliarden Euro liegen. Das sind rund eine Milliarde mehr als ursprünglich gedacht. Dadurch wächst der Druck auf den Bundeshaushalt.",
+      "topic": "EEG-Förderung",
       "tags": [
-        "Vergesellschaftungen",
-        "Wohnungen",
-        "Dobrindt",
-        "Hürden"
+        "EEG-Förderung",
+        "Netzbetreiber",
+        "Energie",
+        "geplant"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/wohnungen-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen/100264774.html"
+          "url": "https://www.handelsblatt.com/politik/deutschland/energie-eeg-foerderung-2027-wird-lautnetzbetreiber-teurer-als-geplant/100264929.html"
         },
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/wohnungen-dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen/100264776.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/deutschland/investitionsschutzgesetz-bundesregierung-plant-hohe-huerden-fuer-vergesellschaftungen-a-b215833f-e2b3-4b01-852e-1b08e0090e1e#ref=rss"
+          "url": "https://www.wiwo.de/politik/deutschland/netzbetreiber-eegfoerderung-2027-wird-teurer-als-geplant/100264928.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/frankreich-1000-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html",
-      "headline": "Proteste: 1000 Festnahmen bei erneuten Krawallen in Frankreich – Plünderungen und Chaos in Barcelona",
-      "takeaway": "In Frankreich gingen Hunderttausende friedlich auf die Straße, es gab aber auch wieder Randale. Auch in Italien eskalierten Proteste. Und Barcelona erlebte eine Nacht der Gewalt.",
-      "topic": "Plünderungen",
+      "url": "https://www.handelsblatt.com/politik/deutschland/junge-unternehmen-institut-so-viele-firmen-gegruendet-wie-seit-15-jahren-nicht/100264958.html",
+      "headline": "Junge Unternehmen: Institut: So viele Firmen gegründet wie seit 15 Jahren nicht",
+      "takeaway": "In Deutschland wurden 2025 rund 183.000 Unternehmen neu gegründet, so viele wie lange nicht mehr. Es geht aber nicht in allen Branchen aufwärts.",
+      "topic": "Unternehmen",
       "tags": [
-        "Plünderungen",
-        "Festnahmen",
-        "Frankreich",
-        "Krawallen"
+        "Unternehmen",
+        "Institut",
+        "Firmen",
+        "Junge"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/frankreich-1000-festnahmen-bei-erneuten-krawallen-chaos-auch-in-barcelona/100264143.html"
+          "url": "https://www.handelsblatt.com/politik/deutschland/junge-unternehmen-institut-so-viele-firmen-gegruendet-wie-seit-15-jahren-nicht/100264958.html"
         },
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/europa/moegliche-krawallen-anspannung-in-frankreich-vor-demos/100264667.html"
+          "url": "https://www.wiwo.de/unternehmen/junge-unternehmen-institut-so-viele-firmen-gegruendet-wie-seit-15-jahren-nicht/100264959.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss",
-      "headline": "Audi baut für vier Milliarden Dollar eigenes Werk in den USA",
-      "takeaway": "Bislang importiert Audi alle seine Fahrzeuge in die USA und zahlt dafür hohe Zölle. Nun will der Konzern erstmals vor Ort produzieren. Ausgerechnet Donald Trump darf die Milliardeninvestition im …",
-      "topic": "Audi",
+      "url": "https://www.spiegel.de/wirtschaft/gernot-doellner-vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss",
+      "headline": "Gernot Döllner: VW-Betriebsratschefin Cavallo nennt Auftritt von Audi-Chef bei Trump beschämend",
+      "takeaway": "Der Auftritt gemeinsam mit US-Präsident Trump auf einer Wahlkampfbühne hat womöglich ein Nachspiel für Audi-Chef Döllner. Betriebsratschefin Cavallo sieht darin einen klaren Verstoß gegen interne …",
+      "topic": "VW-Betriebsratschefin",
       "tags": [
-        "Audi",
-        "Werk",
-        "USA",
-        "eigenes"
+        "VW-Betriebsratschefin",
+        "Audi-Chef",
+        "Auftritt",
+        "Döllner"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/audi-baut-fuer-vier-milliarden-dollar-eigenes-werk-in-den-usa-a-a6807fc7-f806-4c09-b692-90bfdd32e174#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/gernot-doellner-vw-betriebsratschefin-cavallo-nennt-auftritt-von-audi-chef-bei-trump-beschaemend-a-561cd07b-5304-4a93-9eec-d00532127bb6#ref=rss"
         },
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-kuendigt-auf-trump-wahlkampfveranstaltung-sein-erstes-us-werk-an-accg-201618697.html"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/us-werk-von-audi-cavallo-auftritt-von-audi-chef-bei-trump-ist-beschaemend/100264874.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
-      "headline": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
-      "takeaway": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet …",
-      "topic": "Gelegenheitsfahrer",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/SpaceX-sichert-sich-Kredit-ueber-40-Milliarden-Dollar-id31457091.html",
+      "headline": "Für Kauf von KI-Chips: SpaceX sichert sich Kredit über 40 Milliarden Dollar",
+      "takeaway": "In seinen jüngsten Quartalszahlen weist SpaceX erstmals Gewinn aus. Gründer Musk setzt die Bonität seines Raumfahrtkonzerns ein, um einen Milliardenkredit für den Kauf von Nvidia-Prozessoren zu …",
+      "topic": "KI-Chips",
       "tags": [
-        "Gelegenheitsfahrer",
-        "Deutschlandticket",
-        "Bilger",
-        "Idee"
+        "KI-Chips",
+        "SpaceX",
+        "Kredit",
+        "Kauf"
       ],
       "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html"
-        },
         {
           "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Verkehrsminister-Bilger-findet-flexibles-Deutschlandticket-spannende-Idee-id31454568.html"
+          "url": "https://www.n-tv.de/wirtschaft/SpaceX-sichert-sich-Kredit-ueber-40-Milliarden-Dollar-id31457091.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/elon-musk-spacex-sichert-sich-40-milliarden-dollar-fuer-ki-chips-a-efa1b6a2-18f0-4439-ba2c-2f773327d48f#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "headline": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "takeaway": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+      "topic": "Budget",
+      "tags": [
+        "Budget",
+        "Salon",
+        "VAT",
+        "pressures"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/ausland/midterms-2026-was-die-us-zwischenwahlen-fuer-donald-trumps-zukunft-bedeuten/100263318.html",
+      "headline": "US-Zwischenwahlen: Wann wird gewählt und was bedeutet das Ergebnis für Donald Trump?",
+      "takeaway": "Wie setzt sich der amerikanische Kongress zusammen und was hieße ein Sieg der Demokraten für die Zukunft des US-Präsidenten? Ein Überblick.",
+      "topic": "US-Zwischenwahlen",
+      "tags": [
+        "US-Zwischenwahlen",
+        "Ergebnis",
+        "Donald",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/midterms-2026-was-die-us-zwischenwahlen-fuer-donald-trumps-zukunft-bedeuten/100263318.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "netzpolitik",
+      "url": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/",
+      "headline": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+      "takeaway": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild) – CC-BY-SA 4.0 : Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.org Die …",
+      "topic": "Millionengrab",
+      "tags": [
+        "Millionengrab",
+        "Bildungsraum",
+        "Zeugnismappe",
+        "Mein"
+      ],
+      "sources": [
+        {
+          "src": "netzpolitik",
+          "url": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html",
-      "headline": "Keine Ablösung von Microsoft Office: Dänemark beendet Collabora-Test",
-      "takeaway": "Dänemark hat einen Test mit Collabora beendet. Damit bleibt offen, wie realistisch der Abschied von Microsoft Office in Behörden ist. ( Office , Office-Suite )",
-      "topic": "Collabora-Test",
+      "url": "https://www.golem.de/news/schadcode-attacken-moeglich-luecke-in-brotli-decoder-gefaehrdet-zahllose-anwendungen-2610-214507.html",
+      "headline": "Schadcode-Attacken möglich: Lücke in Brotli-Decoder gefährdet zahllose Anwendungen",
+      "takeaway": "Angreifer können aufgrund einer Sicherheitslücke in Brotli potenziell Schadcode über unzählige Apps einschleusen. Entwickler müssen dringend handeln. ( Sicherheitslücke , FFmpeg )",
+      "topic": "Schadcode-Attacken",
       "tags": [
-        "Collabora-Test",
-        "Microsoft",
-        "Ablösung",
-        "Dänemark"
+        "Schadcode-Attacken",
+        "Brotli-Decoder",
+        "Anwendungen",
+        "Lücke"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html"
+          "url": "https://www.golem.de/news/schadcode-attacken-moeglich-luecke-in-brotli-decoder-gefaehrdet-zahllose-anwendungen-2610-214507.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+      "headline": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+      "takeaway": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
+      "topic": "Ticking",
+      "tags": [
+        "Ticking",
+        "pension",
+        "ageing",
+        "crisis"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/industrie/helsing-konzert-stellt-eigenes-luftverteidigungssystem-contra-vor/100264952.html",
+      "headline": "Verteidigung: Helsing stellt eigenes Luftverteidigungssystem Contra vor",
+      "takeaway": "Die Verteidigung gegen Angriffe mit Drohnen und Raketen soll schnell ausgebaut werden. Das Rüstungsunternehmen Helsing stellt dafür ein eigenes System mit neuen Lenkflugkörpern vor.",
+      "topic": "Luftverteidigungssystem",
+      "tags": [
+        "Luftverteidigungssystem",
+        "Verteidigung",
+        "Helsing",
+        "Contra"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/helsing-konzert-stellt-eigenes-luftverteidigungssystem-contra-vor/100264952.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/laut-elon-musk-neoclouds-bekommen-kaum-noch-geld-am-anleihenmarkt-2610-214506.html",
+      "headline": "Laut Elon Musk: Neoclouds bekommen kaum noch Geld am Anleihenmarkt",
+      "takeaway": "SpaceX soll dennoch eine Milliardenfinanzierung für neue GPUs erhalten. Viel Rechenleistung könnte 2027 zudem ungenutzt bleiben. ( KI , Rechenzentrum )",
+      "topic": "Anleihenmarkt",
+      "tags": [
+        "Anleihenmarkt",
+        "Neoclouds",
+        "Elon",
+        "Musk"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/laut-elon-musk-neoclouds-bekommen-kaum-noch-geld-am-anleihenmarkt-2610-214506.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
-      "headline": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
-      "takeaway": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet.",
-      "topic": "MacBook",
+      "url": "https://www.wired.com/review/lg-b6/",
+      "headline": "LG B6 OLED TV Review (2026)",
+      "takeaway": "The LG B6 has deep and rich blacks and a low price tag, but midrange performance elsewhere.",
+      "topic": "Review",
       "tags": [
-        "MacBook",
-        "Dropped",
-        "Lowest",
-        "Price"
+        "Review",
+        "OLED"
       ],
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorge-muss-jetzt-die-bafin-bei-den-versorgungswerken-eingreifen/100264330.html",
-      "headline": "Altersvorsorge: Muss jetzt die Bafin bei den Versorgungswerken eingreifen?",
-      "takeaway": "Einige berufsständische Versorgungswerke haben viel Geld in riskanten Investments versenkt. Das hat ein juristisches Nachspiel.",
-      "topic": "Versorgungswerken",
-      "tags": [
-        "Versorgungswerken",
-        "Altersvorsorge",
-        "Bafin",
-        "Muss"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorge-muss-jetzt-die-bafin-bei-den-versorgungswerken-eingreifen/100264330.html"
+          "url": "https://www.wired.com/review/lg-b6/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/warum-die-spannendsten-ki-agenten-ziemlich-langweilige-aufgaben-erledigen-1765900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Warum die spannendsten KI-Agenten ziemlich langweilige Aufgaben erledigen",
-      "takeaway": "Autonome Super-Agenten bestimmen die Debatte. In Unternehmen liegt der größere Hebel oft woanders: bei Angeboten, Aufträgen, Rechnungen oder Serviceanfragen. Eine Studie zeigt, welche Prozesse sich …",
-      "topic": "KI-Agenten",
+      "src": "wired",
+      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "headline": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
+      "takeaway": "Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?",
+      "topic": "Wikipedia",
       "tags": [
-        "KI-Agenten",
-        "Aufgaben",
-        "spannendsten",
-        "langweilige"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/warum-die-spannendsten-ki-agenten-ziemlich-langweilige-aufgaben-erledigen-1765900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/handel/dm-chef-christoph-werner-warum-meiden-unternehmer-talkshows/100264288.html",
-      "headline": "Debatten: Warum Talkshows so schwer Unternehmer als Gäste gewinnen",
-      "takeaway": "Wer als Unternehmer in der Öffentlichkeit steht, kann seine Marke in die Bredouille bringen. Trotzdem werden ihre Wortmeldungen gebraucht. Eine Kolumne.",
-      "topic": "Unternehmer",
-      "tags": [
-        "Unternehmer",
-        "Talkshows",
-        "Debatten",
-        "Gäste"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/handel/dm-chef-christoph-werner-warum-meiden-unternehmer-talkshows/100264288.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html",
-      "headline": "Local Wikipedia: Suchmaschine zeigt interessante Orte in Laufreichweite an",
-      "takeaway": "Ob Sehenswürdigkeiten, Clubs, Museen oder Fun Facts: Local Wikipedia gibt Wikipedia-Artikel aus, die zum eingegebenen Standort passen. ( Wikipedia , Suchmaschine )",
-      "topic": "Laufreichweite",
-      "tags": [
-        "Laufreichweite",
-        "Suchmaschine",
         "Wikipedia",
-        "Local"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/",
-      "headline": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
-      "takeaway": "While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent.",
-      "topic": "Spills",
-      "tags": [
-        "Spills",
-        "Bottom",
-        "Decade",
-        "Wreak"
+        "Tragedy",
+        "Having",
+        "Losing"
       ],
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/"
+          "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/hochfrequenzhaendler-investieren-milliarden-in-ki-rechenleistung/",
+      "headline": "Hochfrequenzhändler investieren Milliarden in KI-Rechenleistung",
+      "takeaway": "Hochfrequenzhändler wie Jane Street und Hudson River Trading liefern sich inzwischen einen Wettlauf um Rechenleistung für KI. Der Artikel Hochfrequenzhändler investieren Milliarden in …",
+      "topic": "Hochfrequenzhändler",
+      "tags": [
+        "Hochfrequenzhändler",
+        "KI-Rechenleistung",
+        "investieren"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/hochfrequenzhaendler-investieren-milliarden-in-ki-rechenleistung/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/warum-sonys-neue-walkmans-bis-zu-5000-euro-kosten-1768577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Walkman für 5.000 Euro: Was steckt in Sonys neuem Luxus-Musikplayer?",
-      "takeaway": "Sony bringt im November neue Luxus-Musikplayer auf den Markt. Das Topmodell kostet 5000 Euro – und wird ein Schmuckstück, sagen die Japaner. weiterlesen auf t3n.de",
-      "topic": "Luxus-Musikplayer",
+      "url": "https://t3n.de/news/benotung-ist-sinnlos-geworden-warum-dieser-mathe-professor-den-zweck-von-hausaufgaben-anzweifelt-1769844/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "„Benotung ist sinnlos geworden“: Warum dieser Mathe-Professor den Zweck von Hausaufgaben anzweifelt",
+      "takeaway": "Zu Beginn des KI-Booms galt Mathematik als eine gute Studienwahl – das hat sich geändert. Jetzt zweifeln selbst Lehrkräfte an Universitäten daran, ob sie jungen Menschen raten sollen, das Fach zu …",
+      "topic": "Mathe-Professor",
       "tags": [
-        "Luxus-Musikplayer",
-        "Walkman",
-        "Sonys",
-        "steckt"
+        "Mathe-Professor",
+        "Hausaufgaben",
+        "Benotung",
+        "Zweck"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/warum-sonys-neue-walkmans-bis-zu-5000-euro-kosten-1768577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/autokrise-vw-bmw-und-mercedes-verlieren-780-000-fahrzeuge-accg-201614859.html",
-      "headline": "Sinkende Verkaufszahlen: So schlimm ist die Autokrise",
-      "takeaway": "Die drei deutschen Autohersteller BMW, Mercedes und Volkswagen erleiden im Branchenvergleich besonders starke Einbußen. Doch es gibt auch Krisengewinner.",
-      "topic": "Verkaufszahlen",
-      "tags": [
-        "Verkaufszahlen",
-        "Autokrise",
-        "Sinkende",
-        "schlimm"
-      ],
-      "sources": [
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/autokrise-vw-bmw-und-mercedes-verlieren-780-000-fahrzeuge-accg-201614859.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html",
-      "headline": "Fabrik in Georgia: Der Audi-Chef macht sich zu Trumps Wahlhelfer",
-      "takeaway": "Das geplante Audi-Werk in den USA ist eine richtige Entscheidung. Die Verbeugung des Vorstandschefs Döllner vor dem amerikanischen Präsidenten auf offener Bühne dagegen sendet das falsche Signal.",
-      "topic": "Wahlhelfer",
-      "tags": [
-        "Wahlhelfer",
-        "Audi-Chef",
-        "Georgia",
-        "Fabrik"
-      ],
-      "sources": [
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/audi-chef-gernot-doellner-als-trumps-wahlkampfhelfer-201619089.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
-      "headline": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
-      "takeaway": "We all know the highlights of the tomb raider’s storied career – but what about the lowlights? We dig deep to unearth the archaeologist’s less glorious moments Happy birthday, Lara! This month marks …",
-      "topic": "Croft",
-      "tags": [
-        "Croft",
-        "Lara",
-        "blunders",
-        "biggest"
-      ],
-      "sources": [
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders"
+          "url": "https://t3n.de/news/benotung-ist-sinnlos-geworden-warum-dieser-mathe-professor-den-zweck-von-hausaufgaben-anzweifelt-1769844/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Mercedes: Rettung oder Abstieg? / Ein Weckruf für das ganze Netz",
-    "dateLabel": "Folge vom 23.10. · 7 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2227-mercedes-rettung-oder-abstieg-ein-weckruf-fur-das-ganze-netz",
+    "title": "Audi: Die riskante US-Wette des Gernot Döllner / Brasilien: Präsident Lula sichert sich vierte Amtszeit",
+    "dateLabel": "Folge vom 26.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2228-audi-die-riskante-us-wette-des-gernot-dollner-brasilien-prasident-lula-sichert-sich-vierte-amtszeit",
     "takeaways": [
-      "Mercedes verliert Absatz und Rendite, und auch die Belegschaft wird unruhig.",
-      "Ob der Konzern ein Weltunternehmen bleibt oder zur Regionalmarke schrumpft, hängt nun an einem Rettungsplan.",
+      "Gernot Döllner macht sich mit einer peinlichen Wahlkampfhilfe für den US-Präsidenten unbeliebt.",
+      "Wirtschaftlich aber gibt es gute Gründe für den Wahlkampf-Stunt.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }
