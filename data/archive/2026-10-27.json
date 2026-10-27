@@ -1,0 +1,360 @@
+{
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-27T08:40:58.259111+01:00",
+  "updatedAtLabel": "27.10.2026, 08:40 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss",
+      "headline": "Microsoft: Techkonzern bietet 60.000 Mitarbeitern Abfindungen an",
+      "takeaway": "Der US-amerikanische Technologiekonzern kündigt an, 60.000 Beschäftigten ein Abfindungsangebot zu machen. Microsoft muss Kosten senken, um seine Investitionen in künstliche Intelligenz zu finanzieren.",
+      "topic": "Mitarbeitern",
+      "tags": [
+        "Mitarbeitern",
+        "Techkonzern",
+        "Abfindungen",
+        "Microsoft"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/microsoft-abfindung-mitarbeiter-usa-kanada-indien"
+        },
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Microsoft-bietet-60-000-Mitarbeitern-Goldenen-Handschlag-11501027.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-microsoft-abfindungen-1770007/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/microsoft-bietet-rund-60-000-mitarbeitern-abfindungen-an-a-51915fa4-261a-4828-ae37-1add671256a7#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+      "headline": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+      "takeaway": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den …",
+      "topic": "Audi-Chef",
+      "tags": [
+        "Audi-Chef",
+        "Auftritt",
+        "Döllner",
+        "Kritik"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/gernot-doellner-audi-chef-verteidigt-gemeinsamen-auftritt-mit-donald-trump-a-9451409c-6a95-4667-af91-abe266449904#ref=rss"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-audi-chef-doellner-rechtfertigt-sich-fuer-auftritt-mit-trump-faz-200452404.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-will-enge-handelsanbindung-der-eu-an-asean-staaten/100137034.html",
+      "headline": "+++ Bundespolitik +++: Merz will enge Handelsanbindung der EU an Asean-Staaten",
+      "takeaway": "Steinmeier beginnt Staatsbesuch in China +++ „Politischer Kniefall“ – Bayerischer Digitalminister kritisiert Audi-Chef für Auftritt mit Trump +++ Der Newsblog.",
+      "topic": "Handelsanbindung",
+      "tags": [
+        "Handelsanbindung",
+        "Bundespolitik",
+        "Asean-Staaten",
+        "Merz"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-will-enge-handelsanbindung-der-eu-an-asean-staaten/100137034.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/reisediplomatie-merz-und-steinmeier-auf-getrennten-wegen-nach-asien/100264855.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/porsche-autobauer-stabilisiert-rendite-das-soll-erst-der-anfang-sein/100263515.html",
+      "headline": "Autoindustrie: Porsche stabilisiert seine Rendite – das soll erst der Anfang sein",
+      "takeaway": "Der neue Porsche-Chef Michael Leiters treibt die Neuausrichtung mit großen Schritten voran. Wie der Sportwagenbauer trotz Absatzkrise seine ambitionierten Ziele erreichen will.",
+      "topic": "Autoindustrie",
+      "tags": [
+        "Autoindustrie",
+        "Porsche",
+        "Rendite",
+        "Anfang"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/porsche-autobauer-stabilisiert-rendite-das-soll-erst-der-anfang-sein/100263515.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/porsche-autobauer-stabilisiert-rendite-bei-schwachem-absatz/100265166.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
+      "headline": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
+      "takeaway": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten …",
+      "topic": "KI-Unternehmen",
+      "tags": [
+        "KI-Unternehmen",
+        "Börsengang",
+        "Anthropic",
+        "Risiken"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-entwickler-beantragt-boersengang-in-den-usa-a-3ac6664b-b904-4a48-92c0-174f43d49312#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/google-fitbit-edge-im-test-mehr-sportuhr-braucht-es-oft-nicht-2610-214309.html",
+      "headline": "Google Fitbit Edge im Test: Mehr Sportuhr braucht es oft nicht",
+      "takeaway": "Präzise Sensoren, hoher Tragekomfort und eine Woche Akkulaufzeit: Im Test überzeugt beim Fitbit Edge auch das Zusammenspiel mit Google Health. Ein Test von Peter Steinlechner ( Fitbit , Test )",
+      "topic": "Sportuhr",
+      "tags": [
+        "Sportuhr",
+        "Google",
+        "Fitbit",
+        "Edge"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/google-fitbit-edge-im-test-mehr-sportuhr-braucht-es-oft-nicht-2610-214309.html"
+        },
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/review/google-fitbit-edge/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/vorsorge/scharfer-wettbewerb-verivox-preiskampf-in-der-kfz-versicherung-ist-zurueck/100265139.html",
+      "headline": "Autoversicherung: Preiskampf in der Kfz-Versicherung ist zurück",
+      "takeaway": "In den vergangenen Jahren haben etliche Kfz-Versicherer ihre Preise drastisch erhöht. Diese Phase scheint vorbei: Nun schwingt das Pendel wieder in die entgegengesetzte Richtung.",
+      "topic": "Autoversicherung",
+      "tags": [
+        "Autoversicherung",
+        "Kfz-Versicherung",
+        "Preiskampf",
+        "zurück"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/vorsorge/scharfer-wettbewerb-verivox-preiskampf-in-der-kfz-versicherung-ist-zurueck/100265139.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss",
+      "headline": "Porsche macht etwas weniger Umsatz – aber wieder Gewinn",
+      "takeaway": "Der angeschlagene Sportwagenhersteller Porsche hat sich vom Gewinneinbruch des ​vergangenen Jahres etwas erholt. Der Umsatz ging zwar zurück, die Weichen für profitables Wachstum sind aber gestellt.",
+      "topic": "Porsche",
+      "tags": [
+        "Porsche",
+        "Umsatz",
+        "Gewinn",
+        "weniger"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/industrie/nivea-umsatz-schrumpft-bei-beiersdorf-rueckgang-bei-nivea-aber-gebremst/100265174.html",
+      "headline": "Beiersdorf-Zahlen: Umsatz schrumpft bei Beiersdorf – Rückgang bei Nivea aber gebremst",
+      "takeaway": "Beiersdorf bremst den Abwärtstrend bei Nivea, doch die Kernmarke bleibt unter Druck. Günstigere Produkte und mehr Werbung sollen die Wende bringen.",
+      "topic": "Beiersdorf-Zahlen",
+      "tags": [
+        "Beiersdorf-Zahlen",
+        "Beiersdorf",
+        "Rückgang",
+        "Umsatz"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/nivea-umsatz-schrumpft-bei-beiersdorf-rueckgang-bei-nivea-aber-gebremst/100265174.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html",
+      "headline": "Mein Bildungsraum: Bund beendet Bildungsplattform nach 236 Millionen Euro",
+      "takeaway": "Aus der nationalen Bildungsplattform wird eine App für digitale Abiturzeugnisse. Erste Länder testen sie bereits. ( Bundesregierung , Politik )",
+      "topic": "Bildungsplattform",
+      "tags": [
+        "Bildungsplattform",
+        "Bildungsraum",
+        "Mein",
+        "Bund"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ios-27-2-iphone-update-features-1769564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "iOS 27.2: Update steht für iPhones bereit – das steckt drin",
+      "takeaway": "iOS 27.2 ist da und wird an kompatible iPhones ausgerollt. Leider müssen Apple-Fans hierzulande auf einige der Neuerungen verzichten. Woran das liegt und was trotzdem mit dem Update bereitsteht. …",
+      "topic": "Update",
+      "tags": [
+        "Update",
+        "iPhones",
+        "bereit",
+        "steckt"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ios-27-2-iphone-update-features-1769564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+      "headline": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+      "takeaway": "Whose hand is behind this travesty?",
+      "topic": "pointing",
+      "tags": [
+        "pointing",
+        "confused",
+        "nudging",
+        "promote"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/iphone-duo-kaufen-wichtig-display-verfuegbarkeit-1768383/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "iPhone Duo: Gebrochene Displays, Verfügbarkeit, Betriebssystem – was ihr vor dem Kauf wissen müsst",
+      "takeaway": "Der Verkaufsstart vom iPhone Duo bringt offenbar einige Probleme mit sich. Das Gerät ist in den kommenden Monaten nur schwer zu bekommen. Zudem beklagen erste Nutzer Probleme mit kaputten Displays. …",
+      "topic": "Betriebssystem",
+      "tags": [
+        "Betriebssystem",
+        "Verfügbarkeit",
+        "Gebrochene",
+        "Displays"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/iphone-duo-kaufen-wichtig-display-verfuegbarkeit-1768383/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "takeaway": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent …",
+      "topic": "Chinese",
+      "tags": [
+        "Chinese",
+        "trillions",
+        "supremacy",
+        "markets"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "takeaway": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "topic": "OpenAI",
+      "tags": [
+        "OpenAI",
+        "always-on",
+        "assistant",
+        "personal"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Anthropic: Börsengang wird konkret / Mercedes: Sechsstellige Abfindungen für Produktionsmitarbeiter",
+    "dateLabel": "Folge vom 27.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2229-anthropic-borsengang-wird-konkret-mercedes-sechsstellige-abfindungen-fur-produktionsmitarbeiter",
+    "takeaways": [
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
