@@ -1,359 +1,333 @@
 {
-  "date": "2026-10-27",
-  "updatedAt": "2026-10-27T08:40:58.259111+01:00",
-  "updatedAtLabel": "27.10.2026, 08:40 Uhr",
+  "date": "2026-10-28",
+  "updatedAt": "2026-10-28T13:39:49.520542+01:00",
+  "updatedAtLabel": "28.10.2026, 13:39 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss",
-      "headline": "Microsoft: Techkonzern bietet 60.000 Mitarbeitern Abfindungen an",
-      "takeaway": "Der US-amerikanische Technologiekonzern kündigt an, 60.000 Beschäftigten ein Abfindungsangebot zu machen. Microsoft muss Kosten senken, um seine Investitionen in künstliche Intelligenz zu finanzieren.",
-      "topic": "Mitarbeitern",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss",
+      "headline": "Dietenhofen: Geschlossenes Playmobil-Werk soll Rechenzentrum werden",
+      "takeaway": "Playmobil ist der Krise, das einzige deutsche Werk wurde geschlossen, Hunderte Mitarbeiter verloren ihren Job. Nun will der Mutterkonzern in Dietenhofen ein Rechenzentrum bauen.",
+      "topic": "Playmobil-Werk",
       "tags": [
-        "Mitarbeitern",
-        "Techkonzern",
-        "Abfindungen",
-        "Microsoft"
+        "Playmobil-Werk",
+        "Geschlossenes",
+        "Rechenzentrum",
+        "Dietenhofen"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/microsoft-techkonzern-bietet-60-000-mitarbeitern-abfindungen-an-a-b0b9c84d-ab45-4b2f-a353-1f601334571d#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss"
         },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/microsoft-abfindung-mitarbeiter-usa-kanada-indien"
-        },
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Microsoft-bietet-60-000-Mitarbeitern-Goldenen-Handschlag-11501027.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        },
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/ki-microsoft-abfindungen-1770007/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        },
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/microsoft-bietet-rund-60-000-mitarbeitern-abfindungen-an-a-51915fa4-261a-4828-ae37-1add671256a7#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
-      "headline": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-      "takeaway": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den …",
-      "topic": "Audi-Chef",
-      "tags": [
-        "Audi-Chef",
-        "Auftritt",
-        "Döllner",
-        "Kritik"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
-        },
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/gernot-doellner-audi-chef-verteidigt-gemeinsamen-auftritt-mit-donald-trump-a-9451409c-6a95-4667-af91-abe266449904#ref=rss"
-        },
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-audi-chef-doellner-rechtfertigt-sich-fuer-auftritt-mit-trump-faz-200452404.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-will-enge-handelsanbindung-der-eu-an-asean-staaten/100137034.html",
-      "headline": "+++ Bundespolitik +++: Merz will enge Handelsanbindung der EU an Asean-Staaten",
-      "takeaway": "Steinmeier beginnt Staatsbesuch in China +++ „Politischer Kniefall“ – Bayerischer Digitalminister kritisiert Audi-Chef für Auftritt mit Trump +++ Der Newsblog.",
-      "topic": "Handelsanbindung",
-      "tags": [
-        "Handelsanbindung",
-        "Bundespolitik",
-        "Asean-Staaten",
-        "Merz"
-      ],
-      "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-merz-will-enge-handelsanbindung-der-eu-an-asean-staaten/100137034.html"
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/kuenstliche-intelligenz-playmobil-werk-soll-zu-rechenzentrum-werden/100265572.html"
         },
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/ausland/reisediplomatie-merz-und-steinmeier-auf-getrennten-wegen-nach-asien/100264855.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/porsche-autobauer-stabilisiert-rendite-das-soll-erst-der-anfang-sein/100263515.html",
-      "headline": "Autoindustrie: Porsche stabilisiert seine Rendite – das soll erst der Anfang sein",
-      "takeaway": "Der neue Porsche-Chef Michael Leiters treibt die Neuausrichtung mit großen Schritten voran. Wie der Sportwagenbauer trotz Absatzkrise seine ambitionierten Ziele erreichen will.",
-      "topic": "Autoindustrie",
-      "tags": [
-        "Autoindustrie",
-        "Porsche",
-        "Rendite",
-        "Anfang"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/porsche-autobauer-stabilisiert-rendite-das-soll-erst-der-anfang-sein/100263515.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/auto/porsche-autobauer-stabilisiert-rendite-bei-schwachem-absatz/100265166.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
-      "headline": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-      "takeaway": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten …",
-      "topic": "KI-Unternehmen",
-      "tags": [
-        "KI-Unternehmen",
-        "Börsengang",
-        "Anthropic",
-        "Risiken"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
-        },
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/anthropic-ki-entwickler-beantragt-boersengang-in-den-usa-a-3ac6664b-b904-4a48-92c0-174f43d49312#ref=rss"
+          "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-playmobil-werk-soll-zu-rechenzentrum-werden/100265583.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/google-fitbit-edge-im-test-mehr-sportuhr-braucht-es-oft-nicht-2610-214309.html",
-      "headline": "Google Fitbit Edge im Test: Mehr Sportuhr braucht es oft nicht",
-      "takeaway": "Präzise Sensoren, hoher Tragekomfort und eine Woche Akkulaufzeit: Im Test überzeugt beim Fitbit Edge auch das Zusammenspiel mit Google Health. Ein Test von Peter Steinlechner ( Fitbit , Test )",
-      "topic": "Sportuhr",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Proton-Angestellte sollen wegen KI-Nutzung erneut ins Bewerbungsgespräch",
+      "takeaway": "Beim Schweizer IT-Unternehmen Proton möchte man die KI-Nutzung vorantreiben. Dazu sollen die Angestellten jetzt in neuen Bewerbungsgesprächen befragt werden.",
+      "topic": "Proton-Angestellte",
       "tags": [
-        "Sportuhr",
-        "Google",
-        "Fitbit",
-        "Edge"
+        "Proton-Angestellte",
+        "Bewerbungsgespräch",
+        "KI-Nutzung",
+        "erneut"
       ],
       "sources": [
         {
-          "src": "golem",
-          "url": "https://www.golem.de/news/google-fitbit-edge-im-test-mehr-sportuhr-braucht-es-oft-nicht-2610-214309.html"
+          "src": "heise",
+          "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         },
         {
-          "src": "wired",
-          "url": "https://www.wired.com/review/google-fitbit-edge/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/vorsorge/scharfer-wettbewerb-verivox-preiskampf-in-der-kfz-versicherung-ist-zurueck/100265139.html",
-      "headline": "Autoversicherung: Preiskampf in der Kfz-Versicherung ist zurück",
-      "takeaway": "In den vergangenen Jahren haben etliche Kfz-Versicherer ihre Preise drastisch erhöht. Diese Phase scheint vorbei: Nun schwingt das Pendel wieder in die entgegengesetzte Richtung.",
-      "topic": "Autoversicherung",
-      "tags": [
-        "Autoversicherung",
-        "Kfz-Versicherung",
-        "Preiskampf",
-        "zurück"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/vorsorge/scharfer-wettbewerb-verivox-preiskampf-in-der-kfz-versicherung-ist-zurueck/100265139.html"
+          "src": "t3n",
+          "url": "https://t3n.de/news/wegen-ki-proton-mitarbeiter-muessen-erneut-zum-bewerbungsgespraech-1770380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss",
-      "headline": "Porsche macht etwas weniger Umsatz – aber wieder Gewinn",
-      "takeaway": "Der angeschlagene Sportwagenhersteller Porsche hat sich vom Gewinneinbruch des ​vergangenen Jahres etwas erholt. Der Umsatz ging zwar zurück, die Weichen für profitables Wachstum sind aber gestellt.",
-      "topic": "Porsche",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/jio-platforms-schafft-staerksten-boersengang-indiens-a-6c866e2a-9262-4f31-81b2-72bc1d1a117f#ref=rss",
+      "headline": "Jio Platforms schafft stärksten Börsengang Indiens",
+      "takeaway": "Ein Rekordbörsengang, große Zukunftspläne und ein verärgerter Elon Musk: Dafür steht das indische Unternehmen Jio Platforms. Am ersten Handelstag legten die Aktien der Firma einen Sprung von 21 …",
+      "topic": "Börsengang",
       "tags": [
-        "Porsche",
-        "Umsatz",
-        "Gewinn",
-        "weniger"
+        "Börsengang",
+        "Platforms",
+        "Indiens",
+        "Jio"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/porsche-macht-etwas-weniger-umsatz-aber-wieder-gewinn-a-d4d09e69-6ff6-4541-81e4-c87b2d6eede7#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/jio-platforms-schafft-staerksten-boersengang-indiens-a-6c866e2a-9262-4f31-81b2-72bc1d1a117f#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/technologieunternehmen-jio-platforms-legt-groessten-boersengang-indiens-hin/100265581.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/industrie/nivea-umsatz-schrumpft-bei-beiersdorf-rueckgang-bei-nivea-aber-gebremst/100265174.html",
-      "headline": "Beiersdorf-Zahlen: Umsatz schrumpft bei Beiersdorf – Rückgang bei Nivea aber gebremst",
-      "takeaway": "Beiersdorf bremst den Abwärtstrend bei Nivea, doch die Kernmarke bleibt unter Druck. Günstigere Produkte und mehr Werbung sollen die Wende bringen.",
-      "topic": "Beiersdorf-Zahlen",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "headline": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "takeaway": "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
+      "topic": "Google",
       "tags": [
-        "Beiersdorf-Zahlen",
-        "Beiersdorf",
-        "Rückgang",
-        "Umsatz"
+        "Google",
+        "enlisting",
+        "playbook",
+        "partners"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/industrie/nivea-umsatz-schrumpft-bei-beiersdorf-rueckgang-bei-nivea-aber-gebremst/100265174.html"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+      "headline": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+      "takeaway": "The currency has lost almost 5% against the U.S. dollar in six months.",
+      "topic": "Zealand",
+      "tags": [
+        "Zealand",
+        "near-certainty",
+        "central",
+        "markets"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-blinde-fleck-der-debatte-um-die-rente-mit-63/100265287.html",
+      "headline": "Kommentar: Der blinde Fleck der Debatte um die „Rente mit 63“",
+      "takeaway": "Für die abschlagsfreie Rente nach 45 Beitragsjahren zählen auch Kindererziehung, Krankengeld oder Arbeitslosigkeit. Ein neuer Vorschlag der Union stellt nun die Gerechtigkeitsfrage – zu Recht.",
+      "topic": "Kommentar",
+      "tags": [
+        "Kommentar",
+        "Debatte",
+        "Fleck",
+        "Rente"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-blinde-fleck-der-debatte-um-die-rente-mit-63/100265287.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/milliardenbetrug-letzte-frist-fuer-die-verteidiger-im-wirecard-prozess/100265613.html",
+      "headline": "Milliardenbetrug: Letzte Frist für die Verteidiger im Wirecard-Prozess",
+      "takeaway": "Der Münchner Wirecard-Prozess geht in die Schlussphase. Nach mehr als 280 Prozesstagen erhalten die Verteidiger eine letzte Gelegenheit für neue Beweisanträge.",
+      "topic": "Milliardenbetrug",
+      "tags": [
+        "Milliardenbetrug",
+        "Wirecard-Prozess",
+        "Verteidiger",
+        "Letzte"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/milliardenbetrug-letzte-frist-fuer-die-verteidiger-im-wirecard-prozess/100265613.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html",
-      "headline": "Mein Bildungsraum: Bund beendet Bildungsplattform nach 236 Millionen Euro",
-      "takeaway": "Aus der nationalen Bildungsplattform wird eine App für digitale Abiturzeugnisse. Erste Länder testen sie bereits. ( Bundesregierung , Politik )",
-      "topic": "Bildungsplattform",
+      "url": "https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html",
+      "headline": "(g+) Copilot, Recall, Paint, Notepad: Wie wir KI aus Windows 11 entfernen",
+      "takeaway": "Wir zeigen zwei Methoden, mit denen sich Windows 11 gezielt ent-KI-fizieren lässt. Netter Nebeneffekt: Bloatware geht gleich mit weg. Eine Anleitung von Oliver Nickel ( Windows 11 , KI )",
+      "topic": "Copilot",
       "tags": [
-        "Bildungsplattform",
-        "Bildungsraum",
-        "Mein",
-        "Bund"
+        "Copilot",
+        "Notepad",
+        "Windows",
+        "Recall"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html"
+          "url": "https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/ios-27-2-iphone-update-features-1769564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "iOS 27.2: Update steht für iPhones bereit – das steckt drin",
-      "takeaway": "iOS 27.2 ist da und wird an kompatible iPhones ausgerollt. Leider müssen Apple-Fans hierzulande auf einige der Neuerungen verzichten. Woran das liegt und was trotzdem mit dem Update bereitsteht. …",
-      "topic": "Update",
+      "url": "https://t3n.de/news/discord-alternativen-stoat-chatto-roomy-1770364/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Statt Datenkrake Discord: Diese drei kostenlosen Gruppenchat-Apps müsst ihr kennen",
+      "takeaway": "Gerade kleinere Communitys tauschen sich trotz wachsender Kritik an der Plattform häufig auf Discord aus. Dabei gibt es mittlerweile echte Alternativen, auch au weiterlesen auf t3n.de",
+      "topic": "Gruppenchat-Apps",
       "tags": [
-        "Update",
-        "iPhones",
-        "bereit",
-        "steckt"
+        "Gruppenchat-Apps",
+        "Datenkrake",
+        "Discord",
+        "Statt"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/ios-27-2-iphone-update-features-1769564/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/discord-alternativen-stoat-chatto-roomy-1770364/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-      "headline": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-      "takeaway": "Whose hand is behind this travesty?",
-      "topic": "pointing",
+      "src": "theverge",
+      "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
+      "headline": "Almost all of Amazon’s new Echo gear is available now",
+      "takeaway": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product …",
+      "topic": "Almost",
       "tags": [
-        "pointing",
-        "confused",
-        "nudging",
-        "promote"
+        "Almost",
+        "Amazon",
+        "Echo",
+        "available"
       ],
       "sources": [
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/"
+          "src": "theverge",
+          "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/auto/audi-im-uswahlkampf-dann-landete-der-vw-flieger-neben-trumps-golfplatz/100265312.html",
+      "headline": "Audi im US-Wahlkampf: Und dann landete der VW-Flieger direkt neben dem Golfplatz von Trump",
+      "takeaway": "Vor dem Auftritt von Audi-Chef Döllner im Trump-Wahlkampf gab es intensive Verhandlungen mit der US‑Regierung. Daten der VW-Flugzeugflotte zeigen hektische Aktivitäten im Vorfeld.",
+      "topic": "US-Wahlkampf",
+      "tags": [
+        "US-Wahlkampf",
+        "VW-Flieger",
+        "Golfplatz",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/audi-im-uswahlkampf-dann-landete-der-vw-flieger-neben-trumps-golfplatz/100265312.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/iphone-duo-kaufen-wichtig-display-verfuegbarkeit-1768383/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "iPhone Duo: Gebrochene Displays, Verfügbarkeit, Betriebssystem – was ihr vor dem Kauf wissen müsst",
-      "takeaway": "Der Verkaufsstart vom iPhone Duo bringt offenbar einige Probleme mit sich. Das Gerät ist in den kommenden Monaten nur schwer zu bekommen. Zudem beklagen erste Nutzer Probleme mit kaputten Displays. …",
-      "topic": "Betriebssystem",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+      "headline": "Everything announced at Amazon’s October 2026 hardware launch",
+      "takeaway": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the …",
+      "topic": "Everything",
       "tags": [
-        "Betriebssystem",
-        "Verfügbarkeit",
-        "Gebrochene",
-        "Displays"
+        "Everything",
+        "October",
+        "Amazon",
+        "announced"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/iphone-duo-kaufen-wichtig-display-verfuegbarkeit-1768383/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/industrie/chemie-basf-chef-kamieth-unter-druck-wird-die-evonik-offerte-fuer-den-manager-zur-falle/100265487.html",
+      "headline": "Chemie: BASF-Chef Kamieth unter Druck – wird die Evonik-Offerte für den Manager zur Falle?",
+      "takeaway": "Kamieth hat die Übernahmefantasien ins Rollen gebracht. Nun muss er liefern, mit Evonik oder ohne. Doch Evoniks eigene Pläne erhöhen den Zeitdruck und ein Plan B fehlt.",
+      "topic": "Evonik-Offerte",
+      "tags": [
+        "Evonik-Offerte",
+        "BASF-Chef",
+        "Kamieth",
+        "Manager"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/chemie-basf-chef-kamieth-unter-druck-wird-die-evonik-offerte-fuer-den-manager-zur-falle/100265487.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "headline": "The Download: dead startups fueling AI and interspecies communication",
+      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their …",
+      "topic": "Download",
+      "tags": [
+        "Download",
+        "communication",
+        "interspecies",
+        "startups"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
-      "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
-      "takeaway": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent …",
-      "topic": "Chinese",
+      "src": "wired",
+      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+      "headline": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+      "takeaway": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
+      "topic": "Bedside",
       "tags": [
-        "Chinese",
-        "trillions",
-        "supremacy",
-        "markets"
+        "Bedside",
+        "Amazon",
+        "Family",
+        "Alexa"
       ],
       "sources": [
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "takeaway": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "topic": "OpenAI",
-      "tags": [
-        "OpenAI",
-        "always-on",
-        "assistant",
-        "personal"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+          "src": "wired",
+          "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Anthropic: Börsengang wird konkret / Mercedes: Sechsstellige Abfindungen für Produktionsmitarbeiter",
-    "dateLabel": "Folge vom 27.10. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2229-anthropic-borsengang-wird-konkret-mercedes-sechsstellige-abfindungen-fur-produktionsmitarbeiter",
+    "title": "Israel: Ein Land, zwei Wirklichkeiten / Handel: Merz für Freihandel mit Asien",
+    "dateLabel": "Folge vom 28.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2230-israel-ein-land-zwei-wirklichkeiten-handel-merz-fur-freihandel-mit-asien",
     "takeaways": [
+      "So viele Menschen wie nie strömten in Israel gestern zu den Wahlen - und produzierten ein echtes Patt.",
+      "Der Verlierer könnte ausgerechnet der Nutznießer dieser Konstellation sein.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }

@@ -1,0 +1,334 @@
+{
+  "date": "2026-10-28",
+  "updatedAt": "2026-10-28T13:39:49.520542+01:00",
+  "updatedAtLabel": "28.10.2026, 13:39 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss",
+      "headline": "Dietenhofen: Geschlossenes Playmobil-Werk soll Rechenzentrum werden",
+      "takeaway": "Playmobil ist der Krise, das einzige deutsche Werk wurde geschlossen, Hunderte Mitarbeiter verloren ihren Job. Nun will der Mutterkonzern in Dietenhofen ein Rechenzentrum bauen.",
+      "topic": "Playmobil-Werk",
+      "tags": [
+        "Playmobil-Werk",
+        "Geschlossenes",
+        "Rechenzentrum",
+        "Dietenhofen"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/kuenstliche-intelligenz-playmobil-werk-soll-zu-rechenzentrum-werden/100265572.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-playmobil-werk-soll-zu-rechenzentrum-werden/100265583.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Proton-Angestellte sollen wegen KI-Nutzung erneut ins Bewerbungsgespräch",
+      "takeaway": "Beim Schweizer IT-Unternehmen Proton möchte man die KI-Nutzung vorantreiben. Dazu sollen die Angestellten jetzt in neuen Bewerbungsgesprächen befragt werden.",
+      "topic": "Proton-Angestellte",
+      "tags": [
+        "Proton-Angestellte",
+        "Bewerbungsgespräch",
+        "KI-Nutzung",
+        "erneut"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/wegen-ki-proton-mitarbeiter-muessen-erneut-zum-bewerbungsgespraech-1770380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/jio-platforms-schafft-staerksten-boersengang-indiens-a-6c866e2a-9262-4f31-81b2-72bc1d1a117f#ref=rss",
+      "headline": "Jio Platforms schafft stärksten Börsengang Indiens",
+      "takeaway": "Ein Rekordbörsengang, große Zukunftspläne und ein verärgerter Elon Musk: Dafür steht das indische Unternehmen Jio Platforms. Am ersten Handelstag legten die Aktien der Firma einen Sprung von 21 …",
+      "topic": "Börsengang",
+      "tags": [
+        "Börsengang",
+        "Platforms",
+        "Indiens",
+        "Jio"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/jio-platforms-schafft-staerksten-boersengang-indiens-a-6c866e2a-9262-4f31-81b2-72bc1d1a117f#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/technologieunternehmen-jio-platforms-legt-groessten-boersengang-indiens-hin/100265581.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+      "headline": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+      "takeaway": "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
+      "topic": "Google",
+      "tags": [
+        "Google",
+        "enlisting",
+        "playbook",
+        "partners"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+      "headline": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
+      "takeaway": "The currency has lost almost 5% against the U.S. dollar in six months.",
+      "topic": "Zealand",
+      "tags": [
+        "Zealand",
+        "near-certainty",
+        "central",
+        "markets"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-blinde-fleck-der-debatte-um-die-rente-mit-63/100265287.html",
+      "headline": "Kommentar: Der blinde Fleck der Debatte um die „Rente mit 63“",
+      "takeaway": "Für die abschlagsfreie Rente nach 45 Beitragsjahren zählen auch Kindererziehung, Krankengeld oder Arbeitslosigkeit. Ein neuer Vorschlag der Union stellt nun die Gerechtigkeitsfrage – zu Recht.",
+      "topic": "Kommentar",
+      "tags": [
+        "Kommentar",
+        "Debatte",
+        "Fleck",
+        "Rente"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-blinde-fleck-der-debatte-um-die-rente-mit-63/100265287.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/milliardenbetrug-letzte-frist-fuer-die-verteidiger-im-wirecard-prozess/100265613.html",
+      "headline": "Milliardenbetrug: Letzte Frist für die Verteidiger im Wirecard-Prozess",
+      "takeaway": "Der Münchner Wirecard-Prozess geht in die Schlussphase. Nach mehr als 280 Prozesstagen erhalten die Verteidiger eine letzte Gelegenheit für neue Beweisanträge.",
+      "topic": "Milliardenbetrug",
+      "tags": [
+        "Milliardenbetrug",
+        "Wirecard-Prozess",
+        "Verteidiger",
+        "Letzte"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/milliardenbetrug-letzte-frist-fuer-die-verteidiger-im-wirecard-prozess/100265613.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html",
+      "headline": "(g+) Copilot, Recall, Paint, Notepad: Wie wir KI aus Windows 11 entfernen",
+      "takeaway": "Wir zeigen zwei Methoden, mit denen sich Windows 11 gezielt ent-KI-fizieren lässt. Netter Nebeneffekt: Bloatware geht gleich mit weg. Eine Anleitung von Oliver Nickel ( Windows 11 , KI )",
+      "topic": "Copilot",
+      "tags": [
+        "Copilot",
+        "Notepad",
+        "Windows",
+        "Recall"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/discord-alternativen-stoat-chatto-roomy-1770364/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Statt Datenkrake Discord: Diese drei kostenlosen Gruppenchat-Apps müsst ihr kennen",
+      "takeaway": "Gerade kleinere Communitys tauschen sich trotz wachsender Kritik an der Plattform häufig auf Discord aus. Dabei gibt es mittlerweile echte Alternativen, auch au weiterlesen auf t3n.de",
+      "topic": "Gruppenchat-Apps",
+      "tags": [
+        "Gruppenchat-Apps",
+        "Datenkrake",
+        "Discord",
+        "Statt"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/discord-alternativen-stoat-chatto-roomy-1770364/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
+      "headline": "Almost all of Amazon’s new Echo gear is available now",
+      "takeaway": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product …",
+      "topic": "Almost",
+      "tags": [
+        "Almost",
+        "Amazon",
+        "Echo",
+        "available"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/auto/audi-im-uswahlkampf-dann-landete-der-vw-flieger-neben-trumps-golfplatz/100265312.html",
+      "headline": "Audi im US-Wahlkampf: Und dann landete der VW-Flieger direkt neben dem Golfplatz von Trump",
+      "takeaway": "Vor dem Auftritt von Audi-Chef Döllner im Trump-Wahlkampf gab es intensive Verhandlungen mit der US‑Regierung. Daten der VW-Flugzeugflotte zeigen hektische Aktivitäten im Vorfeld.",
+      "topic": "US-Wahlkampf",
+      "tags": [
+        "US-Wahlkampf",
+        "VW-Flieger",
+        "Golfplatz",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/audi-im-uswahlkampf-dann-landete-der-vw-flieger-neben-trumps-golfplatz/100265312.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
+      "headline": "Everything announced at Amazon’s October 2026 hardware launch",
+      "takeaway": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the …",
+      "topic": "Everything",
+      "tags": [
+        "Everything",
+        "October",
+        "Amazon",
+        "announced"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/industrie/chemie-basf-chef-kamieth-unter-druck-wird-die-evonik-offerte-fuer-den-manager-zur-falle/100265487.html",
+      "headline": "Chemie: BASF-Chef Kamieth unter Druck – wird die Evonik-Offerte für den Manager zur Falle?",
+      "takeaway": "Kamieth hat die Übernahmefantasien ins Rollen gebracht. Nun muss er liefern, mit Evonik oder ohne. Doch Evoniks eigene Pläne erhöhen den Zeitdruck und ein Plan B fehlt.",
+      "topic": "Evonik-Offerte",
+      "tags": [
+        "Evonik-Offerte",
+        "BASF-Chef",
+        "Kamieth",
+        "Manager"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/chemie-basf-chef-kamieth-unter-druck-wird-die-evonik-offerte-fuer-den-manager-zur-falle/100265487.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "headline": "The Download: dead startups fueling AI and interspecies communication",
+      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their …",
+      "topic": "Download",
+      "tags": [
+        "Download",
+        "communication",
+        "interspecies",
+        "startups"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+      "headline": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+      "takeaway": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
+      "topic": "Bedside",
+      "tags": [
+        "Bedside",
+        "Amazon",
+        "Family",
+        "Alexa"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Israel: Ein Land, zwei Wirklichkeiten / Handel: Merz für Freihandel mit Asien",
+    "dateLabel": "Folge vom 28.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2230-israel-ein-land-zwei-wirklichkeiten-handel-merz-fur-freihandel-mit-asien",
+    "takeaways": [
+      "So viele Menschen wie nie strömten in Israel gestern zu den Wahlen - und produzierten ein echtes Patt.",
+      "Der Verlierer könnte ausgerechnet der Nutznießer dieser Konstellation sein.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
