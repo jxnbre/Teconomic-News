@@ -1,48 +1,42 @@
 {
-  "updatedAt": "2026-10-28T00:41:53.540903+01:00",
-  "updatedAtLabel": "28.10.2026, 00:41 Uhr",
+  "updatedAt": "2026-10-28T06:23:52.495517+01:00",
+  "updatedAtLabel": "28.10.2026, 06:23 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
-    "fresh": 86,
-    "stale": [
-      "apple"
-    ],
+    "fresh": 87,
+    "stale": [],
     "missing": [],
     "hint": "",
-    "errors": [
-      "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
-      "Yahoo AAPL: HTTPError: HTTP Error 429: Too Many Requests",
-      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
-    ]
+    "errors": []
   },
   "quotes": {
     "btc": {
-      "price": "72.300 €",
+      "price": "72.648 €",
       "change": {
-        "week": -0.24,
-        "month": -4.89,
-        "year": -26.15
+        "week": 0.34,
+        "month": -2.3,
+        "year": -25.34
       },
       "asOf": "2026-10-28",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.100,47 €",
+      "price": "2.113,25 €",
       "change": {
-        "week": -1.24,
-        "month": -12.37,
-        "year": -40.55
+        "week": -0.74,
+        "month": -8.02,
+        "year": -38.38
       },
       "asOf": "2026-10-28",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "90,53 €",
+      "price": "91,54 €",
       "change": {
-        "week": -1.89,
-        "month": -15.59,
-        "year": -46.93
+        "week": -0.2,
+        "month": -11.79,
+        "year": -45.34
       },
       "asOf": "2026-10-28",
       "src": "CoinGecko"
@@ -50,19 +44,19 @@
     "xrp": {
       "price": "1,19 €",
       "change": {
-        "week": 1.92,
-        "month": -10.68,
-        "year": -47.44
+        "week": 3.29,
+        "month": -5.95,
+        "year": -46.86
       },
       "asOf": "2026-10-28",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "665,69 €",
+      "price": "669,50 €",
       "change": {
-        "week": 2.27,
-        "month": -3.86,
-        "year": -31.85
+        "week": 1.52,
+        "month": -2.87,
+        "year": -29.59
       },
       "asOf": "2026-10-28",
       "src": "CoinGecko"
@@ -72,7 +66,7 @@
       "change": {
         "week": -0.58,
         "month": -2.0,
-        "year": -3.77
+        "year": -3.82
       },
       "asOf": "2026-10-27",
       "src": "EZB"
@@ -82,7 +76,7 @@
       "change": {
         "week": -0.44,
         "month": -2.48,
-        "year": -3.72
+        "year": -3.74
       },
       "asOf": "2026-10-27",
       "src": "EZB"
@@ -92,7 +86,7 @@
       "change": {
         "week": 0.02,
         "month": -2.38,
-        "year": 0.12
+        "year": -0.11
       },
       "asOf": "2026-10-27",
       "src": "EZB"
@@ -102,39 +96,39 @@
       "change": {
         "week": -0.19,
         "month": 0.6,
-        "year": 3.95
+        "year": 3.4
       },
       "asOf": "2026-10-27",
       "src": "EZB"
     },
     "dax": {
-      "price": "25.411 Pkt.",
+      "price": "25.591 Pkt.",
       "change": {
-        "week": 0.36,
-        "month": 0.01,
-        "year": 4.53
+        "week": 1.13,
+        "month": 0.85,
+        "year": 5.27
       },
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-27",
       "src": "Yahoo"
     },
     "mdax": {
-      "price": "30.288 Pkt.",
+      "price": "30.495 Pkt.",
       "change": {
-        "week": -0.74,
-        "month": -2.4,
-        "year": 0.49
+        "week": 0.34,
+        "month": -1.3,
+        "year": 1.18
       },
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-27",
       "src": "Yahoo"
     },
     "sdax": {
-      "price": "18.333 Pkt.",
+      "price": "18.373 Pkt.",
       "change": {
-        "week": 0.67,
-        "month": 1.15,
-        "year": 5.9
+        "week": 1.04,
+        "month": 0.68,
+        "year": 6.14
       },
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-27",
       "src": "Yahoo"
     },
     "dow": {
@@ -168,33 +162,33 @@
       "src": "Yahoo"
     },
     "stoxx": {
-      "price": "6.116 Pkt.",
+      "price": "6.165 Pkt.",
       "change": {
-        "week": -0.47,
-        "month": -2.96,
-        "year": 7.09
+        "week": 0.7,
+        "month": -2.17,
+        "year": 7.94
       },
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-27",
       "src": "Yahoo"
     },
     "ftse": {
-      "price": "10.687 Pkt.",
+      "price": "10.686 Pkt.",
       "change": {
         "week": -0.43,
-        "month": 0.02,
+        "month": 0.01,
         "year": 10.7
       },
       "asOf": "2026-10-27",
       "src": "Yahoo"
     },
     "nikkei": {
-      "price": "62.190 Pkt.",
+      "price": "63.964 Pkt.",
       "change": {
-        "week": -4.2,
-        "month": -5.07,
-        "year": 23.12
+        "week": -1.02,
+        "month": -2.9,
+        "year": 27.37
       },
-      "asOf": "2026-10-26",
+      "asOf": "2026-10-28",
       "src": "Yahoo"
     },
     "adidas": {
@@ -607,6 +601,16 @@
       "asOf": "2026-10-26",
       "src": "Yahoo"
     },
+    "apple": {
+      "price": "347,10 $",
+      "change": {
+        "week": 2.24,
+        "month": 2.57,
+        "year": 29.03
+      },
+      "asOf": "2026-10-27",
+      "src": "Yahoo"
+    },
     "msft": {
       "price": "531,33 $",
       "change": {
@@ -828,13 +832,13 @@
       "src": "Yahoo"
     },
     "samsung": {
-      "price": "222.000 ₩",
+      "price": "241.500 ₩",
       "change": {
-        "week": 4.96,
-        "month": -19.71,
-        "year": 117.65
+        "week": 8.05,
+        "month": -15.41,
+        "year": 142.71
       },
-      "asOf": "2026-10-27",
+      "asOf": "2026-10-28",
       "src": "Yahoo"
     },
     "tsm": {
@@ -876,17 +880,6 @@
       },
       "asOf": "2026-10-27",
       "src": "Yahoo"
-    },
-    "apple": {
-      "price": "347,07 $",
-      "change": {
-        "week": 2.23,
-        "month": 2.56,
-        "year": 29.02
-      },
-      "asOf": "2026-10-27",
-      "src": "Yahoo",
-      "stale": true
     }
   }
 }
