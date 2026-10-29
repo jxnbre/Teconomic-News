@@ -1,0 +1,330 @@
+{
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T10:47:18.179064+01:00",
+  "updatedAtLabel": "29.10.2026, 10:47 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss",
+      "headline": "Volkswagen: Umsatz und Absatz brechen ein – Milliardenverlust im dritten Quartal",
+      "takeaway": "Volkswagen hat im dritten Quartal 5,82 Milliarden Euro Verlust gemacht. Umsatz und Fahrzeugabsatz gingen deutlich zurück. Zudem wurde eine milliardenschwere Abschreibung auf Porsche fällig.",
+      "topic": "Milliardenverlust",
+      "tags": [
+        "Milliardenverlust",
+        "Volkswagen",
+        "Quartal",
+        "Umsatz"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/volkswagen-meldet-5-8-milliarden-verlust-a-b8dfcbcd-8aee-4bfd-ba12-60afc4343a6b#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "headline": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "takeaway": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "topic": "MacBook",
+      "tags": [
+        "MacBook",
+        "Apple",
+        "Pro",
+        "touchscreen"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad#ref=rss",
+      "headline": "Fed: Zentralbank lässt Leitzins trotz hoher Inflation unverändert",
+      "takeaway": "Der US-Leitzins bleibt in einer Spanne von 3,75 bis 4,00 Prozent. Zum Jahresende könnte es aber wieder nach oben gehen.",
+      "topic": "Zentralbank",
+      "tags": [
+        "Zentralbank",
+        "Inflation",
+        "Leitzins",
+        "Fed"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/us-notenbank-leitzins-usa-federal-reserve"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "gruenderszene",
+      "url": "https://www.businessinsider.de/gruenderszene/media/dhdl-ihr-seid-sehr-teuer-teuerster-deal-fuer-maschmeyer-und-ensthaler/",
+      "headline": "Einer der teuersten DHDL-Deals: Maschmeyer und Ensthaler steigen bei „Mein Haus Digital“ ein",
+      "takeaway": "425.000 Euro für nur fünf Prozent verlangten die Gründerinnen von Mein Haus Digital und schockten damit die Löwen. Doch dann konnten sie überzeugen.",
+      "topic": "DHDL-Deals",
+      "tags": [
+        "DHDL-Deals",
+        "Maschmeyer",
+        "Ensthaler",
+        "Digital"
+      ],
+      "sources": [
+        {
+          "src": "gruenderszene",
+          "url": "https://www.businessinsider.de/gruenderszene/media/dhdl-ihr-seid-sehr-teuer-teuerster-deal-fuer-maschmeyer-und-ensthaler/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/europa/verteidigung-verbaende-fordern-beitritt-der-ruestungsfoerderbank-dsrb/100265695.html",
+      "headline": "Verteidigung: Verbände-Allianz fordert deutsche Beteiligung an neuer Rüstungsförderbank",
+      "takeaway": "Mehrere deutsche Wirtschaftsverbände fordern mehr Engagement bei der Finanzierung von Rüstungsprojekten. Doch die Bundesregierung zögert und setzt auf eigene Wege.",
+      "topic": "Rüstungsförderbank",
+      "tags": [
+        "Rüstungsförderbank",
+        "Verbände-Allianz",
+        "Verteidigung",
+        "Beteiligung"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/europa/verteidigung-verbaende-fordern-beitritt-der-ruestungsfoerderbank-dsrb/100265695.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+      "headline": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+      "takeaway": "The oil major hiked its share buyback program as geopolitical volatility and a refined products crunch drove energy and fuel prices sharply higher.",
+      "topic": "Shell",
+      "tags": [
+        "Shell",
+        "year-on-year",
+        "quarterly",
+        "refining"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/karriere/fuehrungsstil-was-manager-von-juergen-klopp-lernen-koennen/100242667.html",
+      "headline": "Jürgen Klopp: Sieben Leadership-Lehren, die sich Chefs von ihm abschauen können",
+      "takeaway": "Klopp wird neuer Bundestrainer. Der DFB gewinnt einen Motivator. Sein Führungsstil ist so gut, dass auch andere Chefs sich davon etwas abschauen können, sagt ein Forscher – und erklärt, wie.",
+      "topic": "Leadership-Lehren",
+      "tags": [
+        "Leadership-Lehren",
+        "Jürgen",
+        "Sieben",
+        "Klopp"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/karriere/fuehrungsstil-was-manager-von-juergen-klopp-lernen-koennen/100242667.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wenn-der-berufliche-erfolg-ploetzlich-ausbleibt/100228751.html",
+      "headline": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
+      "takeaway": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt.",
+      "topic": "Hochqualifiziert",
+      "tags": [
+        "Hochqualifiziert",
+        "Führungskräfte",
+        "Betroffene",
+        "Vier"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wenn-der-berufliche-erfolg-ploetzlich-ausbleibt/100228751.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "headline": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "takeaway": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "topic": "attracting",
+      "tags": [
+        "attracting",
+        "haunted",
+        "bargain",
+        "hunters"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/",
+      "headline": "Liquid Glass Finally Makes Sense on the iPhone Duo",
+      "takeaway": "Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.",
+      "topic": "Finally",
+      "tags": [
+        "Finally",
+        "Liquid",
+        "Glass",
+        "Makes"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/googles-ki-suche-bremst-die-klassische-suche-und-schickt-die-aktie-trotz-cloud-rekord-auf-talfahrt/",
+      "headline": "Googles KI-Suche bremst die klassische Suche und schickt die Aktie trotz Cloud-Rekord auf Talfahrt",
+      "takeaway": "Google verliert nach den Quartalszahlen bis zu zehn Prozent an der Börse. Während sich der Cloud-Umsatz auf 30,7 Milliarden US-Dollar mehr als verdoppelt, wächst das Suchgeschäft mit zwölf Prozent …",
+      "topic": "Cloud-Rekord",
+      "tags": [
+        "Cloud-Rekord",
+        "KI-Suche",
+        "Talfahrt",
+        "Googles"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/googles-ki-suche-bremst-die-klassische-suche-und-schickt-die-aktie-trotz-cloud-rekord-auf-talfahrt/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html",
+      "headline": "Endlagersuche: Noch 5 Prozent Deutschlands für Endlagerung geeignet",
+      "takeaway": "Nur wenige Regionen kommen noch für ein Atommüllendlager infrage. Fünf Bundesländer sind komplett ausgeschieden, weitere folgen. ( Atomkraft , Energie & Klima )",
+      "topic": "Endlagersuche",
+      "tags": [
+        "Endlagersuche",
+        "Deutschlands",
+        "Endlagerung",
+        "geeignet"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "headline": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "takeaway": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "topic": "Astronomers",
+      "tags": [
+        "Astronomers",
+        "Discover",
+        "Possible",
+        "Planet"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/pico11-dieses-windows-11-passt-auf-eine-cd-rom-2610-214623.html",
+      "headline": "Pico11: Dieses Windows 11 passt auf eine CD-ROM",
+      "takeaway": "Der Bastler NTDEV will Pico11 als spezielles Windows 11 anbieten. Das braucht im Idle nicht einmal 1 GByte RAM. ( Windows 11 , Virtualisierung )",
+      "topic": "Windows",
+      "tags": [
+        "Windows",
+        "Pico11",
+        "Dieses",
+        "CD-ROM"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/pico11-dieses-windows-11-passt-auf-eine-cd-rom-2610-214623.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/apple-mac-studio-512-gigabyte-ram-kleinwagen-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Apple: Dieser neue Mac Studio kostet mehr als ein Neuwagen",
+      "takeaway": "Wenn man die Möglichkeiten für das neue Macbook Pro mit Touchscreen im Konfigurator ausreizt, landet man bei rund 16.000 Euro. Gegen die neue Version des Mac Studio wirkt das noch günstig. …",
+      "topic": "Neuwagen",
+      "tags": [
+        "Neuwagen",
+        "Studio",
+        "Apple",
+        "Mac"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/apple-mac-studio-512-gigabyte-ram-kleinwagen-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Bundespräsident: Warum der Kanzler kein Staatsoberhaupt findet",
+    "dateLabel": "Folge vom 29.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2231-bundesprasident-warum-der-kanzler-kein-staatsoberhaupt-findet",
+    "takeaways": [
+      "Die Wahl des Bundespräsidenten steht an, der Kanzler könnte da eine Wunschpersonalie durchsetzen.",
+      "Doch stattdessen verstolpert er den Prozess.",
+      "Wie viel Führungsdefizite darf ein Regierungschef haben?"
+    ]
+  }
+}

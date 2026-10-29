@@ -1,334 +1,330 @@
 {
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28T13:39:49.520542+01:00",
-  "updatedAtLabel": "28.10.2026, 13:39 Uhr",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T10:47:18.179064+01:00",
+  "updatedAtLabel": "29.10.2026, 10:47 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss",
-      "headline": "Dietenhofen: Geschlossenes Playmobil-Werk soll Rechenzentrum werden",
-      "takeaway": "Playmobil ist der Krise, das einzige deutsche Werk wurde geschlossen, Hunderte Mitarbeiter verloren ihren Job. Nun will der Mutterkonzern in Dietenhofen ein Rechenzentrum bauen.",
-      "topic": "Playmobil-Werk",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss",
+      "headline": "Volkswagen: Umsatz und Absatz brechen ein – Milliardenverlust im dritten Quartal",
+      "takeaway": "Volkswagen hat im dritten Quartal 5,82 Milliarden Euro Verlust gemacht. Umsatz und Fahrzeugabsatz gingen deutlich zurück. Zudem wurde eine milliardenschwere Abschreibung auf Porsche fällig.",
+      "topic": "Milliardenverlust",
       "tags": [
-        "Playmobil-Werk",
-        "Geschlossenes",
-        "Rechenzentrum",
-        "Dietenhofen"
+        "Milliardenverlust",
+        "Volkswagen",
+        "Quartal",
+        "Umsatz"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/dietenhofen-geschlossenes-playmobil-werk-soll-rechenzentrum-werden-a-4f8442a6-b2aa-4ee3-b20f-d15f196b5f1d#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/volkswagen-umsatz-und-absatz-brechen-ein-milliardenverlust-im-dritten-quartal-a-88c5c68a-79d0-4d3a-b4b8-59a784aba3e9#ref=rss"
         },
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/kuenstliche-intelligenz-playmobil-werk-soll-zu-rechenzentrum-werden/100265572.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-playmobil-werk-soll-zu-rechenzentrum-werden/100265583.html"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/volkswagen-meldet-5-8-milliarden-verlust-a-b8dfcbcd-8aee-4bfd-ba12-60afc4343a6b#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Proton-Angestellte sollen wegen KI-Nutzung erneut ins Bewerbungsgespräch",
-      "takeaway": "Beim Schweizer IT-Unternehmen Proton möchte man die KI-Nutzung vorantreiben. Dazu sollen die Angestellten jetzt in neuen Bewerbungsgesprächen befragt werden.",
-      "topic": "Proton-Angestellte",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "headline": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "takeaway": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "topic": "MacBook",
       "tags": [
-        "Proton-Angestellte",
-        "Bewerbungsgespräch",
-        "KI-Nutzung",
-        "erneut"
+        "MacBook",
+        "Apple",
+        "Pro",
+        "touchscreen"
       ],
       "sources": [
         {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
         },
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/wegen-ki-proton-mitarbeiter-muessen-erneut-zum-bewerbungsgespraech-1770380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/jio-platforms-schafft-staerksten-boersengang-indiens-a-6c866e2a-9262-4f31-81b2-72bc1d1a117f#ref=rss",
-      "headline": "Jio Platforms schafft stärksten Börsengang Indiens",
-      "takeaway": "Ein Rekordbörsengang, große Zukunftspläne und ein verärgerter Elon Musk: Dafür steht das indische Unternehmen Jio Platforms. Am ersten Handelstag legten die Aktien der Firma einen Sprung von 21 …",
-      "topic": "Börsengang",
+      "url": "https://www.spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad#ref=rss",
+      "headline": "Fed: Zentralbank lässt Leitzins trotz hoher Inflation unverändert",
+      "takeaway": "Der US-Leitzins bleibt in einer Spanne von 3,75 bis 4,00 Prozent. Zum Jahresende könnte es aber wieder nach oben gehen.",
+      "topic": "Zentralbank",
       "tags": [
-        "Börsengang",
-        "Platforms",
-        "Indiens",
-        "Jio"
+        "Zentralbank",
+        "Inflation",
+        "Leitzins",
+        "Fed"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/jio-platforms-schafft-staerksten-boersengang-indiens-a-6c866e2a-9262-4f31-81b2-72bc1d1a117f#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/service/usa-notenbank-fed-haelt-leitzins-konstant-trotz-inflation-a-067e86c8-1d5e-4060-9697-08da04428fad#ref=rss"
         },
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/it/technologieunternehmen-jio-platforms-legt-groessten-boersengang-indiens-hin/100265581.html"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/us-notenbank-leitzins-usa-federal-reserve"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-      "headline": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-      "takeaway": "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
-      "topic": "Google",
+      "src": "gruenderszene",
+      "url": "https://www.businessinsider.de/gruenderszene/media/dhdl-ihr-seid-sehr-teuer-teuerster-deal-fuer-maschmeyer-und-ensthaler/",
+      "headline": "Einer der teuersten DHDL-Deals: Maschmeyer und Ensthaler steigen bei „Mein Haus Digital“ ein",
+      "takeaway": "425.000 Euro für nur fünf Prozent verlangten die Gründerinnen von Mein Haus Digital und schockten damit die Löwen. Doch dann konnten sie überzeugen.",
+      "topic": "DHDL-Deals",
       "tags": [
-        "Google",
-        "enlisting",
-        "playbook",
-        "partners"
+        "DHDL-Deals",
+        "Maschmeyer",
+        "Ensthaler",
+        "Digital"
       ],
       "sources": [
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
-      "headline": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
-      "takeaway": "The currency has lost almost 5% against the U.S. dollar in six months.",
-      "topic": "Zealand",
-      "tags": [
-        "Zealand",
-        "near-certainty",
-        "central",
-        "markets"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-blinde-fleck-der-debatte-um-die-rente-mit-63/100265287.html",
-      "headline": "Kommentar: Der blinde Fleck der Debatte um die „Rente mit 63“",
-      "takeaway": "Für die abschlagsfreie Rente nach 45 Beitragsjahren zählen auch Kindererziehung, Krankengeld oder Arbeitslosigkeit. Ein neuer Vorschlag der Union stellt nun die Gerechtigkeitsfrage – zu Recht.",
-      "topic": "Kommentar",
-      "tags": [
-        "Kommentar",
-        "Debatte",
-        "Fleck",
-        "Rente"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-der-blinde-fleck-der-debatte-um-die-rente-mit-63/100265287.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/milliardenbetrug-letzte-frist-fuer-die-verteidiger-im-wirecard-prozess/100265613.html",
-      "headline": "Milliardenbetrug: Letzte Frist für die Verteidiger im Wirecard-Prozess",
-      "takeaway": "Der Münchner Wirecard-Prozess geht in die Schlussphase. Nach mehr als 280 Prozesstagen erhalten die Verteidiger eine letzte Gelegenheit für neue Beweisanträge.",
-      "topic": "Milliardenbetrug",
-      "tags": [
-        "Milliardenbetrug",
-        "Wirecard-Prozess",
-        "Verteidiger",
-        "Letzte"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/milliardenbetrug-letzte-frist-fuer-die-verteidiger-im-wirecard-prozess/100265613.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html",
-      "headline": "(g+) Copilot, Recall, Paint, Notepad: Wie wir KI aus Windows 11 entfernen",
-      "takeaway": "Wir zeigen zwei Methoden, mit denen sich Windows 11 gezielt ent-KI-fizieren lässt. Netter Nebeneffekt: Bloatware geht gleich mit weg. Eine Anleitung von Oliver Nickel ( Windows 11 , KI )",
-      "topic": "Copilot",
-      "tags": [
-        "Copilot",
-        "Notepad",
-        "Windows",
-        "Recall"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/discord-alternativen-stoat-chatto-roomy-1770364/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Statt Datenkrake Discord: Diese drei kostenlosen Gruppenchat-Apps müsst ihr kennen",
-      "takeaway": "Gerade kleinere Communitys tauschen sich trotz wachsender Kritik an der Plattform häufig auf Discord aus. Dabei gibt es mittlerweile echte Alternativen, auch au weiterlesen auf t3n.de",
-      "topic": "Gruppenchat-Apps",
-      "tags": [
-        "Gruppenchat-Apps",
-        "Datenkrake",
-        "Discord",
-        "Statt"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/discord-alternativen-stoat-chatto-roomy-1770364/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy",
-      "headline": "Almost all of Amazon’s new Echo gear is available now",
-      "takeaway": "Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product …",
-      "topic": "Almost",
-      "tags": [
-        "Almost",
-        "Amazon",
-        "Echo",
-        "available"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy"
+          "src": "gruenderszene",
+          "url": "https://www.businessinsider.de/gruenderszene/media/dhdl-ihr-seid-sehr-teuer-teuerster-deal-fuer-maschmeyer-und-ensthaler/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/auto/audi-im-uswahlkampf-dann-landete-der-vw-flieger-neben-trumps-golfplatz/100265312.html",
-      "headline": "Audi im US-Wahlkampf: Und dann landete der VW-Flieger direkt neben dem Golfplatz von Trump",
-      "takeaway": "Vor dem Auftritt von Audi-Chef Döllner im Trump-Wahlkampf gab es intensive Verhandlungen mit der US‑Regierung. Daten der VW-Flugzeugflotte zeigen hektische Aktivitäten im Vorfeld.",
-      "topic": "US-Wahlkampf",
+      "url": "https://www.wiwo.de/politik/europa/verteidigung-verbaende-fordern-beitritt-der-ruestungsfoerderbank-dsrb/100265695.html",
+      "headline": "Verteidigung: Verbände-Allianz fordert deutsche Beteiligung an neuer Rüstungsförderbank",
+      "takeaway": "Mehrere deutsche Wirtschaftsverbände fordern mehr Engagement bei der Finanzierung von Rüstungsprojekten. Doch die Bundesregierung zögert und setzt auf eigene Wege.",
+      "topic": "Rüstungsförderbank",
       "tags": [
-        "US-Wahlkampf",
-        "VW-Flieger",
-        "Golfplatz",
-        "Trump"
+        "Rüstungsförderbank",
+        "Verbände-Allianz",
+        "Verteidigung",
+        "Beteiligung"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/auto/audi-im-uswahlkampf-dann-landete-der-vw-flieger-neben-trumps-golfplatz/100265312.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch",
-      "headline": "Everything announced at Amazon’s October 2026 hardware launch",
-      "takeaway": "Amazon had plenty of new gadgets to share at its Echo hardware event this year, along with updates to the AI-powered Alexa Plus after it became available to everyone in the US in February. But the …",
-      "topic": "Everything",
-      "tags": [
-        "Everything",
-        "October",
-        "Amazon",
-        "announced"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1020403/everything-announced-at-amazons-october-2026-hardware-launch"
+          "url": "https://www.wiwo.de/politik/europa/verteidigung-verbaende-fordern-beitritt-der-ruestungsfoerderbank-dsrb/100265695.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/industrie/chemie-basf-chef-kamieth-unter-druck-wird-die-evonik-offerte-fuer-den-manager-zur-falle/100265487.html",
-      "headline": "Chemie: BASF-Chef Kamieth unter Druck – wird die Evonik-Offerte für den Manager zur Falle?",
-      "takeaway": "Kamieth hat die Übernahmefantasien ins Rollen gebracht. Nun muss er liefern, mit Evonik oder ohne. Doch Evoniks eigene Pläne erhöhen den Zeitdruck und ein Plan B fehlt.",
-      "topic": "Evonik-Offerte",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+      "headline": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+      "takeaway": "The oil major hiked its share buyback program as geopolitical volatility and a refined products crunch drove energy and fuel prices sharply higher.",
+      "topic": "Shell",
       "tags": [
-        "Evonik-Offerte",
-        "BASF-Chef",
-        "Kamieth",
-        "Manager"
+        "Shell",
+        "year-on-year",
+        "quarterly",
+        "refining"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/industrie/chemie-basf-chef-kamieth-unter-druck-wird-die-evonik-offerte-fuer-den-manager-zur-falle/100265487.html"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html"
         }
       ]
     },
     {
-      "cat": "ki",
-      "src": "techreview",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "headline": "The Download: dead startups fueling AI and interspecies communication",
-      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their …",
-      "topic": "Download",
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/karriere/fuehrungsstil-was-manager-von-juergen-klopp-lernen-koennen/100242667.html",
+      "headline": "Jürgen Klopp: Sieben Leadership-Lehren, die sich Chefs von ihm abschauen können",
+      "takeaway": "Klopp wird neuer Bundestrainer. Der DFB gewinnt einen Motivator. Sein Führungsstil ist so gut, dass auch andere Chefs sich davon etwas abschauen können, sagt ein Forscher – und erklärt, wie.",
+      "topic": "Leadership-Lehren",
       "tags": [
-        "Download",
-        "communication",
-        "interspecies",
-        "startups"
+        "Leadership-Lehren",
+        "Jürgen",
+        "Sieben",
+        "Klopp"
       ],
       "sources": [
         {
-          "src": "techreview",
-          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/karriere/fuehrungsstil-was-manager-von-juergen-klopp-lernen-koennen/100242667.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wenn-der-berufliche-erfolg-ploetzlich-ausbleibt/100228751.html",
+      "headline": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
+      "takeaway": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt.",
+      "topic": "Hochqualifiziert",
+      "tags": [
+        "Hochqualifiziert",
+        "Führungskräfte",
+        "Betroffene",
+        "Vier"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/karriere/fuehrungskraefte-wenn-der-berufliche-erfolg-ploetzlich-ausbleibt/100228751.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "headline": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "takeaway": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "topic": "attracting",
+      "tags": [
+        "attracting",
+        "haunted",
+        "bargain",
+        "hunters"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
-      "headline": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
-      "takeaway": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
-      "topic": "Bedside",
+      "url": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/",
+      "headline": "Liquid Glass Finally Makes Sense on the iPhone Duo",
+      "takeaway": "Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.",
+      "topic": "Finally",
       "tags": [
-        "Bedside",
-        "Amazon",
-        "Family",
-        "Alexa"
+        "Finally",
+        "Liquid",
+        "Glass",
+        "Makes"
       ],
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/"
+          "url": "https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo/"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/googles-ki-suche-bremst-die-klassische-suche-und-schickt-die-aktie-trotz-cloud-rekord-auf-talfahrt/",
+      "headline": "Googles KI-Suche bremst die klassische Suche und schickt die Aktie trotz Cloud-Rekord auf Talfahrt",
+      "takeaway": "Google verliert nach den Quartalszahlen bis zu zehn Prozent an der Börse. Während sich der Cloud-Umsatz auf 30,7 Milliarden US-Dollar mehr als verdoppelt, wächst das Suchgeschäft mit zwölf Prozent …",
+      "topic": "Cloud-Rekord",
+      "tags": [
+        "Cloud-Rekord",
+        "KI-Suche",
+        "Talfahrt",
+        "Googles"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/googles-ki-suche-bremst-die-klassische-suche-und-schickt-die-aktie-trotz-cloud-rekord-auf-talfahrt/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html",
+      "headline": "Endlagersuche: Noch 5 Prozent Deutschlands für Endlagerung geeignet",
+      "takeaway": "Nur wenige Regionen kommen noch für ein Atommüllendlager infrage. Fünf Bundesländer sind komplett ausgeschieden, weitere folgen. ( Atomkraft , Energie & Klima )",
+      "topic": "Endlagersuche",
+      "tags": [
+        "Endlagersuche",
+        "Deutschlands",
+        "Endlagerung",
+        "geeignet"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/",
+      "headline": "Astronomers Discover a Possible New Dwarf Planet in Our Solar System",
+      "takeaway": "Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.",
+      "topic": "Astronomers",
+      "tags": [
+        "Astronomers",
+        "Discover",
+        "Possible",
+        "Planet"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/pico11-dieses-windows-11-passt-auf-eine-cd-rom-2610-214623.html",
+      "headline": "Pico11: Dieses Windows 11 passt auf eine CD-ROM",
+      "takeaway": "Der Bastler NTDEV will Pico11 als spezielles Windows 11 anbieten. Das braucht im Idle nicht einmal 1 GByte RAM. ( Windows 11 , Virtualisierung )",
+      "topic": "Windows",
+      "tags": [
+        "Windows",
+        "Pico11",
+        "Dieses",
+        "CD-ROM"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/pico11-dieses-windows-11-passt-auf-eine-cd-rom-2610-214623.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/apple-mac-studio-512-gigabyte-ram-kleinwagen-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Apple: Dieser neue Mac Studio kostet mehr als ein Neuwagen",
+      "takeaway": "Wenn man die Möglichkeiten für das neue Macbook Pro mit Touchscreen im Konfigurator ausreizt, landet man bei rund 16.000 Euro. Gegen die neue Version des Mac Studio wirkt das noch günstig. …",
+      "topic": "Neuwagen",
+      "tags": [
+        "Neuwagen",
+        "Studio",
+        "Apple",
+        "Mac"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/apple-mac-studio-512-gigabyte-ram-kleinwagen-1770523/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Israel: Ein Land, zwei Wirklichkeiten / Handel: Merz für Freihandel mit Asien",
-    "dateLabel": "Folge vom 28.10. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2230-israel-ein-land-zwei-wirklichkeiten-handel-merz-fur-freihandel-mit-asien",
+    "title": "Bundespräsident: Warum der Kanzler kein Staatsoberhaupt findet",
+    "dateLabel": "Folge vom 29.10. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2231-bundesprasident-warum-der-kanzler-kein-staatsoberhaupt-findet",
     "takeaways": [
-      "So viele Menschen wie nie strömten in Israel gestern zu den Wahlen - und produzierten ein echtes Patt.",
-      "Der Verlierer könnte ausgerechnet der Nutznießer dieser Konstellation sein.",
-      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+      "Die Wahl des Bundespräsidenten steht an, der Kanzler könnte da eine Wunschpersonalie durchsetzen.",
+      "Doch stattdessen verstolpert er den Prozess.",
+      "Wie viel Führungsdefizite darf ein Regierungschef haben?"
     ]
   }
 }
