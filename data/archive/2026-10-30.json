@@ -1,0 +1,365 @@
+{
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T09:30:18.813463+01:00",
+  "updatedAtLabel": "30.10.2026, 09:30 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss",
+      "headline": "Ifo rechnet mit weniger als 200.000 neuen Wohnungen 2027 und 2028",
+      "takeaway": "Der Bund will mit dem Gesetz für den Gebäudetyp E den Wohnungsbau ankurbeln. Doch hohe Zinsen erschweren die Finanzierung vieler genehmigter Projekte. Laut Ifo-Institut droht ein Fortgang der Flaute.",
+      "topic": "Wohnungen",
+      "tags": [
+        "Wohnungen",
+        "Ifo",
+        "rechnet",
+        "weniger"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/wohnungsbau-deutschland-ifo-institut-baukosten-gxe"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/immobilien/baukonjunktur-ifo-institut-senkt-prognose-fuer-neue-wohnungen-bis-2028/100266083.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/dienstleister/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-d04da6b7-c5e4-474e-a01c-cd9fa69a2d5a#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/audi-quartalszahlen-vw-gewinn-einbruch-gxe",
+      "headline": "Audi Quartalszahlen: Audi-Gewinn bricht drastisch ein",
+      "takeaway": "Audi hat im dritten Quartal 87 Prozent weniger als im Vorjahreszeitraum verdient. Die Prognose für das Gesamtjahr korrigierte das Unternehmen deutlich nach unten.",
+      "topic": "Quartalszahlen",
+      "tags": [
+        "Quartalszahlen",
+        "Audi-Gewinn",
+        "Audi",
+        "drastisch"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/audi-quartalszahlen-vw-gewinn-einbruch-gxe"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Audi-Gewinn-bricht-drastisch-ein-id31475487.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/audi-gewinn-von-autobauer-bricht-drastisch-ein/100265268.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
+      "headline": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+      "takeaway": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+      "topic": "Milliardenschwerer",
+      "tags": [
+        "Milliardenschwerer",
+        "Hackerangriff",
+        "Kryptobörse",
+        "Binance"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/binance-hack-krypto-diebstahl-circle-tether-yi-he"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/handel/binance-milliardenschwerer-hackerangriff-auf-boerse-fuer-kryptowaehrungen/100266077.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Patrick Stewart ist tot",
+      "takeaway": "Der britische Schauspieler Patrick Stewart ist am Mittwoch gestorben. Er wurde 86 Jahre alt.",
+      "topic": "Patrick",
+      "tags": [
+        "Patrick",
+        "Stewart",
+        "tot"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/krypto-hack-binance-1770733/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Größter Krypto-Hack aller Zeiten: Hacker erbeuten 6,3 Milliarden Dollar von Binance",
+      "takeaway": "Laut Experten ist es die bisher größte Hackerattacke auf eine Börse für Digitalwährungen. Der führende Marktplatz Binance setzte nach dem Diebstahl von 6,3 Milliarden US-Dollar Ein- und Auszahlungen …",
+      "topic": "Krypto-Hack",
+      "tags": [
+        "Krypto-Hack",
+        "Größter",
+        "Binance",
+        "Zeiten"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/krypto-hack-binance-1770733/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/banken/hacker-erbeuten-6-3-milliarden-dollar-bei-binance-a-abb1962a-5add-4446-bedb-5faf98f6b91f#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/puma-sportartikelhersteller-macht-weniger-umsatz/100264478.html",
+      "headline": "Sportartikel: Puma macht weniger Umsatz – und schreibt Verlust",
+      "takeaway": "Der Sportartikelkonzern verliert weiter Boden auf den größeren Konkurrenten Adidas. Allerdings gilt der chinesische Großaktionär Anta zumindest als geduldig.",
+      "topic": "Sportartikel",
+      "tags": [
+        "Sportartikel",
+        "Verlust",
+        "Umsatz",
+        "Puma"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/puma-sportartikelhersteller-macht-weniger-umsatz/100264478.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/handel/sportartikel-puma-schreibt-rote-zahlen-weniger-investitionen-geplant/100266097.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "takeaway": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+      "topic": "Google",
+      "tags": [
+        "Google",
+        "Street",
+        "Wall",
+        "plunges"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-faellt-intel-aktie-bricht-ein-bayer-aktie-steigt-a-b9b6ed95-2f9a-423a-87fc-684b2f85dfbb#ref=rss",
+      "headline": "Börse: Dax fällt, Intel-Aktie bricht ein, Bayer-Aktie steigt",
+      "takeaway": "Schwache Vorgaben der Wall Street und heftige Kursverluste bei Intel und Amazon sowie steigende Ölpreise verderben den Anlegern die Stimmung. Der Dax gibt am Freitag zunächst nach. Aktien von Bayer …",
+      "topic": "Intel-Aktie",
+      "tags": [
+        "Intel-Aktie",
+        "Bayer-Aktie",
+        "Börse",
+        "Dax"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-faellt-intel-aktie-bricht-ein-bayer-aktie-steigt-a-b9b6ed95-2f9a-423a-87fc-684b2f85dfbb#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "headline": "‘Elite North Korean group’ blamed for $6.3bn Binance hack in biggest ever crypto heist",
+      "takeaway": "Cryptocurrency exchange scrambles to freeze affected, with about $3bn located so far The world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn hack, with experts …",
+      "topic": "Binance",
+      "tags": [
+        "Binance",
+        "Korean",
+        "Elite",
+        "North"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/chiphersteller-intel-aktie-bricht-nach-quartalsprognose-ein-2610-214669.html",
+      "headline": "Chiphersteller: Intel-Aktie bricht nach Quartalsprognose ein",
+      "takeaway": "Hohe Speicherpreise führen dazu, dass weniger Computer gekauft werden - und Intel leidet darunter. ( Intel , Börse )",
+      "topic": "Quartalsprognose",
+      "tags": [
+        "Quartalsprognose",
+        "Chiphersteller",
+        "Intel-Aktie",
+        "bricht"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/chiphersteller-intel-aktie-bricht-nach-quartalsprognose-ein-2610-214669.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-militaerchef-beraet-wohl-trump-ueber-optionen-im-iran-krieg/100136895.html",
+      "headline": "+++ Iran-Krieg +++: Militärchef berät wohl Trump über Optionen im Iran-Krieg",
+      "takeaway": "Vermittler aus Katar wohl zu Gesprächen in den Iran gereist +++ Behörde meldet Angriff mit Haftminen in Straße von Hormus +++ Brennendes Schiff in der Straße von Hormus +++ Der Newsblog.",
+      "topic": "Militärchef",
+      "tags": [
+        "Militärchef",
+        "Iran-Krieg",
+        "Optionen",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/iran-krieg-militaerchef-beraet-wohl-trump-ueber-optionen-im-iran-krieg/100136895.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+      "headline": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+      "takeaway": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
+      "topic": "Biggest-ever",
+      "tags": [
+        "Biggest-ever",
+        "Binance",
+        "impacts",
+        "billion"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/mama-bear-obsession-regisseur-legt-horrorkurzfilm-auf-youtube-nach-2610-214668.html",
+      "headline": "Mama Bear: Obsession-Regisseur legt Horrorkurzfilm auf Youtube nach",
+      "takeaway": "Fünf Minuten Horror, kostenlos auf Youtube. Obsession-Regisseur Curry Barker meldet sich mit Mama Bear zurück. ( Filme & Serien , Video-Community )",
+      "topic": "Obsession-Regisseur",
+      "tags": [
+        "Obsession-Regisseur",
+        "Horrorkurzfilm",
+        "Youtube",
+        "Mama"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/mama-bear-obsession-regisseur-legt-horrorkurzfilm-auf-youtube-nach-2610-214668.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/itsm-tool-wechseln-fuenf-anzeichen-dass-euer-tool-nicht-mehr-passt-1770643/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "ITSM-Tool wechseln? Fünf Anzeichen, dass euer Tool nicht mehr passt",
+      "takeaway": "Euer IT-Team fühlt sich irgendwie ausgebremst – woran das liegt, ist aber oft nicht ersichtlich. Es gibt Warnsignale, die in dieser Situation bei der Selbstdiagnose helfen und zeigen, wann ein …",
+      "topic": "ITSM-Tool",
+      "tags": [
+        "ITSM-Tool",
+        "Anzeichen",
+        "Fünf",
+        "Tool"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/itsm-tool-wechseln-fuenf-anzeichen-dass-euer-tool-nicht-mehr-passt-1770643/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "headline": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "takeaway": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "topic": "Toyota",
+      "tags": [
+        "Toyota",
+        "Waymo",
+        "Japan",
+        "robotaxis"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Wie die KI-Kosten an der Börse Milliarden vernichten",
+    "dateLabel": "Folge vom 30.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2232-wie-die-ki-kosten-an-der-borse-milliarden-vernichten",
+    "takeaways": [
+      "Christine Lagarde tritt als EZB-Chefin zurück.",
+      "Auf die Nachfolge wartet eine gefährliche Mischung aus Inflationsbekämpfung und Anleihekrise.",
+      "Doch erste Kandidaten kristallisieren sich heraus."
+    ]
+  }
+}
