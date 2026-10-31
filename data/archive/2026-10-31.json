@@ -1,0 +1,338 @@
+{
+  "date": "2026-10-31",
+  "updatedAt": "2026-10-31T07:53:48.930534+01:00",
+  "updatedAtLabel": "31.10.2026, 07:53 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "takeaway": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+      "topic": "Intel",
+      "tags": [
+        "Intel",
+        "government",
+        "billion",
+        "wiping"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/intel-aktie-prognose-boerse-amd-nvidia",
+      "headline": "Chipindustrie: Intel-Aktie steuert auf größten Verlust der Firmengeschichte zu",
+      "takeaway": "Die Umsatzprognose von Chiphersteller Intel ist hinter den Erwartungen zurückgeblieben. Daraufhin stürzten die Aktien ein. Auch die Konkurrenz geriet unter Druck.",
+      "topic": "Firmengeschichte",
+      "tags": [
+        "Firmengeschichte",
+        "Chipindustrie",
+        "Intel-Aktie",
+        "Verlust"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/intel-aktie-prognose-boerse-amd-nvidia"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/intel-chipkonzern-enttaeuscht-mit-prognose-aktie-bricht-nachboerslich-ein/100266084.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss",
+      "headline": "BIP: Deutschlands Wirtschaft wächst im Sommer überraschend",
+      "takeaway": "Trockenheit, hohe Energiepreise und weltweite Handelshemmnisse – keine günstigen Voraussetzungen für Wachstum. Trotzdem hat die Wirtschaftsleistung im dritten Quartal leicht zugelegt.",
+      "topic": "Deutschlands",
+      "tags": [
+        "Deutschlands",
+        "Wirtschaft",
+        "Sommer",
+        "BIP"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-ueberraschend-inflation-sinkt-deutlich/100266192.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-statistisches-bundesamt-tankrabatt",
+      "headline": "Statistisches Bundesamt: Inflationsrate sinkt im Oktober auf 2,8 Prozent",
+      "takeaway": "Mit dem Tankrabatt ist die Inflationsrate in Deutschland gesunken. Nach 3,3 Prozent im September fiel sie im Oktober auf 2,8 Prozent.",
+      "topic": "Inflationsrate",
+      "tags": [
+        "Inflationsrate",
+        "Statistisches",
+        "Bundesamt",
+        "Oktober"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-statistisches-bundesamt-tankrabatt"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Deutsche-Inflationsrate-sinkt-im-Oktober-auf-2-8-Prozent-id31477128.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss",
+      "headline": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt im Oktober auf 2,95 Millionen",
+      "takeaway": "Saisonbedingt ist die Arbeitslosenzahl in Deutschland im Oktober auf 2,95 Millionen zurückgegangen. Gleichzeitig bleibt die Nachfrage nach Arbeitskräften gering. Diesen Monat waren 654.000 offene …",
+      "topic": "Arbeitsmarkt",
+      "tags": [
+        "Arbeitsmarkt",
+        "Arbeitslosen",
+        "Oktober",
+        "Zahl"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/arbeitslose-zahlen-deutschland-rueckgang-bundesagentur-fuer-arbeit-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html",
+      "headline": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache",
+      "takeaway": "Seit Jahren gibt es alle 60 Sekunden eine Spitze im europäischen Strombedarf. Im Reallabor in Jülich ist die Ursache gefunden worden. ( Strom , KI )",
+      "topic": "Stromnetzschwankung",
+      "tags": [
+        "Stromnetzschwankung",
+        "Leistungsspitze",
+        "Periodische",
+        "Ursache"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/geheime-bildbotschaften-ki-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Geheime Bildbotschaften: Wie sich die KI-Modelle von OpenAI und Anthropic unbemerkt Nachrichten schicken",
+      "takeaway": "Forscher:innen haben untersucht, wie KI-Modelle geheime Botschaften in Bildern verstecken und ob sie diese wieder entschlüsseln können. Obwohl die KI keine neuen Methoden erfand, könnten die …",
+      "topic": "Bildbotschaften",
+      "tags": [
+        "Bildbotschaften",
+        "Nachrichten",
+        "KI-Modelle",
+        "Anthropic"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/geheime-bildbotschaften-ki-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html",
+      "headline": "Halloween 2026: Abseits der Blockbuster wird es richtig unheimlich",
+      "takeaway": "Ungewöhnliche Horrorideen aus der Indiegames-Szene: Hellraiser wird spielbar, ein Vampir-Adventure erinnert an Bloodlines und in Graveyard Keeper 2 werden Zombies zu Arbeitskräften. Von Rainer Sigl ( …",
+      "topic": "Blockbuster",
+      "tags": [
+        "Blockbuster",
+        "Halloween",
+        "Abseits",
+        "unheimlich"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "MIT-Experiment: Forscher setzen 13 KI-Agenten auf einer einsamen Insel aus – und schauen 30 Stunden lang zu",
+      "takeaway": "Im Experiment wurden die KI-Agenten 30 Stunden sich selbst überlassen. Um sich die Zeit zu vertreiben, fingen sie an, sich Spiele auszudenken. Laut der Forschungsgruppe gibt das auch einen Einblick …",
+      "topic": "MIT-Experiment",
+      "tags": [
+        "MIT-Experiment",
+        "KI-Agenten",
+        "Forscher",
+        "Stunden"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+      "headline": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+      "takeaway": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+      "topic": "Trump",
+      "tags": [
+        "Trump",
+        "Here",
+        "Big",
+        "Oil"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/jugendproteste-wird-friedrich-merz-noch-zum-kanzler-der-kinder/100265570.html",
+      "headline": "Jugendproteste: Wird Friedrich Merz noch zum Kanzler der Kinder?",
+      "takeaway": "Wenn es um Bildung geht, wird der Regierungschef schnell emotional. Was für eine Chance – gerade jetzt, wo auch in Deutschland die Jugend auf die Straße geht. Ein Kommentar.",
+      "topic": "Jugendproteste",
+      "tags": [
+        "Jugendproteste",
+        "Friedrich",
+        "Kanzler",
+        "Kinder"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/jugendproteste-wird-friedrich-merz-noch-zum-kanzler-der-kinder/100265570.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html",
+      "headline": "Ebola im Kongo: Schon mehr als 5.000 Ebola-Tote im Kongo",
+      "takeaway": "Erst vor wenigen Tagen wurden aus dem Kongo mehr als 10.000 Ebola-Fälle gemeldet, auch die Zahl der Toten überschreitet nun eine weitere Schwelle. Ein Ende ist nicht in Sicht.",
+      "topic": "Ebola-Tote",
+      "tags": [
+        "Ebola-Tote",
+        "Ebola",
+        "Kongo",
+        "Schon"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "headline": "Wayfair Coupons: Up to 80% Off November 2026",
+      "takeaway": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "topic": "November",
+      "tags": [
+        "November",
+        "Wayfair",
+        "Coupons",
+        "Off"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/wayfair-promo-code/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "headline": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "takeaway": "The money behind the money is thrilled, mostly.",
+      "topic": "Pile-ins",
+      "tags": [
+        "Pile-ins",
+        "VCs",
+        "investors",
+        "pressure"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "takeaway": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "topic": "Virginia",
+      "tags": [
+        "Virginia",
+        "Nvidia",
+        "Nscale",
+        "West"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Wie die KI-Kosten an der Börse Milliarden vernichten",
+    "dateLabel": "Folge vom 30.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2232-wie-die-ki-kosten-an-der-borse-milliarden-vernichten",
+    "takeaways": [
+      "Christine Lagarde tritt als EZB-Chefin zurück.",
+      "Auf die Nachfolge wartet eine gefährliche Mischung aus Inflationsbekämpfung und Anleihekrise.",
+      "Doch erste Kandidaten kristallisieren sich heraus."
+    ]
+  }
+}

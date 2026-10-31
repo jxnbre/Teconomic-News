@@ -1,353 +1,326 @@
 {
-  "date": "2026-10-30",
-  "updatedAt": "2026-10-30T09:30:18.813463+01:00",
-  "updatedAtLabel": "30.10.2026, 09:30 Uhr",
+  "date": "2026-10-31",
+  "updatedAt": "2026-10-31T07:53:48.930534+01:00",
+  "updatedAtLabel": "31.10.2026, 07:53 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss",
-      "headline": "Ifo rechnet mit weniger als 200.000 neuen Wohnungen 2027 und 2028",
-      "takeaway": "Der Bund will mit dem Gesetz für den Gebäudetyp E den Wohnungsbau ankurbeln. Doch hohe Zinsen erschweren die Finanzierung vieler genehmigter Projekte. Laut Ifo-Institut droht ein Fortgang der Flaute.",
-      "topic": "Wohnungen",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+      "takeaway": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+      "topic": "Intel",
       "tags": [
-        "Wohnungen",
-        "Ifo",
-        "rechnet",
-        "weniger"
+        "Intel",
+        "government",
+        "billion",
+        "wiping"
       ],
       "sources": [
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-8024980f-47d0-482d-9fb3-9082cc764e11#ref=rss"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
         },
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/wohnungsbau-deutschland-ifo-institut-baukosten-gxe"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/immobilien/baukonjunktur-ifo-institut-senkt-prognose-fuer-neue-wohnungen-bis-2028/100266083.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/dienstleister/ifo-rechnet-mit-weniger-als-200-000-neuen-wohnungen-2027-und-2028-a-d04da6b7-c5e4-474e-a01c-cd9fa69a2d5a#ref=rss"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/audi-quartalszahlen-vw-gewinn-einbruch-gxe",
-      "headline": "Audi Quartalszahlen: Audi-Gewinn bricht drastisch ein",
-      "takeaway": "Audi hat im dritten Quartal 87 Prozent weniger als im Vorjahreszeitraum verdient. Die Prognose für das Gesamtjahr korrigierte das Unternehmen deutlich nach unten.",
-      "topic": "Quartalszahlen",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/intel-aktie-prognose-boerse-amd-nvidia",
+      "headline": "Chipindustrie: Intel-Aktie steuert auf größten Verlust der Firmengeschichte zu",
+      "takeaway": "Die Umsatzprognose von Chiphersteller Intel ist hinter den Erwartungen zurückgeblieben. Daraufhin stürzten die Aktien ein. Auch die Konkurrenz geriet unter Druck.",
+      "topic": "Firmengeschichte",
       "tags": [
-        "Quartalszahlen",
-        "Audi-Gewinn",
-        "Audi",
-        "drastisch"
+        "Firmengeschichte",
+        "Chipindustrie",
+        "Intel-Aktie",
+        "Verlust"
       ],
       "sources": [
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/audi-quartalszahlen-vw-gewinn-einbruch-gxe"
+          "url": "https://www.zeit.de/wirtschaft/2026-10/intel-aktie-prognose-boerse-amd-nvidia"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/intel-chipkonzern-enttaeuscht-mit-prognose-aktie-bricht-nachboerslich-ein/100266084.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss",
+      "headline": "BIP: Deutschlands Wirtschaft wächst im Sommer überraschend",
+      "takeaway": "Trockenheit, hohe Energiepreise und weltweite Handelshemmnisse – keine günstigen Voraussetzungen für Wachstum. Trotzdem hat die Wirtschaftsleistung im dritten Quartal leicht zugelegt.",
+      "topic": "Deutschlands",
+      "tags": [
+        "Deutschlands",
+        "Wirtschaft",
+        "Sommer",
+        "BIP"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-ueberraschend-inflation-sinkt-deutlich/100266192.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-statistisches-bundesamt-tankrabatt",
+      "headline": "Statistisches Bundesamt: Inflationsrate sinkt im Oktober auf 2,8 Prozent",
+      "takeaway": "Mit dem Tankrabatt ist die Inflationsrate in Deutschland gesunken. Nach 3,3 Prozent im September fiel sie im Oktober auf 2,8 Prozent.",
+      "topic": "Inflationsrate",
+      "tags": [
+        "Inflationsrate",
+        "Statistisches",
+        "Bundesamt",
+        "Oktober"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-statistisches-bundesamt-tankrabatt"
         },
         {
           "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Audi-Gewinn-bricht-drastisch-ein-id31475487.html"
-        },
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/audi-gewinn-von-autobauer-bricht-drastisch-ein/100265268.html"
+          "url": "https://www.n-tv.de/wirtschaft/Deutsche-Inflationsrate-sinkt-im-Oktober-auf-2-8-Prozent-id31477128.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
-      "headline": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
-      "takeaway": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
-      "topic": "Milliardenschwerer",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss",
+      "headline": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt im Oktober auf 2,95 Millionen",
+      "takeaway": "Saisonbedingt ist die Arbeitslosenzahl in Deutschland im Oktober auf 2,95 Millionen zurückgegangen. Gleichzeitig bleibt die Nachfrage nach Arbeitskräften gering. Diesen Monat waren 654.000 offene …",
+      "topic": "Arbeitsmarkt",
       "tags": [
-        "Milliardenschwerer",
-        "Hackerangriff",
-        "Kryptobörse",
-        "Binance"
+        "Arbeitsmarkt",
+        "Arbeitslosen",
+        "Oktober",
+        "Zahl"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html"
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss"
         },
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/binance-hack-krypto-diebstahl-circle-tether-yi-he"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/handel/binance-milliardenschwerer-hackerangriff-auf-boerse-fuer-kryptowaehrungen/100266077.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Patrick Stewart ist tot",
-      "takeaway": "Der britische Schauspieler Patrick Stewart ist am Mittwoch gestorben. Er wurde 86 Jahre alt.",
-      "topic": "Patrick",
-      "tags": [
-        "Patrick",
-        "Stewart",
-        "tot"
-      ],
-      "sources": [
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        },
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html"
-        },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/krypto-hack-binance-1770733/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Größter Krypto-Hack aller Zeiten: Hacker erbeuten 6,3 Milliarden Dollar von Binance",
-      "takeaway": "Laut Experten ist es die bisher größte Hackerattacke auf eine Börse für Digitalwährungen. Der führende Marktplatz Binance setzte nach dem Diebstahl von 6,3 Milliarden US-Dollar Ein- und Auszahlungen …",
-      "topic": "Krypto-Hack",
-      "tags": [
-        "Krypto-Hack",
-        "Größter",
-        "Binance",
-        "Zeiten"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/krypto-hack-binance-1770733/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/banken/hacker-erbeuten-6-3-milliarden-dollar-bei-binance-a-abb1962a-5add-4446-bedb-5faf98f6b91f#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/puma-sportartikelhersteller-macht-weniger-umsatz/100264478.html",
-      "headline": "Sportartikel: Puma macht weniger Umsatz – und schreibt Verlust",
-      "takeaway": "Der Sportartikelkonzern verliert weiter Boden auf den größeren Konkurrenten Adidas. Allerdings gilt der chinesische Großaktionär Anta zumindest als geduldig.",
-      "topic": "Sportartikel",
-      "tags": [
-        "Sportartikel",
-        "Verlust",
-        "Umsatz",
-        "Puma"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/puma-sportartikelhersteller-macht-weniger-umsatz/100264478.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/handel/sportartikel-puma-schreibt-rote-zahlen-weniger-investitionen-geplant/100266097.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "takeaway": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "topic": "Google",
-      "tags": [
-        "Google",
-        "Street",
-        "Wall",
-        "plunges"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-faellt-intel-aktie-bricht-ein-bayer-aktie-steigt-a-b9b6ed95-2f9a-423a-87fc-684b2f85dfbb#ref=rss",
-      "headline": "Börse: Dax fällt, Intel-Aktie bricht ein, Bayer-Aktie steigt",
-      "takeaway": "Schwache Vorgaben der Wall Street und heftige Kursverluste bei Intel und Amazon sowie steigende Ölpreise verderben den Anlegern die Stimmung. Der Dax gibt am Freitag zunächst nach. Aktien von Bayer …",
-      "topic": "Intel-Aktie",
-      "tags": [
-        "Intel-Aktie",
-        "Bayer-Aktie",
-        "Börse",
-        "Dax"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-faellt-intel-aktie-bricht-ein-bayer-aktie-steigt-a-b9b6ed95-2f9a-423a-87fc-684b2f85dfbb#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "headline": "‘Elite North Korean group’ blamed for $6.3bn Binance hack in biggest ever crypto heist",
-      "takeaway": "Cryptocurrency exchange scrambles to freeze affected, with about $3bn located so far The world’s largest cryptocurrency exchange has been hit by an industry-record $6.3bn hack, with experts …",
-      "topic": "Binance",
-      "tags": [
-        "Binance",
-        "Korean",
-        "Elite",
-        "North"
-      ],
-      "sources": [
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+          "url": "https://www.zeit.de/wirtschaft/2026-10/arbeitslose-zahlen-deutschland-rueckgang-bundesagentur-fuer-arbeit-gxe"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/chiphersteller-intel-aktie-bricht-nach-quartalsprognose-ein-2610-214669.html",
-      "headline": "Chiphersteller: Intel-Aktie bricht nach Quartalsprognose ein",
-      "takeaway": "Hohe Speicherpreise führen dazu, dass weniger Computer gekauft werden - und Intel leidet darunter. ( Intel , Börse )",
-      "topic": "Quartalsprognose",
+      "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html",
+      "headline": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache",
+      "takeaway": "Seit Jahren gibt es alle 60 Sekunden eine Spitze im europäischen Strombedarf. Im Reallabor in Jülich ist die Ursache gefunden worden. ( Strom , KI )",
+      "topic": "Stromnetzschwankung",
       "tags": [
-        "Quartalsprognose",
-        "Chiphersteller",
-        "Intel-Aktie",
-        "bricht"
+        "Stromnetzschwankung",
+        "Leistungsspitze",
+        "Periodische",
+        "Ursache"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/chiphersteller-intel-aktie-bricht-nach-quartalsprognose-ein-2610-214669.html"
+          "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-militaerchef-beraet-wohl-trump-ueber-optionen-im-iran-krieg/100136895.html",
-      "headline": "+++ Iran-Krieg +++: Militärchef berät wohl Trump über Optionen im Iran-Krieg",
-      "takeaway": "Vermittler aus Katar wohl zu Gesprächen in den Iran gereist +++ Behörde meldet Angriff mit Haftminen in Straße von Hormus +++ Brennendes Schiff in der Straße von Hormus +++ Der Newsblog.",
-      "topic": "Militärchef",
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/geheime-bildbotschaften-ki-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Geheime Bildbotschaften: Wie sich die KI-Modelle von OpenAI und Anthropic unbemerkt Nachrichten schicken",
+      "takeaway": "Forscher:innen haben untersucht, wie KI-Modelle geheime Botschaften in Bildern verstecken und ob sie diese wieder entschlüsseln können. Obwohl die KI keine neuen Methoden erfand, könnten die …",
+      "topic": "Bildbotschaften",
       "tags": [
-        "Militärchef",
-        "Iran-Krieg",
-        "Optionen",
-        "Trump"
+        "Bildbotschaften",
+        "Nachrichten",
+        "KI-Modelle",
+        "Anthropic"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/iran-krieg-militaerchef-beraet-wohl-trump-ueber-optionen-im-iran-krieg/100136895.html"
+          "src": "t3n",
+          "url": "https://t3n.de/news/geheime-bildbotschaften-ki-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html",
+      "headline": "Halloween 2026: Abseits der Blockbuster wird es richtig unheimlich",
+      "takeaway": "Ungewöhnliche Horrorideen aus der Indiegames-Szene: Hellraiser wird spielbar, ein Vampir-Adventure erinnert an Bloodlines und in Graveyard Keeper 2 werden Zombies zu Arbeitskräften. Von Rainer Sigl ( …",
+      "topic": "Blockbuster",
+      "tags": [
+        "Blockbuster",
+        "Halloween",
+        "Abseits",
+        "unheimlich"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "MIT-Experiment: Forscher setzen 13 KI-Agenten auf einer einsamen Insel aus – und schauen 30 Stunden lang zu",
+      "takeaway": "Im Experiment wurden die KI-Agenten 30 Stunden sich selbst überlassen. Um sich die Zeit zu vertreiben, fingen sie an, sich Spiele auszudenken. Laut der Forschungsgruppe gibt das auch einen Einblick …",
+      "topic": "MIT-Experiment",
+      "tags": [
+        "MIT-Experiment",
+        "KI-Agenten",
+        "Forscher",
+        "Stunden"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "headline": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-      "takeaway": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
-      "topic": "Biggest-ever",
+      "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+      "headline": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+      "takeaway": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+      "topic": "Trump",
       "tags": [
-        "Biggest-ever",
-        "Binance",
-        "impacts",
-        "billion"
+        "Trump",
+        "Here",
+        "Big",
+        "Oil"
       ],
       "sources": [
         {
           "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+          "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/jugendproteste-wird-friedrich-merz-noch-zum-kanzler-der-kinder/100265570.html",
+      "headline": "Jugendproteste: Wird Friedrich Merz noch zum Kanzler der Kinder?",
+      "takeaway": "Wenn es um Bildung geht, wird der Regierungschef schnell emotional. Was für eine Chance – gerade jetzt, wo auch in Deutschland die Jugend auf die Straße geht. Ein Kommentar.",
+      "topic": "Jugendproteste",
+      "tags": [
+        "Jugendproteste",
+        "Friedrich",
+        "Kanzler",
+        "Kinder"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/jugendproteste-wird-friedrich-merz-noch-zum-kanzler-der-kinder/100265570.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html",
+      "headline": "Ebola im Kongo: Schon mehr als 5.000 Ebola-Tote im Kongo",
+      "takeaway": "Erst vor wenigen Tagen wurden aus dem Kongo mehr als 10.000 Ebola-Fälle gemeldet, auch die Zahl der Toten überschreitet nun eine weitere Schwelle. Ein Ende ist nicht in Sicht.",
+      "topic": "Ebola-Tote",
+      "tags": [
+        "Ebola-Tote",
+        "Ebola",
+        "Kongo",
+        "Schon"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/mama-bear-obsession-regisseur-legt-horrorkurzfilm-auf-youtube-nach-2610-214668.html",
-      "headline": "Mama Bear: Obsession-Regisseur legt Horrorkurzfilm auf Youtube nach",
-      "takeaway": "Fünf Minuten Horror, kostenlos auf Youtube. Obsession-Regisseur Curry Barker meldet sich mit Mama Bear zurück. ( Filme & Serien , Video-Community )",
-      "topic": "Obsession-Regisseur",
+      "src": "wired",
+      "url": "https://www.wired.com/story/wayfair-promo-code/",
+      "headline": "Wayfair Coupons: Up to 80% Off November 2026",
+      "takeaway": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "topic": "November",
       "tags": [
-        "Obsession-Regisseur",
-        "Horrorkurzfilm",
-        "Youtube",
-        "Mama"
+        "November",
+        "Wayfair",
+        "Coupons",
+        "Off"
       ],
       "sources": [
         {
-          "src": "golem",
-          "url": "https://www.golem.de/news/mama-bear-obsession-regisseur-legt-horrorkurzfilm-auf-youtube-nach-2610-214668.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/itsm-tool-wechseln-fuenf-anzeichen-dass-euer-tool-nicht-mehr-passt-1770643/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "ITSM-Tool wechseln? Fünf Anzeichen, dass euer Tool nicht mehr passt",
-      "takeaway": "Euer IT-Team fühlt sich irgendwie ausgebremst – woran das liegt, ist aber oft nicht ersichtlich. Es gibt Warnsignale, die in dieser Situation bei der Selbstdiagnose helfen und zeigen, wann ein …",
-      "topic": "ITSM-Tool",
-      "tags": [
-        "ITSM-Tool",
-        "Anzeichen",
-        "Fünf",
-        "Tool"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/itsm-tool-wechseln-fuenf-anzeichen-dass-euer-tool-nicht-mehr-passt-1770643/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "wired",
+          "url": "https://www.wired.com/story/wayfair-promo-code/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-      "headline": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-      "takeaway": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-      "topic": "Toyota",
+      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+      "headline": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+      "takeaway": "The money behind the money is thrilled, mostly.",
+      "topic": "Pile-ins",
       "tags": [
-        "Toyota",
-        "Waymo",
-        "Japan",
-        "robotaxis"
+        "Pile-ins",
+        "VCs",
+        "investors",
+        "pressure"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "takeaway": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "topic": "Virginia",
+      "tags": [
+        "Virginia",
+        "Nvidia",
+        "Nscale",
+        "West"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
         }
       ]
     }
