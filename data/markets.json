@@ -1,68 +1,62 @@
 {
-  "updatedAt": "2026-11-01T10:07:18.998666+01:00",
-  "updatedAtLabel": "01.11.2026, 10:07 Uhr",
+  "updatedAt": "2026-11-01T17:44:31.222698+01:00",
+  "updatedAtLabel": "01.11.2026, 17:44 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
-    "fresh": 86,
-    "stale": [
-      "porschese"
-    ],
+    "fresh": 87,
+    "stale": [],
     "missing": [],
     "hint": "",
-    "errors": [
-      "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
-      "Yahoo PAH3.DE: HTTPError: HTTP Error 429: Too Many Requests",
-      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
-    ]
+    "errors": []
   },
   "quotes": {
     "btc": {
-      "price": "69.755 €",
+      "price": "69.639 €",
       "change": {
-        "week": -3.94,
-        "month": -6.61,
-        "year": -26.94
+        "week": -4.1,
+        "month": -6.77,
+        "year": -27.07
       },
       "asOf": "2026-11-01",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.030,10 €",
+      "price": "2.023,72 €",
       "change": {
-        "week": -3.77,
-        "month": -10.26,
-        "year": -39.58
+        "week": -4.07,
+        "month": -10.54,
+        "year": -39.76
       },
       "asOf": "2026-11-01",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "85,51 €",
+      "price": "84,48 €",
       "change": {
-        "week": -5.98,
-        "month": -13.88,
-        "year": -47.09
+        "week": -7.12,
+        "month": -14.92,
+        "year": -47.73
       },
       "asOf": "2026-11-01",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "1,12 €",
+      "price": "1,11 €",
       "change": {
-        "week": -6.33,
-        "month": -11.0,
-        "year": -48.49
+        "week": -6.68,
+        "month": -11.34,
+        "year": -48.68
       },
       "asOf": "2026-11-01",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "637,04 €",
+      "price": "634,92 €",
       "change": {
-        "week": -4.73,
-        "month": -5.27,
-        "year": -32.9
+        "week": -5.05,
+        "month": -5.58,
+        "year": -33.12
       },
       "asOf": "2026-11-01",
       "src": "CoinGecko"
@@ -477,6 +471,16 @@
       "asOf": "2026-10-30",
       "src": "Yahoo"
     },
+    "porschese": {
+      "price": "25,60 €",
+      "change": {
+        "week": 3.56,
+        "month": 3.69,
+        "year": -26.18
+      },
+      "asOf": "2026-10-30",
+      "src": "Yahoo"
+    },
     "qiagen": {
       "price": "45,09 €",
       "change": {
@@ -876,17 +880,6 @@
       },
       "asOf": "2026-10-30",
       "src": "Yahoo"
-    },
-    "porschese": {
-      "price": "25,60 €",
-      "change": {
-        "week": 3.56,
-        "month": 3.69,
-        "year": -26.18
-      },
-      "asOf": "2026-10-30",
-      "src": "Yahoo",
-      "stale": true
     }
   }
 }
