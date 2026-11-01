@@ -1,0 +1,326 @@
+{
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T10:07:44.140640+01:00",
+  "updatedAtLabel": "01.11.2026, 10:07 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+      "headline": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+      "takeaway": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie …",
+      "topic": "Warnstreiks",
+      "tags": [
+        "Warnstreiks",
+        "Mitternacht",
+        "Metall",
+        "angelaufen"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "headline": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "takeaway": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "topic": "Memphis",
+      "tags": [
+        "Memphis",
+        "SpaceX",
+        "NAACP",
+        "pollution"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "headline": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "takeaway": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
+      "topic": "Binance",
+      "tags": [
+        "Binance",
+        "withdrawals",
+        "following",
+        "resumes"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/unternehmen/banken/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-8006b57f-367e-47bc-96dd-190e87fa29d4#ref=rss",
+      "headline": "Wirecard: Ex-Chef Markus Braun - Interview im Gefängnis: »Ich bin nicht mehr der, der ich war«",
+      "takeaway": "Als Wirecard-Chef war Markus Braun Aktienmilliardär. Seit mehr als sechs Jahren sitzt er in Untersuchungshaft, sein Ex-Kollege Jan Marsalek ist auf der Flucht. In der JVA Stadelheim bricht Braun nun …",
+      "topic": "Interview",
+      "tags": [
+        "Interview",
+        "Gefängnis",
+        "Wirecard",
+        "Ex-Chef"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/banken/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-8006b57f-367e-47bc-96dd-190e87fa29d4#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/ausland/us-midterms-2026-wie-elon-musk-mit-rekordspenden-die-naechste-us-wahl-praegt/100266418.html",
+      "headline": "US-Midterms 2026: Wie Elon Musk mit Rekordspenden die nächste US-Wahl prägt",
+      "takeaway": "Elon Musk ist der reichste Mensch der Welt. In der heißen Phase der US-Parlamentswahl wurde er zum Rekordspender für Donald Trumps Republikaner.",
+      "topic": "Rekordspenden",
+      "tags": [
+        "Rekordspenden",
+        "US-Midterms",
+        "US-Wahl",
+        "Elon"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/us-midterms-2026-wie-elon-musk-mit-rekordspenden-die-naechste-us-wahl-praegt/100266418.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/scheinselbststaendigkeit-warum-dailys-tickets-und-kundenlaptop-fuer-it-freelancer-riskant-sind-2611-214700.html",
+      "headline": "(g+) Scheinselbstständigkeit: Warum Dailys, Tickets und Kundenlaptop für IT-Freelancer riskant sind",
+      "takeaway": "Selbst mit GmbH und sauberem Vertrag können IT-Freelancer als Beschäftigte gelten. Entscheidend ist der Projektalltag. Und der kann Aufträge kosten. Ein Ratgebertext von Pierre Wilken ( IT-Freelancer …",
+      "topic": "Scheinselbstständigkeit",
+      "tags": [
+        "Scheinselbstständigkeit",
+        "IT-Freelancer",
+        "Kundenlaptop",
+        "Tickets"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/scheinselbststaendigkeit-warum-dailys-tickets-und-kundenlaptop-fuer-it-freelancer-riskant-sind-2611-214700.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/industrie/metall-und-elektro-ig-metall-lehnt-erstes-angebot-ab-warnstreiks-kommen/100265296.html",
+      "headline": "Tarifverhandlungen: Was bei den Warnstreiks der Metaller gilt",
+      "takeaway": "Die IG Metall hat ihre Warnstreiks in der Metall- und Elektroindustrie gestartet. Wie die Aktionen ablaufen und was für alle Beschäftigten gilt.",
+      "topic": "Tarifverhandlungen",
+      "tags": [
+        "Tarifverhandlungen",
+        "Warnstreiks",
+        "Metaller",
+        "gilt"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/metall-und-elektro-ig-metall-lehnt-erstes-angebot-ab-warnstreiks-kommen/100265296.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "headline": "Shops looted as German cost of living protests turn violent",
+      "takeaway": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "topic": "German",
+      "tags": [
+        "German",
+        "Shops",
+        "protests",
+        "violent"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-russische-industrieanlage-bei-drohnenangriff-beschaedigt/27982126.html",
+      "headline": "+++ Ukraine-Krieg +++: Russische Industrieanlage durch ukrainischen Drohnenangriff beschädigt",
+      "takeaway": "Oleschky-Flüchtlinge in der Ukraine angekommen +++ Erdogan nennt Angriffe auf Handelsschiffe im Schwarzen Meer inakzeptabel +++ Der Newsblog.",
+      "topic": "Industrieanlage",
+      "tags": [
+        "Industrieanlage",
+        "Drohnenangriff",
+        "Ukraine-Krieg",
+        "Russische"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/ukraine-russische-industrieanlage-bei-drohnenangriff-beschaedigt/27982126.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/google-ki-plaene-kritik-finnland-1769929/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "„Ich will sie hier nicht“: Googles KI-Pläne sorgen in Finnland für Kritik",
+      "takeaway": "Für ein Rechenzentrum von Google sind in Finnland rund 250.000 Bäume illegal gefällt worden. Da Umweltprüfungen nicht abgeschlossen waren, stoppten die Behörden die Arbeiten an gleich zwei …",
+      "topic": "KI-Pläne",
+      "tags": [
+        "KI-Pläne",
+        "Finnland",
+        "Googles",
+        "Kritik"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/google-ki-plaene-kritik-finnland-1769929/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/amazon-echo-alexa-dot-time-studio-1770439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Amazons neue Echos: Alexa am Bett und eine Kamera fürs Wohnzimmer",
+      "takeaway": "Mit drei neuen Geräten sorgt Amazon nicht gerade für mehr Übersicht in seinem Echo-Aufgebot. Immerhin kommen die Geräte mit teilweise sinnvollen Verbesserungen. Ein Feature hätte sich der …",
+      "topic": "Wohnzimmer",
+      "tags": [
+        "Wohnzimmer",
+        "Amazons",
+        "Kamera",
+        "Echos"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/amazon-echo-alexa-dot-time-studio-1770439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html",
+      "headline": "Star-Trek-Jubiläumsjahr: Captain Janeway und die autonomen Autos",
+      "takeaway": "Eine Entscheidung aus Star Trek: Voyager sorgt bis heute für Fan-Diskussionen. Dahinter steckt ein moralisches Problem, das ganz schön aktuell ist. Von Emanuel Kessler ( Star Trek , Unterhaltung & …",
+      "topic": "Star-Trek-Jubiläumsjahr",
+      "tags": [
+        "Star-Trek-Jubiläumsjahr",
+        "Captain",
+        "Janeway",
+        "Autos"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "headline": "Data centers are now a midterm issue, even in Brooklyn",
+      "takeaway": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "topic": "Brooklyn",
+      "tags": [
+        "Brooklyn",
+        "Data",
+        "centers",
+        "midterm"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "takeaway": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "topic": "Apple",
+      "tags": [
+        "Apple",
+        "CEO",
+        "company",
+        "doesn"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "headline": "Get in the spirit with these horrors from YouTube",
+      "takeaway": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird …",
+      "topic": "YouTube",
+      "tags": [
+        "YouTube",
+        "Get",
+        "horrors",
+        "spirit"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Wie die KI-Kosten an der Börse Milliarden vernichten",
+    "dateLabel": "Folge vom 30.10. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2232-wie-die-ki-kosten-an-der-borse-milliarden-vernichten",
+    "takeaways": [
+      "Christine Lagarde tritt als EZB-Chefin zurück.",
+      "Auf die Nachfolge wartet eine gefährliche Mischung aus Inflationsbekämpfung und Anleihekrise.",
+      "Doch erste Kandidaten kristallisieren sich heraus."
+    ]
+  }
+}

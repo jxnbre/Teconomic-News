@@ -1,326 +1,314 @@
 {
-  "date": "2026-10-31",
-  "updatedAt": "2026-10-31T07:53:48.930534+01:00",
-  "updatedAtLabel": "31.10.2026, 07:53 Uhr",
+  "date": "2026-11-01",
+  "updatedAt": "2026-11-01T10:07:44.140640+01:00",
+  "updatedAtLabel": "01.11.2026, 10:07 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "headline": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-      "takeaway": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
-      "topic": "Intel",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+      "headline": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+      "takeaway": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie …",
+      "topic": "Warnstreiks",
       "tags": [
-        "Intel",
-        "government",
-        "billion",
-        "wiping"
+        "Warnstreiks",
+        "Mitternacht",
+        "Metall",
+        "angelaufen"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+      "headline": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+      "takeaway": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+      "topic": "Memphis",
+      "tags": [
+        "Memphis",
+        "SpaceX",
+        "NAACP",
+        "pollution"
       ],
       "sources": [
         {
           "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+          "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
         },
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/intel-aktie-prognose-boerse-amd-nvidia",
-      "headline": "Chipindustrie: Intel-Aktie steuert auf größten Verlust der Firmengeschichte zu",
-      "takeaway": "Die Umsatzprognose von Chiphersteller Intel ist hinter den Erwartungen zurückgeblieben. Daraufhin stürzten die Aktien ein. Auch die Konkurrenz geriet unter Druck.",
-      "topic": "Firmengeschichte",
-      "tags": [
-        "Firmengeschichte",
-        "Chipindustrie",
-        "Intel-Aktie",
-        "Verlust"
-      ],
-      "sources": [
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/intel-aktie-prognose-boerse-amd-nvidia"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/it/intel-chipkonzern-enttaeuscht-mit-prognose-aktie-bricht-nachboerslich-ein/100266084.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss",
-      "headline": "BIP: Deutschlands Wirtschaft wächst im Sommer überraschend",
-      "takeaway": "Trockenheit, hohe Energiepreise und weltweite Handelshemmnisse – keine günstigen Voraussetzungen für Wachstum. Trotzdem hat die Wirtschaftsleistung im dritten Quartal leicht zugelegt.",
-      "topic": "Deutschlands",
-      "tags": [
-        "Deutschlands",
-        "Wirtschaft",
-        "Sommer",
-        "BIP"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/bip-in-deutschland-wirtschaftsleistung-legt-im-dritten-quartal-leicht-zu-a-fd34e9f5-40ab-41c2-bc12-2c34fb488c3f#ref=rss"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-deutsche-wirtschaft-waechst-ueberraschend-inflation-sinkt-deutlich/100266192.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-statistisches-bundesamt-tankrabatt",
-      "headline": "Statistisches Bundesamt: Inflationsrate sinkt im Oktober auf 2,8 Prozent",
-      "takeaway": "Mit dem Tankrabatt ist die Inflationsrate in Deutschland gesunken. Nach 3,3 Prozent im September fiel sie im Oktober auf 2,8 Prozent.",
-      "topic": "Inflationsrate",
-      "tags": [
-        "Inflationsrate",
-        "Statistisches",
-        "Bundesamt",
-        "Oktober"
-      ],
-      "sources": [
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/inflationsrate-deutschland-statistisches-bundesamt-tankrabatt"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Deutsche-Inflationsrate-sinkt-im-Oktober-auf-2-8-Prozent-id31477128.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss",
-      "headline": "Arbeitsmarkt: Zahl der Arbeitslosen sinkt im Oktober auf 2,95 Millionen",
-      "takeaway": "Saisonbedingt ist die Arbeitslosenzahl in Deutschland im Oktober auf 2,95 Millionen zurückgegangen. Gleichzeitig bleibt die Nachfrage nach Arbeitskräften gering. Diesen Monat waren 654.000 offene …",
-      "topic": "Arbeitsmarkt",
-      "tags": [
-        "Arbeitsmarkt",
-        "Arbeitslosen",
-        "Oktober",
-        "Zahl"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/arbeitsmarkt-zahl-der-arbeitslosen-sinkt-im-oktober-auf-2-95-millionen-a-b7c98379-0fbd-4b82-bbae-bb21315098af#ref=rss"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-10/arbeitslose-zahlen-deutschland-rueckgang-bundesagentur-fuer-arbeit-gxe"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html",
-      "headline": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache",
-      "takeaway": "Seit Jahren gibt es alle 60 Sekunden eine Spitze im europäischen Strombedarf. Im Reallabor in Jülich ist die Ursache gefunden worden. ( Strom , KI )",
-      "topic": "Stromnetzschwankung",
-      "tags": [
-        "Stromnetzschwankung",
-        "Leistungsspitze",
-        "Periodische",
-        "Ursache"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/geheime-bildbotschaften-ki-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Geheime Bildbotschaften: Wie sich die KI-Modelle von OpenAI und Anthropic unbemerkt Nachrichten schicken",
-      "takeaway": "Forscher:innen haben untersucht, wie KI-Modelle geheime Botschaften in Bildern verstecken und ob sie diese wieder entschlüsseln können. Obwohl die KI keine neuen Methoden erfand, könnten die …",
-      "topic": "Bildbotschaften",
-      "tags": [
-        "Bildbotschaften",
-        "Nachrichten",
-        "KI-Modelle",
-        "Anthropic"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/geheime-bildbotschaften-ki-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html",
-      "headline": "Halloween 2026: Abseits der Blockbuster wird es richtig unheimlich",
-      "takeaway": "Ungewöhnliche Horrorideen aus der Indiegames-Szene: Hellraiser wird spielbar, ein Vampir-Adventure erinnert an Bloodlines und in Graveyard Keeper 2 werden Zombies zu Arbeitskräften. Von Rainer Sigl ( …",
-      "topic": "Blockbuster",
-      "tags": [
-        "Blockbuster",
-        "Halloween",
-        "Abseits",
-        "unheimlich"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "MIT-Experiment: Forscher setzen 13 KI-Agenten auf einer einsamen Insel aus – und schauen 30 Stunden lang zu",
-      "takeaway": "Im Experiment wurden die KI-Agenten 30 Stunden sich selbst überlassen. Um sich die Zeit zu vertreiben, fingen sie an, sich Spiele auszudenken. Laut der Forschungsgruppe gibt das auch einen Einblick …",
-      "topic": "MIT-Experiment",
-      "tags": [
-        "MIT-Experiment",
-        "KI-Agenten",
-        "Forscher",
-        "Stunden"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/mit-experiment-ki-einsame-insel-1769624/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-      "headline": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
-      "takeaway": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
-      "topic": "Trump",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "headline": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+      "takeaway": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
+      "topic": "Binance",
       "tags": [
-        "Trump",
-        "Here",
-        "Big",
-        "Oil"
+        "Binance",
+        "withdrawals",
+        "following",
+        "resumes"
       ],
       "sources": [
         {
           "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html"
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/unternehmen/banken/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-8006b57f-367e-47bc-96dd-190e87fa29d4#ref=rss",
+      "headline": "Wirecard: Ex-Chef Markus Braun - Interview im Gefängnis: »Ich bin nicht mehr der, der ich war«",
+      "takeaway": "Als Wirecard-Chef war Markus Braun Aktienmilliardär. Seit mehr als sechs Jahren sitzt er in Untersuchungshaft, sein Ex-Kollege Jan Marsalek ist auf der Flucht. In der JVA Stadelheim bricht Braun nun …",
+      "topic": "Interview",
+      "tags": [
+        "Interview",
+        "Gefängnis",
+        "Wirecard",
+        "Ex-Chef"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/banken/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-8006b57f-367e-47bc-96dd-190e87fa29d4#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/deutschland/jugendproteste-wird-friedrich-merz-noch-zum-kanzler-der-kinder/100265570.html",
-      "headline": "Jugendproteste: Wird Friedrich Merz noch zum Kanzler der Kinder?",
-      "takeaway": "Wenn es um Bildung geht, wird der Regierungschef schnell emotional. Was für eine Chance – gerade jetzt, wo auch in Deutschland die Jugend auf die Straße geht. Ein Kommentar.",
-      "topic": "Jugendproteste",
+      "url": "https://www.wiwo.de/politik/ausland/us-midterms-2026-wie-elon-musk-mit-rekordspenden-die-naechste-us-wahl-praegt/100266418.html",
+      "headline": "US-Midterms 2026: Wie Elon Musk mit Rekordspenden die nächste US-Wahl prägt",
+      "takeaway": "Elon Musk ist der reichste Mensch der Welt. In der heißen Phase der US-Parlamentswahl wurde er zum Rekordspender für Donald Trumps Republikaner.",
+      "topic": "Rekordspenden",
       "tags": [
-        "Jugendproteste",
-        "Friedrich",
-        "Kanzler",
-        "Kinder"
+        "Rekordspenden",
+        "US-Midterms",
+        "US-Wahl",
+        "Elon"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/jugendproteste-wird-friedrich-merz-noch-zum-kanzler-der-kinder/100265570.html"
+          "url": "https://www.wiwo.de/politik/ausland/us-midterms-2026-wie-elon-musk-mit-rekordspenden-die-naechste-us-wahl-praegt/100266418.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/scheinselbststaendigkeit-warum-dailys-tickets-und-kundenlaptop-fuer-it-freelancer-riskant-sind-2611-214700.html",
+      "headline": "(g+) Scheinselbstständigkeit: Warum Dailys, Tickets und Kundenlaptop für IT-Freelancer riskant sind",
+      "takeaway": "Selbst mit GmbH und sauberem Vertrag können IT-Freelancer als Beschäftigte gelten. Entscheidend ist der Projektalltag. Und der kann Aufträge kosten. Ein Ratgebertext von Pierre Wilken ( IT-Freelancer …",
+      "topic": "Scheinselbstständigkeit",
+      "tags": [
+        "Scheinselbstständigkeit",
+        "IT-Freelancer",
+        "Kundenlaptop",
+        "Tickets"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/scheinselbststaendigkeit-warum-dailys-tickets-und-kundenlaptop-fuer-it-freelancer-riskant-sind-2611-214700.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/industrie/metall-und-elektro-ig-metall-lehnt-erstes-angebot-ab-warnstreiks-kommen/100265296.html",
+      "headline": "Tarifverhandlungen: Was bei den Warnstreiks der Metaller gilt",
+      "takeaway": "Die IG Metall hat ihre Warnstreiks in der Metall- und Elektroindustrie gestartet. Wie die Aktionen ablaufen und was für alle Beschäftigten gilt.",
+      "topic": "Tarifverhandlungen",
+      "tags": [
+        "Tarifverhandlungen",
+        "Warnstreiks",
+        "Metaller",
+        "gilt"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/metall-und-elektro-ig-metall-lehnt-erstes-angebot-ab-warnstreiks-kommen/100265296.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "headline": "Shops looted as German cost of living protests turn violent",
+      "takeaway": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "topic": "German",
+      "tags": [
+        "German",
+        "Shops",
+        "protests",
+        "violent"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html",
-      "headline": "Ebola im Kongo: Schon mehr als 5.000 Ebola-Tote im Kongo",
-      "takeaway": "Erst vor wenigen Tagen wurden aus dem Kongo mehr als 10.000 Ebola-Fälle gemeldet, auch die Zahl der Toten überschreitet nun eine weitere Schwelle. Ein Ende ist nicht in Sicht.",
-      "topic": "Ebola-Tote",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-russische-industrieanlage-bei-drohnenangriff-beschaedigt/27982126.html",
+      "headline": "+++ Ukraine-Krieg +++: Russische Industrieanlage durch ukrainischen Drohnenangriff beschädigt",
+      "takeaway": "Oleschky-Flüchtlinge in der Ukraine angekommen +++ Erdogan nennt Angriffe auf Handelsschiffe im Schwarzen Meer inakzeptabel +++ Der Newsblog.",
+      "topic": "Industrieanlage",
       "tags": [
-        "Ebola-Tote",
-        "Ebola",
-        "Kongo",
-        "Schon"
+        "Industrieanlage",
+        "Drohnenangriff",
+        "Ukraine-Krieg",
+        "Russische"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/technik/forschung-innovation/ebola-im-kongo-schon-mehr-als-5000-ebola-tote-im-kongo/100266298.html"
+          "url": "https://www.handelsblatt.com/politik/international/ukraine-russische-industrieanlage-bei-drohnenangriff-beschaedigt/27982126.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "headline": "Wayfair Coupons: Up to 80% Off November 2026",
-      "takeaway": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "topic": "November",
+      "src": "t3n",
+      "url": "https://t3n.de/news/google-ki-plaene-kritik-finnland-1769929/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "„Ich will sie hier nicht“: Googles KI-Pläne sorgen in Finnland für Kritik",
+      "takeaway": "Für ein Rechenzentrum von Google sind in Finnland rund 250.000 Bäume illegal gefällt worden. Da Umweltprüfungen nicht abgeschlossen waren, stoppten die Behörden die Arbeiten an gleich zwei …",
+      "topic": "KI-Pläne",
       "tags": [
-        "November",
-        "Wayfair",
-        "Coupons",
-        "Off"
+        "KI-Pläne",
+        "Finnland",
+        "Googles",
+        "Kritik"
       ],
       "sources": [
         {
-          "src": "wired",
-          "url": "https://www.wired.com/story/wayfair-promo-code/"
+          "src": "t3n",
+          "url": "https://t3n.de/news/google-ki-plaene-kritik-finnland-1769929/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/amazon-echo-alexa-dot-time-studio-1770439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Amazons neue Echos: Alexa am Bett und eine Kamera fürs Wohnzimmer",
+      "takeaway": "Mit drei neuen Geräten sorgt Amazon nicht gerade für mehr Übersicht in seinem Echo-Aufgebot. Immerhin kommen die Geräte mit teilweise sinnvollen Verbesserungen. Ein Feature hätte sich der …",
+      "topic": "Wohnzimmer",
+      "tags": [
+        "Wohnzimmer",
+        "Amazons",
+        "Kamera",
+        "Echos"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/amazon-echo-alexa-dot-time-studio-1770439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html",
+      "headline": "Star-Trek-Jubiläumsjahr: Captain Janeway und die autonomen Autos",
+      "takeaway": "Eine Entscheidung aus Star Trek: Voyager sorgt bis heute für Fan-Diskussionen. Dahinter steckt ein moralisches Problem, das ganz schön aktuell ist. Von Emanuel Kessler ( Star Trek , Unterhaltung & …",
+      "topic": "Star-Trek-Jubiläumsjahr",
+      "tags": [
+        "Star-Trek-Jubiläumsjahr",
+        "Captain",
+        "Janeway",
+        "Autos"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "headline": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "takeaway": "The money behind the money is thrilled, mostly.",
-      "topic": "Pile-ins",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "headline": "Data centers are now a midterm issue, even in Brooklyn",
+      "takeaway": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "topic": "Brooklyn",
       "tags": [
-        "Pile-ins",
-        "VCs",
-        "investors",
-        "pressure"
+        "Brooklyn",
+        "Data",
+        "centers",
+        "midterm"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "takeaway": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "topic": "Virginia",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "takeaway": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "topic": "Apple",
       "tags": [
-        "Virginia",
-        "Nvidia",
-        "Nscale",
-        "West"
+        "Apple",
+        "CEO",
+        "company",
+        "doesn"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "headline": "Get in the spirit with these horrors from YouTube",
+      "takeaway": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird …",
+      "topic": "YouTube",
+      "tags": [
+        "YouTube",
+        "Get",
+        "horrors",
+        "spirit"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror"
         }
       ]
     }
