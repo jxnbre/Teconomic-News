@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T08:34:35.439683+01:00",
+  "updatedAtLabel": "02.11.2026, 08:34 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/rente-dachdeckermeister-und-handwerkspraesident-joerg-dittrich-fordert-hoehere-abschlaege-bei-vorzeitigem-renteneintritt-a-bd94a320-1287-422d-a372-d4dc0d4f0a8d#ref=rss",
+      "headline": "Rente: Dachdeckermeister und Handwerkspräsident Jörg Dittrich fordert höhere Abschläge bei vorzeitigem Renteneintritt",
+      "takeaway": "Befürworter der abschlagsfreien »Rente mit 63« verweisen oft auf die Arbeitsbelastung eines imaginären Dachdeckers. Jetzt hat sich ein echter Dachdecker in die Debatte eingeschaltet …",
+      "topic": "Handwerkspräsident",
+      "tags": [
+        "Handwerkspräsident",
+        "Dachdeckermeister",
+        "Renteneintritt",
+        "Abschläge"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/rente-dachdeckermeister-und-handwerkspraesident-joerg-dittrich-fordert-hoehere-abschlaege-bei-vorzeitigem-renteneintritt-a-bd94a320-1287-422d-a372-d4dc0d4f0a8d#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/wirtschaft-2026-11-rente-63-handwerkspraesident-abschlaege"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/rente-mit-63-dachdeckermeister-fordert-hoehere-abschlaege-bei-vorzeitiger-rente-a-8cf617e8-0945-4b1e-8622-79c8abbcf7ba#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
+      "headline": "IG Metall weitet im Tarifstreit Warnstreiks aus",
+      "takeaway": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief …",
+      "topic": "Tarifstreit",
+      "tags": [
+        "Tarifstreit",
+        "Warnstreiks",
+        "Metall",
+        "weitet"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/warnstreiks-der-ig-metall-haben-begonnen-a-fe500ffe-ed17-4f44-8eec-786cf5c00fa9#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/meta-humanoider-roboter-max-1771000/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Max: Meta entwickelt humanoiden Roboter für den Heimgebrauch",
+      "takeaway": "Meta entwickelt gemeinsam mit dem chinesischen Anbieter Fourier einen humanoiden Roboter für den Heimgebrauch. Meta dürfte den intern als Max bezeichneten Humanoiden künftig von seinem KI-Agenten …",
+      "topic": "Heimgebrauch",
+      "tags": [
+        "Heimgebrauch",
+        "Roboter",
+        "Meta",
+        "Max"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/meta-humanoider-roboter-max-1771000/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/mit-fourier-aus-china-meta-entwickelt-humanoiden-prototyp-eines-roboter-2611-214730.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
+      "headline": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
+      "takeaway": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie …",
+      "topic": "Warnstreiks",
+      "tags": [
+        "Warnstreiks",
+        "Mitternacht",
+        "Metall",
+        "angelaufen"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energie-geheimer-gesetzentwurf-zeigt-wie-der-spritpreisdeckel-aussehen-soll/100266485.html",
+      "headline": "Energie: Geheimer Gesetzentwurf: So soll der Spritpreisdeckel der Bundesregierung aussehen",
+      "takeaway": "Ministerin Reiche bringt den Preisdeckel für Benzin und Diesel auf den Weg; das Gesetz liegt dem Handelsblatt exklusiv vor. Doch es gibt Bedenken um die Versorgung – somit viele Ausnahmen.",
+      "topic": "Spritpreisdeckel",
+      "tags": [
+        "Spritpreisdeckel",
+        "Bundesregierung",
+        "Gesetzentwurf",
+        "Geheimer"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/energie-geheimer-gesetzentwurf-zeigt-wie-der-spritpreisdeckel-aussehen-soll/100266485.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html",
+      "headline": "Konjunktur: Umsatz im deutschen Einzelhandel bricht überraschend stark ein",
+      "takeaway": "Die Deutschen werden beim Konsum offenbar zurückhaltender. Die offiziellen Daten zeigen einen deutlichen Rückgang im Einzelhandel. Analysten sprechen von einem „Datenschock zum Wochenstart“.",
+      "topic": "Einzelhandel",
+      "tags": [
+        "Einzelhandel",
+        "Konjunktur",
+        "Umsatz",
+        "überraschend"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/dienstleister/airline-hohe-kerosinkosten-ryanair-erwaegt-nullrunde-bei-loehnen/100266541.html",
+      "headline": "Airline: Hohe Kerosinkosten – Ryanair erwägt Nullrunde bei Löhnen",
+      "takeaway": "Ryanair plant gegen die hohen Mehrkosten für Treibstoff mit einem Sparkurs vorzugehen. Nun stehen Flughafenverträge und Gehälter auf dem Prüfstand.",
+      "topic": "Kerosinkosten",
+      "tags": [
+        "Kerosinkosten",
+        "Nullrunde",
+        "Airline",
+        "Ryanair"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/dienstleister/airline-hohe-kerosinkosten-ryanair-erwaegt-nullrunde-bei-loehnen/100266541.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/weekly-ki-guter-zweck-1770787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "5 Dinge, die du diese Woche wissen musst: Wie KI auch für gute Zwecke genutzt werden kann",
+      "takeaway": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI bei Non-Profits, einen sehr teuren Mac, den Rechtsklick unter Windows 11, Playmobils …",
+      "topic": "Zwecke",
+      "tags": [
+        "Zwecke",
+        "Dinge",
+        "Woche",
+        "genutzt"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/weekly-ki-guter-zweck-1770787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/finanzen/boerse/dax-trotz-nasdaq-kurssturz-fester-oelpreise-fallen-deutlich-a-5e53854f-8875-4f7c-9b0f-6f35eb964639#ref=rss",
+      "headline": "Asiens Börsen fester, Ölpreise fallen deutlich",
+      "takeaway": "Trotz des Kurssturzes an der Nasdaq dürfte der Dax mit leichten Gewinnen in die neue Woche starten. Auch Asien verzeichnet Kursgewinne. Der Grund: Die Ölpreise fallen.",
+      "topic": "Ölpreise",
+      "tags": [
+        "Ölpreise",
+        "Asiens",
+        "Börsen",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/finanzen/boerse/dax-trotz-nasdaq-kurssturz-fester-oelpreise-fallen-deutlich-a-5e53854f-8875-4f7c-9b0f-6f35eb964639#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/review-bottleneck-durch-ki-wie-agenten-chefs-entlasten/100265637.html",
+      "headline": "Zeitdruck: Zehn Mitarbeiter, ein Bot – so will eine Chefin ihre Zeit zurückbekommen",
+      "takeaway": "Wenn durchgetaktete Führungskräfte ihre Teams zu lange auf Antwort warten lassen, sorgen sie für Frust. Könnte KI da nicht vielleicht helfen?",
+      "topic": "Mitarbeiter",
+      "tags": [
+        "Mitarbeiter",
+        "Zeitdruck",
+        "Chefin",
+        "Zehn"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/review-bottleneck-durch-ki-wie-agenten-chefs-entlasten/100265637.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/spielebranche-claude-darf-keine-bekannten-games-mehr-nachbauen-2611-214734.html",
+      "headline": "Spielebranche: Claude darf keine bekannten Games mehr nachbauen",
+      "takeaway": "Anthropic hat seinem KI-Programmierwerkzeug Claude Code neue Regeln auferlegt. Laut Entwicklern treffen sie auch legitime Projekte. ( Spiele-Entwicklung , KI )",
+      "topic": "Spielebranche",
+      "tags": [
+        "Spielebranche",
+        "Claude",
+        "Games",
+        "bekannten"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/spielebranche-claude-darf-keine-bekannten-games-mehr-nachbauen-2611-214734.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "headline": "Borrowed reading: stories from our extended colleagues",
+      "takeaway": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "topic": "Borrowed",
+      "tags": [
+        "Borrowed",
+        "colleagues",
+        "extended",
+        "reading"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "takeaway": "Data centers are deeply unpopular. But what if we called them something else?",
+      "topic": "OpenAI",
+      "tags": [
+        "OpenAI",
+        "campuses",
+        "rebrand",
+        "centers"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "headline": "Flock keeps ignoring requests to cancel its contracts",
+      "takeaway": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its …",
+      "topic": "Flock",
+      "tags": [
+        "Flock",
+        "contracts",
+        "ignoring",
+        "requests"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "headline": "NASA hopes the commercial space industry can help save Hubble",
+      "takeaway": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its …",
+      "topic": "Hubble",
+      "tags": [
+        "Hubble",
+        "NASA",
+        "commercial",
+        "industry"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Hilft Unternehmen nur die Rückkehr der Deutschland AG?",
+    "dateLabel": "Folge vom 02.11. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2233-hilft-unternehmen-nur-die-ruckkehr-der-deutschland-ag",
+    "takeaways": [
+      "Nach der Asienreise des Bundeskanzlers macht Telekom-Chef Timotheus Höttges einen interessanten Debattenvorschlag – der etwas gestrig klingt, für den es aber Gründe gibt.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}

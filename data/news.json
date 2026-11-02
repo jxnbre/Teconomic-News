@@ -1,9 +1,85 @@
 {
-  "date": "2026-11-01",
-  "updatedAt": "2026-11-01T10:07:44.140640+01:00",
-  "updatedAtLabel": "01.11.2026, 10:07 Uhr",
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T08:34:35.439683+01:00",
+  "updatedAtLabel": "02.11.2026, 08:34 Uhr",
   "ai": false,
   "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/rente-dachdeckermeister-und-handwerkspraesident-joerg-dittrich-fordert-hoehere-abschlaege-bei-vorzeitigem-renteneintritt-a-bd94a320-1287-422d-a372-d4dc0d4f0a8d#ref=rss",
+      "headline": "Rente: Dachdeckermeister und Handwerkspräsident Jörg Dittrich fordert höhere Abschläge bei vorzeitigem Renteneintritt",
+      "takeaway": "Befürworter der abschlagsfreien »Rente mit 63« verweisen oft auf die Arbeitsbelastung eines imaginären Dachdeckers. Jetzt hat sich ein echter Dachdecker in die Debatte eingeschaltet …",
+      "topic": "Handwerkspräsident",
+      "tags": [
+        "Handwerkspräsident",
+        "Dachdeckermeister",
+        "Renteneintritt",
+        "Abschläge"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/rente-dachdeckermeister-und-handwerkspraesident-joerg-dittrich-fordert-hoehere-abschlaege-bei-vorzeitigem-renteneintritt-a-bd94a320-1287-422d-a372-d4dc0d4f0a8d#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/wirtschaft-2026-11-rente-63-handwerkspraesident-abschlaege"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/rente-mit-63-dachdeckermeister-fordert-hoehere-abschlaege-bei-vorzeitiger-rente-a-8cf617e8-0945-4b1e-8622-79c8abbcf7ba#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
+      "headline": "IG Metall weitet im Tarifstreit Warnstreiks aus",
+      "takeaway": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief …",
+      "topic": "Tarifstreit",
+      "tags": [
+        "Tarifstreit",
+        "Warnstreiks",
+        "Metall",
+        "weitet"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/warnstreiks-der-ig-metall-haben-begonnen-a-fe500ffe-ed17-4f44-8eec-786cf5c00fa9#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/meta-humanoider-roboter-max-1771000/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Max: Meta entwickelt humanoiden Roboter für den Heimgebrauch",
+      "takeaway": "Meta entwickelt gemeinsam mit dem chinesischen Anbieter Fourier einen humanoiden Roboter für den Heimgebrauch. Meta dürfte den intern als Max bezeichneten Humanoiden künftig von seinem KI-Agenten …",
+      "topic": "Heimgebrauch",
+      "tags": [
+        "Heimgebrauch",
+        "Roboter",
+        "Meta",
+        "Max"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/meta-humanoider-roboter-max-1771000/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/mit-fourier-aus-china-meta-entwickelt-humanoiden-prototyp-eines-roboter-2611-214730.html"
+        }
+      ]
+    },
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
@@ -30,297 +106,232 @@
     },
     {
       "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-      "headline": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-      "takeaway": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
-      "topic": "Memphis",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energie-geheimer-gesetzentwurf-zeigt-wie-der-spritpreisdeckel-aussehen-soll/100266485.html",
+      "headline": "Energie: Geheimer Gesetzentwurf: So soll der Spritpreisdeckel der Bundesregierung aussehen",
+      "takeaway": "Ministerin Reiche bringt den Preisdeckel für Benzin und Diesel auf den Weg; das Gesetz liegt dem Handelsblatt exklusiv vor. Doch es gibt Bedenken um die Versorgung – somit viele Ausnahmen.",
+      "topic": "Spritpreisdeckel",
       "tags": [
-        "Memphis",
-        "SpaceX",
-        "NAACP",
-        "pollution"
+        "Spritpreisdeckel",
+        "Bundesregierung",
+        "Gesetzentwurf",
+        "Geheimer"
       ],
       "sources": [
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html"
-        },
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "headline": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-      "takeaway": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
-      "topic": "Binance",
-      "tags": [
-        "Binance",
-        "withdrawals",
-        "following",
-        "resumes"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/banken/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-8006b57f-367e-47bc-96dd-190e87fa29d4#ref=rss",
-      "headline": "Wirecard: Ex-Chef Markus Braun - Interview im Gefängnis: »Ich bin nicht mehr der, der ich war«",
-      "takeaway": "Als Wirecard-Chef war Markus Braun Aktienmilliardär. Seit mehr als sechs Jahren sitzt er in Untersuchungshaft, sein Ex-Kollege Jan Marsalek ist auf der Flucht. In der JVA Stadelheim bricht Braun nun …",
-      "topic": "Interview",
-      "tags": [
-        "Interview",
-        "Gefängnis",
-        "Wirecard",
-        "Ex-Chef"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/banken/wirecard-ex-chef-markus-braun-interview-im-gefaengnis-ich-bin-nicht-mehr-der-der-ich-war-a-8006b57f-367e-47bc-96dd-190e87fa29d4#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/ausland/us-midterms-2026-wie-elon-musk-mit-rekordspenden-die-naechste-us-wahl-praegt/100266418.html",
-      "headline": "US-Midterms 2026: Wie Elon Musk mit Rekordspenden die nächste US-Wahl prägt",
-      "takeaway": "Elon Musk ist der reichste Mensch der Welt. In der heißen Phase der US-Parlamentswahl wurde er zum Rekordspender für Donald Trumps Republikaner.",
-      "topic": "Rekordspenden",
-      "tags": [
-        "Rekordspenden",
-        "US-Midterms",
-        "US-Wahl",
-        "Elon"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/ausland/us-midterms-2026-wie-elon-musk-mit-rekordspenden-die-naechste-us-wahl-praegt/100266418.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/scheinselbststaendigkeit-warum-dailys-tickets-und-kundenlaptop-fuer-it-freelancer-riskant-sind-2611-214700.html",
-      "headline": "(g+) Scheinselbstständigkeit: Warum Dailys, Tickets und Kundenlaptop für IT-Freelancer riskant sind",
-      "takeaway": "Selbst mit GmbH und sauberem Vertrag können IT-Freelancer als Beschäftigte gelten. Entscheidend ist der Projektalltag. Und der kann Aufträge kosten. Ein Ratgebertext von Pierre Wilken ( IT-Freelancer …",
-      "topic": "Scheinselbstständigkeit",
-      "tags": [
-        "Scheinselbstständigkeit",
-        "IT-Freelancer",
-        "Kundenlaptop",
-        "Tickets"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/scheinselbststaendigkeit-warum-dailys-tickets-und-kundenlaptop-fuer-it-freelancer-riskant-sind-2611-214700.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/industrie/metall-und-elektro-ig-metall-lehnt-erstes-angebot-ab-warnstreiks-kommen/100265296.html",
-      "headline": "Tarifverhandlungen: Was bei den Warnstreiks der Metaller gilt",
-      "takeaway": "Die IG Metall hat ihre Warnstreiks in der Metall- und Elektroindustrie gestartet. Wie die Aktionen ablaufen und was für alle Beschäftigten gilt.",
-      "topic": "Tarifverhandlungen",
-      "tags": [
-        "Tarifverhandlungen",
-        "Warnstreiks",
-        "Metaller",
-        "gilt"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/industrie/metall-und-elektro-ig-metall-lehnt-erstes-angebot-ab-warnstreiks-kommen/100265296.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "headline": "Shops looted as German cost of living protests turn violent",
-      "takeaway": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "topic": "German",
-      "tags": [
-        "German",
-        "Shops",
-        "protests",
-        "violent"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/energie-geheimer-gesetzentwurf-zeigt-wie-der-spritpreisdeckel-aussehen-soll/100266485.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-russische-industrieanlage-bei-drohnenangriff-beschaedigt/27982126.html",
-      "headline": "+++ Ukraine-Krieg +++: Russische Industrieanlage durch ukrainischen Drohnenangriff beschädigt",
-      "takeaway": "Oleschky-Flüchtlinge in der Ukraine angekommen +++ Erdogan nennt Angriffe auf Handelsschiffe im Schwarzen Meer inakzeptabel +++ Der Newsblog.",
-      "topic": "Industrieanlage",
+      "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html",
+      "headline": "Konjunktur: Umsatz im deutschen Einzelhandel bricht überraschend stark ein",
+      "takeaway": "Die Deutschen werden beim Konsum offenbar zurückhaltender. Die offiziellen Daten zeigen einen deutlichen Rückgang im Einzelhandel. Analysten sprechen von einem „Datenschock zum Wochenstart“.",
+      "topic": "Einzelhandel",
       "tags": [
-        "Industrieanlage",
-        "Drohnenangriff",
-        "Ukraine-Krieg",
-        "Russische"
+        "Einzelhandel",
+        "Konjunktur",
+        "Umsatz",
+        "überraschend"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/ukraine-russische-industrieanlage-bei-drohnenangriff-beschaedigt/27982126.html"
+          "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/dienstleister/airline-hohe-kerosinkosten-ryanair-erwaegt-nullrunde-bei-loehnen/100266541.html",
+      "headline": "Airline: Hohe Kerosinkosten – Ryanair erwägt Nullrunde bei Löhnen",
+      "takeaway": "Ryanair plant gegen die hohen Mehrkosten für Treibstoff mit einem Sparkurs vorzugehen. Nun stehen Flughafenverträge und Gehälter auf dem Prüfstand.",
+      "topic": "Kerosinkosten",
+      "tags": [
+        "Kerosinkosten",
+        "Nullrunde",
+        "Airline",
+        "Ryanair"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/dienstleister/airline-hohe-kerosinkosten-ryanair-erwaegt-nullrunde-bei-loehnen/100266541.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/google-ki-plaene-kritik-finnland-1769929/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "„Ich will sie hier nicht“: Googles KI-Pläne sorgen in Finnland für Kritik",
-      "takeaway": "Für ein Rechenzentrum von Google sind in Finnland rund 250.000 Bäume illegal gefällt worden. Da Umweltprüfungen nicht abgeschlossen waren, stoppten die Behörden die Arbeiten an gleich zwei …",
-      "topic": "KI-Pläne",
+      "url": "https://t3n.de/news/weekly-ki-guter-zweck-1770787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "5 Dinge, die du diese Woche wissen musst: Wie KI auch für gute Zwecke genutzt werden kann",
+      "takeaway": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI bei Non-Profits, einen sehr teuren Mac, den Rechtsklick unter Windows 11, Playmobils …",
+      "topic": "Zwecke",
       "tags": [
-        "KI-Pläne",
-        "Finnland",
-        "Googles",
-        "Kritik"
+        "Zwecke",
+        "Dinge",
+        "Woche",
+        "genutzt"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/google-ki-plaene-kritik-finnland-1769929/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/weekly-ki-guter-zweck-1770787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/amazon-echo-alexa-dot-time-studio-1770439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Amazons neue Echos: Alexa am Bett und eine Kamera fürs Wohnzimmer",
-      "takeaway": "Mit drei neuen Geräten sorgt Amazon nicht gerade für mehr Übersicht in seinem Echo-Aufgebot. Immerhin kommen die Geräte mit teilweise sinnvollen Verbesserungen. Ein Feature hätte sich der …",
-      "topic": "Wohnzimmer",
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/finanzen/boerse/dax-trotz-nasdaq-kurssturz-fester-oelpreise-fallen-deutlich-a-5e53854f-8875-4f7c-9b0f-6f35eb964639#ref=rss",
+      "headline": "Asiens Börsen fester, Ölpreise fallen deutlich",
+      "takeaway": "Trotz des Kurssturzes an der Nasdaq dürfte der Dax mit leichten Gewinnen in die neue Woche starten. Auch Asien verzeichnet Kursgewinne. Der Grund: Die Ölpreise fallen.",
+      "topic": "Ölpreise",
       "tags": [
-        "Wohnzimmer",
-        "Amazons",
-        "Kamera",
-        "Echos"
+        "Ölpreise",
+        "Asiens",
+        "Börsen",
+        "deutlich"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/amazon-echo-alexa-dot-time-studio-1770439/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/finanzen/boerse/dax-trotz-nasdaq-kurssturz-fester-oelpreise-fallen-deutlich-a-5e53854f-8875-4f7c-9b0f-6f35eb964639#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/erfolg/management/review-bottleneck-durch-ki-wie-agenten-chefs-entlasten/100265637.html",
+      "headline": "Zeitdruck: Zehn Mitarbeiter, ein Bot – so will eine Chefin ihre Zeit zurückbekommen",
+      "takeaway": "Wenn durchgetaktete Führungskräfte ihre Teams zu lange auf Antwort warten lassen, sorgen sie für Frust. Könnte KI da nicht vielleicht helfen?",
+      "topic": "Mitarbeiter",
+      "tags": [
+        "Mitarbeiter",
+        "Zeitdruck",
+        "Chefin",
+        "Zehn"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/erfolg/management/review-bottleneck-durch-ki-wie-agenten-chefs-entlasten/100265637.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html",
-      "headline": "Star-Trek-Jubiläumsjahr: Captain Janeway und die autonomen Autos",
-      "takeaway": "Eine Entscheidung aus Star Trek: Voyager sorgt bis heute für Fan-Diskussionen. Dahinter steckt ein moralisches Problem, das ganz schön aktuell ist. Von Emanuel Kessler ( Star Trek , Unterhaltung & …",
-      "topic": "Star-Trek-Jubiläumsjahr",
+      "url": "https://www.golem.de/news/spielebranche-claude-darf-keine-bekannten-games-mehr-nachbauen-2611-214734.html",
+      "headline": "Spielebranche: Claude darf keine bekannten Games mehr nachbauen",
+      "takeaway": "Anthropic hat seinem KI-Programmierwerkzeug Claude Code neue Regeln auferlegt. Laut Entwicklern treffen sie auch legitime Projekte. ( Spiele-Entwicklung , KI )",
+      "topic": "Spielebranche",
       "tags": [
-        "Star-Trek-Jubiläumsjahr",
-        "Captain",
-        "Janeway",
-        "Autos"
+        "Spielebranche",
+        "Claude",
+        "Games",
+        "bekannten"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html"
+          "url": "https://www.golem.de/news/spielebranche-claude-darf-keine-bekannten-games-mehr-nachbauen-2611-214734.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "headline": "Data centers are now a midterm issue, even in Brooklyn",
-      "takeaway": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "topic": "Brooklyn",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "headline": "Borrowed reading: stories from our extended colleagues",
+      "takeaway": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "topic": "Borrowed",
       "tags": [
-        "Brooklyn",
-        "Data",
-        "centers",
-        "midterm"
+        "Borrowed",
+        "colleagues",
+        "extended",
+        "reading"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+          "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "takeaway": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "topic": "Apple",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "takeaway": "Data centers are deeply unpopular. But what if we called them something else?",
+      "topic": "OpenAI",
       "tags": [
-        "Apple",
-        "CEO",
-        "company",
-        "doesn"
+        "OpenAI",
+        "campuses",
+        "rebrand",
+        "centers"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "theverge",
-      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-      "headline": "Get in the spirit with these horrors from YouTube",
-      "takeaway": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird …",
-      "topic": "YouTube",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "headline": "Flock keeps ignoring requests to cancel its contracts",
+      "takeaway": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its …",
+      "topic": "Flock",
       "tags": [
-        "YouTube",
-        "Get",
-        "horrors",
-        "spirit"
+        "Flock",
+        "contracts",
+        "ignoring",
+        "requests"
       ],
       "sources": [
         {
           "src": "theverge",
-          "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror"
+          "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "headline": "NASA hopes the commercial space industry can help save Hubble",
+      "takeaway": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its …",
+      "topic": "Hubble",
+      "tags": [
+        "Hubble",
+        "NASA",
+        "commercial",
+        "industry"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Wie die KI-Kosten an der Börse Milliarden vernichten",
-    "dateLabel": "Folge vom 30.10. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2232-wie-die-ki-kosten-an-der-borse-milliarden-vernichten",
+    "title": "Hilft Unternehmen nur die Rückkehr der Deutschland AG?",
+    "dateLabel": "Folge vom 02.11. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2233-hilft-unternehmen-nur-die-ruckkehr-der-deutschland-ag",
     "takeaways": [
-      "Christine Lagarde tritt als EZB-Chefin zurück.",
-      "Auf die Nachfolge wartet eine gefährliche Mischung aus Inflationsbekämpfung und Anleihekrise.",
-      "Doch erste Kandidaten kristallisieren sich heraus."
+      "Nach der Asienreise des Bundeskanzlers macht Telekom-Chef Timotheus Höttges einen interessanten Debattenvorschlag – der etwas gestrig klingt, für den es aber Gründe gibt.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }
 }
