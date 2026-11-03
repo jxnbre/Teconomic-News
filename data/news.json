@@ -1,336 +1,349 @@
 {
-  "date": "2026-11-02",
-  "updatedAt": "2026-11-02T08:34:35.439683+01:00",
-  "updatedAtLabel": "02.11.2026, 08:34 Uhr",
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T10:25:26.251075+01:00",
+  "updatedAtLabel": "03.11.2026, 10:25 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/rente-dachdeckermeister-und-handwerkspraesident-joerg-dittrich-fordert-hoehere-abschlaege-bei-vorzeitigem-renteneintritt-a-bd94a320-1287-422d-a372-d4dc0d4f0a8d#ref=rss",
-      "headline": "Rente: Dachdeckermeister und Handwerkspräsident Jörg Dittrich fordert höhere Abschläge bei vorzeitigem Renteneintritt",
-      "takeaway": "Befürworter der abschlagsfreien »Rente mit 63« verweisen oft auf die Arbeitsbelastung eines imaginären Dachdeckers. Jetzt hat sich ein echter Dachdecker in die Debatte eingeschaltet …",
-      "topic": "Handwerkspräsident",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3#ref=rss",
+      "headline": "Schaeffler baut Tausende Stellen ab und schließt vier deutsche Werke",
+      "takeaway": "Der bayerische Autozulieferer Schaeffler steckt tief in der Krise. Nun kündigt der Konzern weitere Sparmaßnahmen an: Zahlreiche Beschäftigte verlieren ihren Arbeitsplatz, andere müssen auf Gehalt …",
+      "topic": "Schaeffler",
       "tags": [
-        "Handwerkspräsident",
-        "Dachdeckermeister",
-        "Renteneintritt",
-        "Abschläge"
+        "Schaeffler",
+        "Tausende",
+        "Stellen",
+        "Werke"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/rente-dachdeckermeister-und-handwerkspraesident-joerg-dittrich-fordert-hoehere-abschlaege-bei-vorzeitigem-renteneintritt-a-bd94a320-1287-422d-a372-d4dc0d4f0a8d#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/autozulieferer-schaeffler-streicht-tausende-jobs-und-schliesst-werke/100266861.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/schaeffler-schliesst-vier-werke-und-streicht-3400-jobs-a-0b698887-1845-4bd2-b255-1f4fe0a76f11#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/auto/elektromobilitaet-mercedes-benz-verkauft-sein-ladesaeulennetz-in-europa/100266870.html",
+      "headline": "Elektromobilität: Mercedes-Benz verkauft sein Schnellladenetzwerk in Europa",
+      "takeaway": "Mercedes hatte große Pläne beim Aufbau eines eigenen Schnellladenetzwerks für E-Autos. Nun verkauft der Autobauer das eigene Ladeangebot in Europa. Der Käufer kommt aus Frankreich.",
+      "topic": "Schnellladenetzwerk",
+      "tags": [
+        "Schnellladenetzwerk",
+        "Elektromobilität",
+        "Mercedes-Benz",
+        "Europa"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/elektromobilitaet-mercedes-benz-verkauft-sein-ladesaeulennetz-in-europa/100266870.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/mercedes-benz-verkauft-sein-schnellladenetz-in-europa-an-electra-a-de2167af-6ece-490d-b783-1aeca071ac59#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-oelkonzern-erhoeht-gewinn-trotz-angriffen-im-irankrieg-a-77687919-cb49-4802-abe8-296d589a55ac#ref=rss",
+      "headline": "Iran-Krieg: Aramco steigert Gewinn trotz Angriffen und hoher Ölpreise",
+      "takeaway": "Seine Anlagen sind Ziel Irans und dessen Verbündeter. Dennoch nutzt der Konflikt Aramco: Wegen der hohen Ölpreise macht der saudi-arabische Konzern mehr Gewinn.",
+      "topic": "Iran-Krieg",
+      "tags": [
+        "Iran-Krieg",
+        "Angriffen",
+        "Ölpreise",
+        "Aramco"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-oelkonzern-erhoeht-gewinn-trotz-angriffen-im-irankrieg-a-77687919-cb49-4802-abe8-296d589a55ac#ref=rss"
         },
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/wirtschaft-2026-11-rente-63-handwerkspraesident-abschlaege"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/rente-mit-63-dachdeckermeister-fordert-hoehere-abschlaege-bei-vorzeitiger-rente-a-8cf617e8-0945-4b1e-8622-79c8abbcf7ba#ref=rss"
+          "url": "https://www.zeit.de/wirtschaft/2026-11/lufthansa-gewinne-kerosinpreise-ticketpreise-wartung-fracht-gxe"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html",
-      "headline": "IG Metall weitet im Tarifstreit Warnstreiks aus",
-      "takeaway": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief …",
-      "topic": "Tarifstreit",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "headline": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "takeaway": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+      "topic": "Binance",
       "tags": [
-        "Tarifstreit",
-        "Warnstreiks",
-        "Metall",
-        "weitet"
+        "Binance",
+        "North",
+        "Korea",
+        "researchers"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-120.html"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/deutschland/warnstreiks-der-ig-metall-haben-begonnen-a-fe500ffe-ed17-4f44-8eec-786cf5c00fa9#ref=rss"
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/autozulieferer-schaeffler-streicht-2600-jobs-standorte-deutschland",
+      "headline": "Autoindustrie: Autozulieferer Schaeffler streicht rund 2.600 Stellen in Deutschland",
+      "takeaway": "Schaeffler will insgesamt fast 3.500 Stellen streichen und fünf Standorte schließen, vier davon in Deutschland. Das soll jährlich 300 Millionen Euro einsparen.",
+      "topic": "Autozulieferer",
+      "tags": [
+        "Autozulieferer",
+        "Autoindustrie",
+        "Deutschland",
+        "Schaeffler"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/autozulieferer-schaeffler-streicht-2600-jobs-standorte-deutschland"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Autozulieferer-Schaeffler-baut-Tausende-weitere-Jobs-ab-id31487935.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/bio-landwirtschaft-deutschland-agrarflaeche-bio-betriebe-statistisches-bundesamt-gxe",
+      "headline": "Biolandwirtschaft in Deutschland: Ökolandbau wächst nur verhalten",
+      "takeaway": "Nur 11,4 Prozent der deutschen Agrarfläche sind im vergangenen Jahr ökologisch bewirtschaftet worden. Auch die Anzahl der Biobetriebe ging leicht zurück.",
+      "topic": "Biolandwirtschaft",
+      "tags": [
+        "Biolandwirtschaft",
+        "Deutschland",
+        "Ökolandbau",
+        "verhalten"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/bio-landwirtschaft-deutschland-agrarflaeche-bio-betriebe-statistisches-bundesamt-gxe"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/dienstleister/landwirtschaft-weniger-bio-betriebe-aber-mehr-oekoflaechen-in-deutschland/100266833.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/meta-humanoider-roboter-max-1771000/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Max: Meta entwickelt humanoiden Roboter für den Heimgebrauch",
-      "takeaway": "Meta entwickelt gemeinsam mit dem chinesischen Anbieter Fourier einen humanoiden Roboter für den Heimgebrauch. Meta dürfte den intern als Max bezeichneten Humanoiden künftig von seinem KI-Agenten …",
-      "topic": "Heimgebrauch",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "headline": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "takeaway": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "topic": "Apple",
       "tags": [
-        "Heimgebrauch",
-        "Roboter",
-        "Meta",
-        "Max"
+        "Apple",
+        "Duo",
+        "constraints",
+        "predict"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/meta-humanoider-roboter-max-1771000/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/"
         },
         {
-          "src": "golem",
-          "url": "https://www.golem.de/news/mit-fourier-aus-china-meta-entwickelt-humanoiden-prototyp-eines-roboter-2611-214730.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
-      "headline": "Warnstreiks der IG Metall kurz nach Mitternacht angelaufen",
-      "takeaway": "Die IG Metall hat \"starke Warnstreiks\" angekündigt - und in der Nacht damit begonnen. Die Gewerkschaft will damit Druck in den Tarifverhandlungen machen. Betroffen sind wichtige Industriezweige wie …",
-      "topic": "Warnstreiks",
-      "tags": [
-        "Warnstreiks",
-        "Mitternacht",
-        "Metall",
-        "angelaufen"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html"
-        },
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/metall-und-elektroindustrie-warnstreiks-der-ig-metall-sind-angelaufen-a-4e8ae251-bec3-4e9a-a09b-b32b0eca149c#ref=rss"
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energie-geheimer-gesetzentwurf-zeigt-wie-der-spritpreisdeckel-aussehen-soll/100266485.html",
-      "headline": "Energie: Geheimer Gesetzentwurf: So soll der Spritpreisdeckel der Bundesregierung aussehen",
-      "takeaway": "Ministerin Reiche bringt den Preisdeckel für Benzin und Diesel auf den Weg; das Gesetz liegt dem Handelsblatt exklusiv vor. Doch es gibt Bedenken um die Versorgung – somit viele Ausnahmen.",
-      "topic": "Spritpreisdeckel",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/stromversorgung-die-meisten-gas-reservekraftwerke-sollen-in-nrw-gebaut-werden/100266741.html",
+      "headline": "Stromversorgung: Die meisten Gas-Reservekraftwerke sollen in NRW gebaut werden",
+      "takeaway": "Die Bundesregierung hat entschieden, wo neue Gaskraftwerke entstehen sollen. In NRW sind die meisten geplant, es folgen Brandenburg, Sachsen und Bayern. Diese Unternehmen profitieren.",
+      "topic": "Gas-Reservekraftwerke",
       "tags": [
-        "Spritpreisdeckel",
-        "Bundesregierung",
-        "Gesetzentwurf",
-        "Geheimer"
+        "Gas-Reservekraftwerke",
+        "Stromversorgung",
+        "NRW",
+        "meisten"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/energie-geheimer-gesetzentwurf-zeigt-wie-der-spritpreisdeckel-aussehen-soll/100266485.html"
+          "url": "https://www.handelsblatt.com/unternehmen/energie/stromversorgung-die-meisten-gas-reservekraftwerke-sollen-in-nrw-gebaut-werden/100266741.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html",
-      "headline": "Konjunktur: Umsatz im deutschen Einzelhandel bricht überraschend stark ein",
-      "takeaway": "Die Deutschen werden beim Konsum offenbar zurückhaltender. Die offiziellen Daten zeigen einen deutlichen Rückgang im Einzelhandel. Analysten sprechen von einem „Datenschock zum Wochenstart“.",
-      "topic": "Einzelhandel",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "headline": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+      "takeaway": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
+      "topic": "Palantir",
       "tags": [
-        "Einzelhandel",
-        "Konjunktur",
-        "Umsatz",
-        "überraschend"
+        "Palantir",
+        "Apple",
+        "premarket",
+        "following"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/konjunktur/konjunktur-umsatz-im-deutschen-einzelhandel-bricht-ueberraschend-stark-ein/100266547.html"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/dienstleister/airline-hohe-kerosinkosten-ryanair-erwaegt-nullrunde-bei-loehnen/100266541.html",
-      "headline": "Airline: Hohe Kerosinkosten – Ryanair erwägt Nullrunde bei Löhnen",
-      "takeaway": "Ryanair plant gegen die hohen Mehrkosten für Treibstoff mit einem Sparkurs vorzugehen. Nun stehen Flughafenverträge und Gehälter auf dem Prüfstand.",
-      "topic": "Kerosinkosten",
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "headline": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+      "takeaway": "iPhone maker’s says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory …",
+      "topic": "Apple",
       "tags": [
-        "Kerosinkosten",
-        "Nullrunde",
-        "Airline",
-        "Ryanair"
+        "Apple",
+        "unprecedented",
+        "memory",
+        "prices"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/dienstleister/airline-hohe-kerosinkosten-ryanair-erwaegt-nullrunde-bei-loehnen/100266541.html"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/weekly-ki-guter-zweck-1770787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "5 Dinge, die du diese Woche wissen musst: Wie KI auch für gute Zwecke genutzt werden kann",
-      "takeaway": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um KI bei Non-Profits, einen sehr teuren Mac, den Rechtsklick unter Windows 11, Playmobils …",
-      "topic": "Zwecke",
+      "url": "https://t3n.de/news/anthropic-interne-ki-nutzung-personalkosten-1771253/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "KI vor Menschen? Anthropic zahlt für Claude mehr als für seine Belegschaft – zumindest auf dem Papier",
+      "takeaway": "Anthropic gibt nach eigenen Angaben mittlerweile mehr für die interne KI-Nutzung aus, als für die Angestellten. Dabei bedient sich die KI-Firma allerdings eines Rechentricks. weiterlesen auf t3n.de",
+      "topic": "Belegschaft",
       "tags": [
-        "Zwecke",
-        "Dinge",
-        "Woche",
-        "genutzt"
+        "Belegschaft",
+        "Anthropic",
+        "Menschen",
+        "Claude"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/weekly-ki-guter-zweck-1770787/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/finanzen/boerse/dax-trotz-nasdaq-kurssturz-fester-oelpreise-fallen-deutlich-a-5e53854f-8875-4f7c-9b0f-6f35eb964639#ref=rss",
-      "headline": "Asiens Börsen fester, Ölpreise fallen deutlich",
-      "takeaway": "Trotz des Kurssturzes an der Nasdaq dürfte der Dax mit leichten Gewinnen in die neue Woche starten. Auch Asien verzeichnet Kursgewinne. Der Grund: Die Ölpreise fallen.",
-      "topic": "Ölpreise",
-      "tags": [
-        "Ölpreise",
-        "Asiens",
-        "Börsen",
-        "deutlich"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/finanzen/boerse/dax-trotz-nasdaq-kurssturz-fester-oelpreise-fallen-deutlich-a-5e53854f-8875-4f7c-9b0f-6f35eb964639#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/erfolg/management/review-bottleneck-durch-ki-wie-agenten-chefs-entlasten/100265637.html",
-      "headline": "Zeitdruck: Zehn Mitarbeiter, ein Bot – so will eine Chefin ihre Zeit zurückbekommen",
-      "takeaway": "Wenn durchgetaktete Führungskräfte ihre Teams zu lange auf Antwort warten lassen, sorgen sie für Frust. Könnte KI da nicht vielleicht helfen?",
-      "topic": "Mitarbeiter",
-      "tags": [
-        "Mitarbeiter",
-        "Zeitdruck",
-        "Chefin",
-        "Zehn"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/erfolg/management/review-bottleneck-durch-ki-wie-agenten-chefs-entlasten/100265637.html"
+          "url": "https://t3n.de/news/anthropic-interne-ki-nutzung-personalkosten-1771253/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/spielebranche-claude-darf-keine-bekannten-games-mehr-nachbauen-2611-214734.html",
-      "headline": "Spielebranche: Claude darf keine bekannten Games mehr nachbauen",
-      "takeaway": "Anthropic hat seinem KI-Programmierwerkzeug Claude Code neue Regeln auferlegt. Laut Entwicklern treffen sie auch legitime Projekte. ( Spiele-Entwicklung , KI )",
-      "topic": "Spielebranche",
+      "url": "https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html",
+      "headline": "Digitalgipfel: Geheimdienste bauen auf Google, Merz nennt das europäisch",
+      "takeaway": "Bundeskanzler Merz lehnt Autarkie anscheinend ab. Denn die geplante Cloud der Nachrichtendienste mit Google nennt er europäische Infrastruktur. ( Friedrich Merz , Datenschutz )",
+      "topic": "Digitalgipfel",
       "tags": [
-        "Spielebranche",
-        "Claude",
-        "Games",
-        "bekannten"
+        "Digitalgipfel",
+        "Geheimdienste",
+        "Google",
+        "Merz"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/spielebranche-claude-darf-keine-bekannten-games-mehr-nachbauen-2611-214734.html"
+          "url": "https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-      "headline": "Borrowed reading: stories from our extended colleagues",
-      "takeaway": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
-      "topic": "Borrowed",
+      "src": "golem",
+      "url": "https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html",
+      "headline": "Wütende KI-Meuten: Wie gefälschte Proteste auf Tiktok Geld bringen sollen",
+      "takeaway": "Auf Tiktok protestieren KI-generierte Menschen gegen die Politik. Dahinter steckt ein Geschäftsmodell, das mit Empörung Reichweite und Geld erzeugt. Von Alexander Riechelmann ( Tiktok , Spam )",
+      "topic": "KI-Meuten",
       "tags": [
-        "Borrowed",
-        "colleagues",
-        "extended",
-        "reading"
+        "KI-Meuten",
+        "Proteste",
+        "Wütende",
+        "Tiktok"
       ],
       "sources": [
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/"
+          "src": "golem",
+          "url": "https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "takeaway": "Data centers are deeply unpopular. But what if we called them something else?",
-      "topic": "OpenAI",
+      "src": "t3n",
+      "url": "https://t3n.de/news/wenn-ki-mathematik-raetsel-loest-warum-akademiker-openai-kritisieren-1771252/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Wenn KI Mathematik-Rätsel löst: Warum Akademiker OpenAI kritisieren",
+      "takeaway": "Rund 400 Mathematik-Probleme will OpenAI mithilfe von KI gelöst haben. Das klingt nach großer Hilfe für die Wissenschaft. Tatsächlich sind viele Akademiker aber wenig begeistert. weiterlesen auf …",
+      "topic": "Mathematik-Rätsel",
       "tags": [
+        "Mathematik-Rätsel",
+        "Akademiker",
         "OpenAI",
-        "campuses",
-        "rebrand",
-        "centers"
+        "Wenn"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/wenn-ki-mathematik-raetsel-loest-warum-akademiker-openai-kritisieren-1771252/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "headline": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "takeaway": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "topic": "Yvonne",
+      "tags": [
+        "Yvonne",
+        "Bajela",
+        "Europe",
+        "bringing"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "headline": "Flock keeps ignoring requests to cancel its contracts",
-      "takeaway": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its …",
-      "topic": "Flock",
-      "tags": [
-        "Flock",
-        "contracts",
-        "ignoring",
-        "requests"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "headline": "NASA hopes the commercial space industry can help save Hubble",
-      "takeaway": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its …",
-      "topic": "Hubble",
-      "tags": [
-        "Hubble",
-        "NASA",
-        "commercial",
-        "industry"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble"
+          "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Hilft Unternehmen nur die Rückkehr der Deutschland AG?",
-    "dateLabel": "Folge vom 02.11. · 8 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2233-hilft-unternehmen-nur-die-ruckkehr-der-deutschland-ag",
+    "title": "Das beste Gesetz, das Katherina Reiche bisher vorgelegt hat",
+    "dateLabel": "Folge vom 03.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2234-das-beste-gesetz-das-katherina-reiche-bisher-vorgelegt-hat",
     "takeaways": [
-      "Nach der Asienreise des Bundeskanzlers macht Telekom-Chef Timotheus Höttges einen interessanten Debattenvorschlag – der etwas gestrig klingt, für den es aber Gründe gibt.",
+      "Die Wirtschaftsministerin macht eine Forderung des letzten Koalitionsausschusses konkret.",
+      "Das gewünschte Ziel wird wohl verfehlt - dafür vermeidet Reiche es, sich ökonomisch zu verheddern.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }

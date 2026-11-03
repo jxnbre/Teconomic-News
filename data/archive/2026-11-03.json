@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T10:25:26.251075+01:00",
+  "updatedAtLabel": "03.11.2026, 10:25 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3#ref=rss",
+      "headline": "Schaeffler baut Tausende Stellen ab und schließt vier deutsche Werke",
+      "takeaway": "Der bayerische Autozulieferer Schaeffler steckt tief in der Krise. Nun kündigt der Konzern weitere Sparmaßnahmen an: Zahlreiche Beschäftigte verlieren ihren Arbeitsplatz, andere müssen auf Gehalt …",
+      "topic": "Schaeffler",
+      "tags": [
+        "Schaeffler",
+        "Tausende",
+        "Stellen",
+        "Werke"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/schaeffler-baut-tausende-stellen-ab-und-schliesst-vier-deutsche-werke-a-d8d594dc-cc55-4a16-9ece-e3c76fcf22b3#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/autozulieferer-schaeffler-streicht-tausende-jobs-und-schliesst-werke/100266861.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/schaeffler-schliesst-vier-werke-und-streicht-3400-jobs-a-0b698887-1845-4bd2-b255-1f4fe0a76f11#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/auto/elektromobilitaet-mercedes-benz-verkauft-sein-ladesaeulennetz-in-europa/100266870.html",
+      "headline": "Elektromobilität: Mercedes-Benz verkauft sein Schnellladenetzwerk in Europa",
+      "takeaway": "Mercedes hatte große Pläne beim Aufbau eines eigenen Schnellladenetzwerks für E-Autos. Nun verkauft der Autobauer das eigene Ladeangebot in Europa. Der Käufer kommt aus Frankreich.",
+      "topic": "Schnellladenetzwerk",
+      "tags": [
+        "Schnellladenetzwerk",
+        "Elektromobilität",
+        "Mercedes-Benz",
+        "Europa"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/auto/elektromobilitaet-mercedes-benz-verkauft-sein-ladesaeulennetz-in-europa/100266870.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/mercedes-benz-verkauft-sein-schnellladenetz-in-europa-an-electra-a-de2167af-6ece-490d-b783-1aeca071ac59#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-oelkonzern-erhoeht-gewinn-trotz-angriffen-im-irankrieg-a-77687919-cb49-4802-abe8-296d589a55ac#ref=rss",
+      "headline": "Iran-Krieg: Aramco steigert Gewinn trotz Angriffen und hoher Ölpreise",
+      "takeaway": "Seine Anlagen sind Ziel Irans und dessen Verbündeter. Dennoch nutzt der Konflikt Aramco: Wegen der hohen Ölpreise macht der saudi-arabische Konzern mehr Gewinn.",
+      "topic": "Iran-Krieg",
+      "tags": [
+        "Iran-Krieg",
+        "Angriffen",
+        "Ölpreise",
+        "Aramco"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/saudi-aramco-oelkonzern-erhoeht-gewinn-trotz-angriffen-im-irankrieg-a-77687919-cb49-4802-abe8-296d589a55ac#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/lufthansa-gewinne-kerosinpreise-ticketpreise-wartung-fracht-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "headline": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "takeaway": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+      "topic": "Binance",
+      "tags": [
+        "Binance",
+        "North",
+        "Korea",
+        "researchers"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html"
+        },
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/autozulieferer-schaeffler-streicht-2600-jobs-standorte-deutschland",
+      "headline": "Autoindustrie: Autozulieferer Schaeffler streicht rund 2.600 Stellen in Deutschland",
+      "takeaway": "Schaeffler will insgesamt fast 3.500 Stellen streichen und fünf Standorte schließen, vier davon in Deutschland. Das soll jährlich 300 Millionen Euro einsparen.",
+      "topic": "Autozulieferer",
+      "tags": [
+        "Autozulieferer",
+        "Autoindustrie",
+        "Deutschland",
+        "Schaeffler"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/autozulieferer-schaeffler-streicht-2600-jobs-standorte-deutschland"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Autozulieferer-Schaeffler-baut-Tausende-weitere-Jobs-ab-id31487935.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/bio-landwirtschaft-deutschland-agrarflaeche-bio-betriebe-statistisches-bundesamt-gxe",
+      "headline": "Biolandwirtschaft in Deutschland: Ökolandbau wächst nur verhalten",
+      "takeaway": "Nur 11,4 Prozent der deutschen Agrarfläche sind im vergangenen Jahr ökologisch bewirtschaftet worden. Auch die Anzahl der Biobetriebe ging leicht zurück.",
+      "topic": "Biolandwirtschaft",
+      "tags": [
+        "Biolandwirtschaft",
+        "Deutschland",
+        "Ökolandbau",
+        "verhalten"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/bio-landwirtschaft-deutschland-agrarflaeche-bio-betriebe-statistisches-bundesamt-gxe"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/dienstleister/landwirtschaft-weniger-bio-betriebe-aber-mehr-oekoflaechen-in-deutschland/100266833.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+      "headline": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+      "takeaway": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+      "topic": "Apple",
+      "tags": [
+        "Apple",
+        "Duo",
+        "constraints",
+        "predict"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/stromversorgung-die-meisten-gas-reservekraftwerke-sollen-in-nrw-gebaut-werden/100266741.html",
+      "headline": "Stromversorgung: Die meisten Gas-Reservekraftwerke sollen in NRW gebaut werden",
+      "takeaway": "Die Bundesregierung hat entschieden, wo neue Gaskraftwerke entstehen sollen. In NRW sind die meisten geplant, es folgen Brandenburg, Sachsen und Bayern. Diese Unternehmen profitieren.",
+      "topic": "Gas-Reservekraftwerke",
+      "tags": [
+        "Gas-Reservekraftwerke",
+        "Stromversorgung",
+        "NRW",
+        "meisten"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/energie/stromversorgung-die-meisten-gas-reservekraftwerke-sollen-in-nrw-gebaut-werden/100266741.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
+      "headline": "Apple and Palantir shares slide in premarket trading following post-bell earnings",
+      "takeaway": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
+      "topic": "Palantir",
+      "tags": [
+        "Palantir",
+        "Apple",
+        "premarket",
+        "following"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+      "headline": "Apple warns of ‘unprecedented’ rise in memory chip prices",
+      "takeaway": "iPhone maker’s says decision to raise prices has offset some of impact, as revenues are stronger than expected Business live – latest updates Apple has warned of an “unprecedented” rise in memory …",
+      "topic": "Apple",
+      "tags": [
+        "Apple",
+        "unprecedented",
+        "memory",
+        "prices"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/anthropic-interne-ki-nutzung-personalkosten-1771253/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "KI vor Menschen? Anthropic zahlt für Claude mehr als für seine Belegschaft – zumindest auf dem Papier",
+      "takeaway": "Anthropic gibt nach eigenen Angaben mittlerweile mehr für die interne KI-Nutzung aus, als für die Angestellten. Dabei bedient sich die KI-Firma allerdings eines Rechentricks. weiterlesen auf t3n.de",
+      "topic": "Belegschaft",
+      "tags": [
+        "Belegschaft",
+        "Anthropic",
+        "Menschen",
+        "Claude"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/anthropic-interne-ki-nutzung-personalkosten-1771253/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html",
+      "headline": "Digitalgipfel: Geheimdienste bauen auf Google, Merz nennt das europäisch",
+      "takeaway": "Bundeskanzler Merz lehnt Autarkie anscheinend ab. Denn die geplante Cloud der Nachrichtendienste mit Google nennt er europäische Infrastruktur. ( Friedrich Merz , Datenschutz )",
+      "topic": "Digitalgipfel",
+      "tags": [
+        "Digitalgipfel",
+        "Geheimdienste",
+        "Google",
+        "Merz"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html",
+      "headline": "Wütende KI-Meuten: Wie gefälschte Proteste auf Tiktok Geld bringen sollen",
+      "takeaway": "Auf Tiktok protestieren KI-generierte Menschen gegen die Politik. Dahinter steckt ein Geschäftsmodell, das mit Empörung Reichweite und Geld erzeugt. Von Alexander Riechelmann ( Tiktok , Spam )",
+      "topic": "KI-Meuten",
+      "tags": [
+        "KI-Meuten",
+        "Proteste",
+        "Wütende",
+        "Tiktok"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/wenn-ki-mathematik-raetsel-loest-warum-akademiker-openai-kritisieren-1771252/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Wenn KI Mathematik-Rätsel löst: Warum Akademiker OpenAI kritisieren",
+      "takeaway": "Rund 400 Mathematik-Probleme will OpenAI mithilfe von KI gelöst haben. Das klingt nach großer Hilfe für die Wissenschaft. Tatsächlich sind viele Akademiker aber wenig begeistert. weiterlesen auf …",
+      "topic": "Mathematik-Rätsel",
+      "tags": [
+        "Mathematik-Rätsel",
+        "Akademiker",
+        "OpenAI",
+        "Wenn"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/wenn-ki-mathematik-raetsel-loest-warum-akademiker-openai-kritisieren-1771252/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "headline": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "takeaway": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "topic": "Yvonne",
+      "tags": [
+        "Yvonne",
+        "Bajela",
+        "Europe",
+        "bringing"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Das beste Gesetz, das Katherina Reiche bisher vorgelegt hat",
+    "dateLabel": "Folge vom 03.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2234-das-beste-gesetz-das-katherina-reiche-bisher-vorgelegt-hat",
+    "takeaways": [
+      "Die Wirtschaftsministerin macht eine Forderung des letzten Koalitionsausschusses konkret.",
+      "Das gewünschte Ziel wird wohl verfehlt - dafür vermeidet Reiche es, sich ökonomisch zu verheddern.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
