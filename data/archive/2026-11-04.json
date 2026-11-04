@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T07:01:14.395294+01:00",
+  "updatedAtLabel": "04.11.2026, 07:01 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
+      "headline": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+      "takeaway": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
+      "topic": "Binance",
+      "tags": [
+        "Binance",
+        "Richard",
+        "Teng",
+        "interviews"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+        },
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/"
+        },
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/bmw-prognose-fuer-2026-erneut-gesenkt-a-ec19601a-7b36-4467-860d-01e655ba77bb#ref=rss",
+      "headline": "BMW: Prognose für 2026 erneut gesenkt",
+      "takeaway": "Für das laufende Geschäftsjahr rechnet BMW mit Verlusten im Automobilsegment. Das hat auch mit dem Umbau im Management zu tun.",
+      "topic": "Prognose",
+      "tags": [
+        "Prognose",
+        "BMW",
+        "gesenkt",
+        "erneut"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/bmw-prognose-fuer-2026-erneut-gesenkt-a-ec19601a-7b36-4467-860d-01e655ba77bb#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/bmw-autobauer-kappt-prognose-erneut-aktie-gibt-nach-a-374fb445-e3a9-4278-a153-f8db5541fe5e#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-2027-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss",
+      "headline": "Renten sollen 2027 um mehr als vier Prozent steigen",
+      "takeaway": "Die Bundesregierung erwartet 2027 eine Rentenerhöhung von mehr als vier Prozent. Der Beitragssatz bleibt stabil, soll aber in den kommenden Jahren steigen.",
+      "topic": "Renten",
+      "tags": [
+        "Renten",
+        "steigen",
+        "vier"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-2027-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/rente-renten-sollen-im-sommer-um-mehr-als-4-prozent-steigen-a-7ca0242f-ac65-41ad-ad9e-e98dc553358a#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/cyberangriff-hacker-kuehleinheiten-deutsche-supermaerkte-manipuliert-1771442/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Cyberangriffe auf Kühlschränke: Auch deutsche Supermärkte sind betroffen",
+      "takeaway": "In mehreren deutschen Supermärkten wurden Kühlanlagen vermutlich ebenfalls aus der Ferne manipuliert – Lebensmittel mussten weggeworfen werden. Wie die Polizei die Fälle einordnet. weiterlesen auf …",
+      "topic": "Cyberangriffe",
+      "tags": [
+        "Cyberangriffe",
+        "Kühlschränke",
+        "Supermärkte",
+        "betroffen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/cyberangriff-hacker-kuehleinheiten-deutsche-supermaerkte-manipuliert-1771442/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/handel/cyberangriffe-jetzt-auch-auf-deutsche-supermaerkte-a-94882432-a8fa-48c9-87dd-2677e258e16d#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/midterms-davon-haben-demokraten-getraeumt-trumps-grosse-niederlage/100265377.html",
+      "headline": "Midterms: „Nacht, von der die Demokraten geträumt haben“: Trumps Niederlage wird immer größer",
+      "takeaway": "Dieser Sieg ist eindeutig: Im Senat und im Repräsentantenhaus erreichen die Demokraten eine klare Mehrheit. Trump reagiert gereizt. Die vier wichtigsten Erkenntnisse der Wahlnacht.",
+      "topic": "Demokraten",
+      "tags": [
+        "Demokraten",
+        "Niederlage",
+        "Midterms",
+        "Trumps"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/midterms-davon-haben-demokraten-getraeumt-trumps-grosse-niederlage/100265377.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-maerkte-reagieren-mit-verlusten-auf-sieg-der-demokraten/100265439.html",
+      "headline": "Börsen: Märkte reagieren auf Sieg der Demokraten – Nikkei stürzt ab, US-Futures fallen",
+      "takeaway": "Der deutliche Sieg der Demokraten schürt Ängste vor einem langsameren KI‑Ausbau. In Japan reagieren die Investoren mit Verkäufen – und auch an den US-Börsen deuten sich Verluste an.",
+      "topic": "Demokraten",
+      "tags": [
+        "Demokraten",
+        "US-Futures",
+        "Börsen",
+        "Märkte"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-maerkte-reagieren-mit-verlusten-auf-sieg-der-demokraten/100265439.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/mittelstand/ranking-2026-das-sind-die-500-bekannten-und-heimlichen-weltmarktfuehrer/100265016.html",
+      "headline": "Ranking 2026: Das sind die 500 heimlichen Weltmarktführer",
+      "takeaway": "Der große Überblick: Aufsteiger und bewährte Größen prägen die Liste der Weltmarktführer in diesem Jahr.",
+      "topic": "Weltmarktführer",
+      "tags": [
+        "Weltmarktführer",
+        "Ranking",
+        "heimlichen"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/mittelstand/ranking-2026-das-sind-die-500-bekannten-und-heimlichen-weltmarktfuehrer/100265016.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/konjunktur/unternehmen-wie-weltmarktfuehrer-aus-deutschland-globalen-krisen-trotzen/100250377.html",
+      "headline": "Globalisierung: So trotzen deutsche Vorzeigebetriebe den Krisen",
+      "takeaway": "Die Weltwirtschaft hält sich wacker, trotz ­aller geopolitischen Krisen. Was deutsche Weltmarktführer tun, um ihre ökonomische Resilienz in schwierigen Zeiten zu stärken.",
+      "topic": "Vorzeigebetriebe",
+      "tags": [
+        "Vorzeigebetriebe",
+        "Globalisierung",
+        "Krisen",
+        "deutsche"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/konjunktur/unternehmen-wie-weltmarktfuehrer-aus-deutschland-globalen-krisen-trotzen/100250377.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
+      "headline": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
+      "takeaway": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben in Deutschland. Die Airlines haben zuletzt etliche Verbindungen gestrichen. Verliert die deutsche Luftfahrt den Anschluss? Von Sebastian …",
+      "topic": "Deutschland",
+      "tags": [
+        "Deutschland",
+        "Anschluss",
+        "Airlines",
+        "Verliert"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/t-mobile-hacker-schere-security-tool-1758997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Kabel ab: Wie eine Schere zum effektivsten Security-Tool bei T-Mobile wurde",
+      "takeaway": "Um sich vor einem Cyberangriff zu schützen, ist T-Mobile in den USA schon vor Jahren ungewöhnliche Schritte gegangen. Sie kappten einfach die Leitung, die die Angreifer:innen für ihre Zwecke …",
+      "topic": "Security-Tool",
+      "tags": [
+        "Security-Tool",
+        "T-Mobile",
+        "Schere",
+        "Kabel"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/t-mobile-hacker-schere-security-tool-1758997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+      "headline": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+      "takeaway": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+      "topic": "NBCUniversal",
+      "tags": [
+        "NBCUniversal",
+        "EloElo",
+        "India",
+        "microdrama"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
+      "headline": "Democrats Sweep Republicans in Nearly Every Race That Matters",
+      "takeaway": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
+      "topic": "Republicans",
+      "tags": [
+        "Republicans",
+        "Democrats",
+        "Matters",
+        "Nearly"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+      "headline": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+      "takeaway": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly …",
+      "topic": "AMD",
+      "tags": [
+        "AMD",
+        "profitable",
+        "largest",
+        "quarter"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+      "headline": "All the news about The Legend of Zelda: Ocarina of Time remake",
+      "takeaway": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing …",
+      "topic": "Ocarina",
+      "tags": [
+        "Ocarina",
+        "Legend",
+        "Zelda",
+        "Time"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+      "headline": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "takeaway": "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news podcast …",
+      "topic": "Canva",
+      "tags": [
+        "Canva",
+        "restructure",
+        "relocate",
+        "layoffs"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "USA: So sind die Midterms gelaufen / Auto: BMW kappt Prognose – schon wieder",
+    "dateLabel": "Folge vom 04.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2235-usa-so-sind-die-midterms-gelaufen-auto-bmw-kappt-prognose-schon-wieder",
+    "takeaways": [
+      "Ein Ende der republikanischen Mehrheiten im US-Kongress scheint möglich, die Wähler wenden sich von US-Präsident Donald Trump ab.",
+      "Doch abschreiben sollte man ihn nicht zu früh.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
