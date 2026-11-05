@@ -1,339 +1,336 @@
 {
-  "date": "2026-11-04",
-  "updatedAt": "2026-11-04T07:01:14.395294+01:00",
-  "updatedAtLabel": "04.11.2026, 07:01 Uhr",
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T11:42:19.732259+01:00",
+  "updatedAtLabel": "05.11.2026, 11:42 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-      "headline": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-      "takeaway": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
-      "topic": "Binance",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+      "headline": "Marktbericht: DAX springt auf Rekordhoch",
+      "takeaway": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt …",
+      "topic": "Marktbericht",
       "tags": [
-        "Binance",
-        "Richard",
-        "Teng",
-        "interviews"
+        "Marktbericht",
+        "Rekordhoch",
+        "DAX",
+        "springt"
       ],
       "sources": [
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
         },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
-        },
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/"
-        },
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/bmw-prognose-fuer-2026-erneut-gesenkt-a-ec19601a-7b36-4467-860d-01e655ba77bb#ref=rss",
-      "headline": "BMW: Prognose für 2026 erneut gesenkt",
-      "takeaway": "Für das laufende Geschäftsjahr rechnet BMW mit Verlusten im Automobilsegment. Das hat auch mit dem Umbau im Management zu tun.",
-      "topic": "Prognose",
-      "tags": [
-        "Prognose",
-        "BMW",
-        "gesenkt",
-        "erneut"
-      ],
-      "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/bmw-prognose-fuer-2026-erneut-gesenkt-a-ec19601a-7b36-4467-860d-01e655ba77bb#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-auf-rekordhoch-a-c3ac80a4-d033-4cc7-9e19-d76b8f9874be#ref=rss"
         },
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/bmw-autobauer-kappt-prognose-erneut-aktie-gibt-nach-a-374fb445-e3a9-4278-a153-f8db5541fe5e#ref=rss"
+          "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-rekord-rueckt-naeher-rheinmetall-aktie-mit-kursrutsch-a-8c2bbcbb-9576-4f60-bb6a-1405bc577ab7#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-2027-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss",
-      "headline": "Renten sollen 2027 um mehr als vier Prozent steigen",
-      "takeaway": "Die Bundesregierung erwartet 2027 eine Rentenerhöhung von mehr als vier Prozent. Der Beitragssatz bleibt stabil, soll aber in den kommenden Jahren steigen.",
-      "topic": "Renten",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/boerse/2026-11/dax-steigt-auf-rekordhoch",
+      "headline": "Börse: Dax steigt auf Rekordhoch",
+      "takeaway": "Beflügelt vom Ergebnis der US-Wahl erreicht der deutsche Leitindex einen Höchstwert. Die Rheinmetall-Aktie brach allerdings um bis zu 18 Prozent ein.",
+      "topic": "Rekordhoch",
       "tags": [
-        "Renten",
-        "steigen",
-        "vier"
+        "Rekordhoch",
+        "Börse",
+        "Dax",
+        "steigt"
       ],
       "sources": [
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/renten-sollen-2027-um-mehr-als-vier-prozent-steigen-a-2eb94e51-0c6b-44b0-b521-0283b5ba9afa#ref=rss"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/boerse/2026-11/dax-steigt-auf-rekordhoch"
         },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/rente-renten-sollen-im-sommer-um-mehr-als-4-prozent-steigen-a-7ca0242f-ac65-41ad-ad9e-e98dc553358a#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/cyberangriff-hacker-kuehleinheiten-deutsche-supermaerkte-manipuliert-1771442/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Cyberangriffe auf Kühlschränke: Auch deutsche Supermärkte sind betroffen",
-      "takeaway": "In mehreren deutschen Supermärkten wurden Kühlanlagen vermutlich ebenfalls aus der Ferne manipuliert – Lebensmittel mussten weggeworfen werden. Wie die Polizei die Fälle einordnet. weiterlesen auf …",
-      "topic": "Cyberangriffe",
-      "tags": [
-        "Cyberangriffe",
-        "Kühlschränke",
-        "Supermärkte",
-        "betroffen"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/cyberangriff-hacker-kuehleinheiten-deutsche-supermaerkte-manipuliert-1771442/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/handel/cyberangriffe-jetzt-auch-auf-deutsche-supermaerkte-a-94882432-a8fa-48c9-87dd-2677e258e16d#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/midterms-davon-haben-demokraten-getraeumt-trumps-grosse-niederlage/100265377.html",
-      "headline": "Midterms: „Nacht, von der die Demokraten geträumt haben“: Trumps Niederlage wird immer größer",
-      "takeaway": "Dieser Sieg ist eindeutig: Im Senat und im Repräsentantenhaus erreichen die Demokraten eine klare Mehrheit. Trump reagiert gereizt. Die vier wichtigsten Erkenntnisse der Wahlnacht.",
-      "topic": "Demokraten",
-      "tags": [
-        "Demokraten",
-        "Niederlage",
-        "Midterms",
-        "Trumps"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/midterms-davon-haben-demokraten-getraeumt-trumps-grosse-niederlage/100265377.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-maerkte-reagieren-mit-verlusten-auf-sieg-der-demokraten/100265439.html",
-      "headline": "Börsen: Märkte reagieren auf Sieg der Demokraten – Nikkei stürzt ab, US-Futures fallen",
-      "takeaway": "Der deutliche Sieg der Demokraten schürt Ängste vor einem langsameren KI‑Ausbau. In Japan reagieren die Investoren mit Verkäufen – und auch an den US-Börsen deuten sich Verluste an.",
-      "topic": "Demokraten",
-      "tags": [
-        "Demokraten",
-        "US-Futures",
-        "Börsen",
-        "Märkte"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-maerkte-reagieren-mit-verlusten-auf-sieg-der-demokraten/100265439.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/mittelstand/ranking-2026-das-sind-die-500-bekannten-und-heimlichen-weltmarktfuehrer/100265016.html",
-      "headline": "Ranking 2026: Das sind die 500 heimlichen Weltmarktführer",
-      "takeaway": "Der große Überblick: Aufsteiger und bewährte Größen prägen die Liste der Weltmarktführer in diesem Jahr.",
-      "topic": "Weltmarktführer",
-      "tags": [
-        "Weltmarktführer",
-        "Ranking",
-        "heimlichen"
-      ],
-      "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/mittelstand/ranking-2026-das-sind-die-500-bekannten-und-heimlichen-weltmarktfuehrer/100265016.html"
+          "url": "https://www.wiwo.de/finanzen/boerse/maerkte-dax-steigt-auf-rekordhoch/100267534.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/konjunktur/unternehmen-wie-weltmarktfuehrer-aus-deutschland-globalen-krisen-trotzen/100250377.html",
-      "headline": "Globalisierung: So trotzen deutsche Vorzeigebetriebe den Krisen",
-      "takeaway": "Die Weltwirtschaft hält sich wacker, trotz ­aller geopolitischen Krisen. Was deutsche Weltmarktführer tun, um ihre ökonomische Resilienz in schwierigen Zeiten zu stärken.",
-      "topic": "Vorzeigebetriebe",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Bosch-streicht-wegen-Konkurrenz-aus-China-noch-mehr-Arbeitsplaetze-id31497409.html",
+      "headline": "Kahlschlag am Standort Abstatt: Bosch streicht wegen Konkurrenz aus China noch mehr Arbeitsplätze",
+      "takeaway": "Immer wieder werden vom Bosch-Konzern Stellenstreichungen verkündet. Nun trifft es einen Standort in Baden-Württemberg, der Teil der leidgeplagten Mobilitätssparte ist. Vor allem die Konkurrenz bei …",
+      "topic": "Arbeitsplätze",
       "tags": [
-        "Vorzeigebetriebe",
-        "Globalisierung",
-        "Krisen",
-        "deutsche"
+        "Arbeitsplätze",
+        "Kahlschlag",
+        "Konkurrenz",
+        "Standort"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/konjunktur/unternehmen-wie-weltmarktfuehrer-aus-deutschland-globalen-krisen-trotzen/100250377.html"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Bosch-streicht-wegen-Konkurrenz-aus-China-noch-mehr-Arbeitsplaetze-id31497409.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/bosch-autozulieferer-streicht-weitere-750-arbeitsplaetze-a-a3b39644-3bba-4af9-b54d-4ab627eadeb4#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html",
-      "headline": "Airlines streichen Flüge: Verliert Deutschland den Anschluss?",
-      "takeaway": "Fluggesellschaften klagen über zu hohe Steuern und Abgaben in Deutschland. Die Airlines haben zuletzt etliche Verbindungen gestrichen. Verliert die deutsche Luftfahrt den Anschluss? Von Sebastian …",
-      "topic": "Deutschland",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
+      "headline": "Inflation im Euroraum steigt auf 4,0 Prozent",
+      "takeaway": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
+      "topic": "Inflation",
       "tags": [
-        "Deutschland",
-        "Anschluss",
-        "Airlines",
-        "Verliert"
+        "Inflation",
+        "Euroraum",
+        "steigt"
       ],
       "sources": [
         {
           "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/luftfahrt-lufthansa-wirtschaftsstandort-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/",
+      "headline": "Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für Verlagsinhalte",
+      "takeaway": "Anthropic hat kurz vor den US-Zwischenwahlen seinen ersten Lizenzvertrag mit einem Nachrichtenverlag geschlossen. Der Artikel Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für …",
+      "topic": "Strategiewechsel",
+      "tags": [
+        "Strategiewechsel",
+        "Verlagsinhalte",
+        "Anthropic",
+        "KI-Firma"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/einkommensungleichheit-deutschland-wsi-hans-boeckler-stiftung-gxe",
+      "headline": "Hans-Böckler-Stiftung: Einkommensunterschiede in Deutschland seit 1992 deutlich gewachsen",
+      "takeaway": "Die Kluft zwischen hohen und niedrigen Einkommen ist laut einer Studie so groß wie selten zuvor. Die Armut nimmt zu, die untere Mittelschicht schrumpft.",
+      "topic": "Einkommensunterschiede",
+      "tags": [
+        "Einkommensunterschiede",
+        "Hans-Böckler-Stiftung",
+        "Deutschland",
+        "gewachsen"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/einkommensungleichheit-deutschland-wsi-hans-boeckler-stiftung-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "gruenderszene",
+      "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-50-stores-eroeffnen/",
+      "headline": "Ehepaar gründet mit Freunden eine Bagel-Kette – und will jetzt 50 Stores eröffnen",
+      "takeaway": "Pia und René Westphal haben gemeinsam mit zwei Freunden die New York Bagel Bar gegründet. In den nächsten fünf Jahren wollen sie 50 Läden eröffnen.",
+      "topic": "Bagel-Kette",
+      "tags": [
+        "Bagel-Kette",
+        "Freunden",
+        "Ehepaar",
+        "Stores"
+      ],
+      "sources": [
+        {
+          "src": "gruenderszene",
+          "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-50-stores-eroeffnen/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spd-setzt-wirtschaftsministerin-frist-bei-spritpreisdeckel-a-3798c7f9-3ff9-4f47-a946-ab6fdfa06371#ref=rss",
+      "headline": "Katherina Reiche: SPD setzt Wirtschaftsministerin Frist bei Spritpreisdeckel",
+      "takeaway": "Viele Autofahrer hoffen auf eine Obergrenze für Spritpreise, in Deutschland hat Wirtschaftsministerin Reiche dazu aber nur einen halbherzigen Gesetzentwurf vorgelegt. Das empört den Koalitionspartner.",
+      "topic": "Wirtschaftsministerin",
+      "tags": [
+        "Wirtschaftsministerin",
+        "Spritpreisdeckel",
+        "Katherina",
+        "Reiche"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spd-setzt-wirtschaftsministerin-frist-bei-spritpreisdeckel-a-3798c7f9-3ff9-4f47-a946-ab6fdfa06371#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "gruenderszene",
+      "url": "https://www.businessinsider.de/gruenderszene/sequoia-schliesst-londoner-buero-will-weniger-meetings-und-hierarchie/",
+      "headline": "Sequoia schließt Londoner Büro, will weniger Meetings und Hierarchie",
+      "takeaway": "Sequoia Capital schließt seine Niederlassung in London. Zudem wird die Führungshierarchie abgeflacht.",
+      "topic": "Hierarchie",
+      "tags": [
+        "Hierarchie",
+        "Londoner",
+        "Meetings",
+        "Sequoia"
+      ],
+      "sources": [
+        {
+          "src": "gruenderszene",
+          "url": "https://www.businessinsider.de/gruenderszene/sequoia-schliesst-londoner-buero-will-weniger-meetings-und-hierarchie/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/t-mobile-hacker-schere-security-tool-1758997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Kabel ab: Wie eine Schere zum effektivsten Security-Tool bei T-Mobile wurde",
-      "takeaway": "Um sich vor einem Cyberangriff zu schützen, ist T-Mobile in den USA schon vor Jahren ungewöhnliche Schritte gegangen. Sie kappten einfach die Leitung, die die Angreifer:innen für ihre Zwecke …",
-      "topic": "Security-Tool",
+      "src": "golem",
+      "url": "https://www.golem.de/news/blizzard-world-of-warcraft-forever-ueberrascht-zum-start-2611-214885.html",
+      "headline": "Blizzard: World of Warcraft Forever überrascht zum Start",
+      "takeaway": "Volle Startgebiete, aber kaum Warteschlangen: Der Start von WoW Forever läuft anders, als viele Spieler es von Blizzard gewohnt sind. ( World of Warcraft , MMORPG )",
+      "topic": "Blizzard",
       "tags": [
-        "Security-Tool",
-        "T-Mobile",
-        "Schere",
-        "Kabel"
+        "Blizzard",
+        "Warcraft",
+        "Forever",
+        "World"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/t-mobile-hacker-schere-security-tool-1758997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-      "headline": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "takeaway": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
-      "topic": "NBCUniversal",
-      "tags": [
-        "NBCUniversal",
-        "EloElo",
-        "India",
-        "microdrama"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/"
+          "src": "golem",
+          "url": "https://www.golem.de/news/blizzard-world-of-warcraft-forever-ueberrascht-zum-start-2611-214885.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/",
-      "headline": "Democrats Sweep Republicans in Nearly Every Race That Matters",
-      "takeaway": "With massive upsets in deep red states and stunning wins in Texas, Democrats have redrawn the political map—and decisively taken the House and Senate.",
-      "topic": "Republicans",
+      "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+      "headline": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+      "takeaway": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
+      "topic": "Physicists",
       "tags": [
-        "Republicans",
-        "Democrats",
-        "Matters",
-        "Nearly"
+        "Physicists",
+        "Zeptoverse",
+        "Particle",
+        "Getting"
       ],
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/democrats-sweep-republicans-in-nearly-every-race-that-matters/"
+          "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-      "headline": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-      "takeaway": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly …",
-      "topic": "AMD",
+      "src": "golem",
+      "url": "https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html",
+      "headline": "Mit KI-Agenten: OpenAI will in Linux-System fast 1.000 Root-Lücken gefunden haben",
+      "takeaway": "Laut OpenAI haben KI-Agenten bei internen Tests 948 Root-Lücken in einem Linux-System aufgedeckt - und obendrein passende Patches entwickelt. ( Sicherheitslücke , Linux-Kernel )",
+      "topic": "Linux-System",
       "tags": [
-        "AMD",
-        "profitable",
-        "largest",
-        "quarter"
+        "Linux-System",
+        "Root-Lücken",
+        "KI-Agenten",
+        "OpenAI"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc"
+          "src": "golem",
+          "url": "https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-      "headline": "All the news about The Legend of Zelda: Ocarina of Time remake",
-      "takeaway": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing …",
-      "topic": "Ocarina",
+      "src": "wired",
+      "url": "https://www.wired.com/story/best-smart-ring/",
+      "headline": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
+      "takeaway": "Turns out, your finger is prime real estate for health tracking. Here are the smart rings that impressed me the most.",
+      "topic": "Discreet",
       "tags": [
-        "Ocarina",
-        "Legend",
-        "Zelda",
-        "Time"
+        "Discreet",
+        "Tracking",
+        "Fitness",
+        "Smart"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news"
+          "src": "wired",
+          "url": "https://www.wired.com/story/best-smart-ring/"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
-      "headline": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
-      "takeaway": "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff Get our breaking news email , free app or daily news podcast …",
-      "topic": "Canva",
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/openais-gpt-6-astra-erfindet-probleme-und-verlangsamt-so-die-eigene-sicherheitsforschung/",
+      "headline": "OpenAIs GPT-6 Astra bremste die Sicherheitsforschung heimlich aus",
+      "takeaway": "OpenAIs neues Modell GPT-6 Astra sabotierte offenbar gezielt KI-Sicherheitsforschung: Es erfand Hindernisse, verschwieg Lösungen und leistete bei Sicherheitsaufgaben rund 40 Prozent weniger als bei …",
+      "topic": "Sicherheitsforschung",
       "tags": [
-        "Canva",
-        "restructure",
-        "relocate",
-        "layoffs"
+        "Sicherheitsforschung",
+        "OpenAIs",
+        "GPT-6",
+        "Astra"
       ],
       "sources": [
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure"
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/openais-gpt-6-astra-erfindet-probleme-und-verlangsamt-so-die-eigene-sicherheitsforschung/"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "headline": "A new bill could change how the US builds energy infrastructure",
+      "takeaway": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is …",
+      "topic": "infrastructure",
+      "tags": [
+        "infrastructure",
+        "change",
+        "builds",
+        "energy"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "USA: So sind die Midterms gelaufen / Auto: BMW kappt Prognose – schon wieder",
-    "dateLabel": "Folge vom 04.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2235-usa-so-sind-die-midterms-gelaufen-auto-bmw-kappt-prognose-schon-wieder",
+    "title": "Midterms: Mega-Thema Bezahlbarkeit / Bundesregierung: Kapitalrente wird verschoben",
+    "dateLabel": "Folge vom 05.11. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2236-midterms-mega-thema-bezahlbarkeit-bundesregierung-kapitalrente-wird-verschoben",
     "takeaways": [
-      "Ein Ende der republikanischen Mehrheiten im US-Kongress scheint möglich, die Wähler wenden sich von US-Präsident Donald Trump ab.",
-      "Doch abschreiben sollte man ihn nicht zu früh.",
+      "Der US-Präsident hat vor allem mit einem Thema bei seinen Kernwählern verloren.",
+      "Das ist eins, das auch in Europa gerade immer drängender wird.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
     ]
   }

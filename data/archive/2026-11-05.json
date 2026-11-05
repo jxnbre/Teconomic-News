@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T11:42:19.732259+01:00",
+  "updatedAtLabel": "05.11.2026, 11:42 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html",
+      "headline": "Marktbericht: DAX springt auf Rekordhoch",
+      "takeaway": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt …",
+      "topic": "Marktbericht",
+      "tags": [
+        "Marktbericht",
+        "Rekordhoch",
+        "DAX",
+        "springt"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/dax-springt-auf-rekordhoch-a-c3ac80a4-d033-4cc7-9e19-d76b8f9874be#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-rekord-rueckt-naeher-rheinmetall-aktie-mit-kursrutsch-a-8c2bbcbb-9576-4f60-bb6a-1405bc577ab7#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/boerse/2026-11/dax-steigt-auf-rekordhoch",
+      "headline": "Börse: Dax steigt auf Rekordhoch",
+      "takeaway": "Beflügelt vom Ergebnis der US-Wahl erreicht der deutsche Leitindex einen Höchstwert. Die Rheinmetall-Aktie brach allerdings um bis zu 18 Prozent ein.",
+      "topic": "Rekordhoch",
+      "tags": [
+        "Rekordhoch",
+        "Börse",
+        "Dax",
+        "steigt"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/boerse/2026-11/dax-steigt-auf-rekordhoch"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/boerse/maerkte-dax-steigt-auf-rekordhoch/100267534.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Bosch-streicht-wegen-Konkurrenz-aus-China-noch-mehr-Arbeitsplaetze-id31497409.html",
+      "headline": "Kahlschlag am Standort Abstatt: Bosch streicht wegen Konkurrenz aus China noch mehr Arbeitsplätze",
+      "takeaway": "Immer wieder werden vom Bosch-Konzern Stellenstreichungen verkündet. Nun trifft es einen Standort in Baden-Württemberg, der Teil der leidgeplagten Mobilitätssparte ist. Vor allem die Konkurrenz bei …",
+      "topic": "Arbeitsplätze",
+      "tags": [
+        "Arbeitsplätze",
+        "Kahlschlag",
+        "Konkurrenz",
+        "Standort"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Bosch-streicht-wegen-Konkurrenz-aus-China-noch-mehr-Arbeitsplaetze-id31497409.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/bosch-autozulieferer-streicht-weitere-750-arbeitsplaetze-a-a3b39644-3bba-4af9-b54d-4ab627eadeb4#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html",
+      "headline": "Inflation im Euroraum steigt auf 4,0 Prozent",
+      "takeaway": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
+      "topic": "Inflation",
+      "tags": [
+        "Inflation",
+        "Euroraum",
+        "steigt"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/hohe-energiepreise-inflation-im-euroraum-steigt-auf-vier-prozent-a-6aa49e04-4639-4134-acf6-08d84917b500#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/",
+      "headline": "Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für Verlagsinhalte",
+      "takeaway": "Anthropic hat kurz vor den US-Zwischenwahlen seinen ersten Lizenzvertrag mit einem Nachrichtenverlag geschlossen. Der Artikel Strategiewechsel bei Anthropic: KI-Firma zahlt erstmals für …",
+      "topic": "Strategiewechsel",
+      "tags": [
+        "Strategiewechsel",
+        "Verlagsinhalte",
+        "Anthropic",
+        "KI-Firma"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/einkommensungleichheit-deutschland-wsi-hans-boeckler-stiftung-gxe",
+      "headline": "Hans-Böckler-Stiftung: Einkommensunterschiede in Deutschland seit 1992 deutlich gewachsen",
+      "takeaway": "Die Kluft zwischen hohen und niedrigen Einkommen ist laut einer Studie so groß wie selten zuvor. Die Armut nimmt zu, die untere Mittelschicht schrumpft.",
+      "topic": "Einkommensunterschiede",
+      "tags": [
+        "Einkommensunterschiede",
+        "Hans-Böckler-Stiftung",
+        "Deutschland",
+        "gewachsen"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/einkommensungleichheit-deutschland-wsi-hans-boeckler-stiftung-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "gruenderszene",
+      "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-50-stores-eroeffnen/",
+      "headline": "Ehepaar gründet mit Freunden eine Bagel-Kette – und will jetzt 50 Stores eröffnen",
+      "takeaway": "Pia und René Westphal haben gemeinsam mit zwei Freunden die New York Bagel Bar gegründet. In den nächsten fünf Jahren wollen sie 50 Läden eröffnen.",
+      "topic": "Bagel-Kette",
+      "tags": [
+        "Bagel-Kette",
+        "Freunden",
+        "Ehepaar",
+        "Stores"
+      ],
+      "sources": [
+        {
+          "src": "gruenderszene",
+          "url": "https://www.businessinsider.de/gruenderszene/ehepaar-gruendet-mit-freunden-eine-bagel-kette-und-will-50-stores-eroeffnen/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spd-setzt-wirtschaftsministerin-frist-bei-spritpreisdeckel-a-3798c7f9-3ff9-4f47-a946-ab6fdfa06371#ref=rss",
+      "headline": "Katherina Reiche: SPD setzt Wirtschaftsministerin Frist bei Spritpreisdeckel",
+      "takeaway": "Viele Autofahrer hoffen auf eine Obergrenze für Spritpreise, in Deutschland hat Wirtschaftsministerin Reiche dazu aber nur einen halbherzigen Gesetzentwurf vorgelegt. Das empört den Koalitionspartner.",
+      "topic": "Wirtschaftsministerin",
+      "tags": [
+        "Wirtschaftsministerin",
+        "Spritpreisdeckel",
+        "Katherina",
+        "Reiche"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/katherina-reiche-spd-setzt-wirtschaftsministerin-frist-bei-spritpreisdeckel-a-3798c7f9-3ff9-4f47-a946-ab6fdfa06371#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "gruenderszene",
+      "url": "https://www.businessinsider.de/gruenderszene/sequoia-schliesst-londoner-buero-will-weniger-meetings-und-hierarchie/",
+      "headline": "Sequoia schließt Londoner Büro, will weniger Meetings und Hierarchie",
+      "takeaway": "Sequoia Capital schließt seine Niederlassung in London. Zudem wird die Führungshierarchie abgeflacht.",
+      "topic": "Hierarchie",
+      "tags": [
+        "Hierarchie",
+        "Londoner",
+        "Meetings",
+        "Sequoia"
+      ],
+      "sources": [
+        {
+          "src": "gruenderszene",
+          "url": "https://www.businessinsider.de/gruenderszene/sequoia-schliesst-londoner-buero-will-weniger-meetings-und-hierarchie/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/blizzard-world-of-warcraft-forever-ueberrascht-zum-start-2611-214885.html",
+      "headline": "Blizzard: World of Warcraft Forever überrascht zum Start",
+      "takeaway": "Volle Startgebiete, aber kaum Warteschlangen: Der Start von WoW Forever läuft anders, als viele Spieler es von Blizzard gewohnt sind. ( World of Warcraft , MMORPG )",
+      "topic": "Blizzard",
+      "tags": [
+        "Blizzard",
+        "Warcraft",
+        "Forever",
+        "World"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/blizzard-world-of-warcraft-forever-ueberrascht-zum-start-2611-214885.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/",
+      "headline": "Particle Physicists Are Getting a First Glimpse Into the ‘Zeptoverse’",
+      "takeaway": "An extremely rare matter-decay event opens up new possibilities for researching the physical world on scales 100 billion times smaller than an atom.",
+      "topic": "Physicists",
+      "tags": [
+        "Physicists",
+        "Zeptoverse",
+        "Particle",
+        "Getting"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html",
+      "headline": "Mit KI-Agenten: OpenAI will in Linux-System fast 1.000 Root-Lücken gefunden haben",
+      "takeaway": "Laut OpenAI haben KI-Agenten bei internen Tests 948 Root-Lücken in einem Linux-System aufgedeckt - und obendrein passende Patches entwickelt. ( Sicherheitslücke , Linux-Kernel )",
+      "topic": "Linux-System",
+      "tags": [
+        "Linux-System",
+        "Root-Lücken",
+        "KI-Agenten",
+        "OpenAI"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/best-smart-ring/",
+      "headline": "The Best Smart Ring for Discreet Fitness Tracking in 2026",
+      "takeaway": "Turns out, your finger is prime real estate for health tracking. Here are the smart rings that impressed me the most.",
+      "topic": "Discreet",
+      "tags": [
+        "Discreet",
+        "Tracking",
+        "Fitness",
+        "Smart"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/best-smart-ring/"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/openais-gpt-6-astra-erfindet-probleme-und-verlangsamt-so-die-eigene-sicherheitsforschung/",
+      "headline": "OpenAIs GPT-6 Astra bremste die Sicherheitsforschung heimlich aus",
+      "takeaway": "OpenAIs neues Modell GPT-6 Astra sabotierte offenbar gezielt KI-Sicherheitsforschung: Es erfand Hindernisse, verschwieg Lösungen und leistete bei Sicherheitsaufgaben rund 40 Prozent weniger als bei …",
+      "topic": "Sicherheitsforschung",
+      "tags": [
+        "Sicherheitsforschung",
+        "OpenAIs",
+        "GPT-6",
+        "Astra"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/openais-gpt-6-astra-erfindet-probleme-und-verlangsamt-so-die-eigene-sicherheitsforschung/"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "headline": "A new bill could change how the US builds energy infrastructure",
+      "takeaway": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is …",
+      "topic": "infrastructure",
+      "tags": [
+        "infrastructure",
+        "change",
+        "builds",
+        "energy"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Midterms: Mega-Thema Bezahlbarkeit / Bundesregierung: Kapitalrente wird verschoben",
+    "dateLabel": "Folge vom 05.11. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2236-midterms-mega-thema-bezahlbarkeit-bundesregierung-kapitalrente-wird-verschoben",
+    "takeaways": [
+      "Der US-Präsident hat vor allem mit einem Thema bei seinen Kernwählern verloren.",
+      "Das ist eins, das auch in Europa gerade immer drängender wird.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
