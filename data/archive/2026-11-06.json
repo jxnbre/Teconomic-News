@@ -1,0 +1,346 @@
+{
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06T07:25:00.008464+01:00",
+  "updatedAtLabel": "06.11.2026, 07:25 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-wegen-schweren-betrugs-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss",
+      "headline": "René Benko zu Zusatzstrafe von zwei Jahren verurteilt wegen schweren Betrugs",
+      "takeaway": "Im September wurde der frühere Signa-Chef zu zweieinhalb Jahren Haft verurteilt, nun kommen wegen Betrugs zwei zusätzliche Jahre zur Strafe dazu. Laut Gericht hat René Benko einen Investor um fünf …",
+      "topic": "Zusatzstrafe",
+      "tags": [
+        "Zusatzstrafe",
+        "Betrugs",
+        "Benko",
+        "Ren"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-wegen-schweren-betrugs-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Signa-Gruender-Benko-wegen-Betrugs-zu-weiteren-zwei-Jahren-Haft-verurteilt-id31500943.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/industrie/rene-benko-wegen-millionenbetrugs-zu-zusatzstrafe-verurteilt-a-acb6df3c-6631-491d-b54e-d4aeb348d0c4#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss",
+      "headline": "Audi will geplantes US-Werk in Georgia offenbar noch vergrößern",
+      "takeaway": "In Deutschland droht eine Werkschließung, in den USA erwägt Audi eine milliardenschwere Erweiterung seiner Neubaupläne. So könnten im Bundesstaat Georgia Tausende Arbeitsplätze zusätzlich entstehen.",
+      "topic": "US-Werk",
+      "tags": [
+        "US-Werk",
+        "Georgia",
+        "Audi",
+        "vergrößern"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/audi-usa-werk-georgia-donald-trump-zoelle"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "headline": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "takeaway": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "topic": "Letterboxd",
+      "tags": [
+        "Letterboxd",
+        "Times",
+        "York",
+        "reportedly"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "takeaway": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "topic": "Airbnb",
+      "tags": [
+        "Airbnb",
+        "launching",
+        "travel",
+        "agent"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Nach US-Zwischenwahlen: OpenAI verspricht anwohnerfreundliche Rechenzentren",
+      "takeaway": "OpenAI kündigt zwei Tage nach den Zwischenwahlen in den USA neue Regeln für sozialverträglichere Rechenzentren an. Anwohner sollen entlastet werden.",
+      "topic": "US-Zwischenwahlen",
+      "tags": [
+        "US-Zwischenwahlen",
+        "Rechenzentren",
+        "OpenAI",
+        "anwohnerfreundliche"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/openai-verspricht-transparenz-bei-rechenzentren-nach-politischem-gegenwind-bei-us-midterms/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
+      "headline": "Bund und Eigentümerfamilien einigen sich auf Kaufpreis bei KNDS",
+      "takeaway": "Die Bundesregierung übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Damit sichert sich der Bund den Einfluss auf Schlüsseltechnologien - und gibt offenbar weniger Geld aus als …",
+      "topic": "Eigentümerfamilien",
+      "tags": [
+        "Eigentümerfamilien",
+        "Kaufpreis",
+        "Bund",
+        "KNDS"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/knds-bund-uebernahme-wegmann-boersengang"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html",
+      "headline": "Finanzkriminalität: KI filtert aus Millionen Dateien die entscheidenden Spuren heraus",
+      "takeaway": "Die händische Auswertung von Ermittlungsunterlagen ist zeitraubend: Dabei nutzen Behörden jetzt eine eigene KI, das beschleunigt die Arbeit. ( KI , Finanzsoftware )",
+      "topic": "Finanzkriminalität",
+      "tags": [
+        "Finanzkriminalität",
+        "Dateien",
+        "Spuren",
+        "entscheidenden"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/asiens-boersen-setzen-abschwung-von-chipaktien-in-den-usa-fort/100267767.html",
+      "headline": "Nikkei, Kospi und Topix: Abverkauf bei Chipaktien erfasst Japan und Südkorea",
+      "takeaway": "Japans Nikkei verliert zeitweise fast sieben Prozent, Südkoreas Kospi mehr als acht Prozent. US-Präsident Donald Trump gibt den Demokraten die Schuld am Kursrutsch.",
+      "topic": "Chipaktien",
+      "tags": [
+        "Chipaktien",
+        "Abverkauf",
+        "Südkorea",
+        "Nikkei"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/asiens-boersen-setzen-abschwung-von-chipaktien-in-den-usa-fort/100267767.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/hbm/digitalisierung/agentic-commerce-wem-gehoert-kuenftig-die-kundschaft-a-d5e7f606-2fd2-4467-b6e6-d9a4fe2aa88e#ref=rss",
+      "headline": "Agentic Commerce: Wem gehört künftig die Kundschaft?",
+      "takeaway": "Wenn bald immer mehr Menschen Kaufentscheidungen an KI-Agenten abgeben, verlieren Onlinehändler die Kundenbeziehung und damit die Macht. Das liegt an sechs Spielregeln, die sich gerade ändern.",
+      "topic": "Kundschaft",
+      "tags": [
+        "Kundschaft",
+        "Commerce",
+        "Agentic",
+        "Wem"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/hbm/digitalisierung/agentic-commerce-wem-gehoert-kuenftig-die-kundschaft-a-d5e7f606-2fd2-4467-b6e6-d9a4fe2aa88e#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-daimler-truck-steigert-gewinn-deutlich-dank-wende-in-usa/100267801.html",
+      "headline": "Quartalszahlen: Daimler Truck steigert Gewinn deutlich dank Wende in USA",
+      "takeaway": "Der Lkw-Bauer Daimler Truck blickt auf ein positives Quartal mit gesteigertem Gewinn zurück. Vor allem die Stimmung am nordamerikanischen Markt hellte sich auf.",
+      "topic": "Quartalszahlen",
+      "tags": [
+        "Quartalszahlen",
+        "Daimler",
+        "Gewinn",
+        "Truck"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-daimler-truck-steigert-gewinn-deutlich-dank-wende-in-usa/100267801.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-in-gefahr-was-der-tech-abverkauf-bedeutet/100267738.html",
+      "headline": "Tumult bei Tech-Aktien: Bringt der Tech-Abverkauf den Anthropic-Börsengang in Gefahr?",
+      "takeaway": "Das Umfeld für den Mega-Börsengang von Anthropic wird schlechter. Was für eine Absage spricht – und welche Folgen das für die Börsen hätte.",
+      "topic": "Anthropic-Börsengang",
+      "tags": [
+        "Anthropic-Börsengang",
+        "Tech-Abverkauf",
+        "Tech-Aktien",
+        "Tumult"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-in-gefahr-was-der-tech-abverkauf-bedeutet/100267738.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/unternehmen/handel/edeka-verliert-den-anschluss-warum-die-erfolgsformel-von-markus-mosa-an-ihre-grenzen-stoesst-a-b449314d-98ba-4e1a-9bda-223341afd7ba#ref=rss",
+      "headline": "Edeka verliert den Anschluss: Warum die Erfolgsformel von Markus Mosa an ihre Grenzen stößt",
+      "takeaway": "Markus Mosa steht seit 18 Jahren an der Spitze von Edeka und hat sich nahezu unentbehrlich gemacht. Warum seine Erfolgsformel langsam an Grenzen stößt, erfahren Sie in diesem Podcast.",
+      "topic": "Erfolgsformel",
+      "tags": [
+        "Erfolgsformel",
+        "Anschluss",
+        "Grenzen",
+        "Markus"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/handel/edeka-verliert-den-anschluss-warum-die-erfolgsformel-von-markus-mosa-an-ihre-grenzen-stoesst-a-b449314d-98ba-4e1a-9bda-223341afd7ba#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Nach US-Zwischenwahlen: Skepsis zum KI-Boom löst heftigen Börsenabsturz aus",
+      "takeaway": "Bei den US-Zwischenwahlen wurde deutlich, wie stark die Ablehnung von Rechenzentren dort ist. Mit einem Tag Verzögerung haben die Börsen nun mit Wucht reagiert.",
+      "topic": "US-Zwischenwahlen",
+      "tags": [
+        "US-Zwischenwahlen",
+        "Börsenabsturz",
+        "Skepsis",
+        "KI-Boom"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "netzpolitik",
+      "url": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/",
+      "headline": "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln",
+      "takeaway": "Baustelle eines Rechenzentrums in Lübbenau, Spreewald, in dem 100.000 KI-Chips mit einer Anschlussleistung von rund 200 Megawatt verbaut werden sollen. – Alle Rechte vorbehalten: IMAGO / Jochen …",
+      "topic": "Riesen-Rechenzentren",
+      "tags": [
+        "Riesen-Rechenzentren",
+        "Greenpeace-Studie",
+        "Wasserverbrauch",
+        "Bau"
+      ],
+      "sources": [
+        {
+          "src": "netzpolitik",
+          "url": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/gta-6-speicher-konsole-fit-machen-1771054/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "GTA 6 kommt: So machst du deine Konsole fit für den 200-GB-Giganten",
+      "takeaway": "Der interne Speicher ist begrenzt. Für das langersehnte Kultspiel kann es deshalb schnell eng werden. Hier erfährst du, welche externen Speichermöglichkeiten es für deine Xbox und Playstation gibt. …",
+      "topic": "Konsole",
+      "tags": [
+        "Konsole",
+        "GTA",
+        "200-GB-Giganten",
+        "machst"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/gta-6-speicher-konsole-fit-machen-1771054/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Börse: Tech-Werte brechen ein / Rüstung: Der Bund wird Panzerbauer",
+    "dateLabel": "Folge vom 06.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2237-borse-tech-werte-brechen-ein-rustung-der-bund-wird-panzerbauer",
+    "takeaways": [
+      "In den USA brechen die Aktienmärkte ein.",
+      "Und geben einen kleinen Vorgeschmack: Nur weil der US-Präsident künftig weniger Einfluss hat, wird nicht automatisch alles gut.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
