@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T01:50:26.336849+01:00",
-  "updatedAtLabel": "07.11.2026, 01:50 Uhr",
+  "updatedAt": "2026-11-07T07:59:55.809768+01:00",
+  "updatedAtLabel": "07.11.2026, 07:59 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -12,51 +12,51 @@
   },
   "quotes": {
     "btc": {
-      "price": "68.030 €",
+      "price": "68.164 €",
       "change": {
-        "week": -0.73,
-        "month": -6.11,
-        "year": -23.73
+        "week": -0.54,
+        "month": -5.92,
+        "year": -23.58
       },
       "asOf": "2026-11-07",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "2.007,76 €",
+      "price": "2.013,77 €",
       "change": {
-        "week": -0.13,
-        "month": -6.02,
-        "year": -32.21
+        "week": 0.17,
+        "month": -5.74,
+        "year": -32.0
       },
       "asOf": "2026-11-07",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "80,83 €",
+      "price": "80,90 €",
       "change": {
-        "week": -1.49,
-        "month": -12.14,
-        "year": -42.16
+        "week": -1.41,
+        "month": -12.06,
+        "year": -42.12
       },
       "asOf": "2026-11-07",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "1,06 €",
+      "price": "1,05 €",
       "change": {
-        "week": -5.17,
-        "month": -8.04,
-        "year": -47.2
+        "week": -6.05,
+        "month": -8.9,
+        "year": -47.69
       },
       "asOf": "2026-11-07",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "621,88 €",
+      "price": "622,61 €",
       "change": {
-        "week": -0.3,
-        "month": -2.61,
-        "year": -27.43
+        "week": -0.18,
+        "month": -2.49,
+        "year": -27.34
       },
       "asOf": "2026-11-07",
       "src": "CoinGecko"
@@ -102,33 +102,33 @@
       "src": "EZB"
     },
     "dax": {
-      "price": "26.325 Pkt.",
+      "price": "25.820 Pkt.",
       "change": {
-        "week": 1.1,
-        "month": 4.86,
-        "year": 10.92
+        "week": 0.01,
+        "month": 4.09,
+        "year": 8.79
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     },
     "mdax": {
-      "price": "30.892 Pkt.",
+      "price": "30.642 Pkt.",
       "change": {
-        "week": 0.3,
-        "month": 2.59,
-        "year": 6.67
+        "week": 0.56,
+        "month": 3.85,
+        "year": 5.81
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     },
     "sdax": {
-      "price": "18.026 Pkt.",
+      "price": "17.844 Pkt.",
       "change": {
-        "week": -2.13,
-        "month": -0.79,
-        "year": 13.14
+        "week": -1.18,
+        "month": 0.12,
+        "year": 11.99
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     },
     "dow": {
@@ -162,33 +162,33 @@
       "src": "Yahoo"
     },
     "stoxx": {
-      "price": "6.232 Pkt.",
+      "price": "6.170 Pkt.",
       "change": {
-        "week": 0.39,
-        "month": 0.83,
-        "year": 11.06
+        "week": 0.64,
+        "month": 0.71,
+        "year": 9.97
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     },
     "ftse": {
-      "price": "10.783 Pkt.",
+      "price": "10.674 Pkt.",
       "change": {
-        "week": 0.57,
-        "month": 3.1,
-        "year": 10.75
+        "week": -0.52,
+        "month": 2.22,
+        "year": 9.64
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     },
     "nikkei": {
-      "price": "61.078 Pkt.",
+      "price": "57.435 Pkt.",
       "change": {
-        "week": -4.5,
-        "month": -12.68,
-        "year": 20.03
+        "week": -11.17,
+        "month": -18.74,
+        "year": 12.87
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     },
     "adidas": {
@@ -862,23 +862,23 @@
       "src": "Yahoo"
     },
     "nestle": {
-      "price": "87,23 CHF",
+      "price": "85,85 CHF",
       "change": {
-        "week": 5.34,
-        "month": 15.44,
-        "year": 10.57
+        "week": 1.36,
+        "month": 12.96,
+        "year": 8.82
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     },
     "novartis": {
-      "price": "134,12 CHF",
+      "price": "133,08 CHF",
       "change": {
-        "week": 1.38,
-        "month": 11.75,
-        "year": 31.59
+        "week": -0.52,
+        "month": 13.05,
+        "year": 30.57
       },
-      "asOf": "2026-11-05",
+      "asOf": "2026-11-06",
       "src": "Yahoo"
     }
   }

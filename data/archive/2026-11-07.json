@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T08:00:30.679337+01:00",
+  "updatedAtLabel": "07.11.2026, 08:00 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss",
+      "headline": "Braunschweig: VW muss Ex-Manager rund 300.000 Euro nachzahlen",
+      "takeaway": "Weil er interne Unterlagen unter anderem an das Landeskriminalamt weitergegeben haben soll, feuerte Volkswagen einen Manager. Der klagte – mit Erfolg.",
+      "topic": "Braunschweig",
+      "tags": [
+        "Braunschweig",
+        "Ex-Manager",
+        "nachzahlen",
+        "muss"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-e828f1c1-fd25-4c76-b552-1afc023eeadb#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "TU München schaltet nach Cyberangriff Campussystem ab",
+      "takeaway": "Die TUM hat ihr zentrales Campus-Management-System offline genommen, nachdem sich Angreifer unberechtigten Zugriff verschafft und Daten entwendet haben.",
+      "topic": "Cyberangriff",
+      "tags": [
+        "Cyberangriff",
+        "Campussystem",
+        "München",
+        "schaltet"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/tumonline-cyberangriff-auf-die-tu-muenchen-2611-214955.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/ilse-aigner-cdu-will-politikerin-als-naechste-bundespraesidentin/100267969.html",
+      "headline": "Bundespräsidentin: CDU will Ilse Aigner als nächste Bundespräsidentin",
+      "takeaway": "Die CSU ist schon lange für sie. Jetzt herrscht auch Einigkeit in der CDU-Führung, dass Aigner Bundespräsidentin werden soll. Auch wenn der Kanzler sich öffentlich noch nicht dazu äußert.",
+      "topic": "Bundespräsidentin",
+      "tags": [
+        "Bundespräsidentin",
+        "Aigner",
+        "Ilse",
+        "CDU"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/ilse-aigner-cdu-will-politikerin-als-naechste-bundespraesidentin/100267969.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/ilse-aigner-cdu-einigt-sich-auf-naechste-bundespraesidentin-a-310219ef-fe7a-4041-9823-d5f92dfbbdf3#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
+      "headline": "Industrieproduktion wächst überraschend - Autobranche legt zu",
+      "takeaway": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung …",
+      "topic": "Industrieproduktion",
+      "tags": [
+        "Industrieproduktion",
+        "Autobranche",
+        "überraschend",
+        "wächst"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/konjunktur-industrieproduktion-in-deutschland-waechst-im-september-ueberraschend-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Novartis-Zwei-Tumorfaelle-deuten-auf-Bezug-zu-Gentherapie-hin-id31505401.html",
+      "headline": "Neun Meldungen seit 2019: Novartis: Zwei Tumorfälle deuten auf Bezug zu Gentherapie hin",
+      "takeaway": "Das Medikament Zolgensma wird zur Behandlung von kleinen Kindern mit einer seltenen Muskelschwunderkrankung eingesetzt. Die Gentherapie funktioniert mit einem veränderten Virus. Laut Hersteller …",
+      "topic": "Gentherapie",
+      "tags": [
+        "Gentherapie",
+        "Tumorfälle",
+        "Meldungen",
+        "Novartis"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Novartis-Zwei-Tumorfaelle-deuten-auf-Bezug-zu-Gentherapie-hin-id31505401.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/hintergrund-frauen-an-der-spitze-des-bundes/100268058.html",
+      "headline": "Hintergrund: Frauen an der Spitze des Bundes",
+      "takeaway": "Zwölf Männer haben das Amt des Bundespräsidenten bisher ausgeübt. Bei der Wahl am 30. Januar 2027 könnte sich das ändern – und dann würden zwei Frauen oberste Staatsämter besetzen.",
+      "topic": "Hintergrund",
+      "tags": [
+        "Hintergrund",
+        "Frauen",
+        "Spitze",
+        "Bundes"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/hintergrund-frauen-an-der-spitze-des-bundes/100268058.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html",
+      "headline": "Wahlen: Neuseeland hat gewählt - knappes Rennen erwartet",
+      "takeaway": "Regierungschef Luxon oder Ex-Premier Hipkins? Nach Schließung der Wahllokale in Neuseeland zeichnet sich ein enges Rennen zwischen Konservativen und Labour ab.",
+      "topic": "Neuseeland",
+      "tags": [
+        "Neuseeland",
+        "Wahlen",
+        "Rennen",
+        "erwartet"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html",
+      "headline": "Arcade: Hier blinkt und piepst ein halbes Jahrhundert Videospielgeschichte",
+      "takeaway": "Blinkende Röhrenmonitore, klackernde Joysticks, Spiele aus den 1970ern: Im Mikado lebt Videospielgeschichte. Daneben wirken moderne Arcades wie Spielzeugläden. Eine Reportage von Peter Steinlechner ( …",
+      "topic": "Videospielgeschichte",
+      "tags": [
+        "Videospielgeschichte",
+        "Jahrhundert",
+        "Arcade",
+        "Hier"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "netzpolitik",
+      "url": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/",
+      "headline": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
+      "takeaway": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen …",
+      "topic": "Rechenzentren",
+      "tags": [
+        "Rechenzentren",
+        "Woche",
+        "Welt",
+        "aufbegehrte"
+      ],
+      "sources": [
+        {
+          "src": "netzpolitik",
+          "url": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html",
+      "headline": "Gesundheitsgefährdender Algorithmus: EU fordert grundlegende Änderungen bei Tiktok",
+      "takeaway": "Die EU-Kommission sieht Hinweise darauf, dass Tiktok seine Nutzer durch das Empfehlungssystem der App gesundheitlich gefährdet. ( Tiktok , Politik )",
+      "topic": "Gesundheitsgefährdender",
+      "tags": [
+        "Gesundheitsgefährdender",
+        "Algorithmus",
+        "Änderungen",
+        "Tiktok"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Jedes-dritte-Stadtwerk-will-Gasnetz-ganz-oder-teilweise-stilllegen-id31506136.html",
+      "headline": "Viele Betreiber unentschlossen: Jedes dritte Stadtwerk will Gasnetz ganz oder teilweise stilllegen",
+      "takeaway": "Mit Wärmepumpen und Fernwärme wollen viele Stadtwerke klimaneutral werden. Der Heizungsmix soll das Erdgas ersetzen. Doch was wird aus den Gasnetzen? Das ist in vielen Kommunen noch unklar.",
+      "topic": "Betreiber",
+      "tags": [
+        "Betreiber",
+        "Stadtwerk",
+        "Gasnetz",
+        "Jedes"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Jedes-dritte-Stadtwerk-will-Gasnetz-ganz-oder-teilweise-stilllegen-id31506136.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/fritzbox-support-bis-2033-tabelle-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Support bis 2033: Diese Tabelle zeigt, wie lange deine Fritzbox noch Updates bekommt",
+      "takeaway": "Regelmäßig schiebt Fritz Updates und Laborversionen mit neuen Funktionen für Fritzboxen und -Repeater heraus. Doch wie lange wird der eigene Router zu Hause noch mit Aktualisierungen versorgt? …",
+      "topic": "Fritzbox",
+      "tags": [
+        "Fritzbox",
+        "Support",
+        "Tabelle",
+        "Updates"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/fritzbox-support-bis-2033-tabelle-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/sternensystem-komet-3i-atlas-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Aus einem fremden Sternensystem: Was James-Webb-Daten über die Herkunft von 3I/ATLAS verraten",
+      "takeaway": "Der interstellare Komet 3I/Atlas wirft nach wie vor viele Fragen auf. Ein Wissenschaftsteam hat jetzt Hinweise auf seinen Entstehungsort gefunden. Geholfen hat dabei das James-Webb-Weltraumteleskop. …",
+      "topic": "James-Webb-Daten",
+      "tags": [
+        "James-Webb-Daten",
+        "Sternensystem",
+        "Herkunft",
+        "ATLAS"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/sternensystem-komet-3i-atlas-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "headline": "Sequoia shutting down its Scouts program marks the end of an era",
+      "takeaway": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "topic": "Sequoia",
+      "tags": [
+        "Sequoia",
+        "Scouts",
+        "shutting",
+        "program"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/2026/48/oatly-hafermilch-milchindustrie-klima-kommunikation",
+      "headline": "Oatly: Hat Oatly seine Seele verkauft?",
+      "takeaway": "Der Hafermilchhersteller spricht lieber über Wellness und Geschmack als über Klimaschutz. Der jungen Kundschaft müsse man das nicht mehr erklären, behaupten die Chefs.",
+      "topic": "Oatly",
+      "tags": [
+        "Oatly",
+        "Seele",
+        "verkauft",
+        "seine"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/2026/48/oatly-hafermilch-milchindustrie-klima-kommunikation"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Börse: Tech-Werte brechen ein / Rüstung: Der Bund wird Panzerbauer",
+    "dateLabel": "Folge vom 06.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2237-borse-tech-werte-brechen-ein-rustung-der-bund-wird-panzerbauer",
+    "takeaways": [
+      "In den USA brechen die Aktienmärkte ein.",
+      "Und geben einen kleinen Vorgeschmack: Nur weil der US-Präsident künftig weniger Einfluss hat, wird nicht automatisch alles gut.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}

@@ -1,334 +1,322 @@
 {
-  "date": "2026-11-06",
-  "updatedAt": "2026-11-06T07:25:00.008464+01:00",
-  "updatedAtLabel": "06.11.2026, 07:25 Uhr",
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T08:00:30.679337+01:00",
+  "updatedAtLabel": "07.11.2026, 08:00 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-wegen-schweren-betrugs-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss",
-      "headline": "René Benko zu Zusatzstrafe von zwei Jahren verurteilt wegen schweren Betrugs",
-      "takeaway": "Im September wurde der frühere Signa-Chef zu zweieinhalb Jahren Haft verurteilt, nun kommen wegen Betrugs zwei zusätzliche Jahre zur Strafe dazu. Laut Gericht hat René Benko einen Investor um fünf …",
-      "topic": "Zusatzstrafe",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss",
+      "headline": "Braunschweig: VW muss Ex-Manager rund 300.000 Euro nachzahlen",
+      "takeaway": "Weil er interne Unterlagen unter anderem an das Landeskriminalamt weitergegeben haben soll, feuerte Volkswagen einen Manager. Der klagte – mit Erfolg.",
+      "topic": "Braunschweig",
       "tags": [
-        "Zusatzstrafe",
-        "Betrugs",
-        "Benko",
-        "Ren"
+        "Braunschweig",
+        "Ex-Manager",
+        "nachzahlen",
+        "muss"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/rene-benko-zu-zusatzstrafe-von-zwei-jahren-verurteilt-wegen-schweren-betrugs-a-fc9d0fc1-4f92-4ddf-8342-1a4bd6e55ff8#ref=rss"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Signa-Gruender-Benko-wegen-Betrugs-zu-weiteren-zwei-Jahren-Haft-verurteilt-id31500943.html"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss"
         },
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/industrie/rene-benko-wegen-millionenbetrugs-zu-zusatzstrafe-verurteilt-a-acb6df3c-6631-491d-b54e-d4aeb348d0c4#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss",
-      "headline": "Audi will geplantes US-Werk in Georgia offenbar noch vergrößern",
-      "takeaway": "In Deutschland droht eine Werkschließung, in den USA erwägt Audi eine milliardenschwere Erweiterung seiner Neubaupläne. So könnten im Bundesstaat Georgia Tausende Arbeitsplätze zusätzlich entstehen.",
-      "topic": "US-Werk",
-      "tags": [
-        "US-Werk",
-        "Georgia",
-        "Audi",
-        "vergrößern"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/audi-will-geplantes-us-werk-in-georgia-offenbar-noch-vergroessern-a-c0397e01-6083-4731-91a4-be07bd6714ce#ref=rss"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/audi-usa-werk-georgia-donald-trump-zoelle"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-      "headline": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-      "takeaway": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
-      "topic": "Letterboxd",
-      "tags": [
-        "Letterboxd",
-        "Times",
-        "York",
-        "reportedly"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/"
-        },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "takeaway": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "topic": "Airbnb",
-      "tags": [
-        "Airbnb",
-        "launching",
-        "travel",
-        "agent"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-        },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-e828f1c1-fd25-4c76-b552-1afc023eeadb#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Nach US-Zwischenwahlen: OpenAI verspricht anwohnerfreundliche Rechenzentren",
-      "takeaway": "OpenAI kündigt zwei Tage nach den Zwischenwahlen in den USA neue Regeln für sozialverträglichere Rechenzentren an. Anwohner sollen entlastet werden.",
-      "topic": "US-Zwischenwahlen",
+      "url": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "TU München schaltet nach Cyberangriff Campussystem ab",
+      "takeaway": "Die TUM hat ihr zentrales Campus-Management-System offline genommen, nachdem sich Angreifer unberechtigten Zugriff verschafft und Daten entwendet haben.",
+      "topic": "Cyberangriff",
       "tags": [
-        "US-Zwischenwahlen",
-        "Rechenzentren",
-        "OpenAI",
-        "anwohnerfreundliche"
+        "Cyberangriff",
+        "Campussystem",
+        "München",
+        "schaltet"
       ],
       "sources": [
         {
           "src": "heise",
-          "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "url": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         },
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/openai-verspricht-transparenz-bei-rechenzentren-nach-politischem-gegenwind-bei-us-midterms/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html",
-      "headline": "Bund und Eigentümerfamilien einigen sich auf Kaufpreis bei KNDS",
-      "takeaway": "Die Bundesregierung übernimmt alle Anteile der Eigentümerfamilien am Panzerbauer KNDS. Damit sichert sich der Bund den Einfluss auf Schlüsseltechnologien - und gibt offenbar weniger Geld aus als …",
-      "topic": "Eigentümerfamilien",
-      "tags": [
-        "Eigentümerfamilien",
-        "Kaufpreis",
-        "Bund",
-        "KNDS"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/knds-bundesregierung-100.html"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/knds-bund-uebernahme-wegmann-boersengang"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html",
-      "headline": "Finanzkriminalität: KI filtert aus Millionen Dateien die entscheidenden Spuren heraus",
-      "takeaway": "Die händische Auswertung von Ermittlungsunterlagen ist zeitraubend: Dabei nutzen Behörden jetzt eine eigene KI, das beschleunigt die Arbeit. ( KI , Finanzsoftware )",
-      "topic": "Finanzkriminalität",
-      "tags": [
-        "Finanzkriminalität",
-        "Dateien",
-        "Spuren",
-        "entscheidenden"
-      ],
-      "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/finanzen/asiens-boersen-setzen-abschwung-von-chipaktien-in-den-usa-fort/100267767.html",
-      "headline": "Nikkei, Kospi und Topix: Abverkauf bei Chipaktien erfasst Japan und Südkorea",
-      "takeaway": "Japans Nikkei verliert zeitweise fast sieben Prozent, Südkoreas Kospi mehr als acht Prozent. US-Präsident Donald Trump gibt den Demokraten die Schuld am Kursrutsch.",
-      "topic": "Chipaktien",
-      "tags": [
-        "Chipaktien",
-        "Abverkauf",
-        "Südkorea",
-        "Nikkei"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/asiens-boersen-setzen-abschwung-von-chipaktien-in-den-usa-fort/100267767.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/hbm/digitalisierung/agentic-commerce-wem-gehoert-kuenftig-die-kundschaft-a-d5e7f606-2fd2-4467-b6e6-d9a4fe2aa88e#ref=rss",
-      "headline": "Agentic Commerce: Wem gehört künftig die Kundschaft?",
-      "takeaway": "Wenn bald immer mehr Menschen Kaufentscheidungen an KI-Agenten abgeben, verlieren Onlinehändler die Kundenbeziehung und damit die Macht. Das liegt an sechs Spielregeln, die sich gerade ändern.",
-      "topic": "Kundschaft",
-      "tags": [
-        "Kundschaft",
-        "Commerce",
-        "Agentic",
-        "Wem"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/hbm/digitalisierung/agentic-commerce-wem-gehoert-kuenftig-die-kundschaft-a-d5e7f606-2fd2-4467-b6e6-d9a4fe2aa88e#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-daimler-truck-steigert-gewinn-deutlich-dank-wende-in-usa/100267801.html",
-      "headline": "Quartalszahlen: Daimler Truck steigert Gewinn deutlich dank Wende in USA",
-      "takeaway": "Der Lkw-Bauer Daimler Truck blickt auf ein positives Quartal mit gesteigertem Gewinn zurück. Vor allem die Stimmung am nordamerikanischen Markt hellte sich auf.",
-      "topic": "Quartalszahlen",
-      "tags": [
-        "Quartalszahlen",
-        "Daimler",
-        "Gewinn",
-        "Truck"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/quartalszahlen-daimler-truck-steigert-gewinn-deutlich-dank-wende-in-usa/100267801.html"
+          "url": "https://www.golem.de/news/tumonline-cyberangriff-auf-die-tu-muenchen-2611-214955.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-in-gefahr-was-der-tech-abverkauf-bedeutet/100267738.html",
-      "headline": "Tumult bei Tech-Aktien: Bringt der Tech-Abverkauf den Anthropic-Börsengang in Gefahr?",
-      "takeaway": "Das Umfeld für den Mega-Börsengang von Anthropic wird schlechter. Was für eine Absage spricht – und welche Folgen das für die Börsen hätte.",
-      "topic": "Anthropic-Börsengang",
+      "url": "https://www.wiwo.de/politik/deutschland/ilse-aigner-cdu-will-politikerin-als-naechste-bundespraesidentin/100267969.html",
+      "headline": "Bundespräsidentin: CDU will Ilse Aigner als nächste Bundespräsidentin",
+      "takeaway": "Die CSU ist schon lange für sie. Jetzt herrscht auch Einigkeit in der CDU-Führung, dass Aigner Bundespräsidentin werden soll. Auch wenn der Kanzler sich öffentlich noch nicht dazu äußert.",
+      "topic": "Bundespräsidentin",
       "tags": [
-        "Anthropic-Börsengang",
-        "Tech-Abverkauf",
-        "Tech-Aktien",
-        "Tumult"
+        "Bundespräsidentin",
+        "Aigner",
+        "Ilse",
+        "CDU"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/boerse/anthropic-boersengang-in-gefahr-was-der-tech-abverkauf-bedeutet/100267738.html"
+          "url": "https://www.wiwo.de/politik/deutschland/ilse-aigner-cdu-will-politikerin-als-naechste-bundespraesidentin/100267969.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/ilse-aigner-cdu-einigt-sich-auf-naechste-bundespraesidentin-a-310219ef-fe7a-4041-9823-d5f92dfbbdf3#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/handel/edeka-verliert-den-anschluss-warum-die-erfolgsformel-von-markus-mosa-an-ihre-grenzen-stoesst-a-b449314d-98ba-4e1a-9bda-223341afd7ba#ref=rss",
-      "headline": "Edeka verliert den Anschluss: Warum die Erfolgsformel von Markus Mosa an ihre Grenzen stößt",
-      "takeaway": "Markus Mosa steht seit 18 Jahren an der Spitze von Edeka und hat sich nahezu unentbehrlich gemacht. Warum seine Erfolgsformel langsam an Grenzen stößt, erfahren Sie in diesem Podcast.",
-      "topic": "Erfolgsformel",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
+      "headline": "Industrieproduktion wächst überraschend - Autobranche legt zu",
+      "takeaway": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung …",
+      "topic": "Industrieproduktion",
       "tags": [
-        "Erfolgsformel",
-        "Anschluss",
-        "Grenzen",
-        "Markus"
+        "Industrieproduktion",
+        "Autobranche",
+        "überraschend",
+        "wächst"
       ],
       "sources": [
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/handel/edeka-verliert-den-anschluss-warum-die-erfolgsformel-von-markus-mosa-an-ihre-grenzen-stoesst-a-b449314d-98ba-4e1a-9bda-223341afd7ba#ref=rss"
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/konjunktur-industrieproduktion-in-deutschland-waechst-im-september-ueberraschend-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Novartis-Zwei-Tumorfaelle-deuten-auf-Bezug-zu-Gentherapie-hin-id31505401.html",
+      "headline": "Neun Meldungen seit 2019: Novartis: Zwei Tumorfälle deuten auf Bezug zu Gentherapie hin",
+      "takeaway": "Das Medikament Zolgensma wird zur Behandlung von kleinen Kindern mit einer seltenen Muskelschwunderkrankung eingesetzt. Die Gentherapie funktioniert mit einem veränderten Virus. Laut Hersteller …",
+      "topic": "Gentherapie",
+      "tags": [
+        "Gentherapie",
+        "Tumorfälle",
+        "Meldungen",
+        "Novartis"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Novartis-Zwei-Tumorfaelle-deuten-auf-Bezug-zu-Gentherapie-hin-id31505401.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/hintergrund-frauen-an-der-spitze-des-bundes/100268058.html",
+      "headline": "Hintergrund: Frauen an der Spitze des Bundes",
+      "takeaway": "Zwölf Männer haben das Amt des Bundespräsidenten bisher ausgeübt. Bei der Wahl am 30. Januar 2027 könnte sich das ändern – und dann würden zwei Frauen oberste Staatsämter besetzen.",
+      "topic": "Hintergrund",
+      "tags": [
+        "Hintergrund",
+        "Frauen",
+        "Spitze",
+        "Bundes"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/hintergrund-frauen-an-der-spitze-des-bundes/100268058.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html",
+      "headline": "Wahlen: Neuseeland hat gewählt - knappes Rennen erwartet",
+      "takeaway": "Regierungschef Luxon oder Ex-Premier Hipkins? Nach Schließung der Wahllokale in Neuseeland zeichnet sich ein enges Rennen zwischen Konservativen und Labour ab.",
+      "topic": "Neuseeland",
+      "tags": [
+        "Neuseeland",
+        "Wahlen",
+        "Rennen",
+        "erwartet"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Nach US-Zwischenwahlen: Skepsis zum KI-Boom löst heftigen Börsenabsturz aus",
-      "takeaway": "Bei den US-Zwischenwahlen wurde deutlich, wie stark die Ablehnung von Rechenzentren dort ist. Mit einem Tag Verzögerung haben die Börsen nun mit Wucht reagiert.",
-      "topic": "US-Zwischenwahlen",
+      "src": "golem",
+      "url": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html",
+      "headline": "Arcade: Hier blinkt und piepst ein halbes Jahrhundert Videospielgeschichte",
+      "takeaway": "Blinkende Röhrenmonitore, klackernde Joysticks, Spiele aus den 1970ern: Im Mikado lebt Videospielgeschichte. Daneben wirken moderne Arcades wie Spielzeugläden. Eine Reportage von Peter Steinlechner ( …",
+      "topic": "Videospielgeschichte",
       "tags": [
-        "US-Zwischenwahlen",
-        "Börsenabsturz",
-        "Skepsis",
-        "KI-Boom"
+        "Videospielgeschichte",
+        "Jahrhundert",
+        "Arcade",
+        "Hier"
       ],
       "sources": [
         {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "src": "golem",
+          "url": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "netzpolitik",
-      "url": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/",
-      "headline": "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln",
-      "takeaway": "Baustelle eines Rechenzentrums in Lübbenau, Spreewald, in dem 100.000 KI-Chips mit einer Anschlussleistung von rund 200 Megawatt verbaut werden sollen. – Alle Rechte vorbehalten: IMAGO / Jochen …",
-      "topic": "Riesen-Rechenzentren",
+      "url": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/",
+      "headline": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
+      "takeaway": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen …",
+      "topic": "Rechenzentren",
       "tags": [
-        "Riesen-Rechenzentren",
-        "Greenpeace-Studie",
-        "Wasserverbrauch",
-        "Bau"
+        "Rechenzentren",
+        "Woche",
+        "Welt",
+        "aufbegehrte"
       ],
       "sources": [
         {
           "src": "netzpolitik",
-          "url": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/"
+          "url": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html",
+      "headline": "Gesundheitsgefährdender Algorithmus: EU fordert grundlegende Änderungen bei Tiktok",
+      "takeaway": "Die EU-Kommission sieht Hinweise darauf, dass Tiktok seine Nutzer durch das Empfehlungssystem der App gesundheitlich gefährdet. ( Tiktok , Politik )",
+      "topic": "Gesundheitsgefährdender",
+      "tags": [
+        "Gesundheitsgefährdender",
+        "Algorithmus",
+        "Änderungen",
+        "Tiktok"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Jedes-dritte-Stadtwerk-will-Gasnetz-ganz-oder-teilweise-stilllegen-id31506136.html",
+      "headline": "Viele Betreiber unentschlossen: Jedes dritte Stadtwerk will Gasnetz ganz oder teilweise stilllegen",
+      "takeaway": "Mit Wärmepumpen und Fernwärme wollen viele Stadtwerke klimaneutral werden. Der Heizungsmix soll das Erdgas ersetzen. Doch was wird aus den Gasnetzen? Das ist in vielen Kommunen noch unklar.",
+      "topic": "Betreiber",
+      "tags": [
+        "Betreiber",
+        "Stadtwerk",
+        "Gasnetz",
+        "Jedes"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Jedes-dritte-Stadtwerk-will-Gasnetz-ganz-oder-teilweise-stilllegen-id31506136.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/gta-6-speicher-konsole-fit-machen-1771054/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "GTA 6 kommt: So machst du deine Konsole fit für den 200-GB-Giganten",
-      "takeaway": "Der interne Speicher ist begrenzt. Für das langersehnte Kultspiel kann es deshalb schnell eng werden. Hier erfährst du, welche externen Speichermöglichkeiten es für deine Xbox und Playstation gibt. …",
-      "topic": "Konsole",
+      "url": "https://t3n.de/news/fritzbox-support-bis-2033-tabelle-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Support bis 2033: Diese Tabelle zeigt, wie lange deine Fritzbox noch Updates bekommt",
+      "takeaway": "Regelmäßig schiebt Fritz Updates und Laborversionen mit neuen Funktionen für Fritzboxen und -Repeater heraus. Doch wie lange wird der eigene Router zu Hause noch mit Aktualisierungen versorgt? …",
+      "topic": "Fritzbox",
       "tags": [
-        "Konsole",
-        "GTA",
-        "200-GB-Giganten",
-        "machst"
+        "Fritzbox",
+        "Support",
+        "Tabelle",
+        "Updates"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/gta-6-speicher-konsole-fit-machen-1771054/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/fritzbox-support-bis-2033-tabelle-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/sternensystem-komet-3i-atlas-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Aus einem fremden Sternensystem: Was James-Webb-Daten über die Herkunft von 3I/ATLAS verraten",
+      "takeaway": "Der interstellare Komet 3I/Atlas wirft nach wie vor viele Fragen auf. Ein Wissenschaftsteam hat jetzt Hinweise auf seinen Entstehungsort gefunden. Geholfen hat dabei das James-Webb-Weltraumteleskop. …",
+      "topic": "James-Webb-Daten",
+      "tags": [
+        "James-Webb-Daten",
+        "Sternensystem",
+        "Herkunft",
+        "ATLAS"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/sternensystem-komet-3i-atlas-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "headline": "Sequoia shutting down its Scouts program marks the end of an era",
+      "takeaway": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+      "topic": "Sequoia",
+      "tags": [
+        "Sequoia",
+        "Scouts",
+        "shutting",
+        "program"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/2026/48/oatly-hafermilch-milchindustrie-klima-kommunikation",
+      "headline": "Oatly: Hat Oatly seine Seele verkauft?",
+      "takeaway": "Der Hafermilchhersteller spricht lieber über Wellness und Geschmack als über Klimaschutz. Der jungen Kundschaft müsse man das nicht mehr erklären, behaupten die Chefs.",
+      "topic": "Oatly",
+      "tags": [
+        "Oatly",
+        "Seele",
+        "verkauft",
+        "seine"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/2026/48/oatly-hafermilch-milchindustrie-klima-kommunikation"
         }
       ]
     }
