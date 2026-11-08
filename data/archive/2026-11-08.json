@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-08",
+  "updatedAt": "2026-11-08T11:08:57.200417+01:00",
+  "updatedAtLabel": "08.11.2026, 11:08 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48#ref=rss",
+      "headline": "Nvidia: Jen-Hsun Huang soll Affäre mit chinesischer Agentin gehabt haben",
+      "takeaway": "Ist der US-Chiphersteller Nvidia auf höchster Ebene ausspioniert worden? Einem Medienbericht zufolge soll die chinesische Regierung Firmenchef Huang eine Falle gestellt haben – womöglich erfolgreich.",
+      "topic": "Jen-Hsun",
+      "tags": [
+        "Jen-Hsun",
+        "Agentin",
+        "Nvidia",
+        "Affäre"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-jensen-huang-affaere-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-a4b61523-42a1-4fd3-b1b3-c490656ee632#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "headline": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "takeaway": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "topic": "Touchscreen",
+      "tags": [
+        "Touchscreen",
+        "Waterproof",
+        "Knitted",
+        "Leather"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/gallery/best-touchscreen-gloves/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "headline": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "takeaway": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "topic": "MacBook",
+      "tags": [
+        "MacBook",
+        "Apple",
+        "Right",
+        "Sale"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/argentinien-javier-milei-will-mit-patagonien-zum-ki-hotspot-werden-a-c9f433be-f67d-43da-aed7-cf7bb5587d6b#ref=rss",
+      "headline": "Argentinien: Javier Milei will mit Patagonien zum KI-Hotspot werden",
+      "takeaway": "Wenig Regulierung, niedrigere Steuern – und die unberührte Weite Patagoniens. Der argentinische Präsident Milei buhlt um den Bau von KI-Rechenzentren in der Steppe. Doch auch in Argentinien keimt …",
+      "topic": "Argentinien",
+      "tags": [
+        "Argentinien",
+        "Patagonien",
+        "KI-Hotspot",
+        "Javier"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/argentinien-javier-milei-will-mit-patagonien-zum-ki-hotspot-werden-a-c9f433be-f67d-43da-aed7-cf7bb5587d6b#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/handel/lieferdienste-online-statt-laden-lebensmittel-lieferdienste-ruesten-auf/100268194.html",
+      "headline": "Lieferdienste: Online statt Laden? Lebensmittel-Lieferdienste rüsten auf",
+      "takeaway": "Lebensmittel werden zunehmend online bestellt. Amazon und Rewe setzen nun auf besonders schnelle Lieferungen – was steckt hinter der neuen Offensive?",
+      "topic": "Lebensmittel-Lieferdienste",
+      "tags": [
+        "Lebensmittel-Lieferdienste",
+        "Lieferdienste",
+        "Online",
+        "Laden"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/handel/lieferdienste-online-statt-laden-lebensmittel-lieferdienste-ruesten-auf/100268194.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/konflikt-mit-saudi-arabien-huthi-greifen-wolkenkratzer-im-zentrum-von-riad-an/100268197.html",
+      "headline": "Konflikt mit Saudi-Arabien: Huthi greifen Wolkenkratzer im Zentrum von Riad an",
+      "takeaway": "Die fast täglichen Angriffe der Huthi hinterlassen große Kratzer am Image Saudi-Arabiens als sicherer Ort für Geschäfte und Tourismus. Jetzt wird der Geschäftsbezirk von Riad getroffen.",
+      "topic": "Saudi-Arabien",
+      "tags": [
+        "Saudi-Arabien",
+        "Wolkenkratzer",
+        "Konflikt",
+        "Zentrum"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/konflikt-mit-saudi-arabien-huthi-greifen-wolkenkratzer-im-zentrum-von-riad-an/100268197.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/staedteranking-2026-das-sind-deutschlands-familienfreundlichste-grossstaedte/100263646.html",
+      "headline": "Städteranking 2026: Das sind Deutschlands familienfreundlichste Großstädte",
+      "takeaway": "Eine Sonderauswertung des WirtschaftsWoche-Städtetests hat die Familienfreundlichkeit in den Blick genommen. Vor allem Bonn scheint vieles richtig zu machen. Ein Vor-Ort-Besuch.",
+      "topic": "Städteranking",
+      "tags": [
+        "Städteranking",
+        "Deutschlands",
+        "Großstädte",
+        "familienfreundlichste"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/staedteranking-2026-das-sind-deutschlands-familienfreundlichste-grossstaedte/100263646.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/massenentlassungen-bei-canva-warum-das-unternehmen-trotzdem-gefeiert-wird-1772223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Massenentlassungen bei Canva: Warum das Unternehmen trotzdem gefeiert wird",
+      "takeaway": "Normalerweise sorgen Nachrichten wie diese für Sorgen und Frust. Die Design-Plattform beweist, dass es auch anders geht: Wer das Unternehmen verlassen muss, kann auf weitreichende Unterstützung …",
+      "topic": "Massenentlassungen",
+      "tags": [
+        "Massenentlassungen",
+        "Unternehmen",
+        "Canva",
+        "trotzdem"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/massenentlassungen-bei-canva-warum-das-unternehmen-trotzdem-gefeiert-wird-1772223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html",
+      "headline": "Bei Dunkelflaute: Effizientere Wärmepumpe dank chemischem Speicher",
+      "takeaway": "Damit Wärmepumpen bei einer Kältewelle verlässlich heizen, ist die Kombination mit Speichern sinnvoll. Eine effizientere Pumpe allein genügt nicht. ( Wärmepumpe , Akku )",
+      "topic": "Dunkelflaute",
+      "tags": [
+        "Dunkelflaute",
+        "Effizientere",
+        "Wärmepumpe",
+        "Speicher"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
+      "headline": "Die Welt in Bildern: Blickfang",
+      "takeaway": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang.",
+      "topic": "Blickfang",
+      "tags": [
+        "Blickfang",
+        "Bildern",
+        "Welt"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ki-mathe-studium-zukunft-hausaufgaben-kapitulation-1769844/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Mathe-Professor kapituliert: Warum Hausaufgaben durch KI sinnlos sind",
+      "takeaway": "Zu Beginn des KI-Booms galt Mathematik als eine gute Studienwahl – das hat sich geändert. Jetzt zweifeln selbst Lehrkräfte an Universitäten daran, ob sie jungen Menschen raten sollen, das Fach zu …",
+      "topic": "Mathe-Professor",
+      "tags": [
+        "Mathe-Professor",
+        "Hausaufgaben",
+        "kapituliert",
+        "sinnlos"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-mathe-studium-zukunft-hausaufgaben-kapitulation-1769844/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+      "headline": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+      "takeaway": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
+      "topic": "France",
+      "tags": [
+        "France",
+        "pictures",
+        "protests",
+        "straight"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/politik/deutschland/kuenstliche-intelligenz-demokraten-wahlsieg-schuert-angst-vor-ki-crash-a-9bacc8e7-c01b-4bda-8ca2-3dd82e262574#ref=rss",
+      "headline": "Künstliche Intelligenz: Demokraten-Wahlsieg schürt Angst vor KI-Crash",
+      "takeaway": "Der Künstliche-Intelligenz-Boom in den USA übertrifft alle vernünftigen Maßstäbe. Nun stellt der Wahlsieg der Demokraten den weiteren Ausbau infrage. Die Bühne ist bereitet für einen Crash mit …",
+      "topic": "Demokraten-Wahlsieg",
+      "tags": [
+        "Demokraten-Wahlsieg",
+        "Intelligenz",
+        "Künstliche",
+        "KI-Crash"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/kuenstliche-intelligenz-demokraten-wahlsieg-schuert-angst-vor-ki-crash-a-9bacc8e7-c01b-4bda-8ca2-3dd82e262574#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/",
+      "headline": "Coding-Agenten liefern viel, aber selten fertig",
+      "takeaway": "Der KI-Agenten-Benchmark Co-Design Bench von Alibaba konfrontiert Coding-Agenten mit echten, schwierigen Nutzeranfragen und zeigt ernüchternde Ergebnisse: Selbst GPT-6 Astra als Spitzenreiter löst …",
+      "topic": "Coding-Agenten",
+      "tags": [
+        "Coding-Agenten",
+        "liefern",
+        "selten",
+        "fertig"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html",
+      "headline": "(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht",
+      "takeaway": "Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt …",
+      "topic": "Pizzarechner",
+      "tags": [
+        "Pizzarechner",
+        "Einstieg",
+        "Web-Apps",
+        "Flutter"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Börse: Tech-Werte brechen ein / Rüstung: Der Bund wird Panzerbauer",
+    "dateLabel": "Folge vom 06.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2237-borse-tech-werte-brechen-ein-rustung-der-bund-wird-panzerbauer",
+    "takeaways": [
+      "In den USA brechen die Aktienmärkte ein.",
+      "Und geben einen kleinen Vorgeschmack: Nur weil der US-Präsident künftig weniger Einfluss hat, wird nicht automatisch alles gut.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}

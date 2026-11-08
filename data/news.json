@@ -1,322 +1,309 @@
 {
-  "date": "2026-11-07",
-  "updatedAt": "2026-11-07T08:00:30.679337+01:00",
-  "updatedAtLabel": "07.11.2026, 08:00 Uhr",
+  "date": "2026-11-08",
+  "updatedAt": "2026-11-08T11:08:57.200417+01:00",
+  "updatedAtLabel": "08.11.2026, 11:08 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss",
-      "headline": "Braunschweig: VW muss Ex-Manager rund 300.000 Euro nachzahlen",
-      "takeaway": "Weil er interne Unterlagen unter anderem an das Landeskriminalamt weitergegeben haben soll, feuerte Volkswagen einen Manager. Der klagte – mit Erfolg.",
-      "topic": "Braunschweig",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48#ref=rss",
+      "headline": "Nvidia: Jen-Hsun Huang soll Affäre mit chinesischer Agentin gehabt haben",
+      "takeaway": "Ist der US-Chiphersteller Nvidia auf höchster Ebene ausspioniert worden? Einem Medienbericht zufolge soll die chinesische Regierung Firmenchef Huang eine Falle gestellt haben – womöglich erfolgreich.",
+      "topic": "Jen-Hsun",
       "tags": [
-        "Braunschweig",
-        "Ex-Manager",
-        "nachzahlen",
-        "muss"
+        "Jen-Hsun",
+        "Agentin",
+        "Nvidia",
+        "Affäre"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-dc3eb412-a0e6-46c0-9f23-38516e88ccb1#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jen-hsun-huang-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-8b6c5163-b475-4478-a335-3aeaeccdca48#ref=rss"
         },
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/braunschweig-vw-muss-ex-manager-rund-300-000-euro-nachzahlen-a-e828f1c1-fd25-4c76-b552-1afc023eeadb#ref=rss"
+          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-jensen-huang-affaere-soll-affaere-mit-chinesischer-agentin-gehabt-haben-a-a4b61523-42a1-4fd3-b1b3-c490656ee632#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "TU München schaltet nach Cyberangriff Campussystem ab",
-      "takeaway": "Die TUM hat ihr zentrales Campus-Management-System offline genommen, nachdem sich Angreifer unberechtigten Zugriff verschafft und Daten entwendet haben.",
-      "topic": "Cyberangriff",
+      "src": "wired",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "headline": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "takeaway": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "topic": "Touchscreen",
       "tags": [
-        "Cyberangriff",
-        "Campussystem",
-        "München",
-        "schaltet"
+        "Touchscreen",
+        "Waterproof",
+        "Knitted",
+        "Leather"
       ],
       "sources": [
         {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        },
+          "src": "wired",
+          "url": "https://www.wired.com/gallery/best-touchscreen-gloves/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "headline": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "takeaway": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "topic": "MacBook",
+      "tags": [
+        "MacBook",
+        "Apple",
+        "Right",
+        "Sale"
+      ],
+      "sources": [
         {
-          "src": "golem",
-          "url": "https://www.golem.de/news/tumonline-cyberangriff-auf-die-tu-muenchen-2611-214955.html"
+          "src": "wired",
+          "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/argentinien-javier-milei-will-mit-patagonien-zum-ki-hotspot-werden-a-c9f433be-f67d-43da-aed7-cf7bb5587d6b#ref=rss",
+      "headline": "Argentinien: Javier Milei will mit Patagonien zum KI-Hotspot werden",
+      "takeaway": "Wenig Regulierung, niedrigere Steuern – und die unberührte Weite Patagoniens. Der argentinische Präsident Milei buhlt um den Bau von KI-Rechenzentren in der Steppe. Doch auch in Argentinien keimt …",
+      "topic": "Argentinien",
+      "tags": [
+        "Argentinien",
+        "Patagonien",
+        "KI-Hotspot",
+        "Javier"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/argentinien-javier-milei-will-mit-patagonien-zum-ki-hotspot-werden-a-c9f433be-f67d-43da-aed7-cf7bb5587d6b#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/deutschland/ilse-aigner-cdu-will-politikerin-als-naechste-bundespraesidentin/100267969.html",
-      "headline": "Bundespräsidentin: CDU will Ilse Aigner als nächste Bundespräsidentin",
-      "takeaway": "Die CSU ist schon lange für sie. Jetzt herrscht auch Einigkeit in der CDU-Führung, dass Aigner Bundespräsidentin werden soll. Auch wenn der Kanzler sich öffentlich noch nicht dazu äußert.",
-      "topic": "Bundespräsidentin",
+      "url": "https://www.wiwo.de/unternehmen/handel/lieferdienste-online-statt-laden-lebensmittel-lieferdienste-ruesten-auf/100268194.html",
+      "headline": "Lieferdienste: Online statt Laden? Lebensmittel-Lieferdienste rüsten auf",
+      "takeaway": "Lebensmittel werden zunehmend online bestellt. Amazon und Rewe setzen nun auf besonders schnelle Lieferungen – was steckt hinter der neuen Offensive?",
+      "topic": "Lebensmittel-Lieferdienste",
       "tags": [
-        "Bundespräsidentin",
-        "Aigner",
-        "Ilse",
-        "CDU"
+        "Lebensmittel-Lieferdienste",
+        "Lieferdienste",
+        "Online",
+        "Laden"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/ilse-aigner-cdu-will-politikerin-als-naechste-bundespraesidentin/100267969.html"
-        },
+          "url": "https://www.wiwo.de/unternehmen/handel/lieferdienste-online-statt-laden-lebensmittel-lieferdienste-ruesten-auf/100268194.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/konflikt-mit-saudi-arabien-huthi-greifen-wolkenkratzer-im-zentrum-von-riad-an/100268197.html",
+      "headline": "Konflikt mit Saudi-Arabien: Huthi greifen Wolkenkratzer im Zentrum von Riad an",
+      "takeaway": "Die fast täglichen Angriffe der Huthi hinterlassen große Kratzer am Image Saudi-Arabiens als sicherer Ort für Geschäfte und Tourismus. Jetzt wird der Geschäftsbezirk von Riad getroffen.",
+      "topic": "Saudi-Arabien",
+      "tags": [
+        "Saudi-Arabien",
+        "Wolkenkratzer",
+        "Konflikt",
+        "Zentrum"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/konflikt-mit-saudi-arabien-huthi-greifen-wolkenkratzer-im-zentrum-von-riad-an/100268197.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/staedteranking-2026-das-sind-deutschlands-familienfreundlichste-grossstaedte/100263646.html",
+      "headline": "Städteranking 2026: Das sind Deutschlands familienfreundlichste Großstädte",
+      "takeaway": "Eine Sonderauswertung des WirtschaftsWoche-Städtetests hat die Familienfreundlichkeit in den Blick genommen. Vor allem Bonn scheint vieles richtig zu machen. Ein Vor-Ort-Besuch.",
+      "topic": "Städteranking",
+      "tags": [
+        "Städteranking",
+        "Deutschlands",
+        "Großstädte",
+        "familienfreundlichste"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/staedteranking-2026-das-sind-deutschlands-familienfreundlichste-grossstaedte/100263646.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/massenentlassungen-bei-canva-warum-das-unternehmen-trotzdem-gefeiert-wird-1772223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Massenentlassungen bei Canva: Warum das Unternehmen trotzdem gefeiert wird",
+      "takeaway": "Normalerweise sorgen Nachrichten wie diese für Sorgen und Frust. Die Design-Plattform beweist, dass es auch anders geht: Wer das Unternehmen verlassen muss, kann auf weitreichende Unterstützung …",
+      "topic": "Massenentlassungen",
+      "tags": [
+        "Massenentlassungen",
+        "Unternehmen",
+        "Canva",
+        "trotzdem"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/massenentlassungen-bei-canva-warum-das-unternehmen-trotzdem-gefeiert-wird-1772223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html",
+      "headline": "Bei Dunkelflaute: Effizientere Wärmepumpe dank chemischem Speicher",
+      "takeaway": "Damit Wärmepumpen bei einer Kältewelle verlässlich heizen, ist die Kombination mit Speichern sinnvoll. Eine effizientere Pumpe allein genügt nicht. ( Wärmepumpe , Akku )",
+      "topic": "Dunkelflaute",
+      "tags": [
+        "Dunkelflaute",
+        "Effizientere",
+        "Wärmepumpe",
+        "Speicher"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html",
+      "headline": "Die Welt in Bildern: Blickfang",
+      "takeaway": "Sie beeindrucken. Sie wühlen auf. Sie faszinieren. Sie erschrecken. Sie dokumentieren den großen Moment. Sie zeigen kleine Wunder. Oder sie erzählen eine Geschichte. Die Welt – ein Blickfang.",
+      "topic": "Blickfang",
+      "tags": [
+        "Blickfang",
+        "Bildern",
+        "Welt"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/die-welt-in-bildern-blickfang/8906950.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ki-mathe-studium-zukunft-hausaufgaben-kapitulation-1769844/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Mathe-Professor kapituliert: Warum Hausaufgaben durch KI sinnlos sind",
+      "takeaway": "Zu Beginn des KI-Booms galt Mathematik als eine gute Studienwahl – das hat sich geändert. Jetzt zweifeln selbst Lehrkräfte an Universitäten daran, ob sie jungen Menschen raten sollen, das Fach zu …",
+      "topic": "Mathe-Professor",
+      "tags": [
+        "Mathe-Professor",
+        "Hausaufgaben",
+        "kapituliert",
+        "sinnlos"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-mathe-studium-zukunft-hausaufgaben-kapitulation-1769844/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+      "headline": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+      "takeaway": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
+      "topic": "France",
+      "tags": [
+        "France",
+        "pictures",
+        "protests",
+        "straight"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/politik/deutschland/kuenstliche-intelligenz-demokraten-wahlsieg-schuert-angst-vor-ki-crash-a-9bacc8e7-c01b-4bda-8ca2-3dd82e262574#ref=rss",
+      "headline": "Künstliche Intelligenz: Demokraten-Wahlsieg schürt Angst vor KI-Crash",
+      "takeaway": "Der Künstliche-Intelligenz-Boom in den USA übertrifft alle vernünftigen Maßstäbe. Nun stellt der Wahlsieg der Demokraten den weiteren Ausbau infrage. Die Bühne ist bereitet für einen Crash mit …",
+      "topic": "Demokraten-Wahlsieg",
+      "tags": [
+        "Demokraten-Wahlsieg",
+        "Intelligenz",
+        "Künstliche",
+        "KI-Crash"
+      ],
+      "sources": [
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/deutschland/ilse-aigner-cdu-einigt-sich-auf-naechste-bundespraesidentin-a-310219ef-fe7a-4041-9823-d5f92dfbbdf3#ref=rss"
+          "url": "https://www.manager-magazin.de/politik/deutschland/kuenstliche-intelligenz-demokraten-wahlsieg-schuert-angst-vor-ki-crash-a-9bacc8e7-c01b-4bda-8ca2-3dd82e262574#ref=rss"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html",
-      "headline": "Industrieproduktion wächst überraschend - Autobranche legt zu",
-      "takeaway": "Deutsche Industriebetriebe haben im September überraschend mehr produziert als im Vormonat. Vor allem die Autobranche sorgte für das Plus. Doch die Risikofaktoren für die wirtschaftliche Erholung …",
-      "topic": "Industrieproduktion",
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/",
+      "headline": "Coding-Agenten liefern viel, aber selten fertig",
+      "takeaway": "Der KI-Agenten-Benchmark Co-Design Bench von Alibaba konfrontiert Coding-Agenten mit echten, schwierigen Nutzeranfragen und zeigt ernüchternde Ergebnisse: Selbst GPT-6 Astra als Spitzenreiter löst …",
+      "topic": "Coding-Agenten",
       "tags": [
-        "Industrieproduktion",
-        "Autobranche",
-        "überraschend",
-        "wächst"
+        "Coding-Agenten",
+        "liefern",
+        "selten",
+        "fertig"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/industrieproduktion-wachstum-deutschland-100.html"
-        },
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/konjunktur-industrieproduktion-in-deutschland-waechst-im-september-ueberraschend-a-8d411263-f61e-4531-84b8-20b764fe2ec3#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Novartis-Zwei-Tumorfaelle-deuten-auf-Bezug-zu-Gentherapie-hin-id31505401.html",
-      "headline": "Neun Meldungen seit 2019: Novartis: Zwei Tumorfälle deuten auf Bezug zu Gentherapie hin",
-      "takeaway": "Das Medikament Zolgensma wird zur Behandlung von kleinen Kindern mit einer seltenen Muskelschwunderkrankung eingesetzt. Die Gentherapie funktioniert mit einem veränderten Virus. Laut Hersteller …",
-      "topic": "Gentherapie",
-      "tags": [
-        "Gentherapie",
-        "Tumorfälle",
-        "Meldungen",
-        "Novartis"
-      ],
-      "sources": [
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Novartis-Zwei-Tumorfaelle-deuten-auf-Bezug-zu-Gentherapie-hin-id31505401.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/hintergrund-frauen-an-der-spitze-des-bundes/100268058.html",
-      "headline": "Hintergrund: Frauen an der Spitze des Bundes",
-      "takeaway": "Zwölf Männer haben das Amt des Bundespräsidenten bisher ausgeübt. Bei der Wahl am 30. Januar 2027 könnte sich das ändern – und dann würden zwei Frauen oberste Staatsämter besetzen.",
-      "topic": "Hintergrund",
-      "tags": [
-        "Hintergrund",
-        "Frauen",
-        "Spitze",
-        "Bundes"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/hintergrund-frauen-an-der-spitze-des-bundes/100268058.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html",
-      "headline": "Wahlen: Neuseeland hat gewählt - knappes Rennen erwartet",
-      "takeaway": "Regierungschef Luxon oder Ex-Premier Hipkins? Nach Schließung der Wahllokale in Neuseeland zeichnet sich ein enges Rennen zwischen Konservativen und Labour ab.",
-      "topic": "Neuseeland",
-      "tags": [
-        "Neuseeland",
-        "Wahlen",
-        "Rennen",
-        "erwartet"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/wahlen-neuseeland-hat-gewaehlt-knappes-rennen-erwartet/100268059.html"
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html",
-      "headline": "Arcade: Hier blinkt und piepst ein halbes Jahrhundert Videospielgeschichte",
-      "takeaway": "Blinkende Röhrenmonitore, klackernde Joysticks, Spiele aus den 1970ern: Im Mikado lebt Videospielgeschichte. Daneben wirken moderne Arcades wie Spielzeugläden. Eine Reportage von Peter Steinlechner ( …",
-      "topic": "Videospielgeschichte",
+      "url": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html",
+      "headline": "(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht",
+      "takeaway": "Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt …",
+      "topic": "Pizzarechner",
       "tags": [
-        "Videospielgeschichte",
-        "Jahrhundert",
-        "Arcade",
-        "Hier"
+        "Pizzarechner",
+        "Einstieg",
+        "Web-Apps",
+        "Flutter"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "netzpolitik",
-      "url": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/",
-      "headline": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
-      "takeaway": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen …",
-      "topic": "Rechenzentren",
-      "tags": [
-        "Rechenzentren",
-        "Woche",
-        "Welt",
-        "aufbegehrte"
-      ],
-      "sources": [
-        {
-          "src": "netzpolitik",
-          "url": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html",
-      "headline": "Gesundheitsgefährdender Algorithmus: EU fordert grundlegende Änderungen bei Tiktok",
-      "takeaway": "Die EU-Kommission sieht Hinweise darauf, dass Tiktok seine Nutzer durch das Empfehlungssystem der App gesundheitlich gefährdet. ( Tiktok , Politik )",
-      "topic": "Gesundheitsgefährdender",
-      "tags": [
-        "Gesundheitsgefährdender",
-        "Algorithmus",
-        "Änderungen",
-        "Tiktok"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Jedes-dritte-Stadtwerk-will-Gasnetz-ganz-oder-teilweise-stilllegen-id31506136.html",
-      "headline": "Viele Betreiber unentschlossen: Jedes dritte Stadtwerk will Gasnetz ganz oder teilweise stilllegen",
-      "takeaway": "Mit Wärmepumpen und Fernwärme wollen viele Stadtwerke klimaneutral werden. Der Heizungsmix soll das Erdgas ersetzen. Doch was wird aus den Gasnetzen? Das ist in vielen Kommunen noch unklar.",
-      "topic": "Betreiber",
-      "tags": [
-        "Betreiber",
-        "Stadtwerk",
-        "Gasnetz",
-        "Jedes"
-      ],
-      "sources": [
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Jedes-dritte-Stadtwerk-will-Gasnetz-ganz-oder-teilweise-stilllegen-id31506136.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/fritzbox-support-bis-2033-tabelle-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Support bis 2033: Diese Tabelle zeigt, wie lange deine Fritzbox noch Updates bekommt",
-      "takeaway": "Regelmäßig schiebt Fritz Updates und Laborversionen mit neuen Funktionen für Fritzboxen und -Repeater heraus. Doch wie lange wird der eigene Router zu Hause noch mit Aktualisierungen versorgt? …",
-      "topic": "Fritzbox",
-      "tags": [
-        "Fritzbox",
-        "Support",
-        "Tabelle",
-        "Updates"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/fritzbox-support-bis-2033-tabelle-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/sternensystem-komet-3i-atlas-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Aus einem fremden Sternensystem: Was James-Webb-Daten über die Herkunft von 3I/ATLAS verraten",
-      "takeaway": "Der interstellare Komet 3I/Atlas wirft nach wie vor viele Fragen auf. Ein Wissenschaftsteam hat jetzt Hinweise auf seinen Entstehungsort gefunden. Geholfen hat dabei das James-Webb-Weltraumteleskop. …",
-      "topic": "James-Webb-Daten",
-      "tags": [
-        "James-Webb-Daten",
-        "Sternensystem",
-        "Herkunft",
-        "ATLAS"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/sternensystem-komet-3i-atlas-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "headline": "Sequoia shutting down its Scouts program marks the end of an era",
-      "takeaway": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-      "topic": "Sequoia",
-      "tags": [
-        "Sequoia",
-        "Scouts",
-        "shutting",
-        "program"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/2026/48/oatly-hafermilch-milchindustrie-klima-kommunikation",
-      "headline": "Oatly: Hat Oatly seine Seele verkauft?",
-      "takeaway": "Der Hafermilchhersteller spricht lieber über Wellness und Geschmack als über Klimaschutz. Der jungen Kundschaft müsse man das nicht mehr erklären, behaupten die Chefs.",
-      "topic": "Oatly",
-      "tags": [
-        "Oatly",
-        "Seele",
-        "verkauft",
-        "seine"
-      ],
-      "sources": [
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/2026/48/oatly-hafermilch-milchindustrie-klima-kommunikation"
+          "url": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html"
         }
       ]
     }
