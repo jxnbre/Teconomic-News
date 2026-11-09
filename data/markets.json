@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T01:44:19.459708+01:00",
-  "updatedAtLabel": "09.11.2026, 01:44 Uhr",
+  "updatedAt": "2026-11-09T08:51:08.914208+01:00",
+  "updatedAtLabel": "09.11.2026, 08:51 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -12,51 +12,51 @@
   },
   "quotes": {
     "btc": {
-      "price": "67.179 €",
+      "price": "66.318 €",
       "change": {
-        "week": -6.18,
-        "month": -7.99,
-        "year": -25.77
+        "week": -7.38,
+        "month": -9.17,
+        "year": -26.72
       },
       "asOf": "2026-11-09",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "1.916,02 €",
+      "price": "1.873,67 €",
       "change": {
-        "week": -11.16,
-        "month": -10.7,
-        "year": -38.12
+        "week": -13.13,
+        "month": -12.67,
+        "year": -39.49
       },
       "asOf": "2026-11-09",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "77,99 €",
+      "price": "76,72 €",
       "change": {
-        "week": -8.26,
-        "month": -16.69,
-        "year": -45.17
+        "week": -9.76,
+        "month": -18.05,
+        "year": -46.06
       },
       "asOf": "2026-11-09",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "1,01 €",
+      "price": "0,9739 €",
       "change": {
-        "week": -13.42,
-        "month": -13.5,
-        "year": -50.78
+        "week": -16.12,
+        "month": -16.19,
+        "year": -52.31
       },
       "asOf": "2026-11-09",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "615,37 €",
+      "price": "605,22 €",
       "change": {
-        "week": -3.9,
-        "month": -5.66,
-        "year": -28.6
+        "week": -5.49,
+        "month": -7.22,
+        "year": -29.78
       },
       "asOf": "2026-11-09",
       "src": "CoinGecko"
@@ -182,11 +182,11 @@
       "src": "Yahoo"
     },
     "nikkei": {
-      "price": "58.486 Pkt.",
+      "price": "58.776 Pkt.",
       "change": {
-        "week": -7.59,
-        "month": -16.49,
-        "year": 14.88
+        "week": -7.13,
+        "month": -16.08,
+        "year": 15.45
       },
       "asOf": "2026-11-09",
       "src": "Yahoo"

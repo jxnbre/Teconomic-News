@@ -1,0 +1,349 @@
+{
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09T08:51:33.330529+01:00",
+  "updatedAtLabel": "09.11.2026, 08:51 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+      "headline": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+      "takeaway": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen …",
+      "topic": "Untersuchung",
+      "tags": [
+        "Untersuchung",
+        "Nvidia-Chef",
+        "Spionin",
+        "Huang"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html"
+        },
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/nvidia-chef-jensen-huang-affaere-mit-mutmasslicher-chinesischer-spionin-loest-interne-untersuchung-aus-1772265/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/technologie/digitale-welt/chip-riese-nvidia-chef-hatte-affaere-mit-moeglicher-chinesischer-spionin/100268299.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss",
+      "headline": "Nvidia: Jensen Huang gesteht Affäre mit mutmaßlicher China-Spionin - was folgt daraus?",
+      "takeaway": "Jensen Huang, Nvidia-Mastermind und Galionsfigur des KI-Booms, gesteht einen Seitensprung mit einer mutmaßlichen chinesischen Spionin. Sein Konzern untersucht den Fall. Der SPIEGEL klärt die …",
+      "topic": "China-Spionin",
+      "tags": [
+        "China-Spionin",
+        "Nvidia",
+        "Jensen",
+        "Affäre"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-was-folgt-daraus-a-20a5fe38-a7c9-4985-8673-30a91902ee6e#ref=rss"
+        },
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-jensen-huang-gesteht-affaere-mit-mutmasslicher-china-spionin-a-85c447f5-72a5-457a-aaa0-e88bfcae57a4#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/banken/bankenfusion-unicredit-will-im-ersten-quartal-bei-commerzbank-durchregieren/100268342.html",
+      "headline": "Bankenfusion: UniCredit will im ersten Quartal bei Commerzbank durchregieren",
+      "takeaway": "UniCredit will im ersten Quartal 2027 bei der Commerzbank die Kontrolle übernehmen. Auch eine Fusion mit der HypoVereinsbank rückt näher.",
+      "topic": "Bankenfusion",
+      "tags": [
+        "Bankenfusion",
+        "Commerzbank",
+        "UniCredit",
+        "Quartal"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/banken/bankenfusion-unicredit-will-im-ersten-quartal-bei-commerzbank-durchregieren/100268342.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/banken/commerzbank-unicredit-will-ab-erstem-quartal-bei-coba-durchregieren-a-293aad35-dc12-4e61-9454-1e902653a50e#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen",
+      "headline": "Nvidia: Nvidia prüft Berichte zu ausländischer Spionage gegen Jensen Huang",
+      "takeaway": "Der Chef von Nvidia, Jensen Huang, hat eine Affäre eingeräumt. Sein Unternehmen prüft nun, ob die involvierte Frau vom chinesischen Geheimdienst angeworben wurde.",
+      "topic": "Berichte",
+      "tags": [
+        "Berichte",
+        "Spionage",
+        "Nvidia",
+        "Jensen"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-spionage-verwaltungsrat-ermittlungen"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "headline": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "takeaway": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+      "topic": "Chinese",
+      "tags": [
+        "Chinese",
+        "Nvidia",
+        "Jensen",
+        "Huang"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/plex2shell-qnap-nas-systeme-ueber-plex-luecken-kompromittiert-2611-214973.html",
+      "headline": "Plex2Shell: QNAP-NAS-Systeme über Plex-Lücken kompromittiert",
+      "takeaway": "Wer ein QNAP-NAS mit Plex Media Server betreibt, sollte dringend handeln. Angreifer schleusen über vier Sicherheitslücken Schadcode ein. ( Sicherheitslücke , Storage )",
+      "topic": "QNAP-NAS-Systeme",
+      "tags": [
+        "QNAP-NAS-Systeme",
+        "Plex-Lücken",
+        "Plex2Shell",
+        "kompromittiert"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/plex2shell-qnap-nas-systeme-ueber-plex-luecken-kompromittiert-2611-214973.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/haushalt-2027-die-duesteren-rekorde-dieser-bundesregierung/100267269.html",
+      "headline": "Bundesetat: Ab 2028 zahlt der Bund mehr Zinsen als für Investitionen",
+      "takeaway": "Kredite in bisher ungekannter Höhe, neue Steuern, dazu schwindende Aussichten auf Entlastung: Die große Koalition ringt diese Woche um den Haushalt 2027 – und um ihren Zusammenhalt.",
+      "topic": "Investitionen",
+      "tags": [
+        "Investitionen",
+        "Bundesetat",
+        "Zinsen",
+        "Bund"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/haushalt-2027-die-duesteren-rekorde-dieser-bundesregierung/100267269.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss",
+      "headline": "Commerzbank: UniCredit möchte ab 2027 neue Strategie umsetzen",
+      "takeaway": "Sobald die Übernahme der Commerzbank offiziell durch ist, möchte die italienische UniCredit dort ihre Strategie umsetzen. Aktionäre der Commerzbank müssten mit geringeren Dividenden rechnen.",
+      "topic": "Commerzbank",
+      "tags": [
+        "Commerzbank",
+        "UniCredit",
+        "Strategie",
+        "umsetzen"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/commerzbank-unicredit-moechte-ab-2027-neue-strategie-umsetzen-a-ab6c6747-ebcc-4d11-8be9-ac31272446e0#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/7-Zip-Update-schliesst-nicht-genannte-Sicherheitsluecken-11516845.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "7-Zip-Update schließt nicht genannte Sicherheitslücken",
+      "takeaway": "7-Zip 26.06 beseitigt neben einigen Fehlern auch Schwachstellen. Das Update müssen Nutzer selbst herunterladen und installieren.",
+      "topic": "Sicherheitslücken",
+      "tags": [
+        "Sicherheitslücken",
+        "7-Zip-Update",
+        "schließt",
+        "genannte"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/7-Zip-Update-schliesst-nicht-genannte-Sicherheitsluecken-11516845.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/nach-absage-der-unionsfraktion-schneider-union-muss-alternative-zur-plastiksteuer-nennen/100268353.html",
+      "headline": "Nach Absage der Unionsfraktion: Schneider: Union muss Alternative zur Plastiksteuer nennen",
+      "takeaway": "Deutlich hatte Unionsfraktionschef Frei zuletzt der Plastiksteuer eine Absage erteilt. Doch mit den Einnahmen daraus wird schon geplant. Der Bundesumweltminister sieht jetzt die Union in der Pflicht.",
+      "topic": "Unionsfraktion",
+      "tags": [
+        "Unionsfraktion",
+        "Plastiksteuer",
+        "Alternative",
+        "Schneider"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/nach-absage-der-unionsfraktion-schneider-union-muss-alternative-zur-plastiksteuer-nennen/100268353.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "SonicWall warnt vor Angriffen auf SSLVPN von SonicOS",
+      "takeaway": "SonicWall mahnt zum zügigen Update: Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS. Auch die CISA warnt.",
+      "topic": "SonicWall",
+      "tags": [
+        "SonicWall",
+        "Angriffen",
+        "SonicOS",
+        "SSLVPN"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/weekly-lithium-startup-batterie-1772026/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "5 Dinge, die du diese Woche wissen musst: Wie sich ein deutsches Startup von Lithium verabschiedet",
+      "takeaway": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um Batterien ohne Lithium, GPS-Probleme wegen der Artemis 2, Apples Sparkurs, KI-Agenten in …",
+      "topic": "Startup",
+      "tags": [
+        "Startup",
+        "Lithium",
+        "Dinge",
+        "Woche"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/weekly-lithium-startup-batterie-1772026/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
+      "headline": "Welcome to Weed Island",
+      "takeaway": "How the tiny, self-governing British island of Jersey unintentionally became Europe’s front line in the multibillion-dollar global cannabis industry.",
+      "topic": "Welcome",
+      "tags": [
+        "Welcome",
+        "Island",
+        "Weed"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/welcome-to-weed-island-jersey/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ki-live-uebersetzung-chatgpt-deepl-google-test-1771847/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Sprachtalente mit Macken: Live-Übersetzung mit ChatGPT, DeepL und Google im Test",
+      "takeaway": "Interaktion mit generativer KI findet immer häufiger auf der Tonspur statt, auch als Live-Übersetzer werden entsprechende Tools angepriesen. Unser Kurztest zeig weiterlesen auf t3n.de",
+      "topic": "Live-Übersetzung",
+      "tags": [
+        "Live-Übersetzung",
+        "Sprachtalente",
+        "ChatGPT",
+        "Macken"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ki-live-uebersetzung-chatgpt-deepl-google-test-1771847/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "headline": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "takeaway": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "topic": "Sonnenfeld",
+      "tags": [
+        "Sonnenfeld",
+        "Jeffrey",
+        "Jensen",
+        "Huang"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Nvidia: Fiel der Chef auf eine Spionin herein?",
+    "dateLabel": "Folge vom 09.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2238-nvidia-fiel-der-chef-auf-eine-spionin-herein",
+    "takeaways": [
+      "Jensen Huang räumt eine Affäre mit einer Managerin aus Singapur ein.",
+      "Hatte sie Kontakt zum chinesischen Geheimdienst - und was heißt das für den wertvollsten Konzern der Welt?",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
