@@ -1,0 +1,341 @@
+{
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T10:38:08.351974+01:00",
+  "updatedAtLabel": "10.11.2026, 10:38 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
+      "headline": "Kalifornier lehnen Milliardärssteuer ab",
+      "takeaway": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in …",
+      "topic": "Milliardärssteuer",
+      "tags": [
+        "Milliardärssteuer",
+        "Kalifornier",
+        "lehnen"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-kalifornier-lehnen-milliardaerssteuer-ab-a-8158b657-1bb4-4248-9b65-d282c08da566#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/usa-kalifornier-lehnen-milliardaerssteuer-ab-a-d1828aac-58b4-4d01-8af8-aae07bd19012#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss",
+      "headline": "Gas: Betreiber von Speichern warnen vor Engpässen bei extremer Kälte",
+      "takeaway": "Die Gasspeicher in Deutschland hatten laut Betreibern zuletzt einen »historisch niedrigen Füllstand«. Sollte der Winter hart werden, müssen Menschen womöglich frieren.",
+      "topic": "Betreiber",
+      "tags": [
+        "Betreiber",
+        "Speichern",
+        "Engpässen",
+        "Kälte"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/energie/energie-gasspeicherbetreiber-warnen-vor-engpaessen-bei-extremer-kaelte/100268705.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/jensen-huang-fbi-ermittelt-zum-spionageverdacht-bei-nvidia-2611-215024.html",
+      "headline": "Jensen Huang: FBI ermittelt zum Spionageverdacht bei Nvidia",
+      "takeaway": "Die Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin beschäftigt nun auch die US-Bundesbehörden. ( Nvidia , KI )",
+      "topic": "Spionageverdacht",
+      "tags": [
+        "Spionageverdacht",
+        "Jensen",
+        "Nvidia",
+        "Huang"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/jensen-huang-fbi-ermittelt-zum-spionageverdacht-bei-nvidia-2611-215024.html"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "takeaway": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "topic": "Chinese",
+      "tags": [
+        "Chinese",
+        "Nvidia",
+        "Trump",
+        "FBI"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "headline": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "takeaway": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show …",
+      "topic": "Anthropic",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Mythos",
+        "Fable"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+        },
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/unternehmen/handel/hugo-boss-naechster-vorstand-verlaesst-den-modekonzern-a-00ef383f-e0d8-49fd-bac7-db915d541de8#ref=rss",
+      "headline": "Hugo Boss: Nächster Vorstand verlässt den Modekonzern",
+      "takeaway": "Der Hugo-Boss-Vorstand sortiert sich nach der Übernahme durch Frasers neu: Mit Vertriebschef Oliver Timm verlässt der zweite Vorstand innerhalb weniger Monate den schwäbischen Modekonzern.",
+      "topic": "Modekonzern",
+      "tags": [
+        "Modekonzern",
+        "Nächster",
+        "Vorstand",
+        "Hugo"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/handel/hugo-boss-naechster-vorstand-verlaesst-den-modekonzern-a-00ef383f-e0d8-49fd-bac7-db915d541de8#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/wahlkampf-der-radikale-der-frankreichs-wut-in-stimmen-verwandelt/100264935.html",
+      "headline": "Wahlkampf: Der Radikale, der Frankreichs Wut in Stimmen verwandelt",
+      "takeaway": "Jede Woche protestieren Hunderttausende gegen hohe Preise und für bessere Bildung. Jean-Luc Mélenchon versteht es, diese Wut zu nutzen. Das könnte ihn sogar ins Präsidentenamt bringen.",
+      "topic": "Frankreichs",
+      "tags": [
+        "Frankreichs",
+        "Wahlkampf",
+        "Radikale",
+        "Stimmen"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/wahlkampf-der-radikale-der-frankreichs-wut-in-stimmen-verwandelt/100264935.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/energie-erdogan-verkuendet-oelfoerderung-zum-auftakt-der-klimakonferenz/100268714.html",
+      "headline": "Energie: Erdogan verkündet Ölförderung zum Auftakt der Klimakonferenz",
+      "takeaway": "Die Türkei ist fast vollständig von Energieimporten abhängig. Eine neue Förderung soll Abhilfe schaffen. Kritiker rügen die schwache Klimabilanz des Landes indes scharf.",
+      "topic": "Klimakonferenz",
+      "tags": [
+        "Klimakonferenz",
+        "Ölförderung",
+        "Energie",
+        "Erdogan"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/energie-erdogan-verkuendet-oelfoerderung-zum-auftakt-der-klimakonferenz/100268714.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+      "headline": "Nvidia stock edges higher as pressure mounts following alleged China spy links",
+      "takeaway": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "China",
+        "following",
+        "pressure"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/immobilien/immobilienmarkt-anspannung-auf-dem-wohnungsmarkt-verschaerft-sich-mieten-steigen-deutlich/100268661.html",
+      "headline": "Immobilienmarkt: Anspannung auf dem Wohnungsmarkt verschärft sich – Mieten steigen deutlich",
+      "takeaway": "In Deutschland fehlen geschätzt mehr als eine Million Wohnungen. Die Knappheit treibt die Kosten besonders in den Großstädten in die Höhe.",
+      "topic": "Immobilienmarkt",
+      "tags": [
+        "Immobilienmarkt",
+        "Wohnungsmarkt",
+        "Anspannung",
+        "Mieten"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/immobilien/immobilienmarkt-anspannung-auf-dem-wohnungsmarkt-verschaerft-sich-mieten-steigen-deutlich/100268661.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/RWE-nimmt-groesste-Wasserstoffturbine-Europas-in-Betrieb-11518550.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "RWE nimmt größte Wasserstoffturbine Europas in Betrieb",
+      "takeaway": "Wasserstoff wird ein wichtiger Energieträger der Zukunft. RWE testet die Wasserstoffverstromung in Lingen.",
+      "topic": "Wasserstoffturbine",
+      "tags": [
+        "Wasserstoffturbine",
+        "Europas",
+        "Betrieb",
+        "RWE"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/RWE-nimmt-groesste-Wasserstoffturbine-Europas-in-Betrieb-11518550.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/waermewende-wasserstoff-und-biogas-gegeneinander-statt-nebeneinander-2611-215027.html",
+      "headline": "Wärmewende: Wasserstoff und Biogas gegeneinander statt nebeneinander",
+      "takeaway": "Biogas kann Erdgas hervorragend ersetzen. Der Ausbau des Wasserstoffnetzes und das neue Heizungsgesetz gefährden jedoch die effektive Nutzung. ( Energiewende , Brennstoffzelle )",
+      "topic": "Wasserstoff",
+      "tags": [
+        "Wasserstoff",
+        "Wärmewende",
+        "Biogas",
+        "gegeneinander"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/waermewende-wasserstoff-und-biogas-gegeneinander-statt-nebeneinander-2611-215027.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
+      "takeaway": "Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.",
+      "topic": "Sicherheitsupdates",
+      "tags": [
+        "Sicherheitsupdates",
+        "Apple-Geräte",
+        "Außer",
+        "Reihe"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/one-ui-9-5-wie-samsung-bixby-in-einen-ki-agenten-verwandeln-will-1772528/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "One UI 9.5: Wie Samsung Bixby in einen KI-Agenten verwandeln will",
+      "takeaway": "Samsung arbeitet schon am nächsten Update für seine Galaxy-Smartphones. One UI 9.5 könnte nach ersten Informationen noch mehr KI in Form des Sprachassistenten Bixby auf die Geräte bringen. …",
+      "topic": "KI-Agenten",
+      "tags": [
+        "KI-Agenten",
+        "Samsung",
+        "Bixby",
+        "One"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/one-ui-9-5-wie-samsung-bixby-in-einen-ki-agenten-verwandeln-will-1772528/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/ios-macos-27-2-1-update-nicht-ignorieren-1772524/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "iOS und macOS 27.2.1: Warum ihr diese Sicherheitsupdates nicht ignorieren solltet",
+      "takeaway": "Wenn es um die kleineren Sicherheitsupdates bei Apple geht, sollten in der Regel iPhone-Besitzer die Installation nicht lange aufschieben. Nach der Veröffentlichung von iOS 27.2.1 und macOS 27.2.1 …",
+      "topic": "Sicherheitsupdates",
+      "tags": [
+        "Sicherheitsupdates",
+        "ignorieren",
+        "solltet",
+        "macOS"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/ios-macos-27-2-1-update-nicht-ignorieren-1772524/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Die wahre Bilanz der Klimagipfel (und eine Überraschung)",
+    "dateLabel": "Folge vom 10.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2239-die-wahre-bilanz-der-klimagipfel-und-eine-uberraschung",
+    "takeaways": [
+      "Bundeskanzler Merz nimmt nicht an der Klimakonferenz in Antalya teil.",
+      "Wer sich darüber empört, sollte sich zunächst zwei wesentliche Fakten anschauen.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
