@@ -1,101 +1,74 @@
 {
-  "date": "2026-11-10",
-  "updatedAt": "2026-11-10T10:38:08.351974+01:00",
-  "updatedAtLabel": "10.11.2026, 10:38 Uhr",
+  "date": "2026-11-11",
+  "updatedAt": "2026-11-11T15:01:11.209900+01:00",
+  "updatedAtLabel": "11.11.2026, 15:01 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html",
-      "headline": "Kalifornier lehnen Milliardärssteuer ab",
-      "takeaway": "Die Wähler in Kalifornien haben per Volksentscheid gegen eine einmalige Sonderabgabe durch die etwa 250 Milliardäre im US-Bundesstaat gestimmt. Die Superreichen hatten Millionen US-Dollar in …",
-      "topic": "Milliardärssteuer",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+      "headline": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
+      "takeaway": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
+      "topic": "Wachstumsprognose",
       "tags": [
-        "Milliardärssteuer",
-        "Kalifornier",
-        "lehnen"
+        "Wachstumsprognose",
+        "Wirtschaftsweise",
+        "korrigieren",
+        "deutlich"
       ],
       "sources": [
         {
           "src": "tagesschau",
-          "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-milliardaerssteuer-abgelehnt-100.html"
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
         },
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/usa-kalifornier-lehnen-milliardaerssteuer-ab-a-8158b657-1bb4-4248-9b65-d282c08da566#ref=rss"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/usa-kalifornier-lehnen-milliardaerssteuer-ab-a-d1828aac-58b4-4d01-8af8-aae07bd19012#ref=rss"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/wirtschaftsweise-prognose-bip-wachstum-oeffentliche-finanzen-deutschland"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss",
-      "headline": "Gas: Betreiber von Speichern warnen vor Engpässen bei extremer Kälte",
-      "takeaway": "Die Gasspeicher in Deutschland hatten laut Betreibern zuletzt einen »historisch niedrigen Füllstand«. Sollte der Winter hart werden, müssen Menschen womöglich frieren.",
-      "topic": "Betreiber",
+      "url": "https://www.spiegel.de/wirtschaft/service/tonies-ruft-kinderlieder-figur-mit-helene-fischer-zurueck-a-4994a554-07f7-4315-91cb-4657cb124826#ref=rss",
+      "headline": "Tonies ruft Kinderliederfigur mit Musik von Helene Fischer zurück",
+      "takeaway": "»Helene Fischer – Die schönsten Kinderlieder«: Kunden sollen die Hörspielfigur von Tonies zurückgeben. Der Hersteller warnt vor Kleinteilen, die sich ablösen können. Und vor Erstickungsgefahr.",
+      "topic": "Kinderliederfigur",
       "tags": [
-        "Betreiber",
-        "Speichern",
-        "Engpässen",
-        "Kälte"
+        "Kinderliederfigur",
+        "Fischer",
+        "Tonies",
+        "Helene"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/gas-betreiber-von-speichern-warnen-vor-engpaessen-bei-extremer-kaelte-a-036cd1fc-eb5e-4092-8112-14360e310bb1#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/service/tonies-ruft-kinderlieder-figur-mit-helene-fischer-zurueck-a-4994a554-07f7-4315-91cb-4657cb124826#ref=rss"
         },
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/energie/energie-gasspeicherbetreiber-warnen-vor-engpaessen-bei-extremer-kaelte/100268705.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/jensen-huang-fbi-ermittelt-zum-spionageverdacht-bei-nvidia-2611-215024.html",
-      "headline": "Jensen Huang: FBI ermittelt zum Spionageverdacht bei Nvidia",
-      "takeaway": "Die Affäre von Nvidia-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin beschäftigt nun auch die US-Bundesbehörden. ( Nvidia , KI )",
-      "topic": "Spionageverdacht",
-      "tags": [
-        "Spionageverdacht",
-        "Jensen",
-        "Nvidia",
-        "Huang"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/jensen-huang-fbi-ermittelt-zum-spionageverdacht-bei-nvidia-2611-215024.html"
-        },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/tonies-rueckruf-helene-fischer-hoerfigur-kindern-erstickungsgefahr-gxe"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "takeaway": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "takeaway": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "topic": "Chinese",
       "tags": [
         "Chinese",
         "Nvidia",
-        "Trump",
-        "FBI"
+        "investigate",
+        "alleged"
       ],
       "sources": [
         {
           "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
         },
         {
           "src": "guardian",
@@ -105,237 +78,253 @@
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "headline": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "takeaway": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show …",
-      "topic": "Anthropic",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "headline": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "takeaway": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "topic": "Plurai",
       "tags": [
-        "Anthropic",
-        "Claude",
-        "Mythos",
-        "Fable"
+        "Plurai",
+        "self-driving",
+        "approach",
+        "agents"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
-        },
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/handel/hugo-boss-naechster-vorstand-verlaesst-den-modekonzern-a-00ef383f-e0d8-49fd-bac7-db915d541de8#ref=rss",
-      "headline": "Hugo Boss: Nächster Vorstand verlässt den Modekonzern",
-      "takeaway": "Der Hugo-Boss-Vorstand sortiert sich nach der Übernahme durch Frasers neu: Mit Vertriebschef Oliver Timm verlässt der zweite Vorstand innerhalb weniger Monate den schwäbischen Modekonzern.",
-      "topic": "Modekonzern",
-      "tags": [
-        "Modekonzern",
-        "Nächster",
-        "Vorstand",
-        "Hugo"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/handel/hugo-boss-naechster-vorstand-verlaesst-den-modekonzern-a-00ef383f-e0d8-49fd-bac7-db915d541de8#ref=rss"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/wahlkampf-der-radikale-der-frankreichs-wut-in-stimmen-verwandelt/100264935.html",
-      "headline": "Wahlkampf: Der Radikale, der Frankreichs Wut in Stimmen verwandelt",
-      "takeaway": "Jede Woche protestieren Hunderttausende gegen hohe Preise und für bessere Bildung. Jean-Luc Mélenchon versteht es, diese Wut zu nutzen. Das könnte ihn sogar ins Präsidentenamt bringen.",
-      "topic": "Frankreichs",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-bundeswehr-darf-keine-testosteron-armee-sein/100269079.html",
+      "headline": "Kommentar: Die Bundeswehr darf keine Testosteron-Armee sein",
+      "takeaway": "Sexuelle Übergriffe gegen Soldatinnen gehen weit über bekannte Einzelfälle hinaus. Das widerspricht nicht nur dem Ideal der Staatsbürger in Uniform, sondern gefährdet auch die Personalziele.",
+      "topic": "Testosteron-Armee",
       "tags": [
-        "Frankreichs",
-        "Wahlkampf",
-        "Radikale",
-        "Stimmen"
+        "Testosteron-Armee",
+        "Bundeswehr",
+        "Kommentar",
+        "keine"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/wahlkampf-der-radikale-der-frankreichs-wut-in-stimmen-verwandelt/100264935.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/energie-erdogan-verkuendet-oelfoerderung-zum-auftakt-der-klimakonferenz/100268714.html",
-      "headline": "Energie: Erdogan verkündet Ölförderung zum Auftakt der Klimakonferenz",
-      "takeaway": "Die Türkei ist fast vollständig von Energieimporten abhängig. Eine neue Förderung soll Abhilfe schaffen. Kritiker rügen die schwache Klimabilanz des Landes indes scharf.",
-      "topic": "Klimakonferenz",
-      "tags": [
-        "Klimakonferenz",
-        "Ölförderung",
-        "Energie",
-        "Erdogan"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/energie-erdogan-verkuendet-oelfoerderung-zum-auftakt-der-klimakonferenz/100268714.html"
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-bundeswehr-darf-keine-testosteron-armee-sein/100269079.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
-      "headline": "Nvidia stock edges higher as pressure mounts following alleged China spy links",
-      "takeaway": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
-      "topic": "Nvidia",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "headline": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "takeaway": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+      "topic": "Goolsbee",
       "tags": [
-        "Nvidia",
-        "China",
-        "following",
-        "pressure"
+        "Goolsbee",
+        "Fed",
+        "borderline",
+        "disturbing"
       ],
       "sources": [
         {
           "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+          "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/deepl-voice-uebertraegt-mit-aure-jetzt-auch-tonfall-und-sprechtempo-in-andere-sprachen/",
+      "headline": "DeepL Voice überträgt mit neuem Stimm-Modell auch Tonfall und Sprechtempo in andere Sprachen",
+      "takeaway": "Echtzeit-Übersetzungen von DeepL Voice sollen künftig näher am Original klingen, indem es Tonfall, Emotion, Betonung und Sprechtempo in der Stimme der sprechenden Person in die Zielsprache überträgt. …",
+      "topic": "Stimm-Modell",
+      "tags": [
+        "Stimm-Modell",
+        "Sprechtempo",
+        "Sprachen",
+        "Tonfall"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/deepl-voice-uebertraegt-mit-aure-jetzt-auch-tonfall-und-sprechtempo-in-andere-sprachen/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/immobilien/immobilienmarkt-anspannung-auf-dem-wohnungsmarkt-verschaerft-sich-mieten-steigen-deutlich/100268661.html",
-      "headline": "Immobilienmarkt: Anspannung auf dem Wohnungsmarkt verschärft sich – Mieten steigen deutlich",
-      "takeaway": "In Deutschland fehlen geschätzt mehr als eine Million Wohnungen. Die Knappheit treibt die Kosten besonders in den Großstädten in die Höhe.",
-      "topic": "Immobilienmarkt",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-und-ukraine-vereinbaren-gefangenenaustausch/100269015.html",
+      "headline": "Ukraine-Krieg: Gespräche nach zwei Stunden beendet – Russland und Ukraine vereinbaren Gefangenenaustausch",
+      "takeaway": "Die Friedensgespräche in Abu Dhabi haben keine Fortschritte zu einem Waffenstillstand gebracht. Die Kriegsparteien einigten sich nur auf eine humanitäre Geste.",
+      "topic": "Gefangenenaustausch",
       "tags": [
-        "Immobilienmarkt",
-        "Wohnungsmarkt",
-        "Anspannung",
-        "Mieten"
+        "Gefangenenaustausch",
+        "Ukraine-Krieg",
+        "Gespräche",
+        "Russland"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/immobilien/immobilienmarkt-anspannung-auf-dem-wohnungsmarkt-verschaerft-sich-mieten-steigen-deutlich/100268661.html"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-und-ukraine-vereinbaren-gefangenenaustausch/100269015.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-hat-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss",
+      "headline": "Gas: Bundeskabinett beschließt hat strategische Gasreserve",
+      "takeaway": "Das Bundeskabinett hat die strategische Gasreserve beschlossen. Schon die Kosten für ihren Aufbau sollen 1,2 bis 1,8 Milliarden Euro betragen. Zahlen sollen laut dem Gesetzentwurf die Verbraucher.",
+      "topic": "Bundeskabinett",
+      "tags": [
+        "Bundeskabinett",
+        "Gasreserve",
+        "Gas",
+        "strategische"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-hat-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/",
+      "headline": "Drei Tage statt Monate für AMD-Chip-Wechsel: Laut Anthropic frisst KI Nvidias CUDA-Vorsprung",
+      "takeaway": "Anthropic behauptet, Nvidias CUDA-Burggraben mit KI selbst überwunden zu haben: Das hauseigene Modell Mythos habe Claude in nur drei Tagen auf AMD-GPUs portiert, fast ohne menschliches Zutun. Das …",
+      "topic": "AMD-Chip-Wechsel",
+      "tags": [
+        "AMD-Chip-Wechsel",
+        "CUDA-Vorsprung",
+        "Anthropic",
+        "Nvidias"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "headline": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "takeaway": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "Huang",
+        "revelation",
+        "business"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/RWE-nimmt-groesste-Wasserstoffturbine-Europas-in-Betrieb-11518550.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "RWE nimmt größte Wasserstoffturbine Europas in Betrieb",
-      "takeaway": "Wasserstoff wird ein wichtiger Energieträger der Zukunft. RWE testet die Wasserstoffverstromung in Lingen.",
-      "topic": "Wasserstoffturbine",
+      "src": "wired",
+      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "headline": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "takeaway": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
+      "topic": "Ticketmaster",
       "tags": [
-        "Wasserstoffturbine",
-        "Europas",
-        "Betrieb",
-        "RWE"
+        "Ticketmaster",
+        "Duolingo",
+        "Fairness",
+        "Digital"
       ],
       "sources": [
         {
-          "src": "heise",
-          "url": "https://www.heise.de/news/RWE-nimmt-groesste-Wasserstoffturbine-Europas-in-Betrieb-11518550.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "src": "wired",
+          "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/klimakrise-treibt-rekordbraende-hightech-soll-sie-bekaempfen-doch-gegen-einen-faktor-kommt-sie-nicht-an-1772345/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Klimakrise treibt Rekordbrände: Hightech soll sie bekämpfen – doch gegen einen Faktor kommt sie nicht an",
+      "takeaway": "Waldbrände entwickeln sich zur dauerhaften Bedrohung für Mensch und Klima. Systeme zur Früherkennung und intelligente Löschtechniken sollen helfen. weiterlesen auf t3n.de",
+      "topic": "Rekordbrände",
+      "tags": [
+        "Rekordbrände",
+        "Klimakrise",
+        "Hightech",
+        "Faktor"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/klimakrise-treibt-rekordbraende-hightech-soll-sie-bekaempfen-doch-gegen-einen-faktor-kommt-sie-nicht-an-1772345/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/waermewende-wasserstoff-und-biogas-gegeneinander-statt-nebeneinander-2611-215027.html",
-      "headline": "Wärmewende: Wasserstoff und Biogas gegeneinander statt nebeneinander",
-      "takeaway": "Biogas kann Erdgas hervorragend ersetzen. Der Ausbau des Wasserstoffnetzes und das neue Heizungsgesetz gefährden jedoch die effektive Nutzung. ( Energiewende , Brennstoffzelle )",
-      "topic": "Wasserstoff",
+      "url": "https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html",
+      "headline": "Höchster Schweregrad: Adobe schließt kritische Lücken in Connect",
+      "takeaway": "Die Lernumgebung Connect ist aus der Ferne und ohne Interaktion mit Nutzern angreifbar. ( Patchday , Adobe )",
+      "topic": "Schweregrad",
       "tags": [
-        "Wasserstoff",
-        "Wärmewende",
-        "Biogas",
-        "gegeneinander"
+        "Schweregrad",
+        "Höchster",
+        "Connect",
+        "Lücken"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/waermewende-wasserstoff-und-biogas-gegeneinander-statt-nebeneinander-2611-215027.html"
+          "url": "https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
-      "takeaway": "Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.",
-      "topic": "Sicherheitsupdates",
+      "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "„Merkmale von Glücksspiel“: EU will Lootboxen für Minderjährige verbieten",
+      "takeaway": "Der Entwurf des Digital Fairness Act verbietet Lootboxen und Pay-to-Win für Minderjährige. Der Branchenverband game schlägt Alarm.",
+      "topic": "Minderjährige",
       "tags": [
-        "Sicherheitsupdates",
-        "Apple-Geräte",
-        "Außer",
-        "Reihe"
+        "Minderjährige",
+        "Glücksspiel",
+        "Lootboxen",
+        "Merkmale"
       ],
       "sources": [
         {
           "src": "heise",
-          "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/one-ui-9-5-wie-samsung-bixby-in-einen-ki-agenten-verwandeln-will-1772528/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "One UI 9.5: Wie Samsung Bixby in einen KI-Agenten verwandeln will",
-      "takeaway": "Samsung arbeitet schon am nächsten Update für seine Galaxy-Smartphones. One UI 9.5 könnte nach ersten Informationen noch mehr KI in Form des Sprachassistenten Bixby auf die Geräte bringen. …",
-      "topic": "KI-Agenten",
-      "tags": [
-        "KI-Agenten",
-        "Samsung",
-        "Bixby",
-        "One"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/one-ui-9-5-wie-samsung-bixby-in-einen-ki-agenten-verwandeln-will-1772528/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/ios-macos-27-2-1-update-nicht-ignorieren-1772524/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "iOS und macOS 27.2.1: Warum ihr diese Sicherheitsupdates nicht ignorieren solltet",
-      "takeaway": "Wenn es um die kleineren Sicherheitsupdates bei Apple geht, sollten in der Regel iPhone-Besitzer die Installation nicht lange aufschieben. Nach der Veröffentlichung von iOS 27.2.1 und macOS 27.2.1 …",
-      "topic": "Sicherheitsupdates",
-      "tags": [
-        "Sicherheitsupdates",
-        "ignorieren",
-        "solltet",
-        "macOS"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/ios-macos-27-2-1-update-nicht-ignorieren-1772524/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Die wahre Bilanz der Klimagipfel (und eine Überraschung)",
-    "dateLabel": "Folge vom 10.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2239-die-wahre-bilanz-der-klimagipfel-und-eine-uberraschung",
+    "title": "Steuern: Vereinfachen statt senken ? / Anthropic: Der zweitgrößte Börsengang aller Zeiten",
+    "dateLabel": "Folge vom 11.11. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2240-steuern-vereinfachen-statt-senken-anthropic-der-zweitgrosste-borsengang-aller-zeiten",
     "takeaways": [
-      "Bundeskanzler Merz nimmt nicht an der Klimakonferenz in Antalya teil.",
-      "Wer sich darüber empört, sollte sich zunächst zwei wesentliche Fakten anschauen.",
-      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/wirtschaftsabo Weitere Informationen zu Werbeeinblendungen"
+      "Legt der Finanzminister die Axt ans Ehegattensplitting?",
+      "Das ist die falsche Frage.",
+      "Ein anderes Versäumnis des Vizekanzlers sollte viel eher für Unmut sorgen."
     ]
   }
 }

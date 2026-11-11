@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-11",
+  "updatedAt": "2026-11-11T15:01:11.209900+01:00",
+  "updatedAtLabel": "11.11.2026, 15:01 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+      "headline": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
+      "takeaway": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
+      "topic": "Wachstumsprognose",
+      "tags": [
+        "Wachstumsprognose",
+        "Wirtschaftsweise",
+        "korrigieren",
+        "deutlich"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/wirtschaftsweise-prognose-bip-wachstum-oeffentliche-finanzen-deutschland"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/service/tonies-ruft-kinderlieder-figur-mit-helene-fischer-zurueck-a-4994a554-07f7-4315-91cb-4657cb124826#ref=rss",
+      "headline": "Tonies ruft Kinderliederfigur mit Musik von Helene Fischer zurück",
+      "takeaway": "»Helene Fischer – Die schönsten Kinderlieder«: Kunden sollen die Hörspielfigur von Tonies zurückgeben. Der Hersteller warnt vor Kleinteilen, die sich ablösen können. Und vor Erstickungsgefahr.",
+      "topic": "Kinderliederfigur",
+      "tags": [
+        "Kinderliederfigur",
+        "Fischer",
+        "Tonies",
+        "Helene"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/tonies-ruft-kinderlieder-figur-mit-helene-fischer-zurueck-a-4994a554-07f7-4315-91cb-4657cb124826#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/tonies-rueckruf-helene-fischer-hoerfigur-kindern-erstickungsgefahr-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "takeaway": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "topic": "Chinese",
+      "tags": [
+        "Chinese",
+        "Nvidia",
+        "investigate",
+        "alleged"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "headline": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "takeaway": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "topic": "Plurai",
+      "tags": [
+        "Plurai",
+        "self-driving",
+        "approach",
+        "agents"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-bundeswehr-darf-keine-testosteron-armee-sein/100269079.html",
+      "headline": "Kommentar: Die Bundeswehr darf keine Testosteron-Armee sein",
+      "takeaway": "Sexuelle Übergriffe gegen Soldatinnen gehen weit über bekannte Einzelfälle hinaus. Das widerspricht nicht nur dem Ideal der Staatsbürger in Uniform, sondern gefährdet auch die Personalziele.",
+      "topic": "Testosteron-Armee",
+      "tags": [
+        "Testosteron-Armee",
+        "Bundeswehr",
+        "Kommentar",
+        "keine"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-bundeswehr-darf-keine-testosteron-armee-sein/100269079.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+      "headline": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+      "takeaway": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+      "topic": "Goolsbee",
+      "tags": [
+        "Goolsbee",
+        "Fed",
+        "borderline",
+        "disturbing"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/deepl-voice-uebertraegt-mit-aure-jetzt-auch-tonfall-und-sprechtempo-in-andere-sprachen/",
+      "headline": "DeepL Voice überträgt mit neuem Stimm-Modell auch Tonfall und Sprechtempo in andere Sprachen",
+      "takeaway": "Echtzeit-Übersetzungen von DeepL Voice sollen künftig näher am Original klingen, indem es Tonfall, Emotion, Betonung und Sprechtempo in der Stimme der sprechenden Person in die Zielsprache überträgt. …",
+      "topic": "Stimm-Modell",
+      "tags": [
+        "Stimm-Modell",
+        "Sprechtempo",
+        "Sprachen",
+        "Tonfall"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/deepl-voice-uebertraegt-mit-aure-jetzt-auch-tonfall-und-sprechtempo-in-andere-sprachen/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-und-ukraine-vereinbaren-gefangenenaustausch/100269015.html",
+      "headline": "Ukraine-Krieg: Gespräche nach zwei Stunden beendet – Russland und Ukraine vereinbaren Gefangenenaustausch",
+      "takeaway": "Die Friedensgespräche in Abu Dhabi haben keine Fortschritte zu einem Waffenstillstand gebracht. Die Kriegsparteien einigten sich nur auf eine humanitäre Geste.",
+      "topic": "Gefangenenaustausch",
+      "tags": [
+        "Gefangenenaustausch",
+        "Ukraine-Krieg",
+        "Gespräche",
+        "Russland"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-und-ukraine-vereinbaren-gefangenenaustausch/100269015.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-hat-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss",
+      "headline": "Gas: Bundeskabinett beschließt hat strategische Gasreserve",
+      "takeaway": "Das Bundeskabinett hat die strategische Gasreserve beschlossen. Schon die Kosten für ihren Aufbau sollen 1,2 bis 1,8 Milliarden Euro betragen. Zahlen sollen laut dem Gesetzentwurf die Verbraucher.",
+      "topic": "Bundeskabinett",
+      "tags": [
+        "Bundeskabinett",
+        "Gasreserve",
+        "Gas",
+        "strategische"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-hat-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/",
+      "headline": "Drei Tage statt Monate für AMD-Chip-Wechsel: Laut Anthropic frisst KI Nvidias CUDA-Vorsprung",
+      "takeaway": "Anthropic behauptet, Nvidias CUDA-Burggraben mit KI selbst überwunden zu haben: Das hauseigene Modell Mythos habe Claude in nur drei Tagen auf AMD-GPUs portiert, fast ohne menschliches Zutun. Das …",
+      "topic": "AMD-Chip-Wechsel",
+      "tags": [
+        "AMD-Chip-Wechsel",
+        "CUDA-Vorsprung",
+        "Anthropic",
+        "Nvidias"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+      "headline": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+      "takeaway": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "Huang",
+        "revelation",
+        "business"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
+      "headline": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
+      "takeaway": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
+      "topic": "Ticketmaster",
+      "tags": [
+        "Ticketmaster",
+        "Duolingo",
+        "Fairness",
+        "Digital"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/klimakrise-treibt-rekordbraende-hightech-soll-sie-bekaempfen-doch-gegen-einen-faktor-kommt-sie-nicht-an-1772345/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Klimakrise treibt Rekordbrände: Hightech soll sie bekämpfen – doch gegen einen Faktor kommt sie nicht an",
+      "takeaway": "Waldbrände entwickeln sich zur dauerhaften Bedrohung für Mensch und Klima. Systeme zur Früherkennung und intelligente Löschtechniken sollen helfen. weiterlesen auf t3n.de",
+      "topic": "Rekordbrände",
+      "tags": [
+        "Rekordbrände",
+        "Klimakrise",
+        "Hightech",
+        "Faktor"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/klimakrise-treibt-rekordbraende-hightech-soll-sie-bekaempfen-doch-gegen-einen-faktor-kommt-sie-nicht-an-1772345/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html",
+      "headline": "Höchster Schweregrad: Adobe schließt kritische Lücken in Connect",
+      "takeaway": "Die Lernumgebung Connect ist aus der Ferne und ohne Interaktion mit Nutzern angreifbar. ( Patchday , Adobe )",
+      "topic": "Schweregrad",
+      "tags": [
+        "Schweregrad",
+        "Höchster",
+        "Connect",
+        "Lücken"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "„Merkmale von Glücksspiel“: EU will Lootboxen für Minderjährige verbieten",
+      "takeaway": "Der Entwurf des Digital Fairness Act verbietet Lootboxen und Pay-to-Win für Minderjährige. Der Branchenverband game schlägt Alarm.",
+      "topic": "Minderjährige",
+      "tags": [
+        "Minderjährige",
+        "Glücksspiel",
+        "Lootboxen",
+        "Merkmale"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Steuern: Vereinfachen statt senken ? / Anthropic: Der zweitgrößte Börsengang aller Zeiten",
+    "dateLabel": "Folge vom 11.11. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2240-steuern-vereinfachen-statt-senken-anthropic-der-zweitgrosste-borsengang-aller-zeiten",
+    "takeaways": [
+      "Legt der Finanzminister die Axt ans Ehegattensplitting?",
+      "Das ist die falsche Frage.",
+      "Ein anderes Versäumnis des Vizekanzlers sollte viel eher für Unmut sorgen."
+    ]
+  }
+}
