@@ -1,330 +1,356 @@
 {
-  "date": "2026-11-11",
-  "updatedAt": "2026-11-11T15:01:11.209900+01:00",
-  "updatedAtLabel": "11.11.2026, 15:01 Uhr",
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T11:53:37.624637+01:00",
+  "updatedAtLabel": "12.11.2026, 11:53 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
-      "headline": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
-      "takeaway": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel. Von Alina Leimbach.",
-      "topic": "Wachstumsprognose",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/neuer-rekord-dax-knackt-erstmals-marke-von-27-000-punkten-a-dc114850-1845-407a-9ed4-981f12b936db#ref=rss",
+      "headline": "Börse: Neuer Rekord – Dax knackt erstmals Marke von 27.000 Punkten",
+      "takeaway": "Gute Stimmung am deutschen Aktienmarkt: Der Dax hat eine neue Rekordmarke erreicht. Der Höhenflug liegt unter anderem an zuletzt positiven Firmenbilanzen ​und ‌den rückläufigen Ölpreisen.",
+      "topic": "Punkten",
       "tags": [
-        "Wachstumsprognose",
-        "Wirtschaftsweise",
-        "korrigieren",
-        "deutlich"
+        "Punkten",
+        "Rekord",
+        "Börse",
+        "Marke"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/neuer-rekord-dax-knackt-erstmals-marke-von-27-000-punkten-a-dc114850-1845-407a-9ed4-981f12b936db#ref=rss"
         },
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/wirtschaftsweise-prognose-bip-wachstum-oeffentliche-finanzen-deutschland"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Dax-knackt-erstmals-Marke-von-27-000-Punkten-id31524883.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/boerse/dax-erstmals-wird-die-marke-von-27.000-punkten-geknackt/100269371.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/tonies-ruft-kinderlieder-figur-mit-helene-fischer-zurueck-a-4994a554-07f7-4315-91cb-4657cb124826#ref=rss",
-      "headline": "Tonies ruft Kinderliederfigur mit Musik von Helene Fischer zurück",
-      "takeaway": "»Helene Fischer – Die schönsten Kinderlieder«: Kunden sollen die Hörspielfigur von Tonies zurückgeben. Der Hersteller warnt vor Kleinteilen, die sich ablösen können. Und vor Erstickungsgefahr.",
-      "topic": "Kinderliederfigur",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bafin-verhaengt-millionenstrafe-gegen-deutsche-bank-wegen-it-pannen-bei-postbank-kunden-a-1323fe0e-ee27-4137-a3d3-8429b0e1bf8a#ref=rss",
+      "headline": "Deutsche Bank: Bafin verhängt Millionenstrafe wegen IT-Pannen bei Postbank-Kunden",
+      "takeaway": "Die Deutsche Bank soll wegen der Probleme bei der IT-Migration von Postbank-Kunden eine Strafe von acht Millionen Euro zahlen. Laut der Bundesanstalt für Finanzdienstleistungsaufsicht hat die Bank …",
+      "topic": "Millionenstrafe",
       "tags": [
-        "Kinderliederfigur",
-        "Fischer",
-        "Tonies",
-        "Helene"
+        "Millionenstrafe",
+        "Postbank-Kunden",
+        "IT-Pannen",
+        "Deutsche"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/tonies-ruft-kinderlieder-figur-mit-helene-fischer-zurueck-a-4994a554-07f7-4315-91cb-4657cb124826#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/bafin-verhaengt-millionenstrafe-gegen-deutsche-bank-wegen-it-pannen-bei-postbank-kunden-a-1323fe0e-ee27-4137-a3d3-8429b0e1bf8a#ref=rss"
         },
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/tonies-rueckruf-helene-fischer-hoerfigur-kindern-erstickungsgefahr-gxe"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "takeaway": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "topic": "Chinese",
-      "tags": [
-        "Chinese",
-        "Nvidia",
-        "investigate",
-        "alleged"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.zeit.de/wirtschaft/2026-11/bafin-geldbusse-deutsche-bank-postbank-it-plattform-gxe"
         },
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-und-postbank-millionenbussgeld-nach-it-umzug-verhaengt-a-6d7d2f80-e950-4c73-b1e2-067b7543c414#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "headline": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "takeaway": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
-      "topic": "Plurai",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "headline": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "takeaway": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "topic": "Jensen",
       "tags": [
-        "Plurai",
-        "self-driving",
-        "approach",
-        "agents"
+        "Jensen",
+        "Huang",
+        "Who",
+        "unscientific"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+        },
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-bundeswehr-darf-keine-testosteron-armee-sein/100269079.html",
-      "headline": "Kommentar: Die Bundeswehr darf keine Testosteron-Armee sein",
-      "takeaway": "Sexuelle Übergriffe gegen Soldatinnen gehen weit über bekannte Einzelfälle hinaus. Das widerspricht nicht nur dem Ideal der Staatsbürger in Uniform, sondern gefährdet auch die Personalziele.",
-      "topic": "Testosteron-Armee",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
+      "headline": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
+      "takeaway": "Ab sofort sind im Tarifstreit der Metall- und Elektroindustrie ganztägige Warnstreiks möglich. Die IG Metall wirft den Arbeitgebern nach drei Verhandlungsrunden eine Blockadehaltung vor. Wo genau …",
+      "topic": "Streiks",
       "tags": [
-        "Testosteron-Armee",
-        "Bundeswehr",
-        "Kommentar",
-        "keine"
+        "Streiks",
+        "Metall",
+        "beschließt",
+        "ganztägige"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-die-bundeswehr-darf-keine-testosteron-armee-sein/100269079.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "headline": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "takeaway": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
-      "topic": "Goolsbee",
-      "tags": [
-        "Goolsbee",
-        "Fed",
-        "borderline",
-        "disturbing"
-      ],
-      "sources": [
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html"
+        },
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/deepl-voice-uebertraegt-mit-aure-jetzt-auch-tonfall-und-sprechtempo-in-andere-sprachen/",
-      "headline": "DeepL Voice überträgt mit neuem Stimm-Modell auch Tonfall und Sprechtempo in andere Sprachen",
-      "takeaway": "Echtzeit-Übersetzungen von DeepL Voice sollen künftig näher am Original klingen, indem es Tonfall, Emotion, Betonung und Sprechtempo in der Stimme der sprechenden Person in die Zielsprache überträgt. …",
-      "topic": "Stimm-Modell",
-      "tags": [
-        "Stimm-Modell",
-        "Sprechtempo",
-        "Sprachen",
-        "Tonfall"
-      ],
-      "sources": [
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/deepl-voice-uebertraegt-mit-aure-jetzt-auch-tonfall-und-sprechtempo-in-andere-sprachen/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-und-ukraine-vereinbaren-gefangenenaustausch/100269015.html",
-      "headline": "Ukraine-Krieg: Gespräche nach zwei Stunden beendet – Russland und Ukraine vereinbaren Gefangenenaustausch",
-      "takeaway": "Die Friedensgespräche in Abu Dhabi haben keine Fortschritte zu einem Waffenstillstand gebracht. Die Kriegsparteien einigten sich nur auf eine humanitäre Geste.",
-      "topic": "Gefangenenaustausch",
-      "tags": [
-        "Gefangenenaustausch",
-        "Ukraine-Krieg",
-        "Gespräche",
-        "Russland"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-russland-und-ukraine-vereinbaren-gefangenenaustausch/100269015.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-hat-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss",
-      "headline": "Gas: Bundeskabinett beschließt hat strategische Gasreserve",
-      "takeaway": "Das Bundeskabinett hat die strategische Gasreserve beschlossen. Schon die Kosten für ihren Aufbau sollen 1,2 bis 1,8 Milliarden Euro betragen. Zahlen sollen laut dem Gesetzentwurf die Verbraucher.",
-      "topic": "Bundeskabinett",
-      "tags": [
-        "Bundeskabinett",
-        "Gasreserve",
-        "Gas",
-        "strategische"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/soziales/gas-bundeskabinett-beschliesst-hat-strategische-gasreserve-a-34fe2f8d-246c-404c-aad4-5c48b79618bd#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/",
-      "headline": "Drei Tage statt Monate für AMD-Chip-Wechsel: Laut Anthropic frisst KI Nvidias CUDA-Vorsprung",
-      "takeaway": "Anthropic behauptet, Nvidias CUDA-Burggraben mit KI selbst überwunden zu haben: Das hauseigene Modell Mythos habe Claude in nur drei Tagen auf AMD-GPUs portiert, fast ohne menschliches Zutun. Das …",
-      "topic": "AMD-Chip-Wechsel",
-      "tags": [
-        "AMD-Chip-Wechsel",
-        "CUDA-Vorsprung",
-        "Anthropic",
-        "Nvidias"
-      ],
-      "sources": [
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/IG-Metall-verschaerft-Tarifkampf-mit-24-Stunden-Warnstreiks-id31524684.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-      "headline": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-      "takeaway": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "headline": "Nvidia stock falls 6% as investors await Jensen Huang’s fate",
+      "takeaway": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
       "topic": "Nvidia",
       "tags": [
         "Nvidia",
+        "Jensen",
         "Huang",
-        "revelation",
-        "business"
+        "investors"
       ],
       "sources": [
         {
           "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html"
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/",
-      "headline": "Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules",
-      "takeaway": "Winning streaks can be turned off and influencers will be forced to reveal when they’re being paid under the new Digital Fairness Act aimed at tackling “dark patterns” on platforms and services.",
-      "topic": "Ticketmaster",
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/siemens-geschaeftszahlen-gewinn-innomotics-roland-busch-gxe",
+      "headline": "Siemens: Siemens macht weniger Gewinn, steigert aber seine Umsätze",
+      "takeaway": "Der Münchner Technologiekonzern Siemens erhöht seinen Umsatz auf 83,4 Milliarden Euro. Konzernchef Roland Busch spricht von einem »außerordentlich erfolgreichen« Jahr.",
+      "topic": "Siemens",
       "tags": [
-        "Ticketmaster",
-        "Duolingo",
-        "Fairness",
-        "Digital"
+        "Siemens",
+        "Umsätze",
+        "Gewinn",
+        "steigert"
       ],
       "sources": [
         {
-          "src": "wired",
-          "url": "https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/siemens-geschaeftszahlen-gewinn-innomotics-roland-busch-gxe"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/jahreszahlen-siemens-mit-rekordjahr-aber-weniger-gewinn/100269296.html"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/klimakrise-treibt-rekordbraende-hightech-soll-sie-bekaempfen-doch-gegen-einen-faktor-kommt-sie-nicht-an-1772345/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Klimakrise treibt Rekordbrände: Hightech soll sie bekämpfen – doch gegen einen Faktor kommt sie nicht an",
-      "takeaway": "Waldbrände entwickeln sich zur dauerhaften Bedrohung für Mensch und Klima. Systeme zur Früherkennung und intelligente Löschtechniken sollen helfen. weiterlesen auf t3n.de",
-      "topic": "Rekordbrände",
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa",
+      "headline": "Chef von Nvidia: Nvidia diskutiert über mögliche Ablösung von Konzernchef Jensen Huang",
+      "takeaway": "Nach neuen Berichten über eine mutmaßliche Affäre berät der Verwaltungsrat laut US-Medien über die Zukunft von Jensen Huang. Offenbar sucht Nvidia bereits eine Nachfolge.",
+      "topic": "Konzernchef",
       "tags": [
-        "Rekordbrände",
-        "Klimakrise",
-        "Hightech",
-        "Faktor"
+        "Konzernchef",
+        "Ablösung",
+        "Nvidia",
+        "Jensen"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/klimakrise-treibt-rekordbraende-hightech-soll-sie-bekaempfen-doch-gegen-einen-faktor-kommt-sie-nicht-an-1772345/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/nvidia-aktie-stuerzt-nach-bericht-ueber-geplante-entlassung-von-jensen-huang-ab-a-fc92fef0-3906-4f1b-a8fc-4caa0bfbfb9c#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+      "headline": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+      "takeaway": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
+      "topic": "Meta",
+      "tags": [
+        "Meta",
+        "AWS",
+        "infrastructure",
+        "succeeded"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/haushalt-diese-koalition-kann-es-nicht.-ist-sie-auch-am-ende/100269324.html",
+      "headline": "Haushalt: Diese Koalition kann es nicht. Ist sie auch am Ende?",
+      "takeaway": "Haushaltsdesaster für CDU und CSU: Keine Entlastung beim Strom, kein Ausgleich der kalten Progression. Die Union steht vor einem Scherbenhaufen. Ein Kommentar.",
+      "topic": "Koalition",
+      "tags": [
+        "Koalition",
+        "Haushalt",
+        "Ende"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/haushalt-diese-koalition-kann-es-nicht.-ist-sie-auch-am-ende/100269324.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html",
-      "headline": "Höchster Schweregrad: Adobe schließt kritische Lücken in Connect",
-      "takeaway": "Die Lernumgebung Connect ist aus der Ferne und ohne Interaktion mit Nutzern angreifbar. ( Patchday , Adobe )",
-      "topic": "Schweregrad",
+      "url": "https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html",
+      "headline": "Sicherheitsupdate: Google stopft fünf kritische Löcher in Chrome",
+      "takeaway": "Chrome ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Angreifbar ist der Browser unter Windows, MacOS und Linux. ( Chrome , Google )",
+      "topic": "Sicherheitsupdate",
       "tags": [
-        "Schweregrad",
-        "Höchster",
-        "Connect",
-        "Lücken"
+        "Sicherheitsupdate",
+        "Google",
+        "Löcher",
+        "Chrome"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html"
+          "url": "https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "„Merkmale von Glücksspiel“: EU will Lootboxen für Minderjährige verbieten",
-      "takeaway": "Der Entwurf des Digital Fairness Act verbietet Lootboxen und Pay-to-Win für Minderjährige. Der Branchenverband game schlägt Alarm.",
-      "topic": "Minderjährige",
+      "src": "netzpolitik",
+      "url": "https://netzpolitik.org/2026/psyschisch-kranken-gesetz-in-schleswig-holstein-polizei-soll-bei-angenommener-fremdgefaehrdung-informiert-werden/",
+      "headline": "Psyschisch-Kranken-Gesetz in Schleswig-Holstein: Polizei soll bei angenommener Fremdgefährdung informiert werden",
+      "takeaway": "Wer erfährt, wenn jemand aus einer Klinik entlassen wird? – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Arphy Nach Hessen will auch Schleswig-Holstein die Polizei darüber informieren, wenn …",
+      "topic": "Psyschisch-Kranken-Gesetz",
       "tags": [
-        "Minderjährige",
-        "Glücksspiel",
-        "Lootboxen",
-        "Merkmale"
+        "Psyschisch-Kranken-Gesetz",
+        "Schleswig-Holstein",
+        "Fremdgefährdung",
+        "Polizei"
       ],
       "sources": [
         {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "src": "netzpolitik",
+          "url": "https://netzpolitik.org/2026/psyschisch-kranken-gesetz-in-schleswig-holstein-polizei-soll-bei-angenommener-fremdgefaehrdung-informiert-werden/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html",
+      "headline": "1.040 Qubits: IBMs erster Dual-Socket-Quantencomputer kommt 2027",
+      "takeaway": "IBM arbeitet an einem Quantencomputer mit zwei Nighthawk-r3-Chips. Die sollen über mehr und stabilere Qubits verfügen als die aktuelle Generation. ( Quantencomputer , IBM )",
+      "topic": "Dual-Socket-Quantencomputer",
+      "tags": [
+        "Dual-Socket-Quantencomputer",
+        "Qubits",
+        "IBMs",
+        "erster"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/apple-support-community-aus-1773158/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Apple schaltet Support-Community ab: Was User noch vor der Deadline wissen müssen",
+      "takeaway": "Apple schließt schon in wenigen Tagen die Support-Community nach knapp drei Jahrzehnten. Schon jetzt gibt es für aktive User:innen Einschränkungen. Was du zum Aus des Dienstes wissen musst. …",
+      "topic": "Support-Community",
+      "tags": [
+        "Support-Community",
+        "Deadline",
+        "Apple",
+        "User"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/apple-support-community-aus-1773158/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "headline": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "takeaway": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "topic": "Progressive",
+      "tags": [
+        "Progressive",
+        "Recently",
+        "Other",
+        "Stuff"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "headline": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "takeaway": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+      "topic": "Attendants",
+      "tags": [
+        "Attendants",
+        "Airlines",
+        "Google",
+        "Wanted"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Steuern: Vereinfachen statt senken ? / Anthropic: Der zweitgrößte Börsengang aller Zeiten",
-    "dateLabel": "Folge vom 11.11. · 8 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2240-steuern-vereinfachen-statt-senken-anthropic-der-zweitgrosste-borsengang-aller-zeiten",
+    "title": "Bundesregierung: Großer Kompromiss bei kleinen Steuern",
+    "dateLabel": "Folge vom 12.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2241-bundesregierung-grosser-kompromiss-bei-kleinen-steuern",
     "takeaways": [
-      "Legt der Finanzminister die Axt ans Ehegattensplitting?",
-      "Das ist die falsche Frage.",
-      "Ein anderes Versäumnis des Vizekanzlers sollte viel eher für Unmut sorgen."
+      "Die Stromsteuersenkung kommt nicht, dafür aber auch weder Zucker- noch Plastiksteuer: Die Koalition geht mit einem Kompromiss in den entscheidenden Haushaltstag.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
     ]
   }
 }

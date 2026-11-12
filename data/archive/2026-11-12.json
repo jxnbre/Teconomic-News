@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T11:53:37.624637+01:00",
+  "updatedAtLabel": "12.11.2026, 11:53 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/neuer-rekord-dax-knackt-erstmals-marke-von-27-000-punkten-a-dc114850-1845-407a-9ed4-981f12b936db#ref=rss",
+      "headline": "Börse: Neuer Rekord – Dax knackt erstmals Marke von 27.000 Punkten",
+      "takeaway": "Gute Stimmung am deutschen Aktienmarkt: Der Dax hat eine neue Rekordmarke erreicht. Der Höhenflug liegt unter anderem an zuletzt positiven Firmenbilanzen ​und ‌den rückläufigen Ölpreisen.",
+      "topic": "Punkten",
+      "tags": [
+        "Punkten",
+        "Rekord",
+        "Börse",
+        "Marke"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/neuer-rekord-dax-knackt-erstmals-marke-von-27-000-punkten-a-dc114850-1845-407a-9ed4-981f12b936db#ref=rss"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Dax-knackt-erstmals-Marke-von-27-000-Punkten-id31524883.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/boerse/dax-erstmals-wird-die-marke-von-27.000-punkten-geknackt/100269371.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bafin-verhaengt-millionenstrafe-gegen-deutsche-bank-wegen-it-pannen-bei-postbank-kunden-a-1323fe0e-ee27-4137-a3d3-8429b0e1bf8a#ref=rss",
+      "headline": "Deutsche Bank: Bafin verhängt Millionenstrafe wegen IT-Pannen bei Postbank-Kunden",
+      "takeaway": "Die Deutsche Bank soll wegen der Probleme bei der IT-Migration von Postbank-Kunden eine Strafe von acht Millionen Euro zahlen. Laut der Bundesanstalt für Finanzdienstleistungsaufsicht hat die Bank …",
+      "topic": "Millionenstrafe",
+      "tags": [
+        "Millionenstrafe",
+        "Postbank-Kunden",
+        "IT-Pannen",
+        "Deutsche"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/bafin-verhaengt-millionenstrafe-gegen-deutsche-bank-wegen-it-pannen-bei-postbank-kunden-a-1323fe0e-ee27-4137-a3d3-8429b0e1bf8a#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/bafin-geldbusse-deutsche-bank-postbank-it-plattform-gxe"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-und-postbank-millionenbussgeld-nach-it-umzug-verhaengt-a-6d7d2f80-e950-4c73-b1e2-067b7543c414#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "headline": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "takeaway": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "topic": "Jensen",
+      "tags": [
+        "Jensen",
+        "Huang",
+        "Who",
+        "unscientific"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+        },
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
+      "headline": "IG Metall beschließt erstmals seit acht Jahren ganztägige Streiks",
+      "takeaway": "Ab sofort sind im Tarifstreit der Metall- und Elektroindustrie ganztägige Warnstreiks möglich. Die IG Metall wirft den Arbeitgebern nach drei Verhandlungsrunden eine Blockadehaltung vor. Wo genau …",
+      "topic": "Streiks",
+      "tags": [
+        "Streiks",
+        "Metall",
+        "beschließt",
+        "ganztägige"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/IG-Metall-verschaerft-Tarifkampf-mit-24-Stunden-Warnstreiks-id31524684.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "headline": "Nvidia stock falls 6% as investors await Jensen Huang’s fate",
+      "takeaway": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "Jensen",
+        "Huang",
+        "investors"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/siemens-geschaeftszahlen-gewinn-innomotics-roland-busch-gxe",
+      "headline": "Siemens: Siemens macht weniger Gewinn, steigert aber seine Umsätze",
+      "takeaway": "Der Münchner Technologiekonzern Siemens erhöht seinen Umsatz auf 83,4 Milliarden Euro. Konzernchef Roland Busch spricht von einem »außerordentlich erfolgreichen« Jahr.",
+      "topic": "Siemens",
+      "tags": [
+        "Siemens",
+        "Umsätze",
+        "Gewinn",
+        "steigert"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/siemens-geschaeftszahlen-gewinn-innomotics-roland-busch-gxe"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/industrie/jahreszahlen-siemens-mit-rekordjahr-aber-weniger-gewinn/100269296.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa",
+      "headline": "Chef von Nvidia: Nvidia diskutiert über mögliche Ablösung von Konzernchef Jensen Huang",
+      "takeaway": "Nach neuen Berichten über eine mutmaßliche Affäre berät der Verwaltungsrat laut US-Medien über die Zukunft von Jensen Huang. Offenbar sucht Nvidia bereits eine Nachfolge.",
+      "topic": "Konzernchef",
+      "tags": [
+        "Konzernchef",
+        "Ablösung",
+        "Nvidia",
+        "Jensen"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/nvidia-aktie-stuerzt-nach-bericht-ueber-geplante-entlassung-von-jensen-huang-ab-a-fc92fef0-3906-4f1b-a8fc-4caa0bfbfb9c#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+      "headline": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
+      "takeaway": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
+      "topic": "Meta",
+      "tags": [
+        "Meta",
+        "AWS",
+        "infrastructure",
+        "succeeded"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/haushalt-diese-koalition-kann-es-nicht.-ist-sie-auch-am-ende/100269324.html",
+      "headline": "Haushalt: Diese Koalition kann es nicht. Ist sie auch am Ende?",
+      "takeaway": "Haushaltsdesaster für CDU und CSU: Keine Entlastung beim Strom, kein Ausgleich der kalten Progression. Die Union steht vor einem Scherbenhaufen. Ein Kommentar.",
+      "topic": "Koalition",
+      "tags": [
+        "Koalition",
+        "Haushalt",
+        "Ende"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/haushalt-diese-koalition-kann-es-nicht.-ist-sie-auch-am-ende/100269324.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html",
+      "headline": "Sicherheitsupdate: Google stopft fünf kritische Löcher in Chrome",
+      "takeaway": "Chrome ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Angreifbar ist der Browser unter Windows, MacOS und Linux. ( Chrome , Google )",
+      "topic": "Sicherheitsupdate",
+      "tags": [
+        "Sicherheitsupdate",
+        "Google",
+        "Löcher",
+        "Chrome"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "netzpolitik",
+      "url": "https://netzpolitik.org/2026/psyschisch-kranken-gesetz-in-schleswig-holstein-polizei-soll-bei-angenommener-fremdgefaehrdung-informiert-werden/",
+      "headline": "Psyschisch-Kranken-Gesetz in Schleswig-Holstein: Polizei soll bei angenommener Fremdgefährdung informiert werden",
+      "takeaway": "Wer erfährt, wenn jemand aus einer Klinik entlassen wird? – Gemeinfrei-ähnlich freigegeben durch unsplash.com: Arphy Nach Hessen will auch Schleswig-Holstein die Polizei darüber informieren, wenn …",
+      "topic": "Psyschisch-Kranken-Gesetz",
+      "tags": [
+        "Psyschisch-Kranken-Gesetz",
+        "Schleswig-Holstein",
+        "Fremdgefährdung",
+        "Polizei"
+      ],
+      "sources": [
+        {
+          "src": "netzpolitik",
+          "url": "https://netzpolitik.org/2026/psyschisch-kranken-gesetz-in-schleswig-holstein-polizei-soll-bei-angenommener-fremdgefaehrdung-informiert-werden/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html",
+      "headline": "1.040 Qubits: IBMs erster Dual-Socket-Quantencomputer kommt 2027",
+      "takeaway": "IBM arbeitet an einem Quantencomputer mit zwei Nighthawk-r3-Chips. Die sollen über mehr und stabilere Qubits verfügen als die aktuelle Generation. ( Quantencomputer , IBM )",
+      "topic": "Dual-Socket-Quantencomputer",
+      "tags": [
+        "Dual-Socket-Quantencomputer",
+        "Qubits",
+        "IBMs",
+        "erster"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/apple-support-community-aus-1773158/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Apple schaltet Support-Community ab: Was User noch vor der Deadline wissen müssen",
+      "takeaway": "Apple schließt schon in wenigen Tagen die Support-Community nach knapp drei Jahrzehnten. Schon jetzt gibt es für aktive User:innen Einschränkungen. Was du zum Aus des Dienstes wissen musst. …",
+      "topic": "Support-Community",
+      "tags": [
+        "Support-Community",
+        "Deadline",
+        "Apple",
+        "User"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/apple-support-community-aus-1773158/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "headline": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "takeaway": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "topic": "Progressive",
+      "tags": [
+        "Progressive",
+        "Recently",
+        "Other",
+        "Stuff"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "headline": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "takeaway": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+      "topic": "Attendants",
+      "tags": [
+        "Attendants",
+        "Airlines",
+        "Google",
+        "Wanted"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Bundesregierung: Großer Kompromiss bei kleinen Steuern",
+    "dateLabel": "Folge vom 12.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2241-bundesregierung-grosser-kompromiss-bei-kleinen-steuern",
+    "takeaways": [
+      "Die Stromsteuersenkung kommt nicht, dafür aber auch weder Zucker- noch Plastiksteuer: Die Koalition geht mit einem Kompromiss in den entscheidenden Haushaltstag.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
