@@ -1,62 +1,68 @@
 {
-  "updatedAt": "2026-11-13T01:06:12.948711+01:00",
-  "updatedAtLabel": "13.11.2026, 01:06 Uhr",
+  "updatedAt": "2026-11-13T08:47:06.586327+01:00",
+  "updatedAtLabel": "13.11.2026, 08:47 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
-    "fresh": 87,
-    "stale": [],
+    "fresh": 86,
+    "stale": [
+      "merck"
+    ],
     "missing": [],
     "hint": "",
-    "errors": []
+    "errors": [
+      "Yahoo (gebündelt): HTTPError: HTTP Error 429: Too Many Requests",
+      "Yahoo MRK.DE: HTTPError: HTTP Error 429: Too Many Requests",
+      "Stooq liefert eine Webseite statt Kursdaten (Sperre oder Captcha)"
+    ]
   },
   "quotes": {
     "btc": {
-      "price": "64.639 €",
+      "price": "62.242 €",
       "change": {
-        "week": -3.59,
-        "month": -10.72,
-        "year": -24.47
+        "week": -7.17,
+        "month": -14.03,
+        "year": -27.27
       },
       "asOf": "2026-11-13",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "1.826,27 €",
+      "price": "1.756,56 €",
       "change": {
-        "week": -9.0,
-        "month": -14.13,
-        "year": -37.77
+        "week": -7.83,
+        "month": -17.49,
+        "year": -36.65
       },
       "asOf": "2026-11-13",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "73,90 €",
+      "price": "72,54 €",
       "change": {
-        "week": -8.17,
-        "month": -19.91,
-        "year": -43.93
+        "week": -6.43,
+        "month": -20.91,
+        "year": -41.69
       },
       "asOf": "2026-11-13",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "0,9431 €",
+      "price": "0,9304 €",
       "change": {
-        "week": -9.61,
-        "month": -19.09,
-        "year": -52.73
+        "week": -6.77,
+        "month": -19.45,
+        "year": -53.36
       },
       "asOf": "2026-11-13",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "594,89 €",
+      "price": "572,43 €",
       "change": {
-        "week": -3.04,
-        "month": -9.8,
-        "year": -25.2
+        "week": -6.7,
+        "month": -13.2,
+        "year": -28.03
       },
       "asOf": "2026-11-13",
       "src": "CoinGecko"
@@ -102,33 +108,33 @@
       "src": "EZB"
     },
     "dax": {
-      "price": "26.663 Pkt.",
+      "price": "26.772 Pkt.",
       "change": {
-        "week": 0.85,
-        "month": 5.55,
-        "year": 9.36
+        "week": 1.7,
+        "month": 5.82,
+        "year": 9.8
       },
-      "asOf": "2026-11-11",
+      "asOf": "2026-11-12",
       "src": "Yahoo"
     },
     "mdax": {
-      "price": "31.075 Pkt.",
+      "price": "30.858 Pkt.",
       "change": {
-        "week": -0.33,
-        "month": 3.51,
-        "year": 5.08
+        "week": -0.11,
+        "month": 2.69,
+        "year": 4.34
       },
-      "asOf": "2026-11-11",
+      "asOf": "2026-11-12",
       "src": "Yahoo"
     },
     "sdax": {
-      "price": "18.137 Pkt.",
+      "price": "17.954 Pkt.",
       "change": {
-        "week": -0.7,
-        "month": 0.39,
-        "year": 12.15
+        "week": -0.4,
+        "month": -1.23,
+        "year": 11.02
       },
-      "asOf": "2026-11-11",
+      "asOf": "2026-11-12",
       "src": "Yahoo"
     },
     "dow": {
@@ -162,33 +168,33 @@
       "src": "Yahoo"
     },
     "stoxx": {
-      "price": "6.393 Pkt.",
+      "price": "6.399 Pkt.",
       "change": {
-        "week": 2.04,
-        "month": 3.67,
-        "year": 10.47
+        "week": 2.69,
+        "month": 3.37,
+        "year": 10.57
       },
-      "asOf": "2026-11-11",
+      "asOf": "2026-11-12",
       "src": "Yahoo"
     },
     "ftse": {
-      "price": "10.836 Pkt.",
+      "price": "10.863 Pkt.",
       "change": {
-        "week": 0.06,
-        "month": 1.74,
-        "year": 9.32
+        "week": 0.75,
+        "month": 1.29,
+        "year": 9.6
       },
-      "asOf": "2026-11-11",
+      "asOf": "2026-11-12",
       "src": "Yahoo"
     },
     "nikkei": {
-      "price": "61.249 Pkt.",
+      "price": "61.142 Pkt.",
       "change": {
-        "week": -1.51,
-        "month": -11.27,
-        "year": 19.44
+        "week": 6.46,
+        "month": -9.75,
+        "year": 19.23
       },
-      "asOf": "2026-11-11",
+      "asOf": "2026-11-13",
       "src": "Yahoo"
     },
     "adidas": {
@@ -427,16 +433,6 @@
         "week": -2.15,
         "month": 4.35,
         "year": -30.32
-      },
-      "asOf": "2026-11-11",
-      "src": "Yahoo"
-    },
-    "merck": {
-      "price": "151,60 €",
-      "change": {
-        "week": 0.76,
-        "month": 10.17,
-        "year": 31.03
       },
       "asOf": "2026-11-11",
       "src": "Yahoo"
@@ -832,13 +828,13 @@
       "src": "Yahoo"
     },
     "samsung": {
-      "price": "208.000 ₩",
+      "price": "206.000 ₩",
       "change": {
-        "week": 3.23,
-        "month": -10.34,
-        "year": 102.33
+        "week": 9.17,
+        "month": -1.9,
+        "year": 100.39
       },
-      "asOf": "2026-11-12",
+      "asOf": "2026-11-13",
       "src": "Yahoo"
     },
     "tsm": {
@@ -880,6 +876,17 @@
       },
       "asOf": "2026-11-11",
       "src": "Yahoo"
+    },
+    "merck": {
+      "price": "151,60 €",
+      "change": {
+        "week": 0.76,
+        "month": 10.17,
+        "year": 31.03
+      },
+      "asOf": "2026-11-11",
+      "src": "Yahoo",
+      "stale": true
     }
   }
 }
