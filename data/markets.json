@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T17:57:35.870495+01:00",
-  "updatedAtLabel": "14.11.2026, 17:57 Uhr",
+  "updatedAt": "2026-11-14T22:18:40.549127+01:00",
+  "updatedAtLabel": "14.11.2026, 22:18 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -12,51 +12,51 @@
   },
   "quotes": {
     "btc": {
-      "price": "59.315 €",
+      "price": "58.286 €",
       "change": {
-        "week": -11.56,
-        "month": -17.76,
-        "year": -27.26
+        "week": -13.1,
+        "month": -19.19,
+        "year": -28.52
       },
       "asOf": "2026-11-14",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "1.656,18 €",
+      "price": "1.602,85 €",
       "change": {
-        "week": -12.83,
-        "month": -21.26,
-        "year": -38.28
+        "week": -15.64,
+        "month": -23.79,
+        "year": -40.26
       },
       "asOf": "2026-11-14",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "65,89 €",
+      "price": "63,22 €",
       "change": {
-        "week": -14.62,
-        "month": -27.82,
-        "year": -44.9
+        "week": -18.08,
+        "month": -30.74,
+        "year": -47.13
       },
       "asOf": "2026-11-14",
       "src": "CoinGecko"
     },
     "xrp": {
-      "price": "0,8683 €",
+      "price": "0,8311 €",
       "change": {
-        "week": -11.2,
-        "month": -25.07,
-        "year": -55.02
+        "week": -15.0,
+        "month": -28.27,
+        "year": -56.94
       },
       "asOf": "2026-11-14",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "531,76 €",
+      "price": "522,52 €",
       "change": {
-        "week": -13.58,
-        "month": -19.38,
-        "year": -32.52
+        "week": -15.09,
+        "month": -20.79,
+        "year": -33.69
       },
       "asOf": "2026-11-14",
       "src": "CoinGecko"
