@@ -1,346 +1,337 @@
 {
-  "date": "2026-11-13",
-  "updatedAt": "2026-11-13T08:47:33.465485+01:00",
-  "updatedAtLabel": "13.11.2026, 08:47 Uhr",
+  "date": "2026-11-14",
+  "updatedAt": "2026-11-14T11:06:45.831463+01:00",
+  "updatedAtLabel": "14.11.2026, 11:06 Uhr",
   "ai": false,
   "topStories": [
     {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "headline": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "takeaway": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-      "topic": "Widespread",
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html",
+      "headline": "Outlook und Teams: Serverausfälle bei Microsoft nicht wegen KI oder Hackern",
+      "takeaway": "Microsoft hat eine erste Erklärung für den stundenlangen Serverausfall gegeben. Eine ausführliche Fehleranalyse soll folgen. ( Microsoft 365 , Microsoft )",
+      "topic": "Serverausfälle",
       "tags": [
-        "Widespread",
+        "Serverausfälle",
         "Microsoft",
         "Outlook",
-        "services"
+        "Hackern"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/it-internet/grossstoerung-microsoft-service-komplett-wieder-hergestellt/100269854.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/microsoft-nach-megastoerung-laufen-outlook-teams-und-copilot-wieder-a-a7dff8d1-58b5-41e9-92c8-483e7d38135f#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
+      "headline": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
+      "takeaway": "Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )",
+      "topic": "Privatkunden",
+      "tags": [
+        "Privatkunden",
+        "Autonomes",
+        "Cybercab",
+        "Fahren"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/tesla-cybercab-robotaxi-ohne-lenkrad-jetzt-fuer-privatkunden-vorbestellbar-a-b23ca5a2-0ec1-4a23-94d3-5d2bd5f8cfcf#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "takeaway": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than …",
+      "topic": "FAA",
+      "tags": [
+        "FAA",
+        "nationwide",
+        "takeoffs",
+        "blocked"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
+        },
+        {
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "headline": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "takeaway": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "topic": "ChatGPT",
+      "tags": [
+        "ChatGPT",
+        "Wallet",
+        "agents",
+        "check"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+      "headline": "U.S. flights resume after FAA ground stop, but travel disruption continues",
+      "takeaway": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+      "topic": "FAA",
+      "tags": [
+        "FAA",
+        "disruption",
+        "continues",
+        "flights"
       ],
       "sources": [
         {
           "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
-        },
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/"
-        },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-drohnenhersteller-meldet-cyberangriff/100269620.html",
-      "headline": "Drohnenhersteller: Quantum Systems meldet Cyberangriff",
-      "takeaway": "Quantum-Drohnen unterstützen die ukrainischen Streitkräfte, nun meldet der Hersteller einen Cyberangriff durch feindliche Akteure. Laut einem Bericht hat die Bundeswehr reagiert.",
-      "topic": "Drohnenhersteller",
+      "url": "https://www.wiwo.de/politik/deutschland/industrie-netzanschluessen-50hertz-warnt-vor-engpaessen-bei-energieversorgung/100269868.html",
+      "headline": "Energieversorgung: 50Hertz warnt vor Engpässen bei Industrie-Netzanschlüssen",
+      "takeaway": "Der Übertragungsnetzbetreiber 50Hertz warnt vor Engpässen bei Netzanschlüssen für neue Industriebetriebe.",
+      "topic": "Industrie-Netzanschlüssen",
       "tags": [
-        "Drohnenhersteller",
-        "Cyberangriff",
-        "Quantum",
-        "Systems"
+        "Industrie-Netzanschlüssen",
+        "Energieversorgung",
+        "Engpässen",
+        "50Hertz"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/industrie/quantum-systems-drohnenhersteller-meldet-cyberangriff/100269620.html"
-        },
+          "url": "https://www.wiwo.de/politik/deutschland/industrie-netzanschluessen-50hertz-warnt-vor-engpaessen-bei-energieversorgung/100269868.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "headline": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "takeaway": "Here’s how to get your bird and all the trimmings on a budget.",
+      "topic": "Thanksgiving",
+      "tags": [
+        "Thanksgiving",
+        "Roundup",
+        "Walmart",
+        "Amazon"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "headline": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "takeaway": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
+      "topic": "Galaxies",
+      "tags": [
+        "Galaxies",
+        "Ghostly",
+        "Matter",
+        "These"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/unternehmen/energie/uniper-noch-drei-bieter-im-rennen-um-verstaatlichten-energiekonzern-a-70b41f80-857e-485b-8d94-8ec49d655484#ref=rss",
+      "headline": "Uniper: Noch drei Bieter im Rennen um verstaatlichten Energiekonzern",
+      "takeaway": "Seit Monaten ist der Bund auf der Suche nach einem passenden Käufer für Deutschlands größten Gasimporteur. Nun sind die letzten drei Bieter Insidern zufolge eine Runde weiter. Der tschechische …",
+      "topic": "Energiekonzern",
+      "tags": [
+        "Energiekonzern",
+        "Uniper",
+        "Bieter",
+        "Rennen"
+      ],
+      "sources": [
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/quantum-systems-cyberangriff-legt-systeme-des-drohnenherstellers-zeitweise-lahm-a-c30d10b4-0495-4cdc-a166-153ca5a01b87#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Massive-Stoerung-bei-Microsoft-trifft-Unternehmen-und-Behoerden-id31528952.html",
-      "headline": "Weltweiter Ausfall: Massive Störung bei Microsoft trifft Unternehmen und Behörden",
-      "takeaway": "Die großflächige Störung bei Microsoft-Diensten dauert an. Die Auswirkungen ziehen weite Kreise in der Wirtschaft, auch sensible Regierungsbereiche sind betroffen. In Australien etwa melden …",
-      "topic": "Unternehmen",
-      "tags": [
-        "Unternehmen",
-        "Weltweiter",
-        "Microsoft",
-        "Behörden"
-      ],
-      "sources": [
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Massive-Stoerung-bei-Microsoft-trifft-Unternehmen-und-Behoerden-id31528952.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/technologie/digitale-welt/microsoft-stoerung-weltweite-stoerung-bei-outlook-teams-sharepoint-copilot/100269543.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-      "headline": "As Nvidia reels from Huang's affairs, who stands to gain?",
-      "takeaway": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
-      "topic": "Nvidia",
-      "tags": [
-        "Nvidia",
-        "Huang",
-        "affairs",
-        "stands"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html"
-        },
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+          "url": "https://www.manager-magazin.de/unternehmen/energie/uniper-noch-drei-bieter-im-rennen-um-verstaatlichten-energiekonzern-a-70b41f80-857e-485b-8d94-8ec49d655484#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss",
-      "headline": "Mercedes-Benz: Vorstand stoppt Investitionen und prüft Werksschließungen in Deutschland",
-      "takeaway": "Der Streit zwischen Management und Arbeitnehmervertretung bei Mercedes-Benz eskaliert. Intern droht der Vorstand drastische Maßnahmen an: Künftige Fahrzeuge könnten »ausschließlich im Ausland« …",
-      "topic": "Werksschließungen",
+      "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
+      "headline": "Reederei MSC steht vor Kauf der Meyer Werft",
+      "takeaway": "Die letzte bedeutende deutsche Kreuzfahrtschiffwerft geht wohl an die weltgrößte Reederei: Der Bund will dem Konzern MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll der Vertrag …",
+      "topic": "Reederei",
       "tags": [
-        "Werksschließungen",
-        "Mercedes-Benz",
-        "Investitionen",
-        "Deutschland"
+        "Reederei",
+        "Meyer",
+        "Werft",
+        "Kauf"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/mercedes-benz-konzern-stoppt-investitionen-in-deutsche-werke-und-prueft-schliessungen-a-e7f79c73-ef81-4715-a6ad-a7033a1fac75#ref=rss"
-        },
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/autohersteller-mercedes-stoppt-alle-investitionen-in-deutschland-2611-215158.html"
+          "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/mercedes-benz-britta-seeger-arbeitskosten-betriebsrat-ig-metall-werksschliessungen",
-      "headline": "Mercedes-Benz: Mercedes stoppt alle neuen Investitionen in deutsche Standorte",
-      "takeaway": "Wegen stockender Verhandlungen über Sparmaßnahmen setzt Mercedes neue Investitionen an deutschen Standorten aus. Auch Werksschließungen schließt der Konzern nicht aus.",
-      "topic": "Mercedes-Benz",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+      "headline": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
+      "takeaway": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet …",
+      "topic": "Microsoft-Diensten",
       "tags": [
-        "Mercedes-Benz",
-        "Investitionen",
-        "Standorte",
-        "Mercedes"
+        "Microsoft-Diensten",
+        "Ausfall",
+        "bekannt"
       ],
       "sources": [
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/mercedes-benz-britta-seeger-arbeitskosten-betriebsrat-ig-metall-werksschliessungen"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Mercedes-stoppt-alle-weiteren-Investitionen-in-die-deutschen-Standorte-id31527789.html"
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/geldanlage/bitcoin-kurs-bitcoin-faellt-auf-drei-monats-tief/100269635.html",
-      "headline": "Bitcoin-Kurs: Bitcoin fällt auf Drei-Monats-Tief",
-      "takeaway": "Bitcoin fällt unter 70.000 Dollar und damit auf den tiefsten Stand seit Monaten. Anleger reagieren auf Zinsängste in den USA und die Nvidia-Turbulenzen.",
-      "topic": "Drei-Monats-Tief",
+      "url": "https://www.wiwo.de/finanzen/geldanlage/claude-und-bitpanda-wie-die-ki-fuer-mich-geld-fuer-einen-doener-verdienen-sollte/100269145.html",
+      "headline": "Agentic Investing: Wie die KI für mich mit Kryptos genug Geld für einen Döner verdienen sollte",
+      "takeaway": "Beim Kryptobroker Bitpanda können Kunden ihr Depot mit einem KI-Agenten verbinden. Unser Autor hat es ausprobiert – und Claude zocken lassen.",
+      "topic": "Investing",
       "tags": [
-        "Drei-Monats-Tief",
-        "Bitcoin-Kurs",
-        "Bitcoin",
-        "fällt"
+        "Investing",
+        "Agentic",
+        "Kryptos",
+        "Döner"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/geldanlage/bitcoin-kurs-bitcoin-faellt-auf-drei-monats-tief/100269635.html"
+          "url": "https://www.wiwo.de/finanzen/geldanlage/claude-und-bitpanda-wie-die-ki-fuer-mich-geld-fuer-einen-doener-verdienen-sollte/100269145.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html",
-      "headline": "Störung: Ausfall bei Microsoft beeinträchtigt Outlook und Teams",
-      "takeaway": "Viele Unternehmen und Verbraucher nutzen ihre E-Mails über den Outlook-Dienst von Microsoft. Der ist seit Donnerstag nicht erreichbar. Auch die Produkte Teams und Copilot sind betroffen.",
-      "topic": "Microsoft",
+      "url": "https://www.handelsblatt.com/politik/deutschland/trauerfeier-in-muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-aiwanger/100269870.html",
+      "headline": "Trauerfeier in München: Mehr als 1.000 Trauergäste nehmen Abschied von Aiwanger",
+      "takeaway": "So plötzlich der Tod von Hubert Aiwanger kam, so groß ist auch die Anteilnahme. Beim Trauerakt für den Politiker ist die Frauenkirche voll besetzt.",
+      "topic": "Trauerfeier",
       "tags": [
-        "Microsoft",
-        "Störung",
-        "Ausfall",
-        "Outlook"
+        "Trauerfeier",
+        "Trauergäste",
+        "Abschied",
+        "Aiwanger"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/technik/it-internet/stoerung-ausfall-bei-microsoft-beeintraechtigt-outlook-und-teams/100269552.html"
+          "url": "https://www.handelsblatt.com/politik/deutschland/trauerfeier-in-muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-aiwanger/100269870.html"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html",
-      "headline": "Militär: Anduril will Satelliten im Erdschatten aufspüren",
-      "takeaway": "Anduril hat ein langwelliges Infrarotsystem getestet, das Satellitenmanöver auch in der orbitalen Nacht erkennen soll. ( Satelliten , Politik )",
-      "topic": "Erdschatten",
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-genug-ist-genug-eine-abrechnung-mit-den-kulturkriegern/100269288.html",
+      "headline": "Kommentar: Genug ist genug – eine Abrechnung mit den Kulturkriegern",
+      "takeaway": "Die meisten Menschen haben die Spaltungsrhetorik und Dauererregung satt. Das ist die zentrale Lehre aus dem Trump-Debakel in den USA. Und sie hat Folgen für Europa.",
+      "topic": "Kulturkriegern",
       "tags": [
-        "Erdschatten",
-        "Satelliten",
-        "Militär",
-        "Anduril"
+        "Kulturkriegern",
+        "Abrechnung",
+        "Kommentar",
+        "Genug"
       ],
       "sources": [
         {
-          "src": "golem",
-          "url": "https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html",
-      "headline": "Sicherheit: Neue Starlink-Drosselung verunsichert die Ukraine",
-      "takeaway": "Die Ukraine meldet erneute Einschränkungen bei Starshield. Diese könnten die Drohnenabwehr behindern. ( Starlink , Politik )",
-      "topic": "Starlink-Drosselung",
-      "tags": [
-        "Starlink-Drosselung",
-        "Sicherheit",
-        "Ukraine",
-        "verunsichert"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-      "headline": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-      "takeaway": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang …",
-      "topic": "Nvidia",
-      "tags": [
-        "Nvidia",
-        "China",
-        "national",
-        "security"
-      ],
-      "sources": [
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-genug-ist-genug-eine-abrechnung-mit-den-kulturkriegern/100269288.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/bose-kabelgebundene-noise-cancelling-earbuds-test-review-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Ohne Airpods: Wie es ist, nach Jahren wieder kabelgebundene Kopfhörer zu tragen",
-      "takeaway": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen …",
-      "topic": "Kopfhörer",
+      "url": "https://t3n.de/news/ipad-kaufberatung-weihnachten-kinder-1772570/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "iPad-Kaufberatung: Welches Modell sich zu Weihnachten wirklich lohnt",
+      "takeaway": "Ein eigenes iPad dürfte jährlich ganz oben auf der Wunschliste vieler Kinder stehen. Für die Schule muss es aber nicht zwingend das teuerste und leistungsfähigste Modell von Apple sein. Welches lohnt …",
+      "topic": "Weihnachten",
       "tags": [
-        "Kopfhörer",
-        "Airpods",
-        "kabelgebundene",
-        "wieder"
+        "Weihnachten",
+        "Welches",
+        "Modell",
+        "iPad-Kaufberatung"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/bose-kabelgebundene-noise-cancelling-earbuds-test-review-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/outlook-teams-copilot-microsoft-ausfall-1773365/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Outlook, Teams, Copilot: Wieso die Microsoft-Dienste gerade Probleme machen",
-      "takeaway": "Outlook sendet keine Mails, Teams hängt, Copilot antwortet nicht. Microsoft kämpft stundenlang gegen einen massiven Cloud-Ausfall – doch jede Lösung scheiterte. Was bisher bekannt ist. weiterlesen …",
-      "topic": "Microsoft-Dienste",
-      "tags": [
-        "Microsoft-Dienste",
-        "Probleme",
-        "Outlook",
-        "Copilot"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/outlook-teams-copilot-microsoft-ausfall-1773365/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/gametime-promo-code/",
-      "headline": "Gametime Promo Code: Save on Tickets in November 2026",
-      "takeaway": "Grab last-minute seats for less with a verified Gametime discount code for up to 10% off, first-purchase coupons, and lowest price guarantee credits.",
-      "topic": "Gametime",
-      "tags": [
-        "Gametime",
-        "November",
-        "Tickets",
-        "Promo"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/gametime-promo-code/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/instacart-promo/code/",
-      "headline": "Instacart Promo Code: $15 Off | November 2026",
-      "takeaway": "Find the best Instacart promo code for massive savings in November 2026.",
-      "topic": "Instacart",
-      "tags": [
-        "Instacart",
-        "November",
-        "Promo",
-        "Code"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/instacart-promo/code/"
+          "url": "https://t3n.de/news/ipad-kaufberatung-weihnachten-kinder-1772570/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Warum Mercedes nicht mehr an Deutschland glaubt",
-    "dateLabel": "Folge vom 13.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2242-warum-mercedes-nicht-mehr-an-deutschland-glaubt",
+    "title": "Podcast-Tipp: Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet",
+    "dateLabel": "Folge vom 14.11. · 1 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2249-podcast-tipp-made-in-berlin-wirtschaftspolitik-und-was-sie-fur-euch-bedeutet",
     "takeaways": [
-      "Der älteste Autokonzern der Welt gibt sein Heimatland auf – mit einem drastischen Schritt.",
-      "Was ein wenig nach Erpressung klingt, hat gut durchgerechnete Gründe.",
-      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
+      "Deutschland steckt in einer Wirtschaftskrise, wie wir sie lange nicht erlebt haben.",
+      "Ob unser Land da wieder herauskommt oder noch tiefer hineinrutscht, entscheidet sich maßgeblich in Berlin.",
+      "Doch wie entstehen wirtschaftspolitische Entscheidungen eigentlich, wer beeinflusst sie und was bedeuten sie für euch?"
     ]
   }
 }
