@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-15",
+  "updatedAt": "2026-11-15T10:10:07.570056+01:00",
+  "updatedAtLabel": "15.11.2026, 10:10 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
+      "headline": "Reederei MSC steht vor Kauf der Meyer Werft",
+      "takeaway": "Die letzte bedeutende deutsche Kreuzfahrtschiffwerft geht wohl an die weltgrößte Reederei: Der Bund will dem Konzern MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll der Vertrag …",
+      "topic": "Reederei",
+      "tags": [
+        "Reederei",
+        "Meyer",
+        "Werft",
+        "Kauf"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/meyer-werft-bund-steht-vor-anteilsverkauf-an-msc-eigentuemerfamilie-stockt-auf-a-f4d7c336-c450-4bbd-9bf3-1db756db2987#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "headline": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "takeaway": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black …",
+      "topic": "Holiday",
+      "tags": [
+        "Holiday",
+        "Here",
+        "Sale",
+        "REI"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
+        },
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "headline": "Microsoft says services fully restored after day-long global outage",
+      "takeaway": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "topic": "Microsoft",
+      "tags": [
+        "Microsoft",
+        "services",
+        "restored",
+        "day-long"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss",
+      "headline": "Tesla Cybercab: Robotaxi für 29.990 Dollar – aber mit Nutzungsbeschränkungen",
+      "takeaway": "Es ist Elon Musks neues Lieblingsprojekt: ein selbstfahrendes goldenes Ei. Nun sollen auch Privatkunden das Robotaxi ordern können. Offen ist, ob sie es dann allerdings auch nutzen können.",
+      "topic": "Nutzungsbeschränkungen",
+      "tags": [
+        "Nutzungsbeschränkungen",
+        "Cybercab",
+        "Robotaxi",
+        "Tesla"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/tesla-cybercab-robotaxi-ohne-lenkrad-jetzt-fuer-privatkunden-vorbestellbar-a-b23ca5a2-0ec1-4a23-94d3-5d2bd5f8cfcf#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/technologie/forschung/holz-beton-hybriddecken-wie-forscher-zwei-drittel-co2-sparen/100260506.html",
+      "headline": "Gamechanger: Holz und Beton – so wollen Forscher Geschossdecken klimafreundlicher machen",
+      "takeaway": "Ideen, die unsere Welt ­verändern und verbessern. Wir stellen sie vor. Diesmal: Hybrid-Etagendecken, dünn wie ­Stahlbeton – aber viel leichter.",
+      "topic": "Geschossdecken",
+      "tags": [
+        "Geschossdecken",
+        "Gamechanger",
+        "Forscher",
+        "Beton"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/technologie/forschung/holz-beton-hybriddecken-wie-forscher-zwei-drittel-co2-sparen/100260506.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html",
+      "headline": "Telefon: Darum ließ der Siegeszug des Tastentelefons Jahrzehnte auf sich warten",
+      "takeaway": "1976 stellt die Deutsche Bundespost den „Fernsprechtischapparat 751“ vor. Wer ein Telefon mit Tasten will, kann es nun mieten – aber nur bei der Post.",
+      "topic": "Tastentelefons",
+      "tags": [
+        "Tastentelefons",
+        "Jahrzehnte",
+        "Siegeszug",
+        "Telefon"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html",
+      "headline": "(g+) Führung in der IT: Vom Entwickler zum Chef: Diese Fehler bremsen das ganze Team",
+      "takeaway": "Der Vertrieb verspricht Funktionen, die Entwicklung weiß von nichts. Und der Chef programmiert lieber selbst. Wie IT-Führungskräfte solche Fehler vermeiden. Ein Ratgebertext von Pierre Wilken ( …",
+      "topic": "Entwickler",
+      "tags": [
+        "Entwickler",
+        "Führung",
+        "Fehler",
+        "Chef"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/politik/weltwirtschaft/asean-und-apec-gipfel-wie-china-seine-nachbarn-zunehmend-nervoes-macht-a-d4e66c7f-857b-4069-8d39-3a8d4d14623e#ref=rss",
+      "headline": "Asean- und Apec-Gipfel: Wie China seine Nachbarn zunehmend nervös macht",
+      "takeaway": "Out of Asia: In dieser Woche wird Asien mit zwei Gipfeln zum Center Court der Weltpolitik. Hinter vorgehaltener Hand geht es dabei vor allem um Chinas imperiale Rolle. Die Führung in Peking macht …",
+      "topic": "Apec-Gipfel",
+      "tags": [
+        "Apec-Gipfel",
+        "Nachbarn",
+        "Asean-",
+        "China"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/asean-und-apec-gipfel-wie-china-seine-nachbarn-zunehmend-nervoes-macht-a-d4e66c7f-857b-4069-8d39-3a8d4d14623e#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/energie-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html",
+      "headline": "Energiekonzerne: Kanadier, Norweger und Briten in der engeren Auswahl für Uniper-Übernahme",
+      "takeaway": "Die Bundesregierung hat drei Bieter eingeladen, verbindliche Angebote für Deutschlands wichtigsten Gasversorger abzugeben. Ein strategischer Bieter aus Deutschland hat offenbar das Nachsehen.",
+      "topic": "Uniper-Übernahme",
+      "tags": [
+        "Uniper-Übernahme",
+        "Energiekonzerne",
+        "Kanadier",
+        "Norweger"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/energie-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html",
+      "headline": "+++ Iran-Krieg +++: Iran: Revolutionsgarden greifen US-Stützpunkt in Bahrain an",
+      "takeaway": "Regierungstruppen ziehen sich von strategischer Meerenge zurück +++ Bahrain wehrt iranische Luftangriffe ab +++ Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand +++ Der Newsblog.",
+      "topic": "Revolutionsgarden",
+      "tags": [
+        "Revolutionsgarden",
+        "US-Stützpunkt",
+        "Iran-Krieg",
+        "Bahrain"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/flexi-quad-drohne-eth-zuerich-kollisionsschutz-1772370/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Flexi Quad: Diese Drohne überlebt jeden Zusammenstoß",
+      "takeaway": "Seit über 100 Jahren prägen starre Rahmen die Konstruktion von Multicoptern. Mit Flexi Quad zeigt ein Schweizer Team, dass es auch anders geht: mit einem biegsamen Körper, kontrollierbarer Verformung …",
+      "topic": "Zusammenstoß",
+      "tags": [
+        "Zusammenstoß",
+        "Drohne",
+        "Flexi",
+        "Quad"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/flexi-quad-drohne-eth-zuerich-kollisionsschutz-1772370/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/petition-fordert-huangs-rueckkehr-an-die-spitze-von-nvidia-dieses-unternehmen-ist-sein-lebenswerk-1773644/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Petition fordert Huangs Rückkehr an die Spitze von Nvidia: „Dieses Unternehmen ist sein Lebenswerk“",
+      "takeaway": "Nach seinem Rücktritt erhält der Ex-CEO viel Zuspruch. Neben seiner Wiedereinstellung fordert die Petition auch eine unabhängige Untersuchung, ein faires Verfahren und eine zeitnahe öffentliche …",
+      "topic": "Unternehmen",
+      "tags": [
+        "Unternehmen",
+        "Lebenswerk",
+        "Petition",
+        "Rückkehr"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/petition-fordert-huangs-rueckkehr-an-die-spitze-von-nvidia-dieses-unternehmen-ist-sein-lebenswerk-1773644/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "headline": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "takeaway": "It felt like stepping into the future.",
+      "topic": "Starship",
+      "tags": [
+        "Starship",
+        "Saturday",
+        "SpaceX",
+        "returned"
+      ],
+      "sources": [
+        {
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "headline": "Where was Nvidia’s security team?",
+      "takeaway": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to …",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "Where",
+        "security",
+        "team"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf",
+      "takeaway": "Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.",
+      "topic": "Erdumlaufbahn",
+      "tags": [
+        "Erdumlaufbahn",
+        "Starship",
+        "SpaceX",
+        "Flug"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Podcast-Tipp: Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet",
+    "dateLabel": "Folge vom 14.11. · 1 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2249-podcast-tipp-made-in-berlin-wirtschaftspolitik-und-was-sie-fur-euch-bedeutet",
+    "takeaways": [
+      "Deutschland steckt in einer Wirtschaftskrise, wie wir sie lange nicht erlebt haben.",
+      "Ob unser Land da wieder herauskommt oder noch tiefer hineinrutscht, entscheidet sich maßgeblich in Berlin.",
+      "Doch wie entstehen wirtschaftspolitische Entscheidungen eigentlich, wer beeinflusst sie und was bedeuten sie für euch?"
+    ]
+  }
+}

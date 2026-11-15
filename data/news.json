@@ -1,209 +1,9 @@
 {
-  "date": "2026-11-14",
-  "updatedAt": "2026-11-14T11:06:45.831463+01:00",
-  "updatedAtLabel": "14.11.2026, 11:06 Uhr",
+  "date": "2026-11-15",
+  "updatedAt": "2026-11-15T10:10:07.570056+01:00",
+  "updatedAtLabel": "15.11.2026, 10:10 Uhr",
   "ai": false,
   "topStories": [
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html",
-      "headline": "Outlook und Teams: Serverausfälle bei Microsoft nicht wegen KI oder Hackern",
-      "takeaway": "Microsoft hat eine erste Erklärung für den stundenlangen Serverausfall gegeben. Eine ausführliche Fehleranalyse soll folgen. ( Microsoft 365 , Microsoft )",
-      "topic": "Serverausfälle",
-      "tags": [
-        "Serverausfälle",
-        "Microsoft",
-        "Outlook",
-        "Hackern"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html"
-        },
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/technik/it-internet/grossstoerung-microsoft-service-komplett-wieder-hergestellt/100269854.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/microsoft-nach-megastoerung-laufen-outlook-teams-und-copilot-wieder-a-a7dff8d1-58b5-41e9-92c8-483e7d38135f#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
-      "headline": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
-      "takeaway": "Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )",
-      "topic": "Privatkunden",
-      "tags": [
-        "Privatkunden",
-        "Autonomes",
-        "Cybercab",
-        "Fahren"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/tesla-cybercab-robotaxi-ohne-lenkrad-jetzt-fuer-privatkunden-vorbestellbar-a-b23ca5a2-0ec1-4a23-94d3-5d2bd5f8cfcf#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "headline": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-      "takeaway": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than …",
-      "topic": "FAA",
-      "tags": [
-        "FAA",
-        "nationwide",
-        "takeoffs",
-        "blocked"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
-        },
-        {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "headline": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "takeaway": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "topic": "ChatGPT",
-      "tags": [
-        "ChatGPT",
-        "Wallet",
-        "agents",
-        "check"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-        },
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-      "headline": "U.S. flights resume after FAA ground stop, but travel disruption continues",
-      "takeaway": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
-      "topic": "FAA",
-      "tags": [
-        "FAA",
-        "disruption",
-        "continues",
-        "flights"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/deutschland/industrie-netzanschluessen-50hertz-warnt-vor-engpaessen-bei-energieversorgung/100269868.html",
-      "headline": "Energieversorgung: 50Hertz warnt vor Engpässen bei Industrie-Netzanschlüssen",
-      "takeaway": "Der Übertragungsnetzbetreiber 50Hertz warnt vor Engpässen bei Netzanschlüssen für neue Industriebetriebe.",
-      "topic": "Industrie-Netzanschlüssen",
-      "tags": [
-        "Industrie-Netzanschlüssen",
-        "Energieversorgung",
-        "Engpässen",
-        "50Hertz"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/industrie-netzanschluessen-50hertz-warnt-vor-engpaessen-bei-energieversorgung/100269868.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
-      "headline": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "takeaway": "Here’s how to get your bird and all the trimmings on a budget.",
-      "topic": "Thanksgiving",
-      "tags": [
-        "Thanksgiving",
-        "Roundup",
-        "Walmart",
-        "Amazon"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
-      "headline": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
-      "takeaway": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.",
-      "topic": "Galaxies",
-      "tags": [
-        "Galaxies",
-        "Ghostly",
-        "Matter",
-        "These"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/energie/uniper-noch-drei-bieter-im-rennen-um-verstaatlichten-energiekonzern-a-70b41f80-857e-485b-8d94-8ec49d655484#ref=rss",
-      "headline": "Uniper: Noch drei Bieter im Rennen um verstaatlichten Energiekonzern",
-      "takeaway": "Seit Monaten ist der Bund auf der Suche nach einem passenden Käufer für Deutschlands größten Gasimporteur. Nun sind die letzten drei Bieter Insidern zufolge eine Runde weiter. Der tschechische …",
-      "topic": "Energiekonzern",
-      "tags": [
-        "Energiekonzern",
-        "Uniper",
-        "Bieter",
-        "Rennen"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/energie/uniper-noch-drei-bieter-im-rennen-um-verstaatlichten-energiekonzern-a-70b41f80-857e-485b-8d94-8ec49d655484#ref=rss"
-        }
-      ]
-    },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
@@ -221,105 +21,306 @@
         {
           "src": "spiegel",
           "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/meyer-werft-bund-steht-vor-anteilsverkauf-an-msc-eigentuemerfamilie-stockt-auf-a-f4d7c336-c450-4bbd-9bf3-1db756db2987#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "headline": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "takeaway": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black …",
+      "topic": "Holiday",
+      "tags": [
+        "Holiday",
+        "Here",
+        "Sale",
+        "REI"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
+        },
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
-      "headline": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
-      "takeaway": "Eine stundenlange Großstörung hat weltweit Dienste des US-Softwarekonzerns Microsoft lahmgelegt, unter anderem das E-Mail-Programm Outlook. Wen es getroffen hat und welche Hintergründe vermutet …",
-      "topic": "Microsoft-Diensten",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "headline": "Microsoft says services fully restored after day-long global outage",
+      "takeaway": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "topic": "Microsoft",
       "tags": [
-        "Microsoft-Diensten",
-        "Ausfall",
-        "bekannt"
+        "Microsoft",
+        "services",
+        "restored",
+        "day-long"
       ],
       "sources": [
         {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html"
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss",
+      "headline": "Tesla Cybercab: Robotaxi für 29.990 Dollar – aber mit Nutzungsbeschränkungen",
+      "takeaway": "Es ist Elon Musks neues Lieblingsprojekt: ein selbstfahrendes goldenes Ei. Nun sollen auch Privatkunden das Robotaxi ordern können. Offen ist, ob sie es dann allerdings auch nutzen können.",
+      "topic": "Nutzungsbeschränkungen",
+      "tags": [
+        "Nutzungsbeschränkungen",
+        "Cybercab",
+        "Robotaxi",
+        "Tesla"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/tesla-cybercab-robotaxi-ohne-lenkrad-jetzt-fuer-privatkunden-vorbestellbar-a-b23ca5a2-0ec1-4a23-94d3-5d2bd5f8cfcf#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/geldanlage/claude-und-bitpanda-wie-die-ki-fuer-mich-geld-fuer-einen-doener-verdienen-sollte/100269145.html",
-      "headline": "Agentic Investing: Wie die KI für mich mit Kryptos genug Geld für einen Döner verdienen sollte",
-      "takeaway": "Beim Kryptobroker Bitpanda können Kunden ihr Depot mit einem KI-Agenten verbinden. Unser Autor hat es ausprobiert – und Claude zocken lassen.",
-      "topic": "Investing",
+      "url": "https://www.wiwo.de/technologie/forschung/holz-beton-hybriddecken-wie-forscher-zwei-drittel-co2-sparen/100260506.html",
+      "headline": "Gamechanger: Holz und Beton – so wollen Forscher Geschossdecken klimafreundlicher machen",
+      "takeaway": "Ideen, die unsere Welt ­verändern und verbessern. Wir stellen sie vor. Diesmal: Hybrid-Etagendecken, dünn wie ­Stahlbeton – aber viel leichter.",
+      "topic": "Geschossdecken",
       "tags": [
-        "Investing",
-        "Agentic",
-        "Kryptos",
-        "Döner"
+        "Geschossdecken",
+        "Gamechanger",
+        "Forscher",
+        "Beton"
       ],
       "sources": [
         {
           "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/geldanlage/claude-und-bitpanda-wie-die-ki-fuer-mich-geld-fuer-einen-doener-verdienen-sollte/100269145.html"
+          "url": "https://www.wiwo.de/technologie/forschung/holz-beton-hybriddecken-wie-forscher-zwei-drittel-co2-sparen/100260506.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html",
+      "headline": "Telefon: Darum ließ der Siegeszug des Tastentelefons Jahrzehnte auf sich warten",
+      "takeaway": "1976 stellt die Deutsche Bundespost den „Fernsprechtischapparat 751“ vor. Wer ein Telefon mit Tasten will, kann es nun mieten – aber nur bei der Post.",
+      "topic": "Tastentelefons",
+      "tags": [
+        "Tastentelefons",
+        "Jahrzehnte",
+        "Siegeszug",
+        "Telefon"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html",
+      "headline": "(g+) Führung in der IT: Vom Entwickler zum Chef: Diese Fehler bremsen das ganze Team",
+      "takeaway": "Der Vertrieb verspricht Funktionen, die Entwicklung weiß von nichts. Und der Chef programmiert lieber selbst. Wie IT-Führungskräfte solche Fehler vermeiden. Ein Ratgebertext von Pierre Wilken ( …",
+      "topic": "Entwickler",
+      "tags": [
+        "Entwickler",
+        "Führung",
+        "Fehler",
+        "Chef"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/politik/weltwirtschaft/asean-und-apec-gipfel-wie-china-seine-nachbarn-zunehmend-nervoes-macht-a-d4e66c7f-857b-4069-8d39-3a8d4d14623e#ref=rss",
+      "headline": "Asean- und Apec-Gipfel: Wie China seine Nachbarn zunehmend nervös macht",
+      "takeaway": "Out of Asia: In dieser Woche wird Asien mit zwei Gipfeln zum Center Court der Weltpolitik. Hinter vorgehaltener Hand geht es dabei vor allem um Chinas imperiale Rolle. Die Führung in Peking macht …",
+      "topic": "Apec-Gipfel",
+      "tags": [
+        "Apec-Gipfel",
+        "Nachbarn",
+        "Asean-",
+        "China"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/asean-und-apec-gipfel-wie-china-seine-nachbarn-zunehmend-nervoes-macht-a-d4e66c7f-857b-4069-8d39-3a8d4d14623e#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/trauerfeier-in-muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-aiwanger/100269870.html",
-      "headline": "Trauerfeier in München: Mehr als 1.000 Trauergäste nehmen Abschied von Aiwanger",
-      "takeaway": "So plötzlich der Tod von Hubert Aiwanger kam, so groß ist auch die Anteilnahme. Beim Trauerakt für den Politiker ist die Frauenkirche voll besetzt.",
-      "topic": "Trauerfeier",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/energie-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html",
+      "headline": "Energiekonzerne: Kanadier, Norweger und Briten in der engeren Auswahl für Uniper-Übernahme",
+      "takeaway": "Die Bundesregierung hat drei Bieter eingeladen, verbindliche Angebote für Deutschlands wichtigsten Gasversorger abzugeben. Ein strategischer Bieter aus Deutschland hat offenbar das Nachsehen.",
+      "topic": "Uniper-Übernahme",
       "tags": [
-        "Trauerfeier",
-        "Trauergäste",
-        "Abschied",
-        "Aiwanger"
+        "Uniper-Übernahme",
+        "Energiekonzerne",
+        "Kanadier",
+        "Norweger"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/trauerfeier-in-muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-aiwanger/100269870.html"
+          "url": "https://www.handelsblatt.com/unternehmen/industrie/energie-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-genug-ist-genug-eine-abrechnung-mit-den-kulturkriegern/100269288.html",
-      "headline": "Kommentar: Genug ist genug – eine Abrechnung mit den Kulturkriegern",
-      "takeaway": "Die meisten Menschen haben die Spaltungsrhetorik und Dauererregung satt. Das ist die zentrale Lehre aus dem Trump-Debakel in den USA. Und sie hat Folgen für Europa.",
-      "topic": "Kulturkriegern",
+      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html",
+      "headline": "+++ Iran-Krieg +++: Iran: Revolutionsgarden greifen US-Stützpunkt in Bahrain an",
+      "takeaway": "Regierungstruppen ziehen sich von strategischer Meerenge zurück +++ Bahrain wehrt iranische Luftangriffe ab +++ Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand +++ Der Newsblog.",
+      "topic": "Revolutionsgarden",
       "tags": [
-        "Kulturkriegern",
-        "Abrechnung",
-        "Kommentar",
-        "Genug"
+        "Revolutionsgarden",
+        "US-Stützpunkt",
+        "Iran-Krieg",
+        "Bahrain"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-genug-ist-genug-eine-abrechnung-mit-den-kulturkriegern/100269288.html"
+          "url": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/ipad-kaufberatung-weihnachten-kinder-1772570/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "iPad-Kaufberatung: Welches Modell sich zu Weihnachten wirklich lohnt",
-      "takeaway": "Ein eigenes iPad dürfte jährlich ganz oben auf der Wunschliste vieler Kinder stehen. Für die Schule muss es aber nicht zwingend das teuerste und leistungsfähigste Modell von Apple sein. Welches lohnt …",
-      "topic": "Weihnachten",
+      "url": "https://t3n.de/news/flexi-quad-drohne-eth-zuerich-kollisionsschutz-1772370/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Flexi Quad: Diese Drohne überlebt jeden Zusammenstoß",
+      "takeaway": "Seit über 100 Jahren prägen starre Rahmen die Konstruktion von Multicoptern. Mit Flexi Quad zeigt ein Schweizer Team, dass es auch anders geht: mit einem biegsamen Körper, kontrollierbarer Verformung …",
+      "topic": "Zusammenstoß",
       "tags": [
-        "Weihnachten",
-        "Welches",
-        "Modell",
-        "iPad-Kaufberatung"
+        "Zusammenstoß",
+        "Drohne",
+        "Flexi",
+        "Quad"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/ipad-kaufberatung-weihnachten-kinder-1772570/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/flexi-quad-drohne-eth-zuerich-kollisionsschutz-1772370/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/petition-fordert-huangs-rueckkehr-an-die-spitze-von-nvidia-dieses-unternehmen-ist-sein-lebenswerk-1773644/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Petition fordert Huangs Rückkehr an die Spitze von Nvidia: „Dieses Unternehmen ist sein Lebenswerk“",
+      "takeaway": "Nach seinem Rücktritt erhält der Ex-CEO viel Zuspruch. Neben seiner Wiedereinstellung fordert die Petition auch eine unabhängige Untersuchung, ein faires Verfahren und eine zeitnahe öffentliche …",
+      "topic": "Unternehmen",
+      "tags": [
+        "Unternehmen",
+        "Lebenswerk",
+        "Petition",
+        "Rückkehr"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/petition-fordert-huangs-rueckkehr-an-die-spitze-von-nvidia-dieses-unternehmen-ist-sein-lebenswerk-1773644/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "arstechnica",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "headline": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "takeaway": "It felt like stepping into the future.",
+      "topic": "Starship",
+      "tags": [
+        "Starship",
+        "Saturday",
+        "SpaceX",
+        "returned"
+      ],
+      "sources": [
+        {
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "headline": "Where was Nvidia’s security team?",
+      "takeaway": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to …",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "Where",
+        "security",
+        "team"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf",
+      "takeaway": "Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.",
+      "topic": "Erdumlaufbahn",
+      "tags": [
+        "Erdumlaufbahn",
+        "Starship",
+        "SpaceX",
+        "Flug"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         }
       ]
     }
