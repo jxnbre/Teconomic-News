@@ -1,338 +1,342 @@
 {
-  "date": "2026-11-15",
-  "updatedAt": "2026-11-15T10:10:07.570056+01:00",
-  "updatedAtLabel": "15.11.2026, 10:10 Uhr",
+  "date": "2026-11-16",
+  "updatedAt": "2026-11-16T10:26:12.232911+01:00",
+  "updatedAtLabel": "16.11.2026, 10:26 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
-      "headline": "Reederei MSC steht vor Kauf der Meyer Werft",
-      "takeaway": "Die letzte bedeutende deutsche Kreuzfahrtschiffwerft geht wohl an die weltgrößte Reederei: Der Bund will dem Konzern MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll der Vertrag …",
-      "topic": "Reederei",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+      "headline": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+      "takeaway": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+      "topic": "Jensen",
       "tags": [
-        "Reederei",
-        "Meyer",
-        "Werft",
-        "Kauf"
+        "Jensen",
+        "Nvidia",
+        "Huang",
+        "Tech"
       ],
       "sources": [
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
         },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Weltgroesste-Reederei-MSC-will-offenbar-Meyer-Werft-kaufen-id31534236.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/meyer-werft-bund-steht-vor-anteilsverkauf-an-msc-eigentuemerfamilie-stockt-auf-a-f4d7c336-c450-4bbd-9bf3-1db756db2987#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-      "headline": "Here are our favorite deals from REI’s giant Holiday Sale",
-      "takeaway": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black …",
-      "topic": "Holiday",
-      "tags": [
-        "Holiday",
-        "Here",
-        "Sale",
-        "REI"
-      ],
-      "sources": [
         {
           "src": "theverge",
-          "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026"
+          "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-rueckkehr-elon-musk-altimeter-capital",
+      "headline": "Nvidia-Skandal: Jensen Huang erwägt laut Bericht Rückkehr als Nvidia-Chef",
+      "takeaway": "Jensen Huang soll seine Rückkehr an die Unternehmensspitze planen. Elon Musk und andere Prominente unterstützen die Idee. US-Finanzminister Bessent hält davon wenig.",
+      "topic": "Nvidia-Skandal",
+      "tags": [
+        "Nvidia-Skandal",
+        "Nvidia-Chef",
+        "Rückkehr",
+        "Bericht"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-rueckkehr-elon-musk-altimeter-capital"
         },
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "headline": "Microsoft says services fully restored after day-long global outage",
-      "takeaway": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "topic": "Microsoft",
-      "tags": [
-        "Microsoft",
-        "services",
-        "restored",
-        "day-long"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss",
-      "headline": "Tesla Cybercab: Robotaxi für 29.990 Dollar – aber mit Nutzungsbeschränkungen",
-      "takeaway": "Es ist Elon Musks neues Lieblingsprojekt: ein selbstfahrendes goldenes Ei. Nun sollen auch Privatkunden das Robotaxi ordern können. Offen ist, ob sie es dann allerdings auch nutzen können.",
-      "topic": "Nutzungsbeschränkungen",
-      "tags": [
-        "Nutzungsbeschränkungen",
-        "Cybercab",
-        "Robotaxi",
-        "Tesla"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/tesla-verkauft-robotaxis-fuer-29-990-dollar-plus-299-dollar-gebuehr-pro-monat-doch-nicht-an-alle-kunden-aber-es-faehrt-nur-nicht-ueberall-a-a09f25f3-2f82-4fab-b61e-1b97cb340006#ref=rss"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/tesla-cybercab-robotaxi-ohne-lenkrad-jetzt-fuer-privatkunden-vorbestellbar-a-b23ca5a2-0ec1-4a23-94d3-5d2bd5f8cfcf#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/technologie/forschung/holz-beton-hybriddecken-wie-forscher-zwei-drittel-co2-sparen/100260506.html",
-      "headline": "Gamechanger: Holz und Beton – so wollen Forscher Geschossdecken klimafreundlicher machen",
-      "takeaway": "Ideen, die unsere Welt ­verändern und verbessern. Wir stellen sie vor. Diesmal: Hybrid-Etagendecken, dünn wie ­Stahlbeton – aber viel leichter.",
-      "topic": "Geschossdecken",
-      "tags": [
-        "Geschossdecken",
-        "Gamechanger",
-        "Forscher",
-        "Beton"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/technologie/forschung/holz-beton-hybriddecken-wie-forscher-zwei-drittel-co2-sparen/100260506.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html",
-      "headline": "Telefon: Darum ließ der Siegeszug des Tastentelefons Jahrzehnte auf sich warten",
-      "takeaway": "1976 stellt die Deutsche Bundespost den „Fernsprechtischapparat 751“ vor. Wer ein Telefon mit Tasten will, kann es nun mieten – aber nur bei der Post.",
-      "topic": "Tastentelefons",
-      "tags": [
-        "Tastentelefons",
-        "Jahrzehnte",
-        "Siegeszug",
-        "Telefon"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/dienstleister/erstes-tastentelefon-kam-1976-der-lange-weg-aus-dem-postmonopol/100269614.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html",
-      "headline": "(g+) Führung in der IT: Vom Entwickler zum Chef: Diese Fehler bremsen das ganze Team",
-      "takeaway": "Der Vertrieb verspricht Funktionen, die Entwicklung weiß von nichts. Und der Chef programmiert lieber selbst. Wie IT-Führungskräfte solche Fehler vermeiden. Ein Ratgebertext von Pierre Wilken ( …",
-      "topic": "Entwickler",
-      "tags": [
-        "Entwickler",
-        "Führung",
-        "Fehler",
-        "Chef"
-      ],
-      "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html"
+          "url": "https://www.golem.de/news/nvidia-jensen-huang-soll-ueber-rueckkehr-sprechen-2611-215246.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/politik/weltwirtschaft/asean-und-apec-gipfel-wie-china-seine-nachbarn-zunehmend-nervoes-macht-a-d4e66c7f-857b-4069-8d39-3a8d4d14623e#ref=rss",
-      "headline": "Asean- und Apec-Gipfel: Wie China seine Nachbarn zunehmend nervös macht",
-      "takeaway": "Out of Asia: In dieser Woche wird Asien mit zwei Gipfeln zum Center Court der Weltpolitik. Hinter vorgehaltener Hand geht es dabei vor allem um Chinas imperiale Rolle. Die Führung in Peking macht …",
-      "topic": "Apec-Gipfel",
+      "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-gestuerzter-ceo-huang-stoesst-mit-comeback-plaenen-auf-widerstand-a-88265699-cb4f-4f45-8460-00bebb0e5ca6#ref=rss",
+      "headline": "Nvidia: Elon Musk unterstützt Forderung nach Rückkehr von Jensen Huang",
+      "takeaway": "150.000 Menschen, darunter Prominente wie Elon Musk, fordern in einem offenen Brief die Rückkehr von Jensen Huang an die Spitze des Chipkonzerns Nvidia. Doch ein mögliches Comeback stößt auch auf …",
+      "topic": "Forderung",
       "tags": [
-        "Apec-Gipfel",
-        "Nachbarn",
-        "Asean-",
-        "China"
+        "Forderung",
+        "Rückkehr",
+        "Nvidia",
+        "Jensen"
       ],
       "sources": [
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/asean-und-apec-gipfel-wie-china-seine-nachbarn-zunehmend-nervoes-macht-a-d4e66c7f-857b-4069-8d39-3a8d4d14623e#ref=rss"
+          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-gestuerzter-ceo-huang-stoesst-mit-comeback-plaenen-auf-widerstand-a-88265699-cb4f-4f45-8460-00bebb0e5ca6#ref=rss"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/energie-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html",
-      "headline": "Energiekonzerne: Kanadier, Norweger und Briten in der engeren Auswahl für Uniper-Übernahme",
-      "takeaway": "Die Bundesregierung hat drei Bieter eingeladen, verbindliche Angebote für Deutschlands wichtigsten Gasversorger abzugeben. Ein strategischer Bieter aus Deutschland hat offenbar das Nachsehen.",
-      "topic": "Uniper-Übernahme",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss",
+      "headline": "Amazon: Absturz der Vulcan-Rakete kostet US-Konzern 40 Satelliten",
+      "takeaway": "Der missglückte Start einer Rakete am Sonntag ist ein schwerer Schlag für den US-Internetriesen Amazon. Denn damit gingen 40 Satelliten verloren, die für den Internetdienst Amazon Leo bestimmt waren.",
+      "topic": "Vulcan-Rakete",
       "tags": [
-        "Uniper-Übernahme",
-        "Energiekonzerne",
-        "Kanadier",
-        "Norweger"
+        "Vulcan-Rakete",
+        "US-Konzern",
+        "Satelliten",
+        "Absturz"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/energie-kanadier-norweger-und-briten-in-auswahl-fuer-uniper-uebernahme/100269874.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html",
-      "headline": "+++ Iran-Krieg +++: Iran: Revolutionsgarden greifen US-Stützpunkt in Bahrain an",
-      "takeaway": "Regierungstruppen ziehen sich von strategischer Meerenge zurück +++ Bahrain wehrt iranische Luftangriffe ab +++ Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand +++ Der Newsblog.",
-      "topic": "Revolutionsgarden",
-      "tags": [
-        "Revolutionsgarden",
-        "US-Stützpunkt",
-        "Iran-Krieg",
-        "Bahrain"
-      ],
-      "sources": [
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/amazon-absturz-der-vulcan-rakete-kostet-us-konzern-40-satelliten-a-8bd0dc5f-699c-493e-a188-437d49521bcb#ref=rss"
+        },
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/iran-krieg-revolutionsgarden-greifen-us-stuetzpunkt-in-bahrain-an/100136895.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/flexi-quad-drohne-eth-zuerich-kollisionsschutz-1772370/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Flexi Quad: Diese Drohne überlebt jeden Zusammenstoß",
-      "takeaway": "Seit über 100 Jahren prägen starre Rahmen die Konstruktion von Multicoptern. Mit Flexi Quad zeigt ein Schweizer Team, dass es auch anders geht: mit einem biegsamen Körper, kontrollierbarer Verformung …",
-      "topic": "Zusammenstoß",
-      "tags": [
-        "Zusammenstoß",
-        "Drohne",
-        "Flexi",
-        "Quad"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/flexi-quad-drohne-eth-zuerich-kollisionsschutz-1772370/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/petition-fordert-huangs-rueckkehr-an-die-spitze-von-nvidia-dieses-unternehmen-ist-sein-lebenswerk-1773644/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Petition fordert Huangs Rückkehr an die Spitze von Nvidia: „Dieses Unternehmen ist sein Lebenswerk“",
-      "takeaway": "Nach seinem Rücktritt erhält der Ex-CEO viel Zuspruch. Neben seiner Wiedereinstellung fordert die Petition auch eine unabhängige Untersuchung, ein faires Verfahren und eine zeitnahe öffentliche …",
-      "topic": "Unternehmen",
-      "tags": [
-        "Unternehmen",
-        "Lebenswerk",
-        "Petition",
-        "Rückkehr"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/petition-fordert-huangs-rueckkehr-an-die-spitze-von-nvidia-dieses-unternehmen-ist-sein-lebenswerk-1773644/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-      "headline": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
-      "takeaway": "It felt like stepping into the future.",
-      "topic": "Starship",
-      "tags": [
-        "Starship",
-        "Saturday",
-        "SpaceX",
-        "returned"
-      ],
-      "sources": [
-        {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/vulcan-rakete-absturz-kostet-amazon-40-satelliten-fuer-internetdienst-leo-a-d08e1b4c-da9b-4597-a45a-d69c058b4f2b#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "headline": "Where was Nvidia’s security team?",
-      "takeaway": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to …",
-      "topic": "Nvidia",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "headline": "Apple launches new app to study how people use AI for health",
+      "takeaway": "Apple's new app for a study will answer everyday medical questions",
+      "topic": "Apple",
       "tags": [
-        "Nvidia",
-        "Where",
-        "security",
-        "team"
+        "Apple",
+        "launches",
+        "people",
+        "health"
       ],
       "sources": [
         {
           "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+        },
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss",
+      "headline": "Meta: Italien verhängt 805-Millionen-Euro-Strafe wegen ausgelesener Fotogalerien",
+      "takeaway": "Facebook las die Fotogalerien von 20 Millionen Android-Nutzern aus, ohne wirksame Einwilligung. Nun wird der Konzern zur Kasse gebeten. Die Funktion muss er binnen 60 Tagen abschalten.",
+      "topic": "Fotogalerien",
+      "tags": [
+        "Fotogalerien",
+        "Italien",
+        "Meta",
+        "805-Millionen-Euro-Strafe"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-3347008b-5b9a-4955-82be-f7aa6f7e20ef#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/meta-facebook-muss-wegen-ausgelesener-fotogalerien-805-millionen-euro-zahlen-a-1ad95765-8e2f-450f-b64a-976b31376fea#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/programm-bund-legt-nothilfe-fuer-schweinehalter-auf/100270161.html",
+      "headline": "Programm: Bund legt Nothilfe für Schweinehalter auf",
+      "takeaway": "Steigende Energie- und Futterkosten treffen Schweinehalter, während die Fleischpreise niedrig bleiben. Welche Hilfe der Bund jetzt plant.",
+      "topic": "Schweinehalter",
+      "tags": [
+        "Schweinehalter",
+        "Programm",
+        "Nothilfe",
+        "Bund"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/programm-bund-legt-nothilfe-fuer-schweinehalter-auf/100270161.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-dieser-rechner-zeigt-ihnen-wie-reich-sie-im-vergleich-sind/100149729.html",
+      "headline": "Vermögen: Bin ich schon reich oder nicht? Dieser Rechner liefert die Antwort",
+      "takeaway": "Trotz Inflation zeigen aktuelle Daten, dass die Vermögen in Deutschland gewachsen sind. Der Handelsblatt-Rechner zeigt Ihnen, wo Sie im Vergleich zur deutschen Bevölkerung stehen.",
+      "topic": "Vermögen",
+      "tags": [
+        "Vermögen",
+        "Rechner",
+        "Antwort",
+        "Bin"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/reichtum-dieser-rechner-zeigt-ihnen-wie-reich-sie-im-vergleich-sind/100149729.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/industrie-umsatz-jobabbau-arbeitsplaetze-autoindustrie-gxe",
+      "headline": "Konjunktur: Industrie in Deutschland streicht trotz gestiegener Umsätze Stellen",
+      "takeaway": "Deutsche Industrieunternehmen machen wieder mehr Umsatz, bauen jedoch gleichzeitig Stellen ab. »Auf dem Arbeitsmarkt kommt von der Erholung nichts an«, konstatiert EY.",
+      "topic": "Deutschland",
+      "tags": [
+        "Deutschland",
+        "Konjunktur",
+        "Industrie",
+        "Umsätze"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/industrie-umsatz-jobabbau-arbeitsplaetze-autoindustrie-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/chatgpt-wallet-so-soll-die-ki-kuenftig-fuer-euch-shoppen-1773710/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "ChatGPT Wallet: So soll die KI künftig für euch shoppen",
+      "takeaway": "OpenAI hat eine eigene Bezahlfunktion zur Verwendung durch KI-Agenten gestartet. Damit kann ChatGPT im Namen der Nutzer:innen Produkte kaufen – freigegeben per Biometrie. weiterlesen auf t3n.de",
+      "topic": "ChatGPT",
+      "tags": [
+        "ChatGPT",
+        "Wallet",
+        "künftig",
+        "shoppen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/chatgpt-wallet-so-soll-die-ki-kuenftig-fuer-euch-shoppen-1773710/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/nvidia-ceo-arm-chef-rene-haas-als-nachfolger-von-jensen-huang-im-gespraech-2611-215244.html",
+      "headline": "Nvidia-CEO: ARM-Chef Rene Haas als Nachfolger von Jensen Huang im Gespräch",
+      "takeaway": "Haas hat jahrelang bei Nvidia gearbeitet und wurde von Jensen Huang persönlich gefördert. ( Nvidia , Embedded Systems )",
+      "topic": "Nvidia-CEO",
+      "tags": [
+        "Nvidia-CEO",
+        "Nachfolger",
+        "ARM-Chef",
+        "Gespräch"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/nvidia-ceo-arm-chef-rene-haas-als-nachfolger-von-jensen-huang-im-gespraech-2611-215244.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/vulcan-centaur-rakete-anomalie-amazon-satelliten-1773699/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Mission gescheitert: Vulcan-Centaur-Rakete erleidet „Anomalie” und verliert 40 Amazon-Satelliten",
+      "takeaway": "Eigentlich sollten sich mittlerweile 40 weitere Amazon-Satelliten in der Erdumlaufbahn befinden. Doch die Vulcan-Centaur-Rakete, die sie dorthin befördern sollte, kämpfte schon wenige Minuten nach …",
+      "topic": "Vulcan-Centaur-Rakete",
+      "tags": [
+        "Vulcan-Centaur-Rakete",
+        "Amazon-Satelliten",
+        "Anomalie",
+        "Mission"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/vulcan-centaur-rakete-anomalie-amazon-satelliten-1773699/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/bmw-ix5-60e-der-elektroantrieb-schlaegt-den-sechszylinder-2611-214859.html",
+      "headline": "BMW iX5 60e: Der Elektroantrieb schlägt den Sechszylinder",
+      "takeaway": "Fast drei Tonnen wiegt BMWs erster elektrischer X5. Trotzdem fährt er erstaunlich agil. Auch die Reichweite beeindruckt. Ebenso der Preis. Ein Bericht von Fabian Hoberg ( Elektroauto  …",
+      "topic": "Elektroantrieb",
+      "tags": [
+        "Elektroantrieb",
+        "Sechszylinder",
+        "BMW",
+        "schlägt"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/bmw-ix5-60e-der-elektroantrieb-schlaegt-den-sechszylinder-2611-214859.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf",
-      "takeaway": "Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.",
-      "topic": "Erdumlaufbahn",
+      "url": "https://www.heise.de/news/Microsoft-Cloud-Ausfall-fuehrte-zu-15-Verletzten-im-Phantasialand-11525711.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Microsoft-Cloud-Ausfall führte zu 15 Verletzten im Phantasialand",
+      "takeaway": "Im Phantasialand Brühl gab ein System Alarm – die E-Mails kamen aufgrund des Microsoft-Ausfalls nicht an. Es gab 15 Verletzte.",
+      "topic": "Microsoft-Cloud-Ausfall",
       "tags": [
-        "Erdumlaufbahn",
-        "Starship",
-        "SpaceX",
-        "Flug"
+        "Microsoft-Cloud-Ausfall",
+        "Phantasialand",
+        "Verletzten",
+        "führte"
       ],
       "sources": [
         {
           "src": "heise",
-          "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "url": "https://www.heise.de/news/Microsoft-Cloud-Ausfall-fuehrte-zu-15-Verletzten-im-Phantasialand-11525711.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/apple-macbook-pro-m6-review-battery-laptop",
+      "headline": "Apple MacBook Pro M6 review: probably the last of its generation",
+      "takeaway": "Spec bump adds power to exceptionally long battery life in base-model Pro laptop, but is overshadowed by a new design Apple’s base-model MacBook Pro gets a solid speed bump, offering most of the …",
+      "topic": "MacBook",
+      "tags": [
+        "MacBook",
+        "Apple",
+        "Pro",
+        "generation"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/16/apple-macbook-pro-m6-review-battery-laptop"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Podcast-Tipp: Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet",
-    "dateLabel": "Folge vom 14.11. · 1 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2249-podcast-tipp-made-in-berlin-wirtschaftspolitik-und-was-sie-fur-euch-bedeutet",
+    "title": "Nvidia: Gerüchte über ein Comeback des Gründers / SPD: Vorwärts, Genossen, in die Vergangenheit",
+    "dateLabel": "Folge vom 16.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2243-nvidia-geruchte-uber-ein-comeback-des-grunders-spd-vorwarts-genossen-in-die-vergangenheit",
     "takeaways": [
-      "Deutschland steckt in einer Wirtschaftskrise, wie wir sie lange nicht erlebt haben.",
-      "Ob unser Land da wieder herauskommt oder noch tiefer hineinrutscht, entscheidet sich maßgeblich in Berlin.",
-      "Doch wie entstehen wirtschaftspolitische Entscheidungen eigentlich, wer beeinflusst sie und was bedeuten sie für euch?"
+      "Plant der geschasste CEO seine Rückkehr an die Spitze des Chip-Konzerns?",
+      "Während der politische Druck auf Nvidia wächst, formiert sich im Silicon Valley Unterstützung.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/mehrerfahren Weitere Informationen zu Werbeeinblendungen"
     ]
   }
 }
