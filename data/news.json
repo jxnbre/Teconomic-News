@@ -1,365 +1,349 @@
 {
-  "date": "2026-11-17",
-  "updatedAt": "2026-11-17T14:04:55.217944+01:00",
-  "updatedAtLabel": "17.11.2026, 14:04 Uhr",
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-18T13:56:13.400998+01:00",
+  "updatedAtLabel": "18.11.2026, 13:56 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html",
-      "headline": "EU-Kommission verdoppelt Prognose für Deutschland",
-      "takeaway": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland stark angehoben. Grund ist das kräftige Plus bei den Exporten. Die Inflation dürfte jedoch hartnäckig bleiben.",
-      "topic": "EU-Kommission",
-      "tags": [
-        "EU-Kommission",
-        "Deutschland",
-        "Prognose",
-        "verdoppelt"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html"
-        },
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland-a-d32ff774-16e0-40fe-b4ea-727065af583a#ref=rss"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/eu-kommission-wirtschaftsprognose-wachstum-inflation-euroraum-deutschland-gxe"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/konjunktur/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland/100270542.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html",
-      "headline": "Datenleck: Interne Dokumente belasten die Deutsche Bank",
-      "takeaway": "Die Schatten der Vergangenheit holen die Deutsche Bank erneut ein. Informationen aus einem Datenleck offenbaren fragwürdige Geschäftspraktiken und mutmaßliche Probleme bei den Kontrollen beim größten …",
-      "topic": "Datenleck",
-      "tags": [
-        "Datenleck",
-        "Dokumente",
-        "Deutsche",
-        "Interne"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bank-datenleak-100.html"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/datenleck-deutsche-bank-geschaeftspraktiken-kontrollversagen-dokumente-spiegel-le-monde-new-york-times-gxe"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Datenleck-legt-fragwuerdige-Geschaefte-der-Deutschen-Bank-offen-id31542318.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-3eeca7f4-6869-4bce-a9e0-58a8a9f5c309#ref=rss",
-      "headline": "Kanada und China unterlaufen Trumps Zollpolitik mit Zollerleichterungen",
-      "takeaway": "Mit Zollerleichterungen auf Produkte wie Lebensmittel und Stahl wollen China und Kanada ihre Zusammenarbeit vertiefen. Den beiden Ländern geht es auch darum, die US-Zollpolitik zu unterlaufen.",
-      "topic": "Zollerleichterungen",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss",
+      "headline": "Nvidia – Jensen Huang: Konzern verkauft keine KI-Chips mehr nach China",
+      "takeaway": "Eine Seifenoper, die Milliarden kostet: Wegen seiner Affären – unter anderem mit einer mutmaßlichen chinesischen Spionin – verlor Jensen Huang den Chefposten bei Nvidia. Jetzt gibt es offenbar …",
+      "topic": "KI-Chips",
       "tags": [
-        "Zollerleichterungen",
-        "Zollpolitik",
-        "Kanada",
-        "Trumps"
+        "KI-Chips",
+        "Konzern",
+        "Nvidia",
+        "Jensen"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-3eeca7f4-6869-4bce-a9e0-58a8a9f5c309#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss"
         },
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/china-kanada-mark-carney-xi-jinping-wirtschaft-zoelle-gxe"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/weltwirtschaft/kanada-und-china-unterlaufen-trumps-zollpolitik-mit-zollerleichterungen-a-05d99331-d73d-4a7e-bfd6-66cf322b5096#ref=rss"
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "headline": "California state AG sues OpenAI over rogue agent incidents",
-      "takeaway": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "topic": "California",
+      "src": "theverge",
+      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+      "headline": "Grand Theft Auto VI has arrived",
+      "takeaway": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite …",
+      "topic": "Grand",
       "tags": [
-        "California",
-        "OpenAI",
-        "incidents",
-        "state"
+        "Grand",
+        "Theft",
+        "Auto",
+        "arrived"
       ],
       "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-        },
         {
           "src": "theverge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+          "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"
         },
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/inside-deutsche-bank-so-hat-der-spiegel-recherchiert-a-b12f204e-8126-444b-85fb-1d7d5c767b64#ref=rss",
-      "headline": "»Inside Deutsche Bank«: So hat der SPIEGEL recherchiert",
-      "takeaway": "Mehr als 15 Millionen Dateien wurden dem SPIEGEL und Partnermedien zugespielt. Sie wurden über Monate gemeinsam mit einem internationalen Team ausgewertet. So ging die Redaktion vor.",
-      "topic": "Deutsche",
-      "tags": [
-        "Deutsche",
-        "SPIEGEL",
-        "Inside",
-        "Bank"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/inside-deutsche-bank-so-hat-der-spiegel-recherchiert-a-b12f204e-8126-444b-85fb-1d7d5c767b64#ref=rss"
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/banken/inside-deutsche-bank-finanzminister-lars-klingbeil-fordert-konsequenzen-a-80b518e3-8f33-4460-8fa6-865ada82b765#ref=rss"
+          "src": "wired",
+          "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/ezb-praesident-markus-brunnermeier-nominierung-lars-klingbeil-friedrich-merz-gxe",
-      "headline": "Europäische Zentralbank: Markus Brunnermeier soll EZB-Chefvolkswirt werden",
-      "takeaway": "Das Bundeskabinett will Markus Brunnermeier für einen Spitzenposten bei der EZB nominieren. Er sei ein »herausragender Ökonom« und eine »fachlich exzellente Wahl«.",
-      "topic": "EZB-Chefvolkswirt",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/spritpreisdeckel-stromsteuersenkung-wirtschaftsweise-monika-schnitzer-veronika-grimm-gxe",
+      "headline": "Spritpreisdeckel: Wirtschaftsweise kritisieren Regierungsbeschlüsse zu Spritpreisdeckel",
+      "takeaway": "Veronika Grimm hat den vom Koalitionsausschuss beschlossenen Preisdeckel für Kraftstoffe scharf kritisiert. Solche Fragen seien nicht entscheidend für Deutschland.",
+      "topic": "Regierungsbeschlüsse",
       "tags": [
-        "EZB-Chefvolkswirt",
-        "Brunnermeier",
-        "Europäische",
-        "Zentralbank"
+        "Regierungsbeschlüsse",
+        "Spritpreisdeckel",
+        "Wirtschaftsweise",
+        "kritisieren"
       ],
       "sources": [
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/ezb-praesident-markus-brunnermeier-nominierung-lars-klingbeil-friedrich-merz-gxe"
+          "url": "https://www.zeit.de/wirtschaft/2026-11/spritpreisdeckel-stromsteuersenkung-wirtschaftsweise-monika-schnitzer-veronika-grimm-gxe"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/europa/ezb-markus-brunnermeier-soll-chefoekonom-werden-a-601f21c8-a7ff-4032-a678-a7863bd74200#ref=rss"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/konjunktur/bundesregierung-wirtschaftsweise-kritisieren-koalitionsausschuss-beschluesse/100270939.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+      "headline": "Trump arrives in China for historic meeting with Xi, Putin",
+      "takeaway": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
+      "topic": "Trump",
+      "tags": [
+        "Trump",
+        "China",
+        "Putin",
+        "historic"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/apec-gipfel-umarmung-handschlag-xi-putin-und-trump-in-china/100270788.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Google-beobachtet-vollstaendig-automatisierte-Cyberangriffe-mit-KI-Technik-11527123.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Google beobachtet vollständig automatisierte Cyberangriffe mit KI-Technik",
-      "takeaway": "Im jüngsten Bericht der Google Threat Intelligence Group gibt es Informationen zu Angreifern, die IT-Angriffe mit KI-Hilfe vollständig automatisieren.",
-      "topic": "Cyberangriffe",
+      "src": "theverge",
+      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+      "headline": "NASA’s Voyager 1 probe is now one light-day away",
+      "takeaway": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, \"very, very …",
+      "topic": "Voyager",
       "tags": [
-        "Cyberangriffe",
-        "KI-Technik",
-        "Google",
-        "automatisierte"
+        "Voyager",
+        "NASA",
+        "light-day",
+        "probe"
       ],
       "sources": [
         {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Google-beobachtet-vollstaendig-automatisierte-Cyberangriffe-mit-KI-Technik-11527123.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "src": "theverge",
+          "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone"
         },
         {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/cyberangriffe-ohne-menschen-google-dokumentiert-vollstaendig-autonome-attacken/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "headline": "Speed camera fault may have allowed drivers to escape fines",
-      "takeaway": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-      "topic": "Speed",
-      "tags": [
-        "Speed",
-        "allowed",
-        "drivers",
-        "camera"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/verkehrsministerium-foerderung-fuer-ladeinfrastruktur-in-mehrparteienhaeusern-stark-nachgefragt-2611-215311.html",
-      "headline": "Verkehrsministerium: Förderung für Ladeinfrastruktur in Mehrparteienhäusern stark nachgefragt",
-      "takeaway": "Das Aufladen von Elektroautos in Mehrparteienhäusern in Städten ist aktuell oft unmöglich. Eine Förderung wird gut angenommen. ( Elektromobilität , Elektroauto )",
-      "topic": "Verkehrsministerium",
-      "tags": [
-        "Verkehrsministerium",
-        "Mehrparteienhäusern",
-        "Ladeinfrastruktur",
-        "Förderung"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/verkehrsministerium-foerderung-fuer-ladeinfrastruktur-in-mehrparteienhaeusern-stark-nachgefragt-2611-215311.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/video/politik/wiederwahl-manuela-schwesig-bleibt-ministerpraesidentin-von-mecklenburg-vorpommern/100270519.html",
-      "headline": "Wiederwahl: Manuela Schwesig bleibt Ministerpräsidentin von Mecklenburg-Vorpommern",
-      "takeaway": "Die Abgeordneten im Landtag von Mecklenburg-Vorpommern haben Manuela Schwesig als Regierungschefin wiedergewählt. In der geheimen Abstimmung erhielt die SPD-Politikerin am Montag 39 Stimmen – genauso …",
-      "topic": "Mecklenburg-Vorpommern",
-      "tags": [
-        "Mecklenburg-Vorpommern",
-        "Ministerpräsidentin",
-        "Wiederwahl",
-        "Schwesig"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/video/politik/wiederwahl-manuela-schwesig-bleibt-ministerpraesidentin-von-mecklenburg-vorpommern/100270519.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/video/unternehmen/us-luftverkehr-startverzoegerungen-nach-technischer-stoerung-bei-united-airlines/100270523.html",
-      "headline": "US-Luftverkehr: Startverzögerungen nach technischer Störung bei United Airlines",
-      "takeaway": "Wenige Tage nach dem Flugstopp in den USA haben technische Probleme bei United Airlines erneut zu Verzögerungen geführt. Die Störung sei behoben, Hinweise auf einen Zusammenhang oder einen …",
-      "topic": "Startverzögerungen",
-      "tags": [
-        "Startverzögerungen",
-        "US-Luftverkehr",
-        "Airlines",
-        "Störung"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/video/unternehmen/us-luftverkehr-startverzoegerungen-nach-technischer-stoerung-bei-united-airlines/100270523.html"
+          "src": "wired",
+          "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/pixel-smartphone-android-update-bugs-1773925/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Pixel-Nutzer sind verärgert: Neues Android-Update bringt viele Bugs mit sich",
-      "takeaway": "Durch ein Update für seine Pixel-Smartphones bereitet Google einigen User:innen Probleme. Denn mit der neuen Version von Android 17 funktionieren einige Features nicht mehr wie gewünscht. Was …",
-      "topic": "Android-Update",
+      "url": "https://t3n.de/news/senkung-der-stromsteuer-die-koalition-verschiebt-die-probleme-nur-1774135/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Senkung der Stromsteuer: Die Koalition verschiebt die Probleme nur",
+      "takeaway": "Die Senkung der Stromsteuer war ein dringend nötiger Schritt in die richtige Richtung – und ist doch viel zu halbherzig, meint unser Autor. weiterlesen auf t3n.de",
+      "topic": "Stromsteuer",
       "tags": [
-        "Android-Update",
-        "Pixel-Nutzer",
-        "Bugs",
-        "verärgert"
+        "Stromsteuer",
+        "Koalition",
+        "Probleme",
+        "Senkung"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/pixel-smartphone-android-update-bugs-1773925/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/senkung-der-stromsteuer-die-koalition-verschiebt-die-probleme-nur-1774135/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/stromsteuer-koalition-einigt-sich-auf-befristete-senkung-ab-2027-a-7cc5878b-2a81-4f2a-9fc2-d2f8791c2238#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html",
+      "headline": "Dreiergipfel: Trump erwartet Gespräche über Ukraine und Taiwan mit Putin und Xi",
+      "takeaway": "Vor dem Dreiergipfel mit China und Russland hat sich US-Präsident Trump mit den Staats- und Regierungschefs von Indien, Japan und Australien getroffen. Der chinesische Präsident Xi hatte die …",
+      "topic": "Dreiergipfel",
+      "tags": [
+        "Dreiergipfel",
+        "Gespräche",
+        "Ukraine",
+        "Taiwan"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
+      "headline": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
+      "takeaway": "Paris Hilton, backed by Alexandria Ocasio-Cortez, is pushing for the anti-AI deepfake pornography Defiance Act, already passed by the Senate, to become law.",
+      "topic": "Ocasio-Cortez",
+      "tags": [
+        "Ocasio-Cortez",
+        "Alexandria",
+        "Defiance",
+        "Hilton"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/iea-prognostiziert-co2-emissionen-von-rechenzentren-koennten-sich-bis-2035-mehr-als-verdoppeln/",
+      "headline": "IEA prognostiziert: CO2-Emissionen von Rechenzentren könnten sich bis 2035 mehr als verdoppeln",
+      "takeaway": "Laut einer Harvard-Studie in Nature Sustainability verursachten 403 US-Hyperscale-Rechenzentren zwischen Mai 2024 und April 2025 rund 25,7 Millionen Tonnen CO2, mehr als ganz Dänemark. Über die …",
+      "topic": "CO2-Emissionen",
+      "tags": [
+        "CO2-Emissionen",
+        "Rechenzentren",
+        "IEA",
+        "prognostiziert"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/iea-prognostiziert-co2-emissionen-von-rechenzentren-koennten-sich-bis-2035-mehr-als-verdoppeln/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/leistungsvereinbarung-deutsche-bahn-steffen-bilger-infrago-gxe",
+      "headline": "Bahnsanierung: Bilger will die Bahn zukünftig strenger kontrollieren",
+      "takeaway": "Bundesverkehrsminister Steffen Bilger erwartet für 80 Milliarden Euro konkretere Fortschritte bei der Bahnsanierung. Werden Ziele verfehlt, droht er mit Strafzahlungen.",
+      "topic": "Bahnsanierung",
+      "tags": [
+        "Bahnsanierung",
+        "Bilger",
+        "Bahn",
+        "kontrollieren"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/leistungsvereinbarung-deutsche-bahn-steffen-bilger-infrago-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-sinkt/100270820.html",
+      "headline": "Dax aktuell: Dax notiert im Minus – Ölpreis sinkt",
+      "takeaway": "Nach den deutlichen Verlusten vom Dienstag schwächelt der deutsche Leitindex erneut. Im Fokus stehen neue Inflationsdaten und die geopolitischen Gespräche am Rande des Apec-Gipfels.",
+      "topic": "Ölpreis",
+      "tags": [
+        "Ölpreis",
+        "Minus",
+        "Dax",
+        "aktuell"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-sinkt/100270820.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/it-sicherheit-in-der-industrie-alte-industriesteuerungen-werden-zum-sicherheitsrisiko-2611-215214.html",
-      "headline": "(g+) IT-Sicherheit in der Industrie: Alte Industriesteuerungen werden zum Sicherheitsrisiko",
-      "takeaway": "Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller ( Security  …",
-      "topic": "Industriesteuerungen",
+      "url": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html",
+      "headline": "Nach Cyberangriff: Japan nimmt Supercomputer Fugaku vom Netz",
+      "takeaway": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )",
+      "topic": "Supercomputer",
       "tags": [
-        "Industriesteuerungen",
-        "Sicherheitsrisiko",
-        "IT-Sicherheit",
-        "Industrie"
+        "Supercomputer",
+        "Cyberangriff",
+        "Fugaku",
+        "Japan"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/it-sicherheit-in-der-industrie-alte-industriesteuerungen-werden-zum-sicherheitsrisiko-2611-215214.html"
+          "url": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/hendrik-wuest-gegen-evonik-uebernahme-durch-basf-das-ist-keine-pommesbude-a-efeed8d1-b9a9-46a9-95e2-e8b48adb1b30#ref=rss",
+      "headline": "Hendrik Wüst gegen Evonik-Übernahme durch BASF: »Das ist keine Pommesbude«",
+      "takeaway": "Der Chemieriese BASF will Evonik übernehmen – doch der Konkurrent sträubt sich. Auch NRW-Ministerpräsident Wüst sieht Evonik lieber eigenständig. Unterdessen soll der Angreifer wohl an einem neuen …",
+      "topic": "Evonik-Übernahme",
+      "tags": [
+        "Evonik-Übernahme",
+        "Pommesbude",
+        "Hendrik",
+        "Wüst"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/hendrik-wuest-gegen-evonik-uebernahme-durch-basf-das-ist-keine-pommesbude-a-efeed8d1-b9a9-46a9-95e2-e8b48adb1b30#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/kpmg-laesst-erstmals-ki-agenten-eine-komplette-jahresabschlusspruefung-durchfuehren-regulierer-warnen-vor-risiken/",
+      "headline": "KPMG lässt erstmals KI-Agenten eine komplette Jahresabschlussprüfung durchführen, Regulierer warnen vor Risiken",
+      "takeaway": "KPMG hat bei einem britischen Börsenunternehmen über 100 KI-Agenten parallel zum regulären Audit eingesetzt. Die Agenten stellten laut Audit-Chefin Cath Burnet teils \"bessere Fragen\" als das …",
+      "topic": "Jahresabschlussprüfung",
+      "tags": [
+        "Jahresabschlussprüfung",
+        "KI-Agenten",
+        "Regulierer",
+        "Risiken"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/kpmg-laesst-erstmals-ki-agenten-eine-komplette-jahresabschlusspruefung-durchfuehren-regulierer-warnen-vor-risiken/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "arstechnica",
-      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-      "headline": "Artist brings old Space Shuttle tank back to life",
-      "takeaway": "\"It's definitely the largest art project I've ever worked on.\"",
-      "topic": "Shuttle",
+      "src": "t3n",
+      "url": "https://t3n.de/news/fritzbox-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Fritzbox als Netzwerkspeicher: Diese Möglichkeiten bietet dein Router",
+      "takeaway": "Wer eine Fritzbox besitzt, kann sie nicht nur für die Verbindung zum Internet nutzen. Der Router lässt sich in den meisten Fällen auch einfach parallel als Netzwerkspeicher betreiben. Wie das geht …",
+      "topic": "Netzwerkspeicher",
       "tags": [
-        "Shuttle",
-        "Artist",
-        "Space",
-        "brings"
+        "Netzwerkspeicher",
+        "Möglichkeiten",
+        "Fritzbox",
+        "Router"
       ],
       "sources": [
         {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/review/capillus-hairband/",
-      "headline": "Capillus HairBand Review: Good Looks, Awkward Fit",
-      "takeaway": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
-      "topic": "Capillus",
-      "tags": [
-        "Capillus",
-        "HairBand",
-        "Awkward",
-        "Review"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/review/capillus-hairband/"
+          "src": "t3n",
+          "url": "https://t3n.de/news/fritzbox-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Auto: Elon Musk sieht, was deutsche Autobauer nicht sehen",
-    "dateLabel": "Folge vom 17.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2244-auto-elon-musk-sieht-was-deutsche-autobauer-nicht-sehen",
+    "title": "Nvidia: Wachstum ohne Ende? / Deutsche Bank: Reputationsrisiko für Deutschland .",
+    "dateLabel": "Folge vom 18.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2245-nvidia-wachstum-ohne-ende-deutsche-bank-reputationsrisiko-fur-deutschland",
     "takeaways": [
-      "Wo andere Autokonzerne schrumpfen, kündigt der US-Unternehmer eine milliardenschwere Investition an.",
-      "Sieht er was im Standort, was andere nicht sehen?",
+      "Wenige Tage nach dem Abgang des CEOs legt der Chiphersteller überraschend überragende Zahlen vor.",
+      "Gründer Jensen Huang erklärt derweil, er könne sich eine Rückkehr vorstellen.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Informationen zu Werbeeinblendungen"
     ]
   }
