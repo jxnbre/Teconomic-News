@@ -1,349 +1,349 @@
 {
-  "date": "2026-11-18",
-  "updatedAt": "2026-11-18T13:56:13.400998+01:00",
-  "updatedAtLabel": "18.11.2026, 13:56 Uhr",
+  "date": "2026-11-19",
+  "updatedAt": "2026-11-19T13:48:54.178201+01:00",
+  "updatedAtLabel": "19.11.2026, 13:48 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss",
-      "headline": "Nvidia – Jensen Huang: Konzern verkauft keine KI-Chips mehr nach China",
-      "takeaway": "Eine Seifenoper, die Milliarden kostet: Wegen seiner Affären – unter anderem mit einer mutmaßlichen chinesischen Spionin – verlor Jensen Huang den Chefposten bei Nvidia. Jetzt gibt es offenbar …",
-      "topic": "KI-Chips",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss",
+      "headline": "Deutsche Telekom steigt bei Europas KI-Hoffnung Mistral ein",
+      "takeaway": "Europas KI-Hoffnungswert Mistral erhält 100 Millionen Euro vom Bonner Telekom-Konzern. Geplant ist eine strategische Partnerschaft. Reicht das, um gegen OpenAI und Anthropic zu bestehen?",
+      "topic": "KI-Hoffnung",
       "tags": [
-        "KI-Chips",
-        "Konzern",
-        "Nvidia",
-        "Jensen"
+        "KI-Hoffnung",
+        "Deutsche",
+        "Telekom",
+        "Europas"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-konzern-verkauft-keine-ki-chips-mehr-nach-china-a-e59ab63e-68d8-48c0-9f9b-5621595d27a2#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss"
         },
         {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Telekom-steigt-bei-europaeischer-KI-Hoffnung-Mistral-ein-id31551993.html"
         },
         {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
-      "headline": "Grand Theft Auto VI has arrived",
-      "takeaway": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite …",
-      "topic": "Grand",
-      "tags": [
-        "Grand",
-        "Theft",
-        "Auto",
-        "arrived"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-deutsche-telekom-beteiligt-sich-an-mistral-ai/100271284.html"
         },
         {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
-        },
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/deutsche-telekom-steigt-bei-ki-hoffnungstraeger-mistral-ein-a-35783f0c-3de6-4218-970f-662e5d92eff1#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/spritpreisdeckel-stromsteuersenkung-wirtschaftsweise-monika-schnitzer-veronika-grimm-gxe",
-      "headline": "Spritpreisdeckel: Wirtschaftsweise kritisieren Regierungsbeschlüsse zu Spritpreisdeckel",
-      "takeaway": "Veronika Grimm hat den vom Koalitionsausschuss beschlossenen Preisdeckel für Kraftstoffe scharf kritisiert. Solche Fragen seien nicht entscheidend für Deutschland.",
-      "topic": "Regierungsbeschlüsse",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/anthropic-ipo-boersengang-aktien-kuenstliche-intelligenz-openai",
+      "headline": "Künstliche Intelligenz: Anthropic sammelt vor Rekordbörsengang 81 Milliarden Dollar ein",
+      "takeaway": "Dank hoher Nachfrage erhöht Anthropic den Ausgabepreis für seine Aktien und nimmt mehr Geld ein als erwartet. Der KI-Entwickler übertrifft damit den Rekord von SpaceX.",
+      "topic": "Rekordbörsengang",
       "tags": [
-        "Regierungsbeschlüsse",
-        "Spritpreisdeckel",
-        "Wirtschaftsweise",
-        "kritisieren"
+        "Rekordbörsengang",
+        "Intelligenz",
+        "Künstliche",
+        "Anthropic"
       ],
       "sources": [
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/spritpreisdeckel-stromsteuersenkung-wirtschaftsweise-monika-schnitzer-veronika-grimm-gxe"
+          "url": "https://www.zeit.de/wirtschaft/2026-11/anthropic-ipo-boersengang-aktien-kuenstliche-intelligenz-openai"
         },
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/konjunktur/bundesregierung-wirtschaftsweise-kritisieren-koalitionsausschuss-beschluesse/100270939.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-      "headline": "Trump arrives in China for historic meeting with Xi, Putin",
-      "takeaway": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
-      "topic": "Trump",
-      "tags": [
-        "Trump",
-        "China",
-        "Putin",
-        "historic"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html"
-        },
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/apec-gipfel-umarmung-handschlag-xi-putin-und-trump-in-china/100270788.html"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
-      "headline": "NASA’s Voyager 1 probe is now one light-day away",
-      "takeaway": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, \"very, very …",
-      "topic": "Voyager",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Windows-Server-2028-Oeffentliche-Vorschau-verfuegbar-11528845.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Windows Server 2028: Öffentliche Vorschau verfügbar",
+      "takeaway": "Microsoft arbeitet am Windows Server 2028 und hat nun eine Vorschauversion herausgegeben. Es geht um mehr Sicherheit – und KI.",
+      "topic": "Öffentliche",
       "tags": [
-        "Voyager",
-        "NASA",
-        "light-day",
-        "probe"
+        "Öffentliche",
+        "Vorschau",
+        "Windows",
+        "Server"
       ],
       "sources": [
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone"
+          "src": "heise",
+          "url": "https://www.heise.de/news/Windows-Server-2028-Oeffentliche-Vorschau-verfuegbar-11528845.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         },
         {
-          "src": "wired",
-          "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away/"
+          "src": "golem",
+          "url": "https://www.golem.de/news/preview-version-bereits-verfuegbar-windows-server-2028-soll-besser-gegen-angriffe-geschuetzt-sein-2611-215406.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
+      "headline": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+      "takeaway": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?",
+      "topic": "Grand",
+      "tags": [
+        "Grand",
+        "Theft",
+        "Auto",
+        "Hype"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/gta-6-warum-gibt-es-keinen-deutschen-videospiel-blockbuster-201687565.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/senkung-der-stromsteuer-die-koalition-verschiebt-die-probleme-nur-1774135/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Senkung der Stromsteuer: Die Koalition verschiebt die Probleme nur",
-      "takeaway": "Die Senkung der Stromsteuer war ein dringend nötiger Schritt in die richtige Richtung – und ist doch viel zu halbherzig, meint unser Autor. weiterlesen auf t3n.de",
-      "topic": "Stromsteuer",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "headline": "Elon Musk says: ‘I’m not MAGA’",
+      "takeaway": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent …",
+      "topic": "Elon",
       "tags": [
-        "Stromsteuer",
-        "Koalition",
-        "Probleme",
-        "Senkung"
+        "Elon",
+        "Musk",
+        "MAGA",
+        "says"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/senkung-der-stromsteuer-die-koalition-verschiebt-die-probleme-nur-1774135/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/deutschland/stromsteuer-koalition-einigt-sich-auf-befristete-senkung-ab-2027-a-7cc5878b-2a81-4f2a-9fc2-d2f8791c2238#ref=rss"
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html",
-      "headline": "Dreiergipfel: Trump erwartet Gespräche über Ukraine und Taiwan mit Putin und Xi",
-      "takeaway": "Vor dem Dreiergipfel mit China und Russland hat sich US-Präsident Trump mit den Staats- und Regierungschefs von Indien, Japan und Australien getroffen. Der chinesische Präsident Xi hatte die …",
-      "topic": "Dreiergipfel",
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "headline": "Anthropic prices IPO at $83 a share, above projected range",
+      "takeaway": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "topic": "Anthropic",
       "tags": [
-        "Dreiergipfel",
-        "Gespräche",
-        "Ukraine",
-        "Taiwan"
+        "Anthropic",
+        "IPO",
+        "projected",
+        "prices"
       ],
       "sources": [
         {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/video/politik/dreiergipfel-trump-erwartet-gespraeche-ueber-ukraine-und-taiwan-mit-putin-und-xi/100270705.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
-      "headline": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
-      "takeaway": "Paris Hilton, backed by Alexandria Ocasio-Cortez, is pushing for the anti-AI deepfake pornography Defiance Act, already passed by the Senate, to become law.",
-      "topic": "Ocasio-Cortez",
-      "tags": [
-        "Ocasio-Cortez",
-        "Alexandria",
-        "Defiance",
-        "Hilton"
-      ],
-      "sources": [
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        },
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html"
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo"
         }
       ]
     },
     {
       "cat": "ki",
       "src": "thedecoder",
-      "url": "https://the-decoder.de/iea-prognostiziert-co2-emissionen-von-rechenzentren-koennten-sich-bis-2035-mehr-als-verdoppeln/",
-      "headline": "IEA prognostiziert: CO2-Emissionen von Rechenzentren könnten sich bis 2035 mehr als verdoppeln",
-      "takeaway": "Laut einer Harvard-Studie in Nature Sustainability verursachten 403 US-Hyperscale-Rechenzentren zwischen Mai 2024 und April 2025 rund 25,7 Millionen Tonnen CO2, mehr als ganz Dänemark. Über die …",
-      "topic": "CO2-Emissionen",
+      "url": "https://the-decoder.de/anthropics-historischer-boersengang-bringt-813-milliarden-us-dollar-ein-und-beunruhigt-eigenen-fruehinvestor/",
+      "headline": "Anthropics historischer Börsengang bringt 81,3 Milliarden US-Dollar ein und beunruhigt eigenen Frühinvestor",
+      "takeaway": "Anthropic startet den größten Börsengang der Geschichte und löst SpaceX als bisherigen Rekordhalter ab. Frühinvestor Dustin Moskovitz distanziert sich derweil öffentlich und warnt, seine frühe …",
+      "topic": "Frühinvestor",
       "tags": [
-        "CO2-Emissionen",
-        "Rechenzentren",
-        "IEA",
-        "prognostiziert"
+        "Frühinvestor",
+        "Anthropics",
+        "Börsengang",
+        "US-Dollar"
       ],
       "sources": [
         {
           "src": "thedecoder",
-          "url": "https://the-decoder.de/iea-prognostiziert-co2-emissionen-von-rechenzentren-koennten-sich-bis-2035-mehr-als-verdoppeln/"
+          "url": "https://the-decoder.de/anthropics-historischer-boersengang-bringt-813-milliarden-us-dollar-ein-und-beunruhigt-eigenen-fruehinvestor/"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/leistungsvereinbarung-deutsche-bahn-steffen-bilger-infrago-gxe",
-      "headline": "Bahnsanierung: Bilger will die Bahn zukünftig strenger kontrollieren",
-      "takeaway": "Bundesverkehrsminister Steffen Bilger erwartet für 80 Milliarden Euro konkretere Fortschritte bei der Bahnsanierung. Werden Ziele verfehlt, droht er mit Strafzahlungen.",
-      "topic": "Bahnsanierung",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
+      "headline": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
+      "takeaway": "Family offices continued to boost their stock holdings, but they hedged the AI trade with financials, according to the CNBC Family Office Portfolio Tracker.",
+      "topic": "Portfolio",
       "tags": [
-        "Bahnsanierung",
-        "Bilger",
-        "Bahn",
-        "kontrollieren"
+        "Portfolio",
+        "Tracker",
+        "Family",
+        "Office"
       ],
       "sources": [
         {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/leistungsvereinbarung-deutsche-bahn-steffen-bilger-infrago-gxe"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-sinkt/100270820.html",
-      "headline": "Dax aktuell: Dax notiert im Minus – Ölpreis sinkt",
-      "takeaway": "Nach den deutlichen Verlusten vom Dienstag schwächelt der deutsche Leitindex erneut. Im Fokus stehen neue Inflationsdaten und die geopolitischen Gespräche am Rande des Apec-Gipfels.",
-      "topic": "Ölpreis",
-      "tags": [
-        "Ölpreis",
-        "Minus",
-        "Dax",
-        "aktuell"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-oelpreis-sinkt/100270820.html"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html",
-      "headline": "Nach Cyberangriff: Japan nimmt Supercomputer Fugaku vom Netz",
-      "takeaway": "Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. ( Supercomputer , Computer )",
-      "topic": "Supercomputer",
+      "url": "https://www.golem.de/news/cop31-ukraine-baut-windparks-gegen-luftangriffe-2611-215394.html",
+      "headline": "COP31: Ukraine baut Windparks gegen Luftangriffe",
+      "takeaway": "Die Ukraine und Russland stellen ihre jeweilige Klimapolitik auf der Weltklimakonferenz vor. Unterschiedlicher könnten die Standpunkte kaum sein. ( Ukrainekrieg , Politik )",
+      "topic": "Luftangriffe",
       "tags": [
-        "Supercomputer",
-        "Cyberangriff",
-        "Fugaku",
-        "Japan"
+        "Luftangriffe",
+        "Windparks",
+        "Ukraine",
+        "COP31"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html"
+          "url": "https://www.golem.de/news/cop31-ukraine-baut-windparks-gegen-luftangriffe-2611-215394.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/hendrik-wuest-gegen-evonik-uebernahme-durch-basf-das-ist-keine-pommesbude-a-efeed8d1-b9a9-46a9-95e2-e8b48adb1b30#ref=rss",
-      "headline": "Hendrik Wüst gegen Evonik-Übernahme durch BASF: »Das ist keine Pommesbude«",
-      "takeaway": "Der Chemieriese BASF will Evonik übernehmen – doch der Konkurrent sträubt sich. Auch NRW-Ministerpräsident Wüst sieht Evonik lieber eigenständig. Unterdessen soll der Angreifer wohl an einem neuen …",
-      "topic": "Evonik-Übernahme",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "headline": "Walmart hikes outlook as top execs tell CNBC the retailer is gaining market share ahead of holidays",
+      "takeaway": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+      "topic": "Walmart",
       "tags": [
-        "Evonik-Übernahme",
-        "Pommesbude",
-        "Hendrik",
-        "Wüst"
+        "Walmart",
+        "CNBC",
+        "retailer",
+        "holidays"
       ],
       "sources": [
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/hendrik-wuest-gegen-evonik-uebernahme-durch-basf-das-ist-keine-pommesbude-a-efeed8d1-b9a9-46a9-95e2-e8b48adb1b30#ref=rss"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
         }
       ]
     },
     {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/kpmg-laesst-erstmals-ki-agenten-eine-komplette-jahresabschlusspruefung-durchfuehren-regulierer-warnen-vor-risiken/",
-      "headline": "KPMG lässt erstmals KI-Agenten eine komplette Jahresabschlussprüfung durchführen, Regulierer warnen vor Risiken",
-      "takeaway": "KPMG hat bei einem britischen Börsenunternehmen über 100 KI-Agenten parallel zum regulären Audit eingesetzt. Die Agenten stellten laut Audit-Chefin Cath Burnet teils \"bessere Fragen\" als das …",
-      "topic": "Jahresabschlussprüfung",
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html",
+      "headline": "(g+) Datenschutz: Microsoft 365 DSGVO-konform betreiben - Realität oder Mythos?",
+      "takeaway": "Microsoft 365 lässt sich DSGVO-konform betreiben, doch MFA allein reicht nicht. Welche Einstellungen und Nachweise bei einer Datenschutzprüfung entscheidend sind. Ein Ratgebertext von Aaron Siller ( …",
+      "topic": "DSGVO-konform",
       "tags": [
-        "Jahresabschlussprüfung",
-        "KI-Agenten",
-        "Regulierer",
-        "Risiken"
+        "DSGVO-konform",
+        "Datenschutz",
+        "Microsoft",
+        "Realität"
       ],
       "sources": [
         {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/kpmg-laesst-erstmals-ki-agenten-eine-komplette-jahresabschlusspruefung-durchfuehren-regulierer-warnen-vor-risiken/"
+          "src": "golem",
+          "url": "https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/dreiergipfel-der-atommaechte-trump-putin-und-xi-wollen-nukleare-risiken-senken/100271097.html",
+      "headline": "Dreiergipfel der Atommächte: Trump, Putin und Xi wollen nukleare Risiken senken",
+      "takeaway": "Es ist eine historische Zusammenkunft in Shenzhen: Die Staatschefs aus China, den USA und Russland treffen sich erstmals zu dritt. Welche Themen bewegen sie?",
+      "topic": "Dreiergipfel",
+      "tags": [
+        "Dreiergipfel",
+        "Atommächte",
+        "Risiken",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/dreiergipfel-der-atommaechte-trump-putin-und-xi-wollen-nukleare-risiken-senken/100271097.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-ab-anthropic-boersengang-treibt-chip-aktien-an/100271164.html",
+      "headline": "Dax aktuell: Dax gibt Gewinne ab – Anthropic-Börsengang treibt Chip-Aktien an",
+      "takeaway": "Nach verlustreichen Tagen notiert der Dax unter der Marke von 26.000 Punkten. Kann er sich am Donnerstag erholen? Drei Ereignisse dürften den Handelstag besonders prägen.",
+      "topic": "Anthropic-Börsengang",
+      "tags": [
+        "Anthropic-Börsengang",
+        "Chip-Aktien",
+        "Gewinne",
+        "Dax"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-ab-anthropic-boersengang-treibt-chip-aktien-an/100271164.html"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/fritzbox-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Fritzbox als Netzwerkspeicher: Diese Möglichkeiten bietet dein Router",
-      "takeaway": "Wer eine Fritzbox besitzt, kann sie nicht nur für die Verbindung zum Internet nutzen. Der Router lässt sich in den meisten Fällen auch einfach parallel als Netzwerkspeicher betreiben. Wie das geht …",
-      "topic": "Netzwerkspeicher",
+      "url": "https://t3n.de/news/keine-crew-an-bord-wie-drogenkartelle-mit-standard-hardware-autonome-u-boote-bauen-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Keine Crew an Bord: Wie Drogenkartelle mit Standard-Hardware autonome U-Boote bauen",
+      "takeaway": "Ein Drogen-U-Boot ohne Besatzung, gesteuert per Starlink und Autopilot von der Stange: Autonome U-Boote könnten Tonnen von Kokain transportieren und sind der Al weiterlesen auf t3n.de",
+      "topic": "Standard-Hardware",
       "tags": [
-        "Netzwerkspeicher",
-        "Möglichkeiten",
-        "Fritzbox",
-        "Router"
+        "Standard-Hardware",
+        "Drogenkartelle",
+        "U-Boote",
+        "Keine"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/fritzbox-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/keine-crew-an-bord-wie-drogenkartelle-mit-standard-hardware-autonome-u-boote-bauen-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/holosolis-neue-solar-gigafactory-im-elsass-soll-europa-unabhaengiger-von-china-machen-accg-201668873.html",
+      "headline": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass",
+      "takeaway": "In der Photovoltaik ist Europa abhängig von China. Jetzt wird eine große neue Solarzellenfabrik geplant. Hinter dem Projekt steht ein Topmanager der französischen Industrie.",
+      "topic": "Milliardenprojekt",
+      "tags": [
+        "Milliardenprojekt",
+        "Gigafactory",
+        "Solarzellen",
+        "Frankreich"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/holosolis-neue-solar-gigafactory-im-elsass-soll-europa-unabhaengiger-von-china-machen-accg-201668873.html"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Nvidia: Wachstum ohne Ende? / Deutsche Bank: Reputationsrisiko für Deutschland .",
-    "dateLabel": "Folge vom 18.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2245-nvidia-wachstum-ohne-ende-deutsche-bank-reputationsrisiko-fur-deutschland",
+    "title": "IT: Wie ein hybrider Krieg ohne Krieger",
+    "dateLabel": "Folge vom 19.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2246-it-wie-ein-hybrider-krieg-ohne-krieger",
     "takeaways": [
-      "Wenige Tage nach dem Abgang des CEOs legt der Chiphersteller überraschend überragende Zahlen vor.",
-      "Gründer Jensen Huang erklärt derweil, er könne sich eine Rückkehr vorstellen.",
+      "Microsoft, Apple und die NSA in den USA, Supermärkte und Universitäten in Europa: Die Welt leidet unter einer Flut an IT-Ausfällen.",
+      "Das KI-Zeitalter sorgt für eine neue Verwundbarkeit.",
       "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Informationen zu Werbeeinblendungen"
     ]
   }

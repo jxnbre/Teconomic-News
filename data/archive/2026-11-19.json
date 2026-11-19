@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-19",
+  "updatedAt": "2026-11-19T13:48:54.178201+01:00",
+  "updatedAtLabel": "19.11.2026, 13:48 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss",
+      "headline": "Deutsche Telekom steigt bei Europas KI-Hoffnung Mistral ein",
+      "takeaway": "Europas KI-Hoffnungswert Mistral erhält 100 Millionen Euro vom Bonner Telekom-Konzern. Geplant ist eine strategische Partnerschaft. Reicht das, um gegen OpenAI und Anthropic zu bestehen?",
+      "topic": "KI-Hoffnung",
+      "tags": [
+        "KI-Hoffnung",
+        "Deutsche",
+        "Telekom",
+        "Europas"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Telekom-steigt-bei-europaeischer-KI-Hoffnung-Mistral-ein-id31551993.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/kuenstliche-intelligenz-deutsche-telekom-beteiligt-sich-an-mistral-ai/100271284.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/deutsche-telekom-steigt-bei-ki-hoffnungstraeger-mistral-ein-a-35783f0c-3de6-4218-970f-662e5d92eff1#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/anthropic-ipo-boersengang-aktien-kuenstliche-intelligenz-openai",
+      "headline": "Künstliche Intelligenz: Anthropic sammelt vor Rekordbörsengang 81 Milliarden Dollar ein",
+      "takeaway": "Dank hoher Nachfrage erhöht Anthropic den Ausgabepreis für seine Aktien und nimmt mehr Geld ein als erwartet. Der KI-Entwickler übertrifft damit den Rekord von SpaceX.",
+      "topic": "Rekordbörsengang",
+      "tags": [
+        "Rekordbörsengang",
+        "Intelligenz",
+        "Künstliche",
+        "Anthropic"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/anthropic-ipo-boersengang-aktien-kuenstliche-intelligenz-openai"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Windows-Server-2028-Oeffentliche-Vorschau-verfuegbar-11528845.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Windows Server 2028: Öffentliche Vorschau verfügbar",
+      "takeaway": "Microsoft arbeitet am Windows Server 2028 und hat nun eine Vorschauversion herausgegeben. Es geht um mehr Sicherheit – und KI.",
+      "topic": "Öffentliche",
+      "tags": [
+        "Öffentliche",
+        "Vorschau",
+        "Windows",
+        "Server"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Windows-Server-2028-Oeffentliche-Vorschau-verfuegbar-11528845.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/preview-version-bereits-verfuegbar-windows-server-2028-soll-besser-gegen-angriffe-geschuetzt-sein-2611-215406.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
+      "headline": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
+      "takeaway": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?",
+      "topic": "Grand",
+      "tags": [
+        "Grand",
+        "Theft",
+        "Auto",
+        "Hype"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/gta-6-warum-gibt-es-keinen-deutschen-videospiel-blockbuster-201687565.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "headline": "Elon Musk says: ‘I’m not MAGA’",
+      "takeaway": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent …",
+      "topic": "Elon",
+      "tags": [
+        "Elon",
+        "Musk",
+        "MAGA",
+        "says"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/"
+        },
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "headline": "Anthropic prices IPO at $83 a share, above projected range",
+      "takeaway": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "topic": "Anthropic",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "projected",
+        "prices"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        },
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/anthropics-historischer-boersengang-bringt-813-milliarden-us-dollar-ein-und-beunruhigt-eigenen-fruehinvestor/",
+      "headline": "Anthropics historischer Börsengang bringt 81,3 Milliarden US-Dollar ein und beunruhigt eigenen Frühinvestor",
+      "takeaway": "Anthropic startet den größten Börsengang der Geschichte und löst SpaceX als bisherigen Rekordhalter ab. Frühinvestor Dustin Moskovitz distanziert sich derweil öffentlich und warnt, seine frühe …",
+      "topic": "Frühinvestor",
+      "tags": [
+        "Frühinvestor",
+        "Anthropics",
+        "Börsengang",
+        "US-Dollar"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/anthropics-historischer-boersengang-bringt-813-milliarden-us-dollar-ein-und-beunruhigt-eigenen-fruehinvestor/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html",
+      "headline": "Family offices move more money into stocks, hedge AI risk, according to CNBC Family Office Portfolio Tracker",
+      "takeaway": "Family offices continued to boost their stock holdings, but they hedged the AI trade with financials, according to the CNBC Family Office Portfolio Tracker.",
+      "topic": "Portfolio",
+      "tags": [
+        "Portfolio",
+        "Tracker",
+        "Family",
+        "Office"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/19/family-offices-moved-more-money-into-stocks-but-hedged-ai-risk.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/cop31-ukraine-baut-windparks-gegen-luftangriffe-2611-215394.html",
+      "headline": "COP31: Ukraine baut Windparks gegen Luftangriffe",
+      "takeaway": "Die Ukraine und Russland stellen ihre jeweilige Klimapolitik auf der Weltklimakonferenz vor. Unterschiedlicher könnten die Standpunkte kaum sein. ( Ukrainekrieg , Politik )",
+      "topic": "Luftangriffe",
+      "tags": [
+        "Luftangriffe",
+        "Windparks",
+        "Ukraine",
+        "COP31"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/cop31-ukraine-baut-windparks-gegen-luftangriffe-2611-215394.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "headline": "Walmart hikes outlook as top execs tell CNBC the retailer is gaining market share ahead of holidays",
+      "takeaway": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+      "topic": "Walmart",
+      "tags": [
+        "Walmart",
+        "CNBC",
+        "retailer",
+        "holidays"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html",
+      "headline": "(g+) Datenschutz: Microsoft 365 DSGVO-konform betreiben - Realität oder Mythos?",
+      "takeaway": "Microsoft 365 lässt sich DSGVO-konform betreiben, doch MFA allein reicht nicht. Welche Einstellungen und Nachweise bei einer Datenschutzprüfung entscheidend sind. Ein Ratgebertext von Aaron Siller ( …",
+      "topic": "DSGVO-konform",
+      "tags": [
+        "DSGVO-konform",
+        "Datenschutz",
+        "Microsoft",
+        "Realität"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/dreiergipfel-der-atommaechte-trump-putin-und-xi-wollen-nukleare-risiken-senken/100271097.html",
+      "headline": "Dreiergipfel der Atommächte: Trump, Putin und Xi wollen nukleare Risiken senken",
+      "takeaway": "Es ist eine historische Zusammenkunft in Shenzhen: Die Staatschefs aus China, den USA und Russland treffen sich erstmals zu dritt. Welche Themen bewegen sie?",
+      "topic": "Dreiergipfel",
+      "tags": [
+        "Dreiergipfel",
+        "Atommächte",
+        "Risiken",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/dreiergipfel-der-atommaechte-trump-putin-und-xi-wollen-nukleare-risiken-senken/100271097.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-ab-anthropic-boersengang-treibt-chip-aktien-an/100271164.html",
+      "headline": "Dax aktuell: Dax gibt Gewinne ab – Anthropic-Börsengang treibt Chip-Aktien an",
+      "takeaway": "Nach verlustreichen Tagen notiert der Dax unter der Marke von 26.000 Punkten. Kann er sich am Donnerstag erholen? Drei Ereignisse dürften den Handelstag besonders prägen.",
+      "topic": "Anthropic-Börsengang",
+      "tags": [
+        "Anthropic-Börsengang",
+        "Chip-Aktien",
+        "Gewinne",
+        "Dax"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-gibt-gewinne-ab-anthropic-boersengang-treibt-chip-aktien-an/100271164.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/keine-crew-an-bord-wie-drogenkartelle-mit-standard-hardware-autonome-u-boote-bauen-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Keine Crew an Bord: Wie Drogenkartelle mit Standard-Hardware autonome U-Boote bauen",
+      "takeaway": "Ein Drogen-U-Boot ohne Besatzung, gesteuert per Starlink und Autopilot von der Stange: Autonome U-Boote könnten Tonnen von Kokain transportieren und sind der Al weiterlesen auf t3n.de",
+      "topic": "Standard-Hardware",
+      "tags": [
+        "Standard-Hardware",
+        "Drogenkartelle",
+        "U-Boote",
+        "Keine"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/keine-crew-an-bord-wie-drogenkartelle-mit-standard-hardware-autonome-u-boote-bauen-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/holosolis-neue-solar-gigafactory-im-elsass-soll-europa-unabhaengiger-von-china-machen-accg-201668873.html",
+      "headline": "Milliardenprojekt in Frankreich: Eine neue Gigafactory für Solarzellen – im Elsass",
+      "takeaway": "In der Photovoltaik ist Europa abhängig von China. Jetzt wird eine große neue Solarzellenfabrik geplant. Hinter dem Projekt steht ein Topmanager der französischen Industrie.",
+      "topic": "Milliardenprojekt",
+      "tags": [
+        "Milliardenprojekt",
+        "Gigafactory",
+        "Solarzellen",
+        "Frankreich"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/holosolis-neue-solar-gigafactory-im-elsass-soll-europa-unabhaengiger-von-china-machen-accg-201668873.html"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "IT: Wie ein hybrider Krieg ohne Krieger",
+    "dateLabel": "Folge vom 19.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2246-it-wie-ein-hybrider-krieg-ohne-krieger",
+    "takeaways": [
+      "Microsoft, Apple und die NSA in den USA, Supermärkte und Universitäten in Europa: Die Welt leidet unter einer Flut an IT-Ausfällen.",
+      "Das KI-Zeitalter sorgt für eine neue Verwundbarkeit.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
