@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-21T10:35:10.292276+01:00",
-  "updatedAtLabel": "21.11.2026, 10:35 Uhr",
+  "updatedAt": "2026-11-21T18:19:38.190625+01:00",
+  "updatedAtLabel": "21.11.2026, 18:19 Uhr",
   "source": "CoinGecko, EZB, Yahoo",
   "status": {
     "total": 87,
@@ -12,41 +12,51 @@
   },
   "quotes": {
     "btc": {
-      "price": "52.761 €",
+      "price": "54.796 €",
       "change": {
-        "week": -10.5,
-        "month": -23.78,
-        "year": -28.57
+        "week": -7.05,
+        "month": -20.84,
+        "year": -25.82
       },
       "asOf": "2026-11-21",
       "src": "CoinGecko"
     },
     "eth": {
-      "price": "1.491,49 €",
+      "price": "1.534,00 €",
       "change": {
-        "week": -9.84,
-        "month": -25.9,
-        "year": -37.84
+        "week": -7.27,
+        "month": -23.78,
+        "year": -36.07
       },
       "asOf": "2026-11-21",
       "src": "CoinGecko"
     },
     "sol": {
-      "price": "61,88 €",
+      "price": "64,41 €",
       "change": {
-        "week": -4.83,
-        "month": -27.36,
-        "year": -44.56
+        "week": -0.94,
+        "month": -24.39,
+        "year": -42.29
+      },
+      "asOf": "2026-11-21",
+      "src": "CoinGecko"
+    },
+    "xrp": {
+      "price": "0,8479 €",
+      "change": {
+        "week": -2.31,
+        "month": -24.06,
+        "year": -49.9
       },
       "asOf": "2026-11-21",
       "src": "CoinGecko"
     },
     "bnb": {
-      "price": "478,06 €",
+      "price": "498,92 €",
       "change": {
-        "week": -11.0,
-        "month": -23.85,
-        "year": -33.65
+        "week": -7.12,
+        "month": -20.53,
+        "year": -30.76
       },
       "asOf": "2026-11-21",
       "src": "CoinGecko"
@@ -869,16 +879,6 @@
         "year": 27.23
       },
       "asOf": "2026-11-20",
-      "src": "Yahoo"
-    },
-    "xrp": {
-      "price": "0,8166 €",
-      "change": {
-        "week": -5.92,
-        "month": -26.84,
-        "year": -51.79
-      },
-      "asOf": "2026-11-21",
       "src": "Yahoo"
     }
   }
