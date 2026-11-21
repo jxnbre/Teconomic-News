@@ -1,0 +1,329 @@
+{
+  "date": "2026-11-21",
+  "updatedAt": "2026-11-21T10:35:27.687834+01:00",
+  "updatedAtLabel": "21.11.2026, 10:35 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+      "headline": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
+      "takeaway": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details …",
+      "topic": "US-Börsenaufsicht",
+      "tags": [
+        "US-Börsenaufsicht",
+        "Chip-Riesen",
+        "Nvidia",
+        "ermittelt"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-sec-ermittlungen-untersuchung-berichte"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-us-boersenaufsicht-ermittelt-2-7-billionen-dollar-boersenwert-verbrannt-a-c34d5ac8-df77-44a6-bb3c-e4b8cace062c#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
+      "headline": "Altersvorsorgedepot: Staatliches Depot für Zusatzrente verzögert sich wohl",
+      "takeaway": "Ab 1. Januar gibt es Geld vom Staat für ein Altersvorsorgedepot. Ein öffentlich organisiertes Fondsangebot soll das Herzstück der Reform werden. Aber Sparer müssen laut einem Medienbericht noch …",
+      "topic": "Altersvorsorgedepot",
+      "tags": [
+        "Altersvorsorgedepot",
+        "Staatliches",
+        "Zusatzrente",
+        "Depot"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/aktienrente-staatliches-depot-fuer-zusatzrente-noch-nicht-startklar/100271724.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
+      "headline": "Schneller Schlau: Bier auf dem Rückzug",
+      "takeaway": "1980 trank jeder Deutsche im Schnitt eine Badewanne voller Bier, mittlerweile ist es beinahe nur noch halb so viel. In der Rangliste der größten Braukonzerne spielen deutsche kaum noch eine Rolle.",
+      "topic": "Schneller",
+      "tags": [
+        "Schneller",
+        "Rückzug",
+        "Schlau",
+        "Bier"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/",
+      "headline": "Inkling 2 Mini: Neues KI-Modell denkt in Schleifen – und läuft trotzdem auf dem Laptop",
+      "takeaway": "Thinking Machines veröffentlicht mit Inkling 2 Mini einen offenen Looped-Transformer, eine Architektur, bei der zwölf von 24 Schichten pro Token dreimal durchlaufen werden, sodass das Modell intern …",
+      "topic": "KI-Modell",
+      "tags": [
+        "KI-Modell",
+        "Schleifen",
+        "Inkling",
+        "Laptop"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html",
+      "headline": "Nvidia-Unternehmenskultur: Huang soll Nvidia-Mitarbeiter gezielt gedemütigt haben",
+      "takeaway": "Die New York Times beschreibt jahrelange Tiraden des Ex-CEOs. Nvidia schweigt, Huangs Sprecher widerspricht. ( Nvidia , Wirtschaft )",
+      "topic": "Nvidia-Unternehmenskultur",
+      "tags": [
+        "Nvidia-Unternehmenskultur",
+        "Nvidia-Mitarbeiter",
+        "Huang",
+        "gedemütigt"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/abschiebungen-bundestagsjuristen-sehen-rechtliche-huerden-fuer-abschiebezentren/100271379.html",
+      "headline": "Abschiebungen: Bundestagsjuristen sehen rechtliche Hürden für Abschiebezentren",
+      "takeaway": "Die Bundesregierung könnte für Abschiebungen nach Ruanda die Zustimmung des Parlaments benötigen. In der Koalition formiert sich bereits Widerstand gegen ein geplantes Rückkehrzentrum.",
+      "topic": "Bundestagsjuristen",
+      "tags": [
+        "Bundestagsjuristen",
+        "Abschiebezentren",
+        "Abschiebungen",
+        "Hürden"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/abschiebungen-bundestagsjuristen-sehen-rechtliche-huerden-fuer-abschiebezentren/100271379.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/versicherungen-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271731.html",
+      "headline": "Versicherungen: Pflegekassen warnen vor erneuten Finanzrisiken Anfang 2027",
+      "takeaway": "Die Pflegeversicherung steckt wegen immer höherer Ausgaben in Nöten. Die Koalition will sie fürs neue Jahr absichern – die Gesetzespläne liegen jetzt wohl im Parlament.",
+      "topic": "Versicherungen",
+      "tags": [
+        "Versicherungen",
+        "Finanzrisiken",
+        "Pflegekassen",
+        "Anfang"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/versicherungen-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271731.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/strompreise-stromkosten-stromsteuer-netzentgelte-verivox-gxe",
+      "headline": "Stromsteuersenkung: Stromausgaben steigen laut Verivox trotz Stromsteuersenkung",
+      "takeaway": "Wegen der Preiserhöhungen der Versorger müssen Verbraucher laut einer Studie 2027 mit höheren Stromkosten rechnen. Die Stromsteuersenkung hält das demnach nicht auf.",
+      "topic": "Stromsteuersenkung",
+      "tags": [
+        "Stromsteuersenkung",
+        "Stromausgaben",
+        "Verivox",
+        "steigen"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/strompreise-stromkosten-stromsteuer-netzentgelte-verivox-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
+      "headline": "Bilanzierungspraktiken: Nvidia-Aktie fällt um 14 Prozent – US-Börsenaufsicht ermittelt",
+      "takeaway": "Im Fokus stehen nach einem Reuters-Bericht Bilanzierungspraktiken des Chip-Riesen. Donald Trump will derweil immer noch den zurückgetretenen CEO Jensen Huang zurück.",
+      "topic": "Bilanzierungspraktiken",
+      "tags": [
+        "Bilanzierungspraktiken",
+        "US-Börsenaufsicht",
+        "Nvidia-Aktie",
+        "ermittelt"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Boomende-Wirtschaft-kommt-bei-vielen-Spaniern-nicht-an-id31557769.html",
+      "headline": "Frust vor Neuwahl: Boomende Wirtschaft kommt bei vielen Spaniern nicht an",
+      "takeaway": "Spaniens Wirtschaft wächst schneller als alle anderen in Europa und das schon seit mehreren Jahren. Dennoch wächst die Unzufriedenheit in der Bevölkerung. Der Frust über steigende …",
+      "topic": "Wirtschaft",
+      "tags": [
+        "Wirtschaft",
+        "Boomende",
+        "Spaniern",
+        "Neuwahl"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Boomende-Wirtschaft-kommt-bei-vielen-Spaniern-nicht-an-id31557769.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/bose-kabelgebundene-kopfhoerer-test-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Zurück zum Kabel: Wie sich die neuen Bose-Kopfhörer im Alltag schlagen",
+      "takeaway": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen …",
+      "topic": "Bose-Kopfhörer",
+      "tags": [
+        "Bose-Kopfhörer",
+        "Zurück",
+        "Alltag",
+        "Kabel"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/bose-kabelgebundene-kopfhoerer-test-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html",
+      "headline": "(g+) Kubernetes-Integrationstests: Wie Entwickler versteckte Kubernetes-Fehler vor dem ...",
+      "takeaway": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext …",
+      "topic": "Kubernetes-Integrationstests",
+      "tags": [
+        "Kubernetes-Integrationstests",
+        "Kubernetes-Fehler",
+        "Entwickler",
+        "versteckte"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "KI vs. Klimaziele: Warum Rechenzentren zum Problem für das Stromnetz werden",
+      "takeaway": "Der KI-Boom und der damit verbundene Ausbau von Rechenzentren sorgen aufgrund des hohen Strom- und Wasserverbrauchs in den USA zunehmend für Gegenwind. Dank einer neuen Harvard-Studie dürften sich …",
+      "topic": "Rechenzentren",
+      "tags": [
+        "Rechenzentren",
+        "Klimaziele",
+        "Stromnetz",
+        "Problem"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/bytedance-forschende-hinterfragen-aufwendige-ki-trainingsverfahren-und-liefern-eine-schlanke-alternative/",
+      "headline": "Bytedance-Forschende hinterfragen aufwendige KI-Trainingsverfahren und liefern eine schlanke Alternative",
+      "takeaway": "Bytedance und mehrere US-Universitäten stellen mit Axion 1.0 einen KI-Agenten vor, der mit nur drei Trainingsphasen in Benchmarks an kommerzielle Spitzenmodelle von OpenAI und Anthropic heranreicht. …",
+      "topic": "KI-Trainingsverfahren",
+      "tags": [
+        "KI-Trainingsverfahren",
+        "Bytedance-Forschende",
+        "Alternative",
+        "hinterfragen"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/bytedance-forschende-hinterfragen-aufwendige-ki-trainingsverfahren-und-liefern-eine-schlanke-alternative/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "netzpolitik",
+      "url": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/",
+      "headline": "KW 47: Die Woche, in der wir Dich brauchen",
+      "takeaway": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen …",
+      "topic": "Woche",
+      "tags": [
+        "Woche",
+        "Dich",
+        "brauchen"
+      ],
+      "sources": [
+        {
+          "src": "netzpolitik",
+          "url": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Podcast-Tipp: Wie sicher sind wir? Realitycheck zu Verteidigung, Rüstung und Sicherheit",
+    "dateLabel": "Folge vom 21.11. · 1 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2250-podcast-tipp-wie-sicher-sind-wir-realitycheck-zu-verteidigung-rustung-und-sicherheit",
+    "takeaways": [
+      "Markus Fasse, Chefreporter beim Handelsblatt, und Nana Brink, Redaktionsleiterin des Tagesspiegel Background „Sicherheit und Verteidigung“, gehen jede Woche den Fragen nach: Was kann die Bundeswehr, w",
+      "Und was wird hinter den Kulissen besprochen?",
+      "Markus Fasse kennt den Markt und die Rüstungsindustrie, Nana Brink den politischen Betrieb in Berlin."
+    ]
+  }
+}

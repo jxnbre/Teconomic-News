@@ -1,326 +1,329 @@
 {
-  "date": "2026-11-20",
-  "updatedAt": "2026-11-20T12:17:21.711542+01:00",
-  "updatedAtLabel": "20.11.2026, 12:17 Uhr",
+  "date": "2026-11-21",
+  "updatedAt": "2026-11-21T10:35:27.687834+01:00",
+  "updatedAtLabel": "21.11.2026, 10:35 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/black-friday-laesst-die-deutschen-kalt-a-5da73fc6-7a8c-401c-9199-0343e4c9c726#ref=rss",
-      "headline": "Black Friday lässt die Deutschen kalt",
-      "takeaway": "Grelle Rabattversprechen, Countdown-Uhren, rot durchgestrichene Preise: Der Black Friday verspricht Schnäppchen ohne Ende. Die Konsumenten in Deutschland möchten sich dem Hype nicht anschließen.",
-      "topic": "Deutschen",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+      "headline": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
+      "takeaway": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details …",
+      "topic": "US-Börsenaufsicht",
       "tags": [
-        "Deutschen",
-        "Friday",
-        "Black",
-        "lässt"
+        "US-Börsenaufsicht",
+        "Chip-Riesen",
+        "Nvidia",
+        "ermittelt"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/black-friday-laesst-die-deutschen-kalt-a-5da73fc6-7a8c-401c-9199-0343e4c9c726#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss"
         },
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/black-friday-rabatte-deutschland-1774508/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "headline": "Meta’s new Muse Charm device may cost $300",
-      "takeaway": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "topic": "Charm",
-      "tags": [
-        "Charm",
-        "Meta",
-        "Muse",
-        "device"
-      ],
-      "sources": [
-        {
-          "src": "techcrunch",
-          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-sec-ermittlungen-untersuchung-berichte"
         },
         {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html",
-      "headline": "EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten",
-      "takeaway": "Kias Elektro-Lineup beginnt beim EV2 - ein kleineres Auto soll 2027 fertig sein. Dabei dürfte es sich um den EV1 handeln. ( Kia , Elektroauto )",
-      "topic": "Elektroauto",
-      "tags": [
-        "Elektroauto",
-        "Kias",
-        "EV1",
-        "kompaktes"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-reppegather-deals-bafin-weist-bilanzfehler-bei-dermapharm-nach/100271508.html",
-      "headline": "Pharma: Nach gescheiterten Reppegather-Deals: Bafin weist Bilanzfehler bei Dermapharm nach",
-      "takeaway": "Die Finanzaufsicht hat gleich zwei Fehler im Konzernabschluss 2025 festgestellt. Dies wirft neue Fragen zu den Geschäften des Pharmakonzerns mit den Brüdern Reppegather auf.",
-      "topic": "Reppegather-Deals",
-      "tags": [
-        "Reppegather-Deals",
-        "Bilanzfehler",
-        "Dermapharm",
-        "Pharma"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-reppegather-deals-bafin-weist-bilanzfehler-bei-dermapharm-nach/100271508.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/international/polen-drei-russische-flugobjekte-abgestuerzt/100271566.html",
-      "headline": "Ukraine-Krieg: Drei russische Flugobjekte in Polen abgestürzt",
-      "takeaway": "Zwei mutmaßliche Raketen und eine Drohne: Während Russland die Ukraine angreift, stürzen Flugobjekte in Polen ab. Der polnische Verteidigungsminister spricht von einer Provokation.",
-      "topic": "Ukraine-Krieg",
-      "tags": [
-        "Ukraine-Krieg",
-        "Flugobjekte",
-        "Polen",
-        "abgestürzt"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/international/polen-drei-russische-flugobjekte-abgestuerzt/100271566.html"
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-us-boersenaufsicht-ermittelt-2-7-billionen-dollar-boersenwert-verbrannt-a-c34d5ac8-df77-44a6-bb3c-e4b8cace062c#ref=rss"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/anthropic-kann-den-negativtrend-an-den-boersen-nicht-aufhalten-a-2ebc6562-4f98-4fe9-9efe-f4a8a0b805fe#ref=rss",
-      "headline": "Anthropic kann den Negativtrend an den Börsen nicht aufhalten",
-      "takeaway": "Seit dem Rekord-Börsengang des KI-Spezialisten Anthropic ist noch kein Tag vergangen – schon entwickelt sich die Aktie zur Belastung für den gesamten Technologiebereich. Jetzt ist Leidensfähigkeit …",
-      "topic": "Negativtrend",
+      "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
+      "headline": "Altersvorsorgedepot: Staatliches Depot für Zusatzrente verzögert sich wohl",
+      "takeaway": "Ab 1. Januar gibt es Geld vom Staat für ein Altersvorsorgedepot. Ein öffentlich organisiertes Fondsangebot soll das Herzstück der Reform werden. Aber Sparer müssen laut einem Medienbericht noch …",
+      "topic": "Altersvorsorgedepot",
       "tags": [
-        "Negativtrend",
-        "Anthropic",
-        "Börsen",
-        "aufhalten"
+        "Altersvorsorgedepot",
+        "Staatliches",
+        "Zusatzrente",
+        "Depot"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/anthropic-kann-den-negativtrend-an-den-boersen-nicht-aufhalten-a-2ebc6562-4f98-4fe9-9efe-f4a8a0b805fe#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/aktienrente-staatliches-depot-fuer-zusatzrente-noch-nicht-startklar/100271724.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "headline": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "takeaway": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "topic": "Anthropic",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
+      "headline": "Schneller Schlau: Bier auf dem Rückzug",
+      "takeaway": "1980 trank jeder Deutsche im Schnitt eine Badewanne voller Bier, mittlerweile ist es beinahe nur noch halb so viel. In der Rangliste der größten Braukonzerne spielen deutsche kaum noch eine Rolle.",
+      "topic": "Schneller",
       "tags": [
-        "Anthropic",
-        "IPO",
-        "disruptive",
-        "massively"
+        "Schneller",
+        "Rückzug",
+        "Schlau",
+        "Bier"
       ],
       "sources": [
         {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/wenn-kranksein-keine-option-ist-sein-kopf-ist-ja-nicht-krank-der-kann-noch-arbeiten-2611-215419.html",
-      "headline": "Wenn Kranksein keine Option ist: \"Sein Kopf ist ja nicht krank, der kann noch arbeiten\"",
-      "takeaway": "Warum schleppen sich Golem-Leser krank zur Arbeit? Eure Antworten zeigen eindrücklich, aus welchen Gründen ITler an die Belastungsgrenze gehen. ( Arbeit , Wirtschaft )",
-      "topic": "Kranksein",
-      "tags": [
-        "Kranksein",
-        "Option",
-        "Wenn",
-        "Kopf"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/wenn-kranksein-keine-option-ist-sein-kopf-ist-ja-nicht-krank-der-kann-noch-arbeiten-2611-215419.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
-      "headline": "Regular Tech Bros Are Worried About Honeypots",
-      "takeaway": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
-      "topic": "Honeypots",
-      "tags": [
-        "Honeypots",
-        "Regular",
-        "Worried",
-        "About"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "wired",
-      "url": "https://www.wired.com/story/best-tech-gifts-2026/",
-      "headline": "The Best Gifts for the Techie in Your Life (2026)",
-      "takeaway": "Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
-      "topic": "Techie",
-      "tags": [
-        "Techie",
-        "Gifts",
-        "Best",
-        "Your"
-      ],
-      "sources": [
-        {
-          "src": "wired",
-          "url": "https://www.wired.com/story/best-tech-gifts-2026/"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-      "headline": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-      "takeaway": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
-      "topic": "Cairncross",
-      "tags": [
-        "Cairncross",
-        "White",
-        "House",
-        "Sean"
-      ],
-      "sources": [
-        {
-          "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/kinderarmut-deutschland-sozialstaat-armut-quote",
-      "headline": "Kinderarmut in Deutschland: Wir könnten Kinderarmut sofort abschaffen – wenn wir nur wollten",
-      "takeaway": "Unser Sozialstaat und unser Bildungssystem versagen im Umgang mit Kinderarmut. Dabei wäre es gar nicht so schwer, dagegen etwas zu tun.",
-      "topic": "Kinderarmut",
-      "tags": [
-        "Kinderarmut",
-        "Deutschland",
-        "abschaffen",
-        "könnten"
-      ],
-      "sources": [
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/kinderarmut-deutschland-sozialstaat-armut-quote"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/samsung-one-ui-9-5-beta-galaxy-s26-1774222/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "One UI 9.5 Beta: Diese neuen Funktionen bekommt das Galaxy S26",
-      "takeaway": "Nur wenige Wochen nach dem Rollout von One UI 9 schiebt Samsung die erste Beta von One UI 9.5 nach. Diese interessanten Neuerungen können Nutzer:innen bereits testen. weiterlesen auf t3n.de",
-      "topic": "Funktionen",
-      "tags": [
-        "Funktionen",
-        "Galaxy",
-        "Beta",
-        "One"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/samsung-one-ui-9-5-beta-galaxy-s26-1774222/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/unternehmen/handel/galeria-insolvenz-jeder-zweiten-filiale-der-kaufhauskette-droht-schliessung-auch-in-berlin-koeln-und-muenchen-a-3d585bba-d7b1-4101-9119-08844629204f#ref=rss",
-      "headline": "Galeria-Insolvenz: Jeder zweiten Filiale der Kaufhauskette droht Schließung, auch in Berlin, Köln und München",
-      "takeaway": "Die insolvente Warenhauskette schließt weitere Filialen in Berlin, Köln und München. Zahlreiche weitere Häuser dürften folgen. Etwa die Hälfte der Warenhäuser könnte wegfallen.",
-      "topic": "Galeria-Insolvenz",
-      "tags": [
-        "Galeria-Insolvenz",
-        "Kaufhauskette",
-        "Schließung",
-        "Filiale"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/handel/galeria-insolvenz-jeder-zweiten-filiale-der-kaufhauskette-droht-schliessung-auch-in-berlin-koeln-und-muenchen-a-3d585bba-d7b1-4101-9119-08844629204f#ref=rss"
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html"
         }
       ]
     },
     {
       "cat": "ki",
       "src": "thedecoder",
-      "url": "https://the-decoder.de/apple-entwickelt-eigenen-ki-agenten-und-erschwert-der-konkurrenz-den-zugriff-auf-seine-geraete/",
-      "headline": "Apple entwickelt eigenen KI-Agenten und erschwert der Konkurrenz den Zugriff auf seine Geräte",
-      "takeaway": "Nachdem Meta, OpenAI, Anthropic und Google bereits eigene KI-Agenten anbieten, arbeitet nun auch Apple an einem solchen System – und erschwert gleichzeitig der Konkurrenz den Zugriff auf seine …",
-      "topic": "KI-Agenten",
+      "url": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/",
+      "headline": "Inkling 2 Mini: Neues KI-Modell denkt in Schleifen – und läuft trotzdem auf dem Laptop",
+      "takeaway": "Thinking Machines veröffentlicht mit Inkling 2 Mini einen offenen Looped-Transformer, eine Architektur, bei der zwölf von 24 Schichten pro Token dreimal durchlaufen werden, sodass das Modell intern …",
+      "topic": "KI-Modell",
       "tags": [
-        "KI-Agenten",
-        "Konkurrenz",
-        "Zugriff",
-        "Geräte"
+        "KI-Modell",
+        "Schleifen",
+        "Inkling",
+        "Laptop"
       ],
       "sources": [
         {
           "src": "thedecoder",
-          "url": "https://the-decoder.de/apple-entwickelt-eigenen-ki-agenten-und-erschwert-der-konkurrenz-den-zugriff-auf-seine-geraete/"
+          "url": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html",
+      "headline": "Nvidia-Unternehmenskultur: Huang soll Nvidia-Mitarbeiter gezielt gedemütigt haben",
+      "takeaway": "Die New York Times beschreibt jahrelange Tiraden des Ex-CEOs. Nvidia schweigt, Huangs Sprecher widerspricht. ( Nvidia , Wirtschaft )",
+      "topic": "Nvidia-Unternehmenskultur",
+      "tags": [
+        "Nvidia-Unternehmenskultur",
+        "Nvidia-Mitarbeiter",
+        "Huang",
+        "gedemütigt"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/abschiebungen-bundestagsjuristen-sehen-rechtliche-huerden-fuer-abschiebezentren/100271379.html",
+      "headline": "Abschiebungen: Bundestagsjuristen sehen rechtliche Hürden für Abschiebezentren",
+      "takeaway": "Die Bundesregierung könnte für Abschiebungen nach Ruanda die Zustimmung des Parlaments benötigen. In der Koalition formiert sich bereits Widerstand gegen ein geplantes Rückkehrzentrum.",
+      "topic": "Bundestagsjuristen",
+      "tags": [
+        "Bundestagsjuristen",
+        "Abschiebezentren",
+        "Abschiebungen",
+        "Hürden"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/abschiebungen-bundestagsjuristen-sehen-rechtliche-huerden-fuer-abschiebezentren/100271379.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/versicherungen-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271731.html",
+      "headline": "Versicherungen: Pflegekassen warnen vor erneuten Finanzrisiken Anfang 2027",
+      "takeaway": "Die Pflegeversicherung steckt wegen immer höherer Ausgaben in Nöten. Die Koalition will sie fürs neue Jahr absichern – die Gesetzespläne liegen jetzt wohl im Parlament.",
+      "topic": "Versicherungen",
+      "tags": [
+        "Versicherungen",
+        "Finanzrisiken",
+        "Pflegekassen",
+        "Anfang"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/versicherungen-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271731.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/strompreise-stromkosten-stromsteuer-netzentgelte-verivox-gxe",
+      "headline": "Stromsteuersenkung: Stromausgaben steigen laut Verivox trotz Stromsteuersenkung",
+      "takeaway": "Wegen der Preiserhöhungen der Versorger müssen Verbraucher laut einer Studie 2027 mit höheren Stromkosten rechnen. Die Stromsteuersenkung hält das demnach nicht auf.",
+      "topic": "Stromsteuersenkung",
+      "tags": [
+        "Stromsteuersenkung",
+        "Stromausgaben",
+        "Verivox",
+        "steigen"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/2026-11/strompreise-stromkosten-stromsteuer-netzentgelte-verivox-gxe"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
+      "headline": "Bilanzierungspraktiken: Nvidia-Aktie fällt um 14 Prozent – US-Börsenaufsicht ermittelt",
+      "takeaway": "Im Fokus stehen nach einem Reuters-Bericht Bilanzierungspraktiken des Chip-Riesen. Donald Trump will derweil immer noch den zurückgetretenen CEO Jensen Huang zurück.",
+      "topic": "Bilanzierungspraktiken",
+      "tags": [
+        "Bilanzierungspraktiken",
+        "US-Börsenaufsicht",
+        "Nvidia-Aktie",
+        "ermittelt"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Boomende-Wirtschaft-kommt-bei-vielen-Spaniern-nicht-an-id31557769.html",
+      "headline": "Frust vor Neuwahl: Boomende Wirtschaft kommt bei vielen Spaniern nicht an",
+      "takeaway": "Spaniens Wirtschaft wächst schneller als alle anderen in Europa und das schon seit mehreren Jahren. Dennoch wächst die Unzufriedenheit in der Bevölkerung. Der Frust über steigende …",
+      "topic": "Wirtschaft",
+      "tags": [
+        "Wirtschaft",
+        "Boomende",
+        "Spaniern",
+        "Neuwahl"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Boomende-Wirtschaft-kommt-bei-vielen-Spaniern-nicht-an-id31557769.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/bose-kabelgebundene-kopfhoerer-test-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Zurück zum Kabel: Wie sich die neuen Bose-Kopfhörer im Alltag schlagen",
+      "takeaway": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen …",
+      "topic": "Bose-Kopfhörer",
+      "tags": [
+        "Bose-Kopfhörer",
+        "Zurück",
+        "Alltag",
+        "Kabel"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/bose-kabelgebundene-kopfhoerer-test-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html",
+      "headline": "(g+) Kubernetes-Integrationstests: Wie Entwickler versteckte Kubernetes-Fehler vor dem ...",
+      "takeaway": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext …",
+      "topic": "Kubernetes-Integrationstests",
+      "tags": [
+        "Kubernetes-Integrationstests",
+        "Kubernetes-Fehler",
+        "Entwickler",
+        "versteckte"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "KI vs. Klimaziele: Warum Rechenzentren zum Problem für das Stromnetz werden",
+      "takeaway": "Der KI-Boom und der damit verbundene Ausbau von Rechenzentren sorgen aufgrund des hohen Strom- und Wasserverbrauchs in den USA zunehmend für Gegenwind. Dank einer neuen Harvard-Studie dürften sich …",
+      "topic": "Rechenzentren",
+      "tags": [
+        "Rechenzentren",
+        "Klimaziele",
+        "Stromnetz",
+        "Problem"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/bytedance-forschende-hinterfragen-aufwendige-ki-trainingsverfahren-und-liefern-eine-schlanke-alternative/",
+      "headline": "Bytedance-Forschende hinterfragen aufwendige KI-Trainingsverfahren und liefern eine schlanke Alternative",
+      "takeaway": "Bytedance und mehrere US-Universitäten stellen mit Axion 1.0 einen KI-Agenten vor, der mit nur drei Trainingsphasen in Benchmarks an kommerzielle Spitzenmodelle von OpenAI und Anthropic heranreicht. …",
+      "topic": "KI-Trainingsverfahren",
+      "tags": [
+        "KI-Trainingsverfahren",
+        "Bytedance-Forschende",
+        "Alternative",
+        "hinterfragen"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/bytedance-forschende-hinterfragen-aufwendige-ki-trainingsverfahren-und-liefern-eine-schlanke-alternative/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "netzpolitik",
+      "url": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/",
+      "headline": "KW 47: Die Woche, in der wir Dich brauchen",
+      "takeaway": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen …",
+      "topic": "Woche",
+      "tags": [
+        "Woche",
+        "Dich",
+        "brauchen"
+      ],
+      "sources": [
+        {
+          "src": "netzpolitik",
+          "url": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Die drei Lehren aus dem größten Börsengang aller Zeiten",
-    "dateLabel": "Folge vom 20.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2247-die-drei-lehren-aus-dem-grossten-borsengang-aller-zeiten",
+    "title": "Podcast-Tipp: Wie sicher sind wir? Realitycheck zu Verteidigung, Rüstung und Sicherheit",
+    "dateLabel": "Folge vom 21.11. · 1 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2250-podcast-tipp-wie-sicher-sind-wir-realitycheck-zu-verteidigung-rustung-und-sicherheit",
     "takeaways": [
-      "Anthropic startet mit einer Rekordbewertung.",
-      "Doch die Börse zieht das nur bedingt mit.",
-      "Und die größte Herausforderung ist nicht der erste Handelstag."
+      "Markus Fasse, Chefreporter beim Handelsblatt, und Nana Brink, Redaktionsleiterin des Tagesspiegel Background „Sicherheit und Verteidigung“, gehen jede Woche den Fragen nach: Was kann die Bundeswehr, w",
+      "Und was wird hinter den Kulissen besprochen?",
+      "Markus Fasse kennt den Markt und die Rüstungsindustrie, Nana Brink den politischen Betrieb in Berlin."
     ]
   }
 }
