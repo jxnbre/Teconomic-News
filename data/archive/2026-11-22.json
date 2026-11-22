@@ -1,0 +1,341 @@
+{
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T12:02:07.141756+01:00",
+  "updatedAtLabel": "22.11.2026, 12:02 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
+      "headline": "Klimakonferenz: Carsten Schneider hält Einigung bei Klimagipfel für unwahrscheinlich",
+      "takeaway": "Der Umweltminister hält den Entwurf für den Klimagipfel für nicht zustimmungsfähig. Nach mehr als 40 Stunden Verlängerung wächst seine Skepsis, ob noch eine Einigung gelingt.",
+      "topic": "Klimakonferenz",
+      "tags": [
+        "Klimakonferenz",
+        "Klimagipfel",
+        "Schneider",
+        "Einigung"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/klimagipfel-cop31-umweltminister-haelt-einigung-fuer-unwahrscheinlich/100271646.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Reiche-will-Autobahntankstellen-von-Preisdeckel-ausnehmen-id31561962.html",
+      "headline": "\"Haben höhere Betriebskosten\": Reiche will Autobahntankstellen von Preisdeckel ausnehmen",
+      "takeaway": "An Tankstellen, die an Autobahnen stehen soll der geplante Spritpreisdeckel nicht gelten - wenn es nach Wirtschaftsministerin Katherina Reiche geht. Der geplante bundesweite Preisdeckel wäre laut …",
+      "topic": "Autobahntankstellen",
+      "tags": [
+        "Autobahntankstellen",
+        "Betriebskosten",
+        "Preisdeckel",
+        "Reiche"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Reiche-will-Autobahntankstellen-von-Preisdeckel-ausnehmen-id31561962.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/teures-tanken-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen/100271845.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/paolo-bulgari-schmuckunternehmer-tod-edelsteine",
+      "headline": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
+      "takeaway": "Er galt als einer der weltweit führenden Experten für Edelsteine und prägte den Stil des Hauses Bulgari über Jahrzehnte. Mit 89 ist Paolo Bulgari gestorben.",
+      "topic": "Schmuckunternehmer",
+      "tags": [
+        "Schmuckunternehmer",
+        "Bulgari",
+        "Paolo",
+        "tot"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/paolo-bulgari-schmuckunternehmer-tod-edelsteine"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/handel/lvmh-schmuckunternehmer-paolo-bulgari-gestorben-a-b5af9eb0-c9ed-4d27-a757-1a9aa40c7909#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
+      "headline": "Tatjana Kim: Chefin von russischem Onlinehändler Wildberries tritt zurück",
+      "takeaway": "Die Sanktionen der EU gegen die russische Unternehmerin Tatjana Kim zeigen Wirkung. Die Gründerin des »russischen Amazon« räumt ihren Führungsposten.",
+      "topic": "Onlinehändler",
+      "tags": [
+        "Onlinehändler",
+        "Wildberries",
+        "Tatjana",
+        "Chefin"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-cd81852b-37ab-4193-a237-41b775e93248#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "headline": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "takeaway": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die …",
+      "topic": "Freihandelsabkommen",
+      "tags": [
+        "Freihandelsabkommen",
+        "Indonesien",
+        "unterzeichnen"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "headline": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "takeaway": "This would make the second recent intrusion into the FBI system.",
+      "topic": "Trump",
+      "tags": [
+        "Trump",
+        "FBI",
+        "positive",
+        "database"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html",
+      "headline": "E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm",
+      "takeaway": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
+      "topic": "Hugendubel-Homepage",
+      "tags": [
+        "Hugendubel-Homepage",
+        "Hackerangriff",
+        "Tolino-Cloud",
+        "E-Books"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html",
+      "headline": "UN-Verhandlungen: Nur Minimalkompromiss gegen Killerroboter erreicht",
+      "takeaway": "In Genf einigten sich mehr als 120 Staaten im Hinblick auf sogenannte Killerroboter nur auf weitere unverbindliche Beratungen. ( Militär , Roboter )",
+      "topic": "Minimalkompromiss",
+      "tags": [
+        "Minimalkompromiss",
+        "UN-Verhandlungen",
+        "Killerroboter",
+        "erreicht"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-pleiteshow-in-antalya-dem-klimaschutz-bleibt-eine-grosse-hoffnung/100271825.html",
+      "headline": "Kommentar: Pleiteshow in Antalya – doch dem Klimaschutz bleibt eine große Hoffnung",
+      "takeaway": "Die Bremskraft der Ölstaaten trifft auf eine überforderte Präsidentschaft, die Klimakonferenz droht zu scheitern. Jetzt hilft nur noch pure ökonomische Vernunft.",
+      "topic": "Klimaschutz",
+      "tags": [
+        "Klimaschutz",
+        "Pleiteshow",
+        "Kommentar",
+        "Hoffnung"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-pleiteshow-in-antalya-dem-klimaschutz-bleibt-eine-grosse-hoffnung/100271825.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-so-hoch-ist-der-steuervorteil-beim-altersvorsorgedepot-wirklich/100268247.html",
+      "headline": "Geldanlage: Nachgerechnet: So hoch ist der Steuervorteil beim Altersvorsorgedepot wirklich",
+      "takeaway": "Das neue staatlich geförderte Depot soll die Rente der Deutschen aufbessern. Doch ist es steuerlich günstiger als ein normales Depot? Exklusive Berechnungen zeigen, wer am Ende mehr behält.",
+      "topic": "Altersvorsorgedepot",
+      "tags": [
+        "Altersvorsorgedepot",
+        "Nachgerechnet",
+        "Steuervorteil",
+        "Geldanlage"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-so-hoch-ist-der-steuervorteil-beim-altersvorsorgedepot-wirklich/100268247.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/",
+      "headline": "Sicherheitsforscher schicken zwei Millionen KI-Anfragen mit gefälschten Zugangsdaten und decken gravierende Lücken auf",
+      "takeaway": "Sicherheitsforscher von Dragos haben mit zwei Millionen gefälschten KI-Anfragen gravierende Schwachstellen in der KI-Lieferkette aufgedeckt: mindestens drei kompromittierte Anbieter, Hunderte …",
+      "topic": "Sicherheitsforscher",
+      "tags": [
+        "Sicherheitsforscher",
+        "Zugangsdaten",
+        "KI-Anfragen",
+        "Lücken"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "headline": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "takeaway": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+      "topic": "Scientists",
+      "tags": [
+        "Scientists",
+        "Wouldn",
+        "Tried",
+        "Kill"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/fritzbox-als-nas-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Statt teurem NAS: So nutzt du deine Fritzbox als Netzwerkspeicher",
+      "takeaway": "Wer eine Fritzbox besitzt, kann sie nicht nur für die Verbindung zum Internet nutzen. Der Router lässt sich in den meisten Fällen auch einfach parallel als Netzwerkspeicher betreiben. Wie das geht …",
+      "topic": "Netzwerkspeicher",
+      "tags": [
+        "Netzwerkspeicher",
+        "Fritzbox",
+        "Statt",
+        "NAS"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/fritzbox-als-nas-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "GL.iNet: Schwachstelle entdeckt, Patch verfügbar",
+      "takeaway": "Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.",
+      "topic": "Schwachstelle",
+      "tags": [
+        "Schwachstelle",
+        "Patch",
+        "verfügbar",
+        "entdeckt"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "headline": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "takeaway": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+      "topic": "Worsen",
+      "tags": [
+        "Worsen",
+        "Global",
+        "Hunger",
+        "Super"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Podcast-Tipp: Wie sicher sind wir? Realitycheck zu Verteidigung, Rüstung und Sicherheit",
+    "dateLabel": "Folge vom 21.11. · 1 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2250-podcast-tipp-wie-sicher-sind-wir-realitycheck-zu-verteidigung-rustung-und-sicherheit",
+    "takeaways": [
+      "Markus Fasse, Chefreporter beim Handelsblatt, und Nana Brink, Redaktionsleiterin des Tagesspiegel Background „Sicherheit und Verteidigung“, gehen jede Woche den Fragen nach: Was kann die Bundeswehr, w",
+      "Und was wird hinter den Kulissen besprochen?",
+      "Markus Fasse kennt den Markt und die Rüstungsindustrie, Nana Brink den politischen Betrieb in Berlin."
+    ]
+  }
+}

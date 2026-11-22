@@ -1,317 +1,329 @@
 {
-  "date": "2026-11-21",
-  "updatedAt": "2026-11-21T10:35:27.687834+01:00",
-  "updatedAtLabel": "21.11.2026, 10:35 Uhr",
+  "date": "2026-11-22",
+  "updatedAt": "2026-11-22T12:02:07.141756+01:00",
+  "updatedAtLabel": "22.11.2026, 12:02 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
-      "headline": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
-      "takeaway": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details …",
-      "topic": "US-Börsenaufsicht",
-      "tags": [
-        "US-Börsenaufsicht",
-        "Chip-Riesen",
-        "Nvidia",
-        "ermittelt"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-sec-ermittlungen-untersuchung-berichte"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-us-boersenaufsicht-ermittelt-2-7-billionen-dollar-boersenwert-verbrannt-a-c34d5ac8-df77-44a6-bb3c-e4b8cace062c#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
-      "headline": "Altersvorsorgedepot: Staatliches Depot für Zusatzrente verzögert sich wohl",
-      "takeaway": "Ab 1. Januar gibt es Geld vom Staat für ein Altersvorsorgedepot. Ein öffentlich organisiertes Fondsangebot soll das Herzstück der Reform werden. Aber Sparer müssen laut einem Medienbericht noch …",
-      "topic": "Altersvorsorgedepot",
-      "tags": [
-        "Altersvorsorgedepot",
-        "Staatliches",
-        "Zusatzrente",
-        "Depot"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss"
-        },
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/aktienrente-staatliches-depot-fuer-zusatzrente-noch-nicht-startklar/100271724.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
       "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
-      "headline": "Schneller Schlau: Bier auf dem Rückzug",
-      "takeaway": "1980 trank jeder Deutsche im Schnitt eine Badewanne voller Bier, mittlerweile ist es beinahe nur noch halb so viel. In der Rangliste der größten Braukonzerne spielen deutsche kaum noch eine Rolle.",
-      "topic": "Schneller",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
+      "headline": "Klimakonferenz: Carsten Schneider hält Einigung bei Klimagipfel für unwahrscheinlich",
+      "takeaway": "Der Umweltminister hält den Entwurf für den Klimagipfel für nicht zustimmungsfähig. Nach mehr als 40 Stunden Verlängerung wächst seine Skepsis, ob noch eine Einigung gelingt.",
+      "topic": "Klimakonferenz",
       "tags": [
-        "Schneller",
-        "Rückzug",
-        "Schlau",
-        "Bier"
+        "Klimakonferenz",
+        "Klimagipfel",
+        "Schneider",
+        "Einigung"
       ],
       "sources": [
         {
           "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/",
-      "headline": "Inkling 2 Mini: Neues KI-Modell denkt in Schleifen – und läuft trotzdem auf dem Laptop",
-      "takeaway": "Thinking Machines veröffentlicht mit Inkling 2 Mini einen offenen Looped-Transformer, eine Architektur, bei der zwölf von 24 Schichten pro Token dreimal durchlaufen werden, sodass das Modell intern …",
-      "topic": "KI-Modell",
-      "tags": [
-        "KI-Modell",
-        "Schleifen",
-        "Inkling",
-        "Laptop"
-      ],
-      "sources": [
+          "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html"
+        },
         {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html",
-      "headline": "Nvidia-Unternehmenskultur: Huang soll Nvidia-Mitarbeiter gezielt gedemütigt haben",
-      "takeaway": "Die New York Times beschreibt jahrelange Tiraden des Ex-CEOs. Nvidia schweigt, Huangs Sprecher widerspricht. ( Nvidia , Wirtschaft )",
-      "topic": "Nvidia-Unternehmenskultur",
-      "tags": [
-        "Nvidia-Unternehmenskultur",
-        "Nvidia-Mitarbeiter",
-        "Huang",
-        "gedemütigt"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/abschiebungen-bundestagsjuristen-sehen-rechtliche-huerden-fuer-abschiebezentren/100271379.html",
-      "headline": "Abschiebungen: Bundestagsjuristen sehen rechtliche Hürden für Abschiebezentren",
-      "takeaway": "Die Bundesregierung könnte für Abschiebungen nach Ruanda die Zustimmung des Parlaments benötigen. In der Koalition formiert sich bereits Widerstand gegen ein geplantes Rückkehrzentrum.",
-      "topic": "Bundestagsjuristen",
-      "tags": [
-        "Bundestagsjuristen",
-        "Abschiebezentren",
-        "Abschiebungen",
-        "Hürden"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/abschiebungen-bundestagsjuristen-sehen-rechtliche-huerden-fuer-abschiebezentren/100271379.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/politik/deutschland/versicherungen-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271731.html",
-      "headline": "Versicherungen: Pflegekassen warnen vor erneuten Finanzrisiken Anfang 2027",
-      "takeaway": "Die Pflegeversicherung steckt wegen immer höherer Ausgaben in Nöten. Die Koalition will sie fürs neue Jahr absichern – die Gesetzespläne liegen jetzt wohl im Parlament.",
-      "topic": "Versicherungen",
-      "tags": [
-        "Versicherungen",
-        "Finanzrisiken",
-        "Pflegekassen",
-        "Anfang"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/politik/deutschland/versicherungen-pflegekassen-warnen-vor-erneuten-finanzrisiken-anfang-2027/100271731.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/strompreise-stromkosten-stromsteuer-netzentgelte-verivox-gxe",
-      "headline": "Stromsteuersenkung: Stromausgaben steigen laut Verivox trotz Stromsteuersenkung",
-      "takeaway": "Wegen der Preiserhöhungen der Versorger müssen Verbraucher laut einer Studie 2027 mit höheren Stromkosten rechnen. Die Stromsteuersenkung hält das demnach nicht auf.",
-      "topic": "Stromsteuersenkung",
-      "tags": [
-        "Stromsteuersenkung",
-        "Stromausgaben",
-        "Verivox",
-        "steigen"
-      ],
-      "sources": [
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/2026-11/strompreise-stromkosten-stromsteuer-netzentgelte-verivox-gxe"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
-      "headline": "Bilanzierungspraktiken: Nvidia-Aktie fällt um 14 Prozent – US-Börsenaufsicht ermittelt",
-      "takeaway": "Im Fokus stehen nach einem Reuters-Bericht Bilanzierungspraktiken des Chip-Riesen. Donald Trump will derweil immer noch den zurückgetretenen CEO Jensen Huang zurück.",
-      "topic": "Bilanzierungspraktiken",
-      "tags": [
-        "Bilanzierungspraktiken",
-        "US-Börsenaufsicht",
-        "Nvidia-Aktie",
-        "ermittelt"
-      ],
-      "sources": [
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html"
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/ausland/klimagipfel-cop31-umweltminister-haelt-einigung-fuer-unwahrscheinlich/100271646.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Boomende-Wirtschaft-kommt-bei-vielen-Spaniern-nicht-an-id31557769.html",
-      "headline": "Frust vor Neuwahl: Boomende Wirtschaft kommt bei vielen Spaniern nicht an",
-      "takeaway": "Spaniens Wirtschaft wächst schneller als alle anderen in Europa und das schon seit mehreren Jahren. Dennoch wächst die Unzufriedenheit in der Bevölkerung. Der Frust über steigende …",
-      "topic": "Wirtschaft",
+      "url": "https://www.n-tv.de/wirtschaft/Reiche-will-Autobahntankstellen-von-Preisdeckel-ausnehmen-id31561962.html",
+      "headline": "\"Haben höhere Betriebskosten\": Reiche will Autobahntankstellen von Preisdeckel ausnehmen",
+      "takeaway": "An Tankstellen, die an Autobahnen stehen soll der geplante Spritpreisdeckel nicht gelten - wenn es nach Wirtschaftsministerin Katherina Reiche geht. Der geplante bundesweite Preisdeckel wäre laut …",
+      "topic": "Autobahntankstellen",
       "tags": [
-        "Wirtschaft",
-        "Boomende",
-        "Spaniern",
-        "Neuwahl"
+        "Autobahntankstellen",
+        "Betriebskosten",
+        "Preisdeckel",
+        "Reiche"
       ],
       "sources": [
         {
           "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Boomende-Wirtschaft-kommt-bei-vielen-Spaniern-nicht-an-id31557769.html"
+          "url": "https://www.n-tv.de/wirtschaft/Reiche-will-Autobahntankstellen-von-Preisdeckel-ausnehmen-id31561962.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/teures-tanken-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen/100271845.html"
         }
       ]
     },
     {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/bose-kabelgebundene-kopfhoerer-test-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Zurück zum Kabel: Wie sich die neuen Bose-Kopfhörer im Alltag schlagen",
-      "takeaway": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen …",
-      "topic": "Bose-Kopfhörer",
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/paolo-bulgari-schmuckunternehmer-tod-edelsteine",
+      "headline": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
+      "takeaway": "Er galt als einer der weltweit führenden Experten für Edelsteine und prägte den Stil des Hauses Bulgari über Jahrzehnte. Mit 89 ist Paolo Bulgari gestorben.",
+      "topic": "Schmuckunternehmer",
       "tags": [
-        "Bose-Kopfhörer",
-        "Zurück",
-        "Alltag",
-        "Kabel"
+        "Schmuckunternehmer",
+        "Bulgari",
+        "Paolo",
+        "tot"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/bose-kabelgebundene-kopfhoerer-test-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "zeit",
+          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/paolo-bulgari-schmuckunternehmer-tod-edelsteine"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/handel/lvmh-schmuckunternehmer-paolo-bulgari-gestorben-a-b5af9eb0-c9ed-4d27-a757-1a9aa40c7909#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
+      "headline": "Tatjana Kim: Chefin von russischem Onlinehändler Wildberries tritt zurück",
+      "takeaway": "Die Sanktionen der EU gegen die russische Unternehmerin Tatjana Kim zeigen Wirkung. Die Gründerin des »russischen Amazon« räumt ihren Führungsposten.",
+      "topic": "Onlinehändler",
+      "tags": [
+        "Onlinehändler",
+        "Wildberries",
+        "Tatjana",
+        "Chefin"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-cd81852b-37ab-4193-a237-41b775e93248#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "headline": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "takeaway": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die …",
+      "topic": "Freihandelsabkommen",
+      "tags": [
+        "Freihandelsabkommen",
+        "Indonesien",
+        "unterzeichnen"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html"
+        },
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+      "headline": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "takeaway": "This would make the second recent intrusion into the FBI system.",
+      "topic": "Trump",
+      "tags": [
+        "Trump",
+        "FBI",
+        "positive",
+        "database"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
+        },
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html",
-      "headline": "(g+) Kubernetes-Integrationstests: Wie Entwickler versteckte Kubernetes-Fehler vor dem ...",
-      "takeaway": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext …",
-      "topic": "Kubernetes-Integrationstests",
+      "url": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html",
+      "headline": "E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm",
+      "takeaway": "Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. ( Cybercrime , Mobil )",
+      "topic": "Hugendubel-Homepage",
       "tags": [
-        "Kubernetes-Integrationstests",
-        "Kubernetes-Fehler",
-        "Entwickler",
-        "versteckte"
+        "Hugendubel-Homepage",
+        "Hackerangriff",
+        "Tolino-Cloud",
+        "E-Books"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html"
+          "url": "https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "KI vs. Klimaziele: Warum Rechenzentren zum Problem für das Stromnetz werden",
-      "takeaway": "Der KI-Boom und der damit verbundene Ausbau von Rechenzentren sorgen aufgrund des hohen Strom- und Wasserverbrauchs in den USA zunehmend für Gegenwind. Dank einer neuen Harvard-Studie dürften sich …",
-      "topic": "Rechenzentren",
+      "src": "golem",
+      "url": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html",
+      "headline": "UN-Verhandlungen: Nur Minimalkompromiss gegen Killerroboter erreicht",
+      "takeaway": "In Genf einigten sich mehr als 120 Staaten im Hinblick auf sogenannte Killerroboter nur auf weitere unverbindliche Beratungen. ( Militär , Roboter )",
+      "topic": "Minimalkompromiss",
       "tags": [
-        "Rechenzentren",
-        "Klimaziele",
-        "Stromnetz",
-        "Problem"
+        "Minimalkompromiss",
+        "UN-Verhandlungen",
+        "Killerroboter",
+        "erreicht"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/rechenzentren-stromverbrauch-harvard-studie-1773938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "golem",
+          "url": "https://www.golem.de/news/un-verhandlungen-nur-minimalkompromiss-gegen-killerroboter-erreicht-2611-215507.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-pleiteshow-in-antalya-dem-klimaschutz-bleibt-eine-grosse-hoffnung/100271825.html",
+      "headline": "Kommentar: Pleiteshow in Antalya – doch dem Klimaschutz bleibt eine große Hoffnung",
+      "takeaway": "Die Bremskraft der Ölstaaten trifft auf eine überforderte Präsidentschaft, die Klimakonferenz droht zu scheitern. Jetzt hilft nur noch pure ökonomische Vernunft.",
+      "topic": "Klimaschutz",
+      "tags": [
+        "Klimaschutz",
+        "Pleiteshow",
+        "Kommentar",
+        "Hoffnung"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-pleiteshow-in-antalya-dem-klimaschutz-bleibt-eine-grosse-hoffnung/100271825.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-so-hoch-ist-der-steuervorteil-beim-altersvorsorgedepot-wirklich/100268247.html",
+      "headline": "Geldanlage: Nachgerechnet: So hoch ist der Steuervorteil beim Altersvorsorgedepot wirklich",
+      "takeaway": "Das neue staatlich geförderte Depot soll die Rente der Deutschen aufbessern. Doch ist es steuerlich günstiger als ein normales Depot? Exklusive Berechnungen zeigen, wer am Ende mehr behält.",
+      "topic": "Altersvorsorgedepot",
+      "tags": [
+        "Altersvorsorgedepot",
+        "Nachgerechnet",
+        "Steuervorteil",
+        "Geldanlage"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/steuern-recht/steuern/geldanlage-so-hoch-ist-der-steuervorteil-beim-altersvorsorgedepot-wirklich/100268247.html"
         }
       ]
     },
     {
       "cat": "ki",
       "src": "thedecoder",
-      "url": "https://the-decoder.de/bytedance-forschende-hinterfragen-aufwendige-ki-trainingsverfahren-und-liefern-eine-schlanke-alternative/",
-      "headline": "Bytedance-Forschende hinterfragen aufwendige KI-Trainingsverfahren und liefern eine schlanke Alternative",
-      "takeaway": "Bytedance und mehrere US-Universitäten stellen mit Axion 1.0 einen KI-Agenten vor, der mit nur drei Trainingsphasen in Benchmarks an kommerzielle Spitzenmodelle von OpenAI und Anthropic heranreicht. …",
-      "topic": "KI-Trainingsverfahren",
+      "url": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/",
+      "headline": "Sicherheitsforscher schicken zwei Millionen KI-Anfragen mit gefälschten Zugangsdaten und decken gravierende Lücken auf",
+      "takeaway": "Sicherheitsforscher von Dragos haben mit zwei Millionen gefälschten KI-Anfragen gravierende Schwachstellen in der KI-Lieferkette aufgedeckt: mindestens drei kompromittierte Anbieter, Hunderte …",
+      "topic": "Sicherheitsforscher",
       "tags": [
-        "KI-Trainingsverfahren",
-        "Bytedance-Forschende",
-        "Alternative",
-        "hinterfragen"
+        "Sicherheitsforscher",
+        "Zugangsdaten",
+        "KI-Anfragen",
+        "Lücken"
       ],
       "sources": [
         {
           "src": "thedecoder",
-          "url": "https://the-decoder.de/bytedance-forschende-hinterfragen-aufwendige-ki-trainingsverfahren-und-liefern-eine-schlanke-alternative/"
+          "url": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "netzpolitik",
-      "url": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/",
-      "headline": "KW 47: Die Woche, in der wir Dich brauchen",
-      "takeaway": "– : Fraktal, generiert mit MandelBrowser von Tomasz Śmigielski Die 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen …",
-      "topic": "Woche",
+      "src": "wired",
+      "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+      "headline": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+      "takeaway": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+      "topic": "Scientists",
       "tags": [
-        "Woche",
-        "Dich",
-        "brauchen"
+        "Scientists",
+        "Wouldn",
+        "Tried",
+        "Kill"
       ],
       "sources": [
         {
-          "src": "netzpolitik",
-          "url": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/"
+          "src": "wired",
+          "url": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/fritzbox-als-nas-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Statt teurem NAS: So nutzt du deine Fritzbox als Netzwerkspeicher",
+      "takeaway": "Wer eine Fritzbox besitzt, kann sie nicht nur für die Verbindung zum Internet nutzen. Der Router lässt sich in den meisten Fällen auch einfach parallel als Netzwerkspeicher betreiben. Wie das geht …",
+      "topic": "Netzwerkspeicher",
+      "tags": [
+        "Netzwerkspeicher",
+        "Fritzbox",
+        "Statt",
+        "NAS"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/fritzbox-als-nas-netzwerkspeicher-einrichten-1773972/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "GL.iNet: Schwachstelle entdeckt, Patch verfügbar",
+      "takeaway": "Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.",
+      "topic": "Schwachstelle",
+      "tags": [
+        "Schwachstelle",
+        "Patch",
+        "verfügbar",
+        "entdeckt"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "headline": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "takeaway": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+      "topic": "Worsen",
+      "tags": [
+        "Worsen",
+        "Global",
+        "Hunger",
+        "Super"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/"
         }
       ]
     }
