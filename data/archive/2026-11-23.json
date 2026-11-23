@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-23",
+  "updatedAt": "2026-11-23T09:53:17.842482+01:00",
+  "updatedAtLabel": "23.11.2026, 09:53 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
+      "headline": "Nvidia: Offenbar Verbindungen zwischen Alice Huang und Chinas Chip-Unterwelt",
+      "takeaway": "Die frühere Geliebte von Ex-Nvidia-Chef Jensen Huang soll laut »Financial Times« Verbindungen zu Firmen gehabt haben, die Computerchips des Konzerns illegal in China verkauft haben. Das könnte Licht …",
+      "topic": "Chip-Unterwelt",
+      "tags": [
+        "Chip-Unterwelt",
+        "Verbindungen",
+        "Offenbar",
+        "Nvidia"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-alice-huang-hatte-laut-new-york-times-kontakt-zu-chinas-geheimdienst-a-20910adc-ee63-4aa5-bce8-8cb0ced3f736#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
+      "headline": "Verschärfung der Regeln für Altersteilzeit könnte Milliarden einbringen",
+      "takeaway": "Die Rentenkommission der Bundesregierung spricht sich für strengere Regelungen bei der Altersteilzeit aus. Experten des DIW haben jetzt ausgerechnet, was ein solcher Schritt für Staats- und …",
+      "topic": "Altersteilzeit",
+      "tags": [
+        "Altersteilzeit",
+        "Verschärfung",
+        "Regeln",
+        "einbringen"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/deutschland/studie-verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-bb78ca70-6d41-4064-9631-397e83c40bd3#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+      "headline": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+      "takeaway": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In …",
+      "topic": "Switch",
+      "tags": [
+        "Switch",
+        "Friday",
+        "Black",
+        "Some"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
+        },
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/karriere/karriere-wie-top-performer-nach-langer-arbeitslosigkeit-wieder-fuss-fassen/100228751.html",
+      "headline": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
+      "takeaway": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt.",
+      "topic": "Hochqualifiziert",
+      "tags": [
+        "Hochqualifiziert",
+        "Führungskräfte",
+        "Betroffene",
+        "Vier"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/karriere/karriere-wie-top-performer-nach-langer-arbeitslosigkeit-wieder-fuss-fassen/100228751.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/mailaender-bauskandal-korruptionsvorwuerfe-gegen-giuseppe-sala-fallen-accg-201681665.html",
+      "headline": "Vorwürfe der kungelei: Mailänder Bauskandal fällt in sich zusammen",
+      "takeaway": "Staatsanwälte, die im vergangenen Jahr Amtsträger und Wirtschaftsvertreter in Haft oder Hausarrest brachten, lenken ein: Vorwürfe der Korruption waren haltlos. Andere Ermittlungen gehen weiter.",
+      "topic": "Bauskandal",
+      "tags": [
+        "Bauskandal",
+        "Mailänder",
+        "Vorwürfe",
+        "kungelei"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/mailaender-bauskandal-korruptionsvorwuerfe-gegen-giuseppe-sala-fallen-accg-201681665.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-so-finden-sie-ein-passendes-land-zum-auswandern-im-alter/100168299.html",
+      "headline": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
+      "takeaway": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl.",
+      "topic": "Rentnerparadies",
+      "tags": [
+        "Rentnerparadies",
+        "Ausland",
+        "Dieses",
+        "Rente"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-so-finden-sie-ein-passendes-land-zum-auswandern-im-alter/100168299.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ki-sorgen-setzen-asiens-boersen-weiter-unter-druck/100271925.html",
+      "headline": "Aktienmärkte: Dax eröffnet mit „Erholung auf Bewährung“",
+      "takeaway": "Nach sechs Verlusttagen in Folge wagt der Dax eine Gegenbewegung. Doch angesichts der anhaltenden Tech-Schwäche und der Zinssorgen bleibt die Erholung vorerst auf Bewährung.",
+      "topic": "Aktienmärkte",
+      "tags": [
+        "Aktienmärkte",
+        "Bewährung",
+        "Erholung",
+        "Dax"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ki-sorgen-setzen-asiens-boersen-weiter-unter-druck/100271925.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-mr-bean-bis-zum-christkindl-fuenf-koepfe-auf-die-sie-diese-woche-achten-sollten-accg-201703963.html",
+      "headline": "Von Mr. Bean bis zum Christkindl: Fünf Köpfe, auf die Sie diese Woche achten sollten",
+      "takeaway": "Von Rowan Atkinson alias Mr. Bean bis zum Nürnberger Christkindl. Wer von Montag bis Sonntag eine Rolle spielt – und warum.",
+      "topic": "Christkindl",
+      "tags": [
+        "Christkindl",
+        "Köpfe",
+        "Woche",
+        "Bean"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-mr-bean-bis-zum-christkindl-fuenf-koepfe-auf-die-sie-diese-woche-achten-sollten-accg-201703963.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+      "headline": "Pip assessments need 'fundamental overhaul', report to say",
+      "takeaway": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "topic": "Pip",
+      "tags": [
+        "Pip",
+        "assessments",
+        "fundamental",
+        "overhaul"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Warnung vor Angriffen auf Cisco Expressway und SAP NetWeaver",
+      "takeaway": "Bösartige Akteure haben es auf Sicherheitslücken unter anderem in Cisco Expressway und SAP NetWeaver abgesehen.",
+      "topic": "Expressway",
+      "tags": [
+        "Expressway",
+        "Angriffen",
+        "NetWeaver",
+        "Warnung"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/warnung-der-geheimdienste-russland-soll-atomsprengkopf-noch-2026-ins-all-bringen-2611-215519.html",
+      "headline": "Warnung der Geheimdienste: Russland soll Atomsprengkopf noch 2026 ins All bringen",
+      "takeaway": "Der Satellit Sputnik-S soll fertig gebaut sein. Ein Start gilt laut Bundeswehr noch im Dezember als möglich. ( Militär , Politik )",
+      "topic": "Atomsprengkopf",
+      "tags": [
+        "Atomsprengkopf",
+        "Geheimdienste",
+        "Russland",
+        "Warnung"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/warnung-der-geheimdienste-russland-soll-atomsprengkopf-noch-2026-ins-all-bringen-2611-215519.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/hybrid-arbeiten-monitor-docking-zubehoer-1772910/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "USB-C ist nicht gleich USB-C: Worauf es beim Setup für Büro und unterwegs ankommt",
+      "takeaway": "Beim hybriden Arbeiten reist das Notebook mit. So wählst du Monitor, Docking und Zubehör für den Schreibtisch und prüfst vorab, was du unterwegs brauchst. weiterlesen auf t3n.de",
+      "topic": "Worauf",
+      "tags": [
+        "Worauf",
+        "USB-C",
+        "Setup",
+        "Büro"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/hybrid-arbeiten-monitor-docking-zubehoer-1772910/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/heiliger-gral-der-mathematik-anthropic-mitarbeiter-will-mit-claude-die-riemannsche-vermutung-bewiesen-haben-1774754/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Heiliger Gral der Mathematik: Anthropic-Mitarbeiter will mit Claude die Riemannsche Vermutung bewiesen haben",
+      "takeaway": "Der „Heilige Gral“ der Mathematik könnte gefunden sein. Das Problem: Der Beweis wäre für Menschen mehr als 250.000 Seiten lang – und selbst ihr Urheber versteht ihn noch nicht ganz. weiterlesen auf …",
+      "topic": "Anthropic-Mitarbeiter",
+      "tags": [
+        "Anthropic-Mitarbeiter",
+        "Riemannsche",
+        "Mathematik",
+        "Vermutung"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/heiliger-gral-der-mathematik-anthropic-mitarbeiter-will-mit-claude-die-riemannsche-vermutung-bewiesen-haben-1774754/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/cleverbridge-angreifer-stehlen-bezahlkartendaten-inklusive-sicherheitscodes-2611-215517.html",
+      "headline": "Cleverbridge: Angreifer stehlen Bezahlkartendaten inklusive Sicherheitscodes",
+      "takeaway": "Zahlreiche namhafte Unternehmen wickeln ihre Verkäufe über die E-Commerce-Plattform Cleverbridge ab. Dort sind nun Bezahlkartendaten abgeflossen. ( Cybercrime , Cyberwar )",
+      "topic": "Bezahlkartendaten",
+      "tags": [
+        "Bezahlkartendaten",
+        "Sicherheitscodes",
+        "Cleverbridge",
+        "Angreifer"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/cleverbridge-angreifer-stehlen-bezahlkartendaten-inklusive-sicherheitscodes-2611-215517.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Triebwerksschub zu kurz: BepiColombo erreicht Orbit um den Merkur",
+      "takeaway": "Die Merkursonde BepiColombo hat ihr Forschungsziel erreicht, die Triebwerke feuerten aber zu kurz. Analysen laufen, erklärte die europäische Weltraumagentur.",
+      "topic": "Triebwerksschub",
+      "tags": [
+        "Triebwerksschub",
+        "BepiColombo",
+        "Merkur",
+        "Orbit"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Der Panik-Index an der Börse steht auf neun von zehn",
+    "dateLabel": "Folge vom 23.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2248-der-panik-index-an-der-borse-steht-auf-neun-von-zehn",
+    "takeaways": [
+      "Nach dem schwarzen Freitag für Tech-Aktien spricht an den Märkten nur wenig für Besserung.",
+      "Das liegt an der KI‑Delle – und einer verlockenden Alternative für viele Anleger.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
