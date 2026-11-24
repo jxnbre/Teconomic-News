@@ -1,330 +1,341 @@
 {
-  "date": "2026-11-23",
-  "updatedAt": "2026-11-23T09:53:17.842482+01:00",
-  "updatedAtLabel": "23.11.2026, 09:53 Uhr",
+  "date": "2026-11-24",
+  "updatedAt": "2026-11-24T18:28:45.474808+01:00",
+  "updatedAtLabel": "24.11.2026, 18:28 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
-      "headline": "Nvidia: Offenbar Verbindungen zwischen Alice Huang und Chinas Chip-Unterwelt",
-      "takeaway": "Die frühere Geliebte von Ex-Nvidia-Chef Jensen Huang soll laut »Financial Times« Verbindungen zu Firmen gehabt haben, die Computerchips des Konzerns illegal in China verkauft haben. Das könnte Licht …",
-      "topic": "Chip-Unterwelt",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+      "headline": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+      "takeaway": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte.",
+      "topic": "Rückkehr",
       "tags": [
-        "Chip-Unterwelt",
-        "Verbindungen",
-        "Offenbar",
-        "Nvidia"
+        "Rückkehr",
+        "Huangs",
+        "Nvidia",
+        "Trump"
       ],
       "sources": [
         {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss"
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-alice-huang-hatte-laut-new-york-times-kontakt-zu-chinas-geheimdienst-a-20910adc-ee63-4aa5-bce8-8cb0ced3f736#ref=rss"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Huangs-Rueckkehr-ist-fuer-Trump-ein-lukratives-Geschaeft-id31570590.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/nvidia-ein-anleger-verdient-mit-huangs-rueckkehr-ueber-150.000-dollar/100272161.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+      "headline": "Nvidia setzt Jensen Huang wieder als Chef ein",
+      "takeaway": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "Jensen",
+        "Huang",
+        "Chef"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html"
+        },
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
-      "headline": "Verschärfung der Regeln für Altersteilzeit könnte Milliarden einbringen",
-      "takeaway": "Die Rentenkommission der Bundesregierung spricht sich für strengere Regelungen bei der Altersteilzeit aus. Experten des DIW haben jetzt ausgerechnet, was ein solcher Schritt für Staats- und …",
-      "topic": "Altersteilzeit",
+      "url": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss",
+      "headline": "Anthropic-Aktie fällt unter Ausgabepreis – auch Nvidia im Minus",
+      "takeaway": "Die Aktienkurse zweier großer KI-Unternehmen sinken. Manche Marktbeobachter sehen darin Gewinnmitnahmen nach dem Hoch zum Wochenstart. Nvidia hatte zwischenzeitlich von der überraschenden Rückkehr …",
+      "topic": "Anthropic-Aktie",
       "tags": [
-        "Altersteilzeit",
-        "Verschärfung",
-        "Regeln",
-        "einbringen"
+        "Anthropic-Aktie",
+        "Ausgabepreis",
+        "Nvidia",
+        "Minus"
       ],
       "sources": [
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Anthropic-Aktie-faellt-unter-den-Ausgabepreis-id31572716.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281#ref=rss",
+      "headline": "BYD: Autohersteller will ehemalige Smart-Fabrik in Lothringen kaufen",
+      "takeaway": "Bislang läuft jeder in Europa verkaufte BYD in chinesischen Werken vom Band. Das soll sich ändern: Der Autohersteller will eine Fabrik in Frankreich kaufen.",
+      "topic": "Autohersteller",
+      "tags": [
+        "Autohersteller",
+        "Smart-Fabrik",
+        "Lothringen",
+        "BYD"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281#ref=rss"
         },
         {
           "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/politik/deutschland/studie-verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-bb78ca70-6d41-4064-9631-397e83c40bd3#ref=rss"
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/byd-chinas-autobauer-will-ehemalige-smart-fabrik-in-frankreich-kaufen-a-ec00d3ab-67c2-4665-a379-6c071ffb960a#ref=rss"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "theverge",
-      "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "headline": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "takeaway": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In …",
-      "topic": "Switch",
+      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+      "headline": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "takeaway": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company …",
+      "topic": "Department",
       "tags": [
-        "Switch",
-        "Friday",
-        "Black",
-        "Some"
+        "Department",
+        "Megaspeed",
+        "Commerce",
+        "Nvidia"
       ],
       "sources": [
         {
           "src": "theverge",
-          "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale"
-        },
+          "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "headline": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "takeaway": "",
+      "topic": "Blanche",
+      "tags": [
+        "Blanche",
+        "Jensen",
+        "Patel",
+        "Huang"
+      ],
+      "sources": [
         {
-          "src": "wired",
-          "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-22-26/"
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/karriere/karriere-wie-top-performer-nach-langer-arbeitslosigkeit-wieder-fuss-fassen/100228751.html",
-      "headline": "Führungskräfte: Hochqualifiziert, erfolgreich, arbeitssuchend – Vier Betroffene berichten",
-      "takeaway": "In der Krise finden auch Menschen, deren Karrieren bislang steil nach oben gingen, keinen Job mehr. Vier Betroffene erzählen, vor welche Herausforderungen sie das stellt.",
-      "topic": "Hochqualifiziert",
+      "url": "https://www.handelsblatt.com/technik/it-internet/weltraum-das-starlink-der-bundeswehr-steht-kurz-vor-der-unterzeichnung/100271531.html",
+      "headline": "Weltraum: Bis zu 15 Milliarden Euro: Das Starlink der Bundeswehr steht kurz vor der Unterzeichnung",
+      "takeaway": "Die Pläne für Deutschlands ambitioniertestes Weltraumprojekt stehen vor der Vollendung. Es wäre technisch weltweit führend, soll aber frühestens 2030 kommen. Eine Zwischenlösung soll helfen.",
+      "topic": "Unterzeichnung",
       "tags": [
-        "Hochqualifiziert",
-        "Führungskräfte",
-        "Betroffene",
-        "Vier"
+        "Unterzeichnung",
+        "Bundeswehr",
+        "Weltraum",
+        "Starlink"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/karriere/karriere-wie-top-performer-nach-langer-arbeitslosigkeit-wieder-fuss-fassen/100228751.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/mailaender-bauskandal-korruptionsvorwuerfe-gegen-giuseppe-sala-fallen-accg-201681665.html",
-      "headline": "Vorwürfe der kungelei: Mailänder Bauskandal fällt in sich zusammen",
-      "takeaway": "Staatsanwälte, die im vergangenen Jahr Amtsträger und Wirtschaftsvertreter in Haft oder Hausarrest brachten, lenken ein: Vorwürfe der Korruption waren haltlos. Andere Ermittlungen gehen weiter.",
-      "topic": "Bauskandal",
-      "tags": [
-        "Bauskandal",
-        "Mailänder",
-        "Vorwürfe",
-        "kungelei"
-      ],
-      "sources": [
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/mailaender-bauskandal-korruptionsvorwuerfe-gegen-giuseppe-sala-fallen-accg-201681665.html"
+          "url": "https://www.handelsblatt.com/technik/it-internet/weltraum-das-starlink-der-bundeswehr-steht-kurz-vor-der-unterzeichnung/100271531.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-so-finden-sie-ein-passendes-land-zum-auswandern-im-alter/100168299.html",
-      "headline": "Rentnerparadies: Rente im Ausland: Dieses Tool zeigt, wohin Sie auswandern sollten",
-      "takeaway": "Den Lebensabend im Ausland verbringen, davon träumen viele. Doch wie finden Sie zum Beispiel heraus, in welchem Land am Meer es sonnig und sicher ist? Das Handelsblatt hilft bei der Auswahl.",
-      "topic": "Rentnerparadies",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-warum-der-dollar-nicht-mehr-als-sicherer-hafen-taugt/100271551.html",
+      "headline": "Märkte Insight: Warum der Dollar nicht mehr als sicherer Hafen taugt",
+      "takeaway": "Der KI-Boom lässt den Dollar aufwerten. Das ist ungewöhnlich für die Devise, die oft in Krisenzeiten gefragt ist – und sollte Investoren zu denken geben, meint Jakob Blume.",
+      "topic": "Insight",
       "tags": [
-        "Rentnerparadies",
-        "Ausland",
-        "Dieses",
-        "Rente"
+        "Insight",
+        "Märkte",
+        "Hafen",
+        "sicherer"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/altersvorsorge-so-finden-sie-ein-passendes-land-zum-auswandern-im-alter/100168299.html"
+          "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-warum-der-dollar-nicht-mehr-als-sicherer-hafen-taugt/100271551.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ki-sorgen-setzen-asiens-boersen-weiter-unter-druck/100271925.html",
-      "headline": "Aktienmärkte: Dax eröffnet mit „Erholung auf Bewährung“",
-      "takeaway": "Nach sechs Verlusttagen in Folge wagt der Dax eine Gegenbewegung. Doch angesichts der anhaltenden Tech-Schwäche und der Zinssorgen bleibt die Erholung vorerst auf Bewährung.",
-      "topic": "Aktienmärkte",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html",
+      "headline": "Standorte, Preise, Sortiment: Worauf sich Kunden von Obi und Toom einstellen müssen",
+      "takeaway": "Obi und Toom schließen sich zusammen. Welche Kunden nun um \"ihren\" Baumarkt bangen müssen, welche Jobs in Gefahr sind und wie sich die Preise entwickeln werden, erklärt Handelsexperte Jörg Funder im …",
+      "topic": "Standorte",
       "tags": [
-        "Aktienmärkte",
-        "Bewährung",
-        "Erholung",
-        "Dax"
+        "Standorte",
+        "Sortiment",
+        "Preise",
+        "Worauf"
       ],
       "sources": [
         {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/finanzen/boerse/aktienmaerkte-ki-sorgen-setzen-asiens-boersen-weiter-unter-druck/100271925.html"
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html"
         }
       ]
     },
     {
-      "cat": "wirtschaft",
-      "src": "faz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-mr-bean-bis-zum-christkindl-fuenf-koepfe-auf-die-sie-diese-woche-achten-sollten-accg-201703963.html",
-      "headline": "Von Mr. Bean bis zum Christkindl: Fünf Köpfe, auf die Sie diese Woche achten sollten",
-      "takeaway": "Von Rowan Atkinson alias Mr. Bean bis zum Nürnberger Christkindl. Wer von Montag bis Sonntag eine Rolle spielt – und warum.",
-      "topic": "Christkindl",
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "headline": "Tidal will start banning AI-generated music next month",
+      "takeaway": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per …",
+      "topic": "AI-generated",
       "tags": [
-        "Christkindl",
-        "Köpfe",
-        "Woche",
-        "Bean"
+        "AI-generated",
+        "Tidal",
+        "banning",
+        "start"
       ],
       "sources": [
         {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-mr-bean-bis-zum-christkindl-fuenf-koepfe-auf-die-sie-diese-woche-achten-sollten-accg-201703963.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-      "headline": "Pip assessments need 'fundamental overhaul', report to say",
-      "takeaway": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-      "topic": "Pip",
-      "tags": [
-        "Pip",
-        "assessments",
-        "fundamental",
-        "overhaul"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss"
+          "src": "theverge",
+          "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "heise",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Warnung vor Angriffen auf Cisco Expressway und SAP NetWeaver",
-      "takeaway": "Bösartige Akteure haben es auf Sicherheitslücken unter anderem in Cisco Expressway und SAP NetWeaver abgesehen.",
-      "topic": "Expressway",
+      "url": "https://www.heise.de/news/NASA-will-Atomkraftwerk-fuer-den-Mond-entwickeln-lassen-11536848.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "NASA will Atomkraftwerk für den Mond entwickeln lassen",
+      "takeaway": "Die NASA lässt ein Atomkraftwerk für den Mond entwickeln. Bis Ende Dezember können Unternehmen Konzepte für den Lunar Reactor-1 einreichen.",
+      "topic": "Atomkraftwerk",
       "tags": [
-        "Expressway",
-        "Angriffen",
-        "NetWeaver",
-        "Warnung"
+        "Atomkraftwerk",
+        "NASA",
+        "Mond",
+        "entwickeln"
       ],
       "sources": [
         {
           "src": "heise",
-          "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "url": "https://www.heise.de/news/NASA-will-Atomkraftwerk-fuer-den-Mond-entwickeln-lassen-11536848.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/warnung-der-geheimdienste-russland-soll-atomsprengkopf-noch-2026-ins-all-bringen-2611-215519.html",
-      "headline": "Warnung der Geheimdienste: Russland soll Atomsprengkopf noch 2026 ins All bringen",
-      "takeaway": "Der Satellit Sputnik-S soll fertig gebaut sein. Ein Start gilt laut Bundeswehr noch im Dezember als möglich. ( Militär , Politik )",
-      "topic": "Atomsprengkopf",
+      "url": "https://www.golem.de/news/nvidia-openai-und-co-spione-nehmen-die-techkonzerne-ins-visier-2611-215596.html",
+      "headline": "(g+) Nvidia, OpenAI und Co.: Spione nehmen die Techkonzerne ins Visier",
+      "takeaway": "Die Financial Times zeigt anhand aktueller Spionagefälle und Gesprächen mit ehemaligen Geheimdienstmitarbeitern, wie verwundbar die Techkonzerne sind. Von Patrick McGee ( Jensen Huang , Mark …",
+      "topic": "Techkonzerne",
       "tags": [
-        "Atomsprengkopf",
-        "Geheimdienste",
-        "Russland",
-        "Warnung"
+        "Techkonzerne",
+        "Nvidia",
+        "OpenAI",
+        "Spione"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/warnung-der-geheimdienste-russland-soll-atomsprengkopf-noch-2026-ins-all-bringen-2611-215519.html"
+          "url": "https://www.golem.de/news/nvidia-openai-und-co-spione-nehmen-die-techkonzerne-ins-visier-2611-215596.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/hybrid-arbeiten-monitor-docking-zubehoer-1772910/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "USB-C ist nicht gleich USB-C: Worauf es beim Setup für Büro und unterwegs ankommt",
-      "takeaway": "Beim hybriden Arbeiten reist das Notebook mit. So wählst du Monitor, Docking und Zubehör für den Schreibtisch und prüfst vorab, was du unterwegs brauchst. weiterlesen auf t3n.de",
-      "topic": "Worauf",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "headline": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "takeaway": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "topic": "Instagram",
       "tags": [
-        "Worauf",
-        "USB-C",
-        "Setup",
-        "Büro"
+        "Instagram",
+        "Meta",
+        "Muse",
+        "DMs"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/hybrid-arbeiten-monitor-docking-zubehoer-1772910/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/heiliger-gral-der-mathematik-anthropic-mitarbeiter-will-mit-claude-die-riemannsche-vermutung-bewiesen-haben-1774754/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Heiliger Gral der Mathematik: Anthropic-Mitarbeiter will mit Claude die Riemannsche Vermutung bewiesen haben",
-      "takeaway": "Der „Heilige Gral“ der Mathematik könnte gefunden sein. Das Problem: Der Beweis wäre für Menschen mehr als 250.000 Seiten lang – und selbst ihr Urheber versteht ihn noch nicht ganz. weiterlesen auf …",
-      "topic": "Anthropic-Mitarbeiter",
+      "src": "arstechnica",
+      "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+      "headline": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "takeaway": "Technical details are still limited, but we already know it's fun to drive.",
+      "topic": "Porsche",
       "tags": [
-        "Anthropic-Mitarbeiter",
-        "Riemannsche",
-        "Mathematik",
-        "Vermutung"
+        "Porsche",
+        "Boxster",
+        "This",
+        "prototype"
       ],
       "sources": [
         {
-          "src": "t3n",
-          "url": "https://t3n.de/news/heiliger-gral-der-mathematik-anthropic-mitarbeiter-will-mit-claude-die-riemannsche-vermutung-bewiesen-haben-1774754/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "golem",
-      "url": "https://www.golem.de/news/cleverbridge-angreifer-stehlen-bezahlkartendaten-inklusive-sicherheitscodes-2611-215517.html",
-      "headline": "Cleverbridge: Angreifer stehlen Bezahlkartendaten inklusive Sicherheitscodes",
-      "takeaway": "Zahlreiche namhafte Unternehmen wickeln ihre Verkäufe über die E-Commerce-Plattform Cleverbridge ab. Dort sind nun Bezahlkartendaten abgeflossen. ( Cybercrime , Cyberwar )",
-      "topic": "Bezahlkartendaten",
+      "url": "https://www.golem.de/news/kilow-la-bagnole-elektrischer-mini-jeep-aus-frankreich-kostet-ab-10-800-euro-2611-215603.html",
+      "headline": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro",
+      "takeaway": "Der La Bagnole von Kilow ist ein vielseitiger kleiner Elektro-Jeep, der als Pritschen- oder als Kastenwagen genutzt werden kann. ( Elektroauto , Auto )",
+      "topic": "Elektrischer",
       "tags": [
-        "Bezahlkartendaten",
-        "Sicherheitscodes",
-        "Cleverbridge",
-        "Angreifer"
+        "Elektrischer",
+        "Frankreich",
+        "Mini-Jeep",
+        "Bagnole"
       ],
       "sources": [
         {
           "src": "golem",
-          "url": "https://www.golem.de/news/cleverbridge-angreifer-stehlen-bezahlkartendaten-inklusive-sicherheitscodes-2611-215517.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "Triebwerksschub zu kurz: BepiColombo erreicht Orbit um den Merkur",
-      "takeaway": "Die Merkursonde BepiColombo hat ihr Forschungsziel erreicht, die Triebwerke feuerten aber zu kurz. Analysen laufen, erklärte die europäische Weltraumagentur.",
-      "topic": "Triebwerksschub",
-      "tags": [
-        "Triebwerksschub",
-        "BepiColombo",
-        "Merkur",
-        "Orbit"
-      ],
-      "sources": [
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+          "url": "https://www.golem.de/news/kilow-la-bagnole-elektrischer-mini-jeep-aus-frankreich-kostet-ab-10-800-euro-2611-215603.html"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Der Panik-Index an der Börse steht auf neun von zehn",
-    "dateLabel": "Folge vom 23.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2248-der-panik-index-an-der-borse-steht-auf-neun-von-zehn",
+    "title": "Nvidia: Die wundersame Rückkehr des Gründers / Haushalt: Die Schuldentricks des Lars Klingbeil",
+    "dateLabel": "Folge vom 24.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2251-nvidia-die-wundersame-ruckkehr-des-grunders-haushalt-die-schuldentricks-des-lars-klingbeil",
     "takeaways": [
-      "Nach dem schwarzen Freitag für Tech-Aktien spricht an den Märkten nur wenig für Besserung.",
-      "Das liegt an der KI‑Delle – und einer verlockenden Alternative für viele Anleger.",
-      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Informationen zu Werbeeinblendungen"
+      "Die überraschende Rückkehr von Nvidia-Chef Jensen Huang zeigt die tiefen Philosophieunterschiede mit Blick auf den Fortschritt.",
+      "Dennoch ist die Strategie von US-Präsident Donald Trump riskant Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Info"
     ]
   }
 }

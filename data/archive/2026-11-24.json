@@ -1,0 +1,341 @@
+{
+  "date": "2026-11-24",
+  "updatedAt": "2026-11-24T18:28:45.474808+01:00",
+  "updatedAtLabel": "24.11.2026, 18:28 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+      "headline": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+      "takeaway": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profitiert hat davon offenbar auch US-Präsident Trump - der sich zuvor für Huang eingesetzt hatte.",
+      "topic": "Rückkehr",
+      "tags": [
+        "Rückkehr",
+        "Huangs",
+        "Nvidia",
+        "Trump"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Huangs-Rueckkehr-ist-fuer-Trump-ein-lukratives-Geschaeft-id31570590.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/nvidia-ein-anleger-verdient-mit-huangs-rueckkehr-ueber-150.000-dollar/100272161.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+      "headline": "Nvidia setzt Jensen Huang wieder als Chef ein",
+      "takeaway": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
+      "topic": "Nvidia",
+      "tags": [
+        "Nvidia",
+        "Jensen",
+        "Huang",
+        "Chef"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-beruft-ex-chef-huang-zurueck-an-die-firmenspitze-accg-201709972.html"
+        },
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss",
+      "headline": "Anthropic-Aktie fällt unter Ausgabepreis – auch Nvidia im Minus",
+      "takeaway": "Die Aktienkurse zweier großer KI-Unternehmen sinken. Manche Marktbeobachter sehen darin Gewinnmitnahmen nach dem Hoch zum Wochenstart. Nvidia hatte zwischenzeitlich von der überraschenden Rückkehr …",
+      "topic": "Anthropic-Aktie",
+      "tags": [
+        "Anthropic-Aktie",
+        "Ausgabepreis",
+        "Nvidia",
+        "Minus"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/anthropic-aktie-faellt-unter-ausgabepreis-auch-nvidia-im-minus-a-3844359f-63bb-476d-b8b3-8746cecfdaf9#ref=rss"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Anthropic-Aktie-faellt-unter-den-Ausgabepreis-id31572716.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "spiegel",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281#ref=rss",
+      "headline": "BYD: Autohersteller will ehemalige Smart-Fabrik in Lothringen kaufen",
+      "takeaway": "Bislang läuft jeder in Europa verkaufte BYD in chinesischen Werken vom Band. Das soll sich ändern: Der Autohersteller will eine Fabrik in Frankreich kaufen.",
+      "topic": "Autohersteller",
+      "tags": [
+        "Autohersteller",
+        "Smart-Fabrik",
+        "Lothringen",
+        "BYD"
+      ],
+      "sources": [
+        {
+          "src": "spiegel",
+          "url": "https://www.spiegel.de/wirtschaft/unternehmen/autohersteller-byd-will-ehemalige-smart-fabrik-in-lothringen-kaufen-a-44e5dc8a-e3da-4da7-a649-ee629bffa281#ref=rss"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/byd-chinas-autobauer-will-ehemalige-smart-fabrik-in-frankreich-kaufen-a-ec00d3ab-67c2-4665-a379-6c071ffb960a#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+      "headline": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+      "takeaway": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company …",
+      "topic": "Department",
+      "tags": [
+        "Department",
+        "Megaspeed",
+        "Commerce",
+        "Nvidia"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "cnbc",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+      "headline": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+      "takeaway": "",
+      "topic": "Blanche",
+      "tags": [
+        "Blanche",
+        "Jensen",
+        "Patel",
+        "Huang"
+      ],
+      "sources": [
+        {
+          "src": "cnbc",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/technik/it-internet/weltraum-das-starlink-der-bundeswehr-steht-kurz-vor-der-unterzeichnung/100271531.html",
+      "headline": "Weltraum: Bis zu 15 Milliarden Euro: Das Starlink der Bundeswehr steht kurz vor der Unterzeichnung",
+      "takeaway": "Die Pläne für Deutschlands ambitioniertestes Weltraumprojekt stehen vor der Vollendung. Es wäre technisch weltweit führend, soll aber frühestens 2030 kommen. Eine Zwischenlösung soll helfen.",
+      "topic": "Unterzeichnung",
+      "tags": [
+        "Unterzeichnung",
+        "Bundeswehr",
+        "Weltraum",
+        "Starlink"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/technik/it-internet/weltraum-das-starlink-der-bundeswehr-steht-kurz-vor-der-unterzeichnung/100271531.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-warum-der-dollar-nicht-mehr-als-sicherer-hafen-taugt/100271551.html",
+      "headline": "Märkte Insight: Warum der Dollar nicht mehr als sicherer Hafen taugt",
+      "takeaway": "Der KI-Boom lässt den Dollar aufwerten. Das ist ungewöhnlich für die Devise, die oft in Krisenzeiten gefragt ist – und sollte Investoren zu denken geben, meint Jakob Blume.",
+      "topic": "Insight",
+      "tags": [
+        "Insight",
+        "Märkte",
+        "Hafen",
+        "sicherer"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-warum-der-dollar-nicht-mehr-als-sicherer-hafen-taugt/100271551.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html",
+      "headline": "Standorte, Preise, Sortiment: Worauf sich Kunden von Obi und Toom einstellen müssen",
+      "takeaway": "Obi und Toom schließen sich zusammen. Welche Kunden nun um \"ihren\" Baumarkt bangen müssen, welche Jobs in Gefahr sind und wie sich die Preise entwickeln werden, erklärt Handelsexperte Jörg Funder im …",
+      "topic": "Standorte",
+      "tags": [
+        "Standorte",
+        "Sortiment",
+        "Preise",
+        "Worauf"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "theverge",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "headline": "Tidal will start banning AI-generated music next month",
+      "takeaway": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per …",
+      "topic": "AI-generated",
+      "tags": [
+        "AI-generated",
+        "Tidal",
+        "banning",
+        "start"
+      ],
+      "sources": [
+        {
+          "src": "theverge",
+          "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/NASA-will-Atomkraftwerk-fuer-den-Mond-entwickeln-lassen-11536848.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "NASA will Atomkraftwerk für den Mond entwickeln lassen",
+      "takeaway": "Die NASA lässt ein Atomkraftwerk für den Mond entwickeln. Bis Ende Dezember können Unternehmen Konzepte für den Lunar Reactor-1 einreichen.",
+      "topic": "Atomkraftwerk",
+      "tags": [
+        "Atomkraftwerk",
+        "NASA",
+        "Mond",
+        "entwickeln"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/NASA-will-Atomkraftwerk-fuer-den-Mond-entwickeln-lassen-11536848.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/nvidia-openai-und-co-spione-nehmen-die-techkonzerne-ins-visier-2611-215596.html",
+      "headline": "(g+) Nvidia, OpenAI und Co.: Spione nehmen die Techkonzerne ins Visier",
+      "takeaway": "Die Financial Times zeigt anhand aktueller Spionagefälle und Gesprächen mit ehemaligen Geheimdienstmitarbeitern, wie verwundbar die Techkonzerne sind. Von Patrick McGee ( Jensen Huang , Mark …",
+      "topic": "Techkonzerne",
+      "tags": [
+        "Techkonzerne",
+        "Nvidia",
+        "OpenAI",
+        "Spione"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/nvidia-openai-und-co-spione-nehmen-die-techkonzerne-ins-visier-2611-215596.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "headline": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "takeaway": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "topic": "Instagram",
+      "tags": [
+        "Instagram",
+        "Meta",
+        "Muse",
+        "DMs"
+      ],
+      "sources": [
+        {
+          "src": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "arstechnica",
+      "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+      "headline": "Porsche 718 Boxster prototype drive: This electric roadster is real",
+      "takeaway": "Technical details are still limited, but we already know it's fun to drive.",
+      "topic": "Porsche",
+      "tags": [
+        "Porsche",
+        "Boxster",
+        "This",
+        "prototype"
+      ],
+      "sources": [
+        {
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/kilow-la-bagnole-elektrischer-mini-jeep-aus-frankreich-kostet-ab-10-800-euro-2611-215603.html",
+      "headline": "Kilow La Bagnole: Elektrischer Mini-Jeep aus Frankreich kostet ab 10.800 Euro",
+      "takeaway": "Der La Bagnole von Kilow ist ein vielseitiger kleiner Elektro-Jeep, der als Pritschen- oder als Kastenwagen genutzt werden kann. ( Elektroauto , Auto )",
+      "topic": "Elektrischer",
+      "tags": [
+        "Elektrischer",
+        "Frankreich",
+        "Mini-Jeep",
+        "Bagnole"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/kilow-la-bagnole-elektrischer-mini-jeep-aus-frankreich-kostet-ab-10-800-euro-2611-215603.html"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "Nvidia: Die wundersame Rückkehr des Gründers / Haushalt: Die Schuldentricks des Lars Klingbeil",
+    "dateLabel": "Folge vom 24.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2251-nvidia-die-wundersame-ruckkehr-des-grunders-haushalt-die-schuldentricks-des-lars-klingbeil",
+    "takeaways": [
+      "Die überraschende Rückkehr von Nvidia-Chef Jensen Huang zeigt die tiefen Philosophieunterschiede mit Blick auf den Fortschritt.",
+      "Dennoch ist die Strategie von US-Präsident Donald Trump riskant Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Info"
+    ]
+  }
+}
