@@ -1,342 +1,342 @@
 {
-  "date": "2026-11-25",
-  "updatedAt": "2026-11-25T13:33:53.693471+01:00",
-  "updatedAtLabel": "25.11.2026, 13:33 Uhr",
+  "date": "2026-11-26",
+  "updatedAt": "2026-11-26T15:57:44.126943+01:00",
+  "updatedAtLabel": "26.11.2026, 15:57 Uhr",
   "ai": false,
   "topStories": [
     {
       "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Deutsche-Bahn-verkauft-jetzt-auch-Flixtrain-Tickets-id31574476.html",
-      "headline": "Kooperation im Fernverkehr: Deutsche Bahn verkauft jetzt auch Flixtrain-Tickets",
-      "takeaway": "Ab dem 7. Dezember sollen Reisende Fahrten mit dem Bahn-Konkurrenten auf den Plattformen der DB buchen können. Teilstrecken sollen sich sogar kombinieren lassen. Doch die Kooperation ist begrenzt. …",
-      "topic": "Flixtrain-Tickets",
-      "tags": [
-        "Flixtrain-Tickets",
-        "Kooperation",
-        "Fernverkehr",
-        "Deutsche"
-      ],
-      "sources": [
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Deutsche-Bahn-verkauft-jetzt-auch-Flixtrain-Tickets-id31574476.html"
-        },
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/vertriebskooperation-bahn-verkauft-flixtrain-tickets-via-db-navigator-2611-215643.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/befragung-der-ezb-kartenzahlung-ueberholt-erstmals-bargeld-in-geschaeften-a-c4d64b3b-ca8d-4c98-a329-8564cf224ba7#ref=rss",
-      "headline": "Befragung der EZB: Kartenzahlung überholt erstmals Bargeld in Geschäften",
-      "takeaway": "Im Euroraum bezahlen in Geschäften mittlerweile mehr Menschen mit Karte als mit Scheinen und Münzen. Das geht aus einer Umfrage der Europäischen Zentralbank hervor. Allerdings verzichtet kaum jemand …",
-      "topic": "Kartenzahlung",
-      "tags": [
-        "Kartenzahlung",
-        "Geschäften",
-        "Befragung",
-        "Bargeld"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/befragung-der-ezb-kartenzahlung-ueberholt-erstmals-bargeld-in-geschaeften-a-c4d64b3b-ca8d-4c98-a329-8564cf224ba7#ref=rss"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/technologie/digitale-welt/verbraucher-ezb-kartenzahlung-ueberholt-erstmals-bargeld-in-geschaeften/100272662.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "spiegel",
-      "url": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-und-flixtrain-verkaufen-bald-gemeinsam-tickets-a-e776561d-f14e-4697-aa9e-5cf7315f0ffa#ref=rss",
-      "headline": "Deutsche Bahn und Flixtrain verkaufen bald gemeinsam Tickets",
-      "takeaway": "Lange schirmte die Bahn ihre Verkaufskanäle ab, künftig will sie im Internet und per App auch Tickets des Konkurrenten Flixtrain anbieten. Dass der Staatskonzern sich bewegt, liegt wohl auch am …",
-      "topic": "Flixtrain",
-      "tags": [
-        "Flixtrain",
-        "Deutsche",
-        "Tickets",
-        "Bahn"
-      ],
-      "sources": [
-        {
-          "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/deutsche-bahn-und-flixtrain-verkaufen-bald-gemeinsam-tickets-a-e776561d-f14e-4697-aa9e-5cf7315f0ffa#ref=rss"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/mobilitaet/deutsche-bahn-konzern-verkauft-demnaechst-tickets-fuer-flixtrain-a-be2b71f4-020e-4401-b078-656c8e462e4a#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
       "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
-      "headline": "Kerzen dürften deutlich teurer werden",
-      "takeaway": "Der Adventskranz gehört für viele zur Vorweihnachtszeit, doch die Kerzen dafür könnten in diesem Jahr ziemlich teuer werden. Hersteller rechnen mit Preissteigerungen von 30 bis 50 Prozent.",
-      "topic": "Kerzen",
+      "url": "https://www.tagesschau.de/eilmeldung/ezb-chef-de-cos-100.html",
+      "headline": "Spanier Hernández de Cos soll laut Medien Nachfolger von EZB-Chefin Lagarde werden",
+      "takeaway": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge laut Medienberichten geklärt: Die Staats- und Regierungschefs der EU haben sich demnach auf den Spanier …",
+      "topic": "Nachfolger",
       "tags": [
-        "Kerzen",
-        "deutlich",
-        "dürften",
-        "teurer"
+        "Nachfolger",
+        "EZB-Chefin",
+        "Spanier",
+        "Lagarde"
       ],
       "sources": [
         {
           "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html"
+          "url": "https://www.tagesschau.de/eilmeldung/ezb-chef-de-cos-100.html"
         },
         {
           "src": "spiegel",
-          "url": "https://www.spiegel.de/wirtschaft/service/kerzen-duerften-deutlich-teurer-werden-a-516a9c19-aedb-4161-bd4f-2471951052cf#ref=rss"
+          "url": "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/geld/2026-11/spanier-de-cos-wird-nachfolger-von-ezb-chefin-lagarde"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Spanier-Hernandez-de-Cos-soll-Chef-der-EZB-werden-id31581106.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/konjunktur/ezb-spanier-hernandez-de-cos-soll-ezb-chef-werden/100273039.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "zeit",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-ruecktritt-rueckkehr-donald-trump",
-      "headline": "Jensen Huang: Huang will Nvidia weiter ohne Nachfolgeplan führen",
-      "takeaway": "Der Nvidia-Chef verzichtet laut Medienberichten auf eine designierte Nachfolge. Er entschuldigte sich für seine Fehler und sagte, er gehe jeden Tag zur Therapie.",
-      "topic": "Nachfolgeplan",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/unicredit-commerzbank-uebernahme-andrea-orcel-aufsichtsrat-gxe",
+      "headline": "Übernahme der Commerzbank: Unicredit-CEO soll Aufsichtsratschef bei Commerzbank werden",
+      "takeaway": "Die Übernahme der Commerzbank durch Unicredit nimmt Formen an. Auf einer außerordentlichen Hauptversammlung soll der Aufsichtsrat der Commerzbank neu besetzt werden.",
+      "topic": "Aufsichtsratschef",
       "tags": [
-        "Nachfolgeplan",
-        "Jensen",
-        "Nvidia",
-        "Huang"
+        "Aufsichtsratschef",
+        "Unicredit-CEO",
+        "Commerzbank",
+        "Übernahme"
       ],
       "sources": [
         {
           "src": "zeit",
-          "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-ruecktritt-rueckkehr-donald-trump"
+          "url": "https://www.zeit.de/wirtschaft/2026-11/unicredit-commerzbank-uebernahme-andrea-orcel-aufsichtsrat-gxe"
         },
         {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-9bb867cd-8cb3-4230-9335-5895ed4a5a56#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "theverge",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "headline": "Huawei found guilty of stealing trade secrets",
-      "takeaway": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal …",
-      "topic": "Huawei",
-      "tags": [
-        "Huawei",
-        "stealing",
-        "secrets",
-        "guilty"
-      ],
-      "sources": [
-        {
-          "src": "theverge",
-          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
-        },
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets"
-        }
-      ]
-    },
-    {
-      "cat": "ki",
-      "src": "thedecoder",
-      "url": "https://the-decoder.de/cybervorfaelle-bei-us-behoerden-haeufen-sich-finanzermittler-und-geheimdienste-betroffen/",
-      "headline": "Cybervorfälle bei US-Behörden häufen sich: Finanzermittler und Geheimdienste betroffen",
-      "takeaway": "Nach einem unbefugten Zugriff hat die US-Finanzermittlungsbehörde FinCEN vorsorglich Systeme vom Netz genommen. Wenige Stunden zuvor war bereits ein separater Einbruch bei CIA, NGA und ODNI bekannt …",
-      "topic": "Finanzermittler",
-      "tags": [
-        "Finanzermittler",
-        "Cybervorfälle",
-        "Geheimdienste",
-        "US-Behörden"
-      ],
-      "sources": [
-        {
-          "src": "thedecoder",
-          "url": "https://the-decoder.de/cybervorfaelle-bei-us-behoerden-haeufen-sich-finanzermittler-und-geheimdienste-betroffen/"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/microsoft-365-wie-admins-typische-sicherheitsluecken-verhindern-2611-215590.html",
-      "headline": "(g+) Microsoft 365: Wie Admins typische Sicherheitslücken verhindern",
-      "takeaway": "Ausgehebelte MFA, verwaiste Gastkonten und alte Freigabelinks: Wir zeigen, wo bei Microsoft 365 Risiken bestehen und wie diese sich vermindern lassen. Ein Ratgebertext von Aaron Siller ( Microsoft …",
-      "topic": "Sicherheitslücken",
-      "tags": [
-        "Sicherheitslücken",
-        "Microsoft",
-        "Admins",
-        "verhindern"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/microsoft-365-wie-admins-typische-sicherheitsluecken-verhindern-2611-215590.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "ntv",
-      "url": "https://www.n-tv.de/wirtschaft/Billig-Mode-Versender-Shein-steigert-Gewinn-trotz-Europas-Gegenmassnahmen-id31575905.html",
-      "headline": "Der Börsen-Tag: Billig-Mode-Versender Shein steigert Gewinn trotz Europas Gegenmaßnahmen",
-      "takeaway": "",
-      "topic": "Billig-Mode-Versender",
-      "tags": [
-        "Billig-Mode-Versender",
-        "Gegenmaßnahmen",
-        "Börsen-Tag",
-        "Europas"
-      ],
-      "sources": [
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Billig-Mode-Versender-Shein-steigert-Gewinn-trotz-Europas-Gegenmassnahmen-id31575905.html"
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/letzte-genehmigung-erteilt-unicredit-ceo-soll-aufsichtsratschef-bei-commerzbank-werden/100272894.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "cnbc",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-      "headline": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-      "takeaway": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-      "topic": "Liesman",
+      "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+      "takeaway": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+      "topic": "European",
       "tags": [
-        "Liesman",
-        "Nvidia",
-        "Kevin",
-        "Warsh"
+        "European",
+        "Central",
+        "Spain",
+        "Pablo"
       ],
       "sources": [
         {
           "src": "cnbc",
-          "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html"
+          "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/politik/ezb-pablo-hernandez-de-cos-wird-chef-der-ezb-a-a8e4a4af-bd07-4604-bca6-f0f998935d50#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/krankenkassenbeitraege-grosse-kassen-peilen-stabile-beitraege-2027-an/100273070.html",
+      "headline": "Krankenkassenbeiträge: Große Kassen peilen stabile Beiträge 2027 an",
+      "takeaway": "Ein umstrittenes Spargesetz der Koalition soll erneute Anhebungen der Krankenkassenbeiträge auf breiter Front vermeiden. Für Millionen Versicherte gibt es jetzt Signale.",
+      "topic": "Krankenkassenbeiträge",
+      "tags": [
+        "Krankenkassenbeiträge",
+        "Beiträge",
+        "Kassen",
+        "Große"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/krankenkassenbeitraege-grosse-kassen-peilen-stabile-beitraege-2027-an/100273070.html"
         }
       ]
     },
     {
       "cat": "wirtschaft",
       "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-ams-osram-aktie-steigt-zweistellig/100272589.html",
-      "headline": "Dax aktuell: Dax notiert im Plus – AMS-Osram-Aktie steigt zweistellig",
-      "takeaway": "Nach den Verlusten vom Dienstag fällt der Dax am Mittwoch erneut ins Minus. Anleger blicken auf das schwache deutsche Wirtschaftswachstum und die Generaldebatte im Bundestag.",
-      "topic": "AMS-Osram-Aktie",
+      "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-berlin-ist-vonovia-unerwuenscht-in-bayern-willkommen/100270527.html",
+      "headline": "Immobilien: In Berlin ist Vonovia unerwünscht – in Bayern willkommen",
+      "takeaway": "Deutschlands größter Wohnungskonzern will mehr als zwei Milliarden Euro in Bayern investieren. Ministerpräsident Söder nutzt das für Seitenhiebe in Richtung Berlin.",
+      "topic": "Immobilien",
       "tags": [
-        "AMS-Osram-Aktie",
-        "Plus",
-        "Dax",
-        "zweistellig"
+        "Immobilien",
+        "Vonovia",
+        "Berlin",
+        "Bayern"
       ],
       "sources": [
         {
           "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-plus-ams-osram-aktie-steigt-zweistellig/100272589.html"
+          "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-in-berlin-ist-vonovia-unerwuenscht-in-bayern-willkommen/100270527.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/justiz-gericht-erlaubt-augenchecks-bei-dm-aber-kritik-an-werbung/100272841.html",
+      "headline": "Justiz: Gericht erlaubt Augenchecks bei dm - aber Kritik an Werbung",
+      "takeaway": "Für 14,95 Euro können dm-Kundinnen und -Kunden in manchen Filialen Augen auf Erkrankungen überprüfen lassen. Die Wettbewerbszentrale ist dagegen vor Gericht gezogen. So lautet die Entscheidung.",
+      "topic": "Augenchecks",
+      "tags": [
+        "Augenchecks",
+        "Gericht",
+        "Werbung",
+        "Justiz"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/justiz-gericht-erlaubt-augenchecks-bei-dm-aber-kritik-an-werbung/100272841.html"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "netzpolitik",
-      "url": "https://netzpolitik.org/2026/trump-und-huang-die-tech-oligarchie-ist-ausser-kontrolle/",
-      "headline": "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle",
-      "takeaway": "Anfang November regnete es auf dem \"A New Golden Age\"-Treffen Auszeichnungen für die US-Techbranche, darunter für Nvidia-Chef Jensen Huang. – Alle Rechte vorbehalten: ZUMA Press Wire Im Skandal um …",
-      "topic": "Tech-Oligarchie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/emag-tesla-gruendet-gesellschaft-am-standort-eines-deutschen-maschinenbauers-2611-215702.html",
+      "headline": "EMAG: Tesla gründet Gesellschaft am Standort eines deutschen Maschinenbauers",
+      "takeaway": "Tesla hat in Deutschland ein neues Unternehmen registriert - mit der Firmenadresse des angeschlagenen Werkzeugmaschinenbauers EMAG. ( Tesla , Roboter )",
+      "topic": "Maschinenbauers",
       "tags": [
-        "Tech-Oligarchie",
-        "Kontrolle",
-        "Trump",
-        "Huang"
+        "Maschinenbauers",
+        "Gesellschaft",
+        "Standort",
+        "Tesla"
       ],
       "sources": [
         {
-          "src": "netzpolitik",
-          "url": "https://netzpolitik.org/2026/trump-und-huang-die-tech-oligarchie-ist-ausser-kontrolle/"
+          "src": "golem",
+          "url": "https://www.golem.de/news/emag-tesla-gruendet-gesellschaft-am-standort-eines-deutschen-maschinenbauers-2611-215702.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html",
+      "headline": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
+      "takeaway": "Der Onlinehändler Temu will Verbraucher in der EU besser schützen. So verzichtet das chinesische Unternehmen künftig nach eigenen Angaben auf gefälschte Bewertungen oder das Ausüben von Kaufdruck.",
+      "topic": "Verbraucherschutz",
+      "tags": [
+        "Verbraucherschutz",
+        "Online-Händler",
+        "Chinesischer",
+        "Temu"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Macht-die-35-Stunden-Woche-Deutschland-arm-id31580768.html",
+      "headline": "Pro und Contra zur Arbeitszeit: Macht die 35-Stunden-Woche Deutschland arm?",
+      "takeaway": "Weniger arbeiten und trotzdem produktiver sein - oder braucht Deutschland wieder mehr Arbeitszeit? Ulrich Reitz und Martin to Roxel vertreten zur 35-Stunden-Woche gegensätzliche Positionen. Zwei …",
+      "topic": "Arbeitszeit",
+      "tags": [
+        "Arbeitszeit",
+        "Deutschland",
+        "Contra",
+        "Macht"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Macht-die-35-Stunden-Woche-Deutschland-arm-id31580768.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/resilienz-der-tk-netze-bundesnetzagentur-will-mobilfunk-mit-notstrom-und-satelliten-absichern-2611-215701.html",
+      "headline": "Resilienz der TK-Netze: Bundesnetzagentur will Mobilfunk mit Notstrom und Satelliten absichern",
+      "takeaway": "Nach den Angriffen in Berlin schreibt die Bundesnetzagentur ihr Strategiepapier zur Krisenfestigkeit von Telco-Netzen fort. Doch die Branche will nicht zahlen. ( Mobilfunk , Bundesnetzagentur )",
+      "topic": "Bundesnetzagentur",
+      "tags": [
+        "Bundesnetzagentur",
+        "Satelliten",
+        "Resilienz",
+        "Mobilfunk"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/resilienz-der-tk-netze-bundesnetzagentur-will-mobilfunk-mit-notstrom-und-satelliten-absichern-2611-215701.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
+      "takeaway": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "topic": "Erfolgreicher",
+      "tags": [
+        "Erfolgreicher",
+        "Cyberangriff",
+        "Warnung",
+        "Folgen"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/black-friday-iphone-air-deal-1775223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Black Friday: Warum ihr euch diesen iPhone-Deal ansehen solltet",
-      "takeaway": "Apple hat im Laufe des Jahres die Preise für alle iPhone-Modelle nach oben angepasst. Auch rund um den Black Friday gibt es kaum überzeugende iPhone-Angebote. Mit einer Ausnahme. weiterlesen auf …",
-      "topic": "Friday",
+      "url": "https://t3n.de/news/ki-im-personalwesen-ibm-askhr-1775483/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "75 % weniger HR-Tickets: Wie IBM KI im Personalwesen einsetzt",
+      "takeaway": "IBM kommt heute mit drei Viertel weniger HR-Tickets aus als 2016. Bevor alle Personalanfragen in einem KI-Chat landen konnten, musste der Konzern aufräumen und klären, was die KI überhaupt darf. …",
+      "topic": "Personalwesen",
       "tags": [
-        "Friday",
-        "Black",
-        "iPhone-Deal",
-        "ansehen"
+        "Personalwesen",
+        "HR-Tickets",
+        "IBM",
+        "einsetzt"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/black-friday-iphone-air-deal-1775223/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/ki-im-personalwesen-ibm-askhr-1775483/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
         }
       ]
     },
     {
       "cat": "technologie",
-      "src": "arstechnica",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "headline": "AI may soon change what it means to be a theoretical physicist",
-      "takeaway": "Frontier AI is already solving problems that once took top physicists a full day.",
-      "topic": "theoretical",
+      "src": "t3n",
+      "url": "https://t3n.de/news/zu-viel-versprochen-warum-ubisoft-wegen-eines-piratenspiels-verklagt-wird-1775492/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Zu viel versprochen: Warum Ubisoft wegen eines Piratenspiels verklagt wird",
+      "takeaway": "Yves Guillemot, Boss von Ubisoft, nannte „Skull and Bones“ ein „AAAA“-Spiel, also ein besonderes Top-Game. Dagegen gingen Spieler vor. Vor Gericht erklärten die Anwälte des Konzerns, was von der …",
+      "topic": "Piratenspiels",
       "tags": [
-        "theoretical",
-        "physicist",
-        "change",
-        "means"
+        "Piratenspiels",
+        "Ubisoft",
+        "versprochen",
+        "verklagt"
       ],
       "sources": [
         {
-          "src": "arstechnica",
-          "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
+          "src": "t3n",
+          "url": "https://t3n.de/news/zu-viel-versprochen-warum-ubisoft-wegen-eines-piratenspiels-verklagt-wird-1775492/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "techreview",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "headline": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "takeaway": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel …",
+      "topic": "Download",
+      "tags": [
+        "Download",
+        "Better",
+        "natural-gas",
+        "bionic"
+      ],
+      "sources": [
+        {
+          "src": "techreview",
+          "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "wired",
-      "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
-      "headline": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
-      "takeaway": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
-      "topic": "Accidentally",
+      "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "headline": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+      "takeaway": "Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.",
+      "topic": "Ex-Restaurant",
       "tags": [
-        "Accidentally",
-        "Jump-Roping",
-        "Soldiers",
-        "Took"
+        "Ex-Restaurant",
+        "Delivery",
+        "Services",
+        "Tested"
       ],
       "sources": [
         {
           "src": "wired",
-          "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"
+          "url": "https://www.wired.com/gallery/best-meal-kit-services-1/"
         }
       ]
     }
   ],
   "podcastEpisode": {
-    "title": "Handel: Nach dem Deal ist vor dem Streit / Pharma: Bayer streicht neues Medikament für Deutschland",
-    "dateLabel": "Folge vom 25.11. · 9 Min.",
-    "url": "https://handelsblatt-morningbriefing.podigee.io/2252-handel-nach-dem-deal-ist-vor-dem-streit-pharma-bayer-streicht-neues-medikament-fur-deutschland",
+    "title": "Regierung: Der große Reformbasar / Rüstung: Helsing greift nach dem Krimbrücken-Waffenbauer",
+    "dateLabel": "Folge vom 26.11. · 8 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2253-regierung-der-grosse-reformbasar-rustung-helsing-greift-nach-dem-krimbrucken-waffenbauer",
     "takeaways": [
-      "Der US-Präsident könnte noch diese Woche neue Zölle gegen die EU und weitere Länder verkünden.",
-      "Offiziell geht es ihm um Dumping-Importe.",
-      "Auch der neue Kongress kann ihn nur schwer stoppen."
+      "Über der Generaldebatte des Bundestags schwebte gestern der Reformstreit der Regierung über Arbeitsmarkt und Steuern.",
+      "Doch am Abend zeichnet sich ausgerechnet bei der Rente ein Kompromiss ab.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Informationen zu Werbeeinblendungen"
     ]
   }
 }
