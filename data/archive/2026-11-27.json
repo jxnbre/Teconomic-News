@@ -1,0 +1,345 @@
+{
+  "date": "2026-11-27",
+  "updatedAt": "2026-11-27T09:04:04.052744+01:00",
+  "updatedAtLabel": "27.11.2026, 09:04 Uhr",
+  "ai": false,
+  "topStories": [
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html",
+      "headline": "SAP meldet verdächtige Aktivitäten",
+      "takeaway": "Mitarbeiter des Softwareriesen sollen prüfen, ob sie Zugangsdaten ändern müssen: Laut einem Medienbericht gab es einen Hackerangriff auf SAP. Das aber will der DAX-Konzern nicht bestätigen.",
+      "topic": "Aktivitäten",
+      "tags": [
+        "Aktivitäten",
+        "SAP",
+        "verdächtige",
+        "meldet"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/digital/2026-11/sap-verdaechtige-aktivitaeten-it-sicherheit-hackerangriff-dax-konzern-gxe"
+        },
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-sap-haben-verdaechtige-aktivitaeten-identifiziert-faz-200452404.html"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Softwarekonzern-SAP-raeumt-IT-Sicherheitsvorfall-ein-id31582944.html"
+        },
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/cyberangriff-auf-sap-was-zum-vorfall-bei-github-bekannt-ist/100273210.html"
+        },
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/unternehmen/tech/sap-hackerangriff-bei-softwarekonzern-verdaechtige-aktivitaeten-identifiziert-a-d941b751-9a8e-4e3e-b1a0-6fea2be08f59#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
+      "headline": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
+      "takeaway": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als …",
+      "topic": "Nachfolger",
+      "tags": [
+        "Nachfolger",
+        "EZB-Chefin",
+        "Spanier",
+        "Lagarde"
+      ],
+      "sources": [
+        {
+          "src": "tagesschau",
+          "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
+        },
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/geld/2026-11/spanier-de-cos-wird-nachfolger-von-ezb-chefin-lagarde"
+        },
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Spanier-Pablo-Hernandez-de-Cos-soll-Chef-der-EZB-werden-id31581106.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-risse-im-ki-boom-gefaehrlicher-genie-kult-um-jensen-huang-was-hinter-dem-gta-hype-steckt/100273169.html",
+      "headline": "Meckel & Matthes: Risse im KI-Boom, gefährlicher Genie-Kult um Jensen Huang, was hinter dem GTA-Hype steckt",
+      "takeaway": "Jensen Huang ist zurück an der Nvidia-Spitze, doch die Märkte bleiben nervös. Meckel & Matthes sprechen über die Macht der US-Tech-Eliten, die bröckelnde KI-Euphorie und was der Hype um GTA VI über …",
+      "topic": "Genie-Kult",
+      "tags": [
+        "Genie-Kult",
+        "GTA-Hype",
+        "Matthes",
+        "KI-Boom"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-risse-im-ki-boom-gefaehrlicher-genie-kult-um-jensen-huang-was-hinter-dem-gta-hype-steckt/100273169.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html",
+      "headline": "Zugriff über Github: Cyberangriff auf SAP gefährdet Softwareprojekte",
+      "takeaway": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
+      "topic": "Softwareprojekte",
+      "tags": [
+        "Softwareprojekte",
+        "Cyberangriff",
+        "Zugriff",
+        "Github"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/meinung/kommentare/editorial-die-unantastbaren/100272903.html",
+      "headline": "Editorial: Die unantastbare Tech-Elite Amerikas",
+      "takeaway": "Donald Trump stellt die US-Tech-Elite über das Gesetz – das hat Folgen auch für ihn. Wer die Chefs zu unantastbaren Genies verklärt, fördert keine Innovation, sondern Machtmissbrauch.",
+      "topic": "Tech-Elite",
+      "tags": [
+        "Tech-Elite",
+        "Editorial",
+        "Amerikas",
+        "unantastbare"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/meinung/kommentare/editorial-die-unantastbaren/100272903.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "managermagazin",
+      "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-mit-gewinnen-sap-aktie-im-minus-a-e4108963-38bc-4cce-9d31-61799fb21e59#ref=rss",
+      "headline": "Börse: Dax mit Gewinnen, SAP-Aktie im Minus",
+      "takeaway": "Der deutsche Leitindex bekommt am Freitag Rückenwind von den asiatischen Börsen. Die Aktie von SAP steht nach Medienberichten über einen umfangreichen Stellenabbau und einen Hackerangriff unter Druck.",
+      "topic": "SAP-Aktie",
+      "tags": [
+        "SAP-Aktie",
+        "Gewinnen",
+        "Börse",
+        "Minus"
+      ],
+      "sources": [
+        {
+          "src": "managermagazin",
+          "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-mit-gewinnen-sap-aktie-im-minus-a-e4108963-38bc-4cce-9d31-61799fb21e59#ref=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/it/sap-stellenabbau-wegen-ki-was-insider-ueber-listen-und-zeitplan-sagen/100273200.html",
+      "headline": "Stellenabbau bei SAP: „Es kursieren bereits Listen“",
+      "takeaway": "Der Softwarekonzern SAP plant einen KI-bedingten Stellenabbau – angeblich sind zehn Prozent der Mitarbeiter betroffen. Wie SAP‑Insider die Lage bewerten.",
+      "topic": "Stellenabbau",
+      "tags": [
+        "Stellenabbau",
+        "Listen",
+        "SAP",
+        "kursieren"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/it/sap-stellenabbau-wegen-ki-was-insider-ueber-listen-und-zeitplan-sagen/100273200.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "bbc",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "headline": "My self-care ritual is a meal at a fancy restaurant - on my own",
+      "takeaway": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "topic": "restaurant",
+      "tags": [
+        "restaurant",
+        "self-care",
+        "ritual",
+        "fancy"
+      ],
+      "sources": [
+        {
+          "src": "bbc",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/streit-um-projekt-arminius-warum-der-milliarden-deal-fuer-boxer-stockt/100272912.html",
+      "headline": "„Arminius“-Projekt: Boxer-Panzer für die Bundeswehr – warum der Milliardenauftrag feststeckt",
+      "takeaway": "Eine Order für 25 Milliarden Euro, undurchsichtige Verträge und gegenseitiges Misstrauen. Ein internes Protokoll gibt Einsicht: So steht es um das wichtigste Panzerprojekt der Bundeswehr.",
+      "topic": "Milliardenauftrag",
+      "tags": [
+        "Milliardenauftrag",
+        "Boxer-Panzer",
+        "Bundeswehr",
+        "Arminius"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/streit-um-projekt-arminius-warum-der-milliarden-deal-fuer-boxer-stockt/100272912.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/sicherheit-hardwareluecken-schwaechen-den-pin-schutz-von-windows-2611-215720.html",
+      "headline": "Sicherheit: Hardwarelücken schwächen den PIN-Schutz von Windows",
+      "takeaway": "Die TU Berlin hat zwei Schwachstellen entdeckt, die das Erraten von PINs für die Windows-Anmeldung und Laufwerksverschlüsselung erleichtern. ( Windows Hello , Microsoft )",
+      "topic": "Hardwarelücken",
+      "tags": [
+        "Hardwarelücken",
+        "Sicherheit",
+        "PIN-Schutz",
+        "Windows"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/sicherheit-hardwareluecken-schwaechen-den-pin-schutz-von-windows-2611-215720.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/wenn-ki-den-schnellen-content-liefert-wie-sich-marketingteams-neu-aufstellen-muessen-1775561/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Wenn KI den schnellen Content liefert: Wie sich Marketingteams neu aufstellen müssen",
+      "takeaway": "Ist KI erfolgreich im Unternehmen eingeführt, stehen Marketingabteilungen vor neuen Herausforderungen, weil damit der reine Content schnell und kostengünstig produzierbar wird. Das macht im Team eine …",
+      "topic": "Marketingteams",
+      "tags": [
+        "Marketingteams",
+        "Content",
+        "Wenn",
+        "aufstellen"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/wenn-ki-den-schnellen-content-liefert-wie-sich-marketingteams-neu-aufstellen-muessen-1775561/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "heise",
+      "url": "https://www.heise.de/news/IT-Vorfall-bei-SAP-Entwicklungssysteme-betroffen-11539973.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "headline": "SAP: IT-Vorfall in Entwicklungssystemen",
+      "takeaway": "SAP hat einen IT-Vorfall eingeräumt. Betroffen sind Berichten zufolge Entwicklungssysteme auf der GitHub-Plattform.",
+      "topic": "Entwicklungssystemen",
+      "tags": [
+        "Entwicklungssystemen",
+        "IT-Vorfall",
+        "SAP"
+      ],
+      "sources": [
+        {
+          "src": "heise",
+          "url": "https://www.heise.de/news/IT-Vorfall-bei-SAP-Entwicklungssysteme-betroffen-11539973.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+      "headline": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+      "takeaway": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before …",
+      "topic": "Natural",
+      "tags": [
+        "Natural",
+        "England",
+        "Weeks",
+        "datacentre"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
+      "headline": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
+      "takeaway": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop They promise to find the best Black Friday deals, source Christmas gifts and find the …",
+      "topic": "Retailers",
+      "tags": [
+        "Retailers",
+        "Friday",
+        "Black",
+        "assistants"
+      ],
+      "sources": [
+        {
+          "src": "guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/hat-shein-seinen-zenit-ueberschritten-was-die-aktuellen-zahlen-verraten-1775588/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Hat Shein seinen Zenit überschritten? Was die aktuellen Zahlen verraten",
+      "takeaway": "Seit einigen Monaten sorgen die neuen EU-Zollbestimmungen bei Shein und anderen asiatischen Plattformen für ein Umdenken. Anhand der aktuellen Zahlen wird klar: Der Fast-Fashion-Händler hat im …",
+      "topic": "Zahlen",
+      "tags": [
+        "Zahlen",
+        "Shein",
+        "Zenit",
+        "überschritten"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/hat-shein-seinen-zenit-ueberschritten-was-die-aktuellen-zahlen-verraten-1775588/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "podcastEpisode": {
+    "title": "SAP: 10.000 Stellen weg – aber auch weniger?",
+    "dateLabel": "Folge vom 27.11. · 9 Min.",
+    "url": "https://handelsblatt-morningbriefing.podigee.io/2254-sap-10-000-stellen-weg-aber-auch-weniger",
+    "takeaways": [
+      "Der Softwarekonzern steht unter Druck durch KI.",
+      "Ein großes Jobabbau-Programm soll helfen – am Ende könnten dennoch mehr Menschen als bisher im Unternehmen arbeiten.",
+      "Das exklusive Abo-Angebot für alle Hörerinnen und Hörer des Handelsblatt Morning Briefings: https://www.handelsblatt.com/50 Weitere Informationen zu Werbeeinblendungen"
+    ]
+  }
+}
