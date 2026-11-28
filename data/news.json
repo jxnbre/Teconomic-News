@@ -1,333 +1,317 @@
 {
-  "date": "2026-11-27",
-  "updatedAt": "2026-11-27T09:04:04.052744+01:00",
-  "updatedAtLabel": "27.11.2026, 09:04 Uhr",
+  "date": "2026-11-28",
+  "updatedAt": "2026-11-28T11:10:05.575538+01:00",
+  "updatedAtLabel": "28.11.2026, 11:10 Uhr",
   "ai": false,
   "topStories": [
     {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html",
-      "headline": "SAP meldet verdächtige Aktivitäten",
-      "takeaway": "Mitarbeiter des Softwareriesen sollen prüfen, ob sie Zugangsdaten ändern müssen: Laut einem Medienbericht gab es einen Hackerangriff auf SAP. Das aber will der DAX-Konzern nicht bestätigen.",
-      "topic": "Aktivitäten",
-      "tags": [
-        "Aktivitäten",
-        "SAP",
-        "verdächtige",
-        "meldet"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/digital/2026-11/sap-verdaechtige-aktivitaeten-it-sicherheit-hackerangriff-dax-konzern-gxe"
-        },
-        {
-          "src": "faz",
-          "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-sap-haben-verdaechtige-aktivitaeten-identifiziert-faz-200452404.html"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Softwarekonzern-SAP-raeumt-IT-Sicherheitsvorfall-ein-id31582944.html"
-        },
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/it/cyberangriff-auf-sap-was-zum-vorfall-bei-github-bekannt-ist/100273210.html"
-        },
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/unternehmen/tech/sap-hackerangriff-bei-softwarekonzern-verdaechtige-aktivitaeten-identifiziert-a-d941b751-9a8e-4e3e-b1a0-6fea2be08f59#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
-      "headline": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
-      "takeaway": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als …",
-      "topic": "Nachfolger",
-      "tags": [
-        "Nachfolger",
-        "EZB-Chefin",
-        "Spanier",
-        "Lagarde"
-      ],
-      "sources": [
-        {
-          "src": "tagesschau",
-          "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
-        },
-        {
-          "src": "zeit",
-          "url": "https://www.zeit.de/geld/2026-11/spanier-de-cos-wird-nachfolger-von-ezb-chefin-lagarde"
-        },
-        {
-          "src": "ntv",
-          "url": "https://www.n-tv.de/wirtschaft/Spanier-Pablo-Hernandez-de-Cos-soll-Chef-der-EZB-werden-id31581106.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-risse-im-ki-boom-gefaehrlicher-genie-kult-um-jensen-huang-was-hinter-dem-gta-hype-steckt/100273169.html",
-      "headline": "Meckel & Matthes: Risse im KI-Boom, gefährlicher Genie-Kult um Jensen Huang, was hinter dem GTA-Hype steckt",
-      "takeaway": "Jensen Huang ist zurück an der Nvidia-Spitze, doch die Märkte bleiben nervös. Meckel & Matthes sprechen über die Macht der US-Tech-Eliten, die bröckelnde KI-Euphorie und was der Hype um GTA VI über …",
-      "topic": "Genie-Kult",
-      "tags": [
-        "Genie-Kult",
-        "GTA-Hype",
-        "Matthes",
-        "KI-Boom"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/audio/meckel-und-matthes/meckel-matthes-risse-im-ki-boom-gefaehrlicher-genie-kult-um-jensen-huang-was-hinter-dem-gta-hype-steckt/100273169.html"
-        }
-      ]
-    },
-    {
       "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html",
-      "headline": "Zugriff über Github: Cyberangriff auf SAP gefährdet Softwareprojekte",
-      "takeaway": "Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. ( Cybercrime , KI )",
-      "topic": "Softwareprojekte",
+      "src": "theverge",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "headline": "The absolute best Black Friday deals you can still get",
+      "takeaway": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds …",
+      "topic": "Friday",
       "tags": [
-        "Softwareprojekte",
-        "Cyberangriff",
-        "Zugriff",
-        "Github"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "handelsblatt",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/editorial-die-unantastbaren/100272903.html",
-      "headline": "Editorial: Die unantastbare Tech-Elite Amerikas",
-      "takeaway": "Donald Trump stellt die US-Tech-Elite über das Gesetz – das hat Folgen auch für ihn. Wer die Chefs zu unantastbaren Genies verklärt, fördert keine Innovation, sondern Machtmissbrauch.",
-      "topic": "Tech-Elite",
-      "tags": [
-        "Tech-Elite",
-        "Editorial",
-        "Amerikas",
-        "unantastbare"
-      ],
-      "sources": [
-        {
-          "src": "handelsblatt",
-          "url": "https://www.handelsblatt.com/meinung/kommentare/editorial-die-unantastbaren/100272903.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "managermagazin",
-      "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-mit-gewinnen-sap-aktie-im-minus-a-e4108963-38bc-4cce-9d31-61799fb21e59#ref=rss",
-      "headline": "Börse: Dax mit Gewinnen, SAP-Aktie im Minus",
-      "takeaway": "Der deutsche Leitindex bekommt am Freitag Rückenwind von den asiatischen Börsen. Die Aktie von SAP steht nach Medienberichten über einen umfangreichen Stellenabbau und einen Hackerangriff unter Druck.",
-      "topic": "SAP-Aktie",
-      "tags": [
-        "SAP-Aktie",
-        "Gewinnen",
-        "Börse",
-        "Minus"
-      ],
-      "sources": [
-        {
-          "src": "managermagazin",
-          "url": "https://www.manager-magazin.de/finanzen/boerse/boerse-dax-mit-gewinnen-sap-aktie-im-minus-a-e4108963-38bc-4cce-9d31-61799fb21e59#ref=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/unternehmen/it/sap-stellenabbau-wegen-ki-was-insider-ueber-listen-und-zeitplan-sagen/100273200.html",
-      "headline": "Stellenabbau bei SAP: „Es kursieren bereits Listen“",
-      "takeaway": "Der Softwarekonzern SAP plant einen KI-bedingten Stellenabbau – angeblich sind zehn Prozent der Mitarbeiter betroffen. Wie SAP‑Insider die Lage bewerten.",
-      "topic": "Stellenabbau",
-      "tags": [
-        "Stellenabbau",
-        "Listen",
-        "SAP",
-        "kursieren"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/unternehmen/it/sap-stellenabbau-wegen-ki-was-insider-ueber-listen-und-zeitplan-sagen/100273200.html"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "bbc",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-      "headline": "My self-care ritual is a meal at a fancy restaurant - on my own",
-      "takeaway": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
-      "topic": "restaurant",
-      "tags": [
-        "restaurant",
-        "self-care",
-        "ritual",
-        "fancy"
-      ],
-      "sources": [
-        {
-          "src": "bbc",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "cat": "wirtschaft",
-      "src": "wiwo",
-      "url": "https://www.wiwo.de/politik/deutschland/streit-um-projekt-arminius-warum-der-milliarden-deal-fuer-boxer-stockt/100272912.html",
-      "headline": "„Arminius“-Projekt: Boxer-Panzer für die Bundeswehr – warum der Milliardenauftrag feststeckt",
-      "takeaway": "Eine Order für 25 Milliarden Euro, undurchsichtige Verträge und gegenseitiges Misstrauen. Ein internes Protokoll gibt Einsicht: So steht es um das wichtigste Panzerprojekt der Bundeswehr.",
-      "topic": "Milliardenauftrag",
-      "tags": [
-        "Milliardenauftrag",
-        "Boxer-Panzer",
-        "Bundeswehr",
-        "Arminius"
-      ],
-      "sources": [
-        {
-          "src": "wiwo",
-          "url": "https://www.wiwo.de/politik/deutschland/streit-um-projekt-arminius-warum-der-milliarden-deal-fuer-boxer-stockt/100272912.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "golem",
-      "url": "https://www.golem.de/news/sicherheit-hardwareluecken-schwaechen-den-pin-schutz-von-windows-2611-215720.html",
-      "headline": "Sicherheit: Hardwarelücken schwächen den PIN-Schutz von Windows",
-      "takeaway": "Die TU Berlin hat zwei Schwachstellen entdeckt, die das Erraten von PINs für die Windows-Anmeldung und Laufwerksverschlüsselung erleichtern. ( Windows Hello , Microsoft )",
-      "topic": "Hardwarelücken",
-      "tags": [
-        "Hardwarelücken",
-        "Sicherheit",
-        "PIN-Schutz",
-        "Windows"
-      ],
-      "sources": [
-        {
-          "src": "golem",
-          "url": "https://www.golem.de/news/sicherheit-hardwareluecken-schwaechen-den-pin-schutz-von-windows-2611-215720.html"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "t3n",
-      "url": "https://t3n.de/news/wenn-ki-den-schnellen-content-liefert-wie-sich-marketingteams-neu-aufstellen-muessen-1775561/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Wenn KI den schnellen Content liefert: Wie sich Marketingteams neu aufstellen müssen",
-      "takeaway": "Ist KI erfolgreich im Unternehmen eingeführt, stehen Marketingabteilungen vor neuen Herausforderungen, weil damit der reine Content schnell und kostengünstig produzierbar wird. Das macht im Team eine …",
-      "topic": "Marketingteams",
-      "tags": [
-        "Marketingteams",
-        "Content",
-        "Wenn",
-        "aufstellen"
-      ],
-      "sources": [
-        {
-          "src": "t3n",
-          "url": "https://t3n.de/news/wenn-ki-den-schnellen-content-liefert-wie-sich-marketingteams-neu-aufstellen-muessen-1775561/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "heise",
-      "url": "https://www.heise.de/news/IT-Vorfall-bei-SAP-Entwicklungssysteme-betroffen-11539973.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "headline": "SAP: IT-Vorfall in Entwicklungssystemen",
-      "takeaway": "SAP hat einen IT-Vorfall eingeräumt. Betroffen sind Berichten zufolge Entwicklungssysteme auf der GitHub-Plattform.",
-      "topic": "Entwicklungssystemen",
-      "tags": [
-        "Entwicklungssystemen",
-        "IT-Vorfall",
-        "SAP"
-      ],
-      "sources": [
-        {
-          "src": "heise",
-          "url": "https://www.heise.de/news/IT-Vorfall-bei-SAP-Entwicklungssysteme-betroffen-11539973.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
-      "headline": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
-      "takeaway": "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before …",
-      "topic": "Natural",
-      "tags": [
-        "Natural",
-        "England",
-        "Weeks",
-        "datacentre"
-      ],
-      "sources": [
-        {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol"
-        }
-      ]
-    },
-    {
-      "cat": "technologie",
-      "src": "guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
-      "headline": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
-      "takeaway": "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shop They promise to find the best Black Friday deals, source Christmas gifts and find the …",
-      "topic": "Retailers",
-      "tags": [
-        "Retailers",
         "Friday",
         "Black",
-        "assistants"
+        "absolute",
+        "deals"
       ],
       "sources": [
         {
-          "src": "guardian",
-          "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+          "src": "theverge",
+          "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+        },
+        {
+          "src": "arstechnica",
+          "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
+        },
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Umweltminister-will-Umbau-des-Rheins-id31587917.html",
+      "headline": "Vertiefung kein Allheilmittel: Umweltminister will Umbau des Rheins",
+      "takeaway": "Trockenheit und Hitze bedrohen die Schifffahrt auf dem Rhein. Umweltminister Carsten Schneider will die für die Wirtschaft wichtige Handelsroute deshalb grundlegend umgestalten. Dabei geht es jedoch …",
+      "topic": "Umweltminister",
+      "tags": [
+        "Umweltminister",
+        "Allheilmittel",
+        "Vertiefung",
+        "Rheins"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Umweltminister-will-Umbau-des-Rheins-id31587917.html"
+        },
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-umweltminister-plaediert-fuer-umbau-des-rheins/100137034.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html",
+      "headline": "Verbraucherpreise: Festplatten kosten 40,8 Prozent mehr als vor einem Jahr",
+      "takeaway": "PC-Hardware ist teuer geworden, das spüren viele. Nun zeigen amtliche Zahlen, wie heftig der Anstieg tatsächlich ausfällt. ( Statistisches Bundesamt , Speichermedien )",
+      "topic": "Verbraucherpreise",
+      "tags": [
+        "Verbraucherpreise",
+        "Festplatten",
+        "kosten"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "wired",
+      "url": "https://www.wired.com/story/dark-matter-might-have-its-own-periodic-table-of-invisible-particles/",
+      "headline": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles",
+      "takeaway": "Although it remains within the realm of theoretical physics, a new study hints at a parallel chemistry that would force us to rethink how we organize the fundamental components of the universe.",
+      "topic": "Invisible",
+      "tags": [
+        "Invisible",
+        "Particles",
+        "Periodic",
+        "Matter"
+      ],
+      "sources": [
+        {
+          "src": "wired",
+          "url": "https://www.wired.com/story/dark-matter-might-have-its-own-periodic-table-of-invisible-particles/"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-heizen-wird-noch-teurer-und-die-abrechnung-zeigt-es-erst-spaet/100271996.html",
+      "headline": "Immobilien: Deutschland droht eine teure Heizsaison – und die Rechnung kommt erst noch",
+      "takeaway": "Die Heizkosten steigen seit Jahren. Der Irankrieg hat die Preise für Öl und Gas zusätzlich nach oben getrieben. Wo Mieter und Eigentümer am meisten zahlen und was Hausverwalter dagegen tun.",
+      "topic": "Deutschland",
+      "tags": [
+        "Deutschland",
+        "Immobilien",
+        "Heizsaison",
+        "Rechnung"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-heizen-wird-noch-teurer-und-die-abrechnung-zeigt-es-erst-spaet/100271996.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "handelsblatt",
+      "url": "https://www.handelsblatt.com/politik/international/spanien-vor-der-wahl-rechte-vox-distanziert-sich-von-trump/100268861.html",
+      "headline": "Spanien: „Die Linken wissen nicht, wie sie reagieren sollen“ – Spaniens Rechte probiert neuen Kurs",
+      "takeaway": "Nach der Wahl am Sonntag könnte Vox in die spanische Regierung einziehen. Die Partei setzte sich einst gegen Separatisten ein und hofierte Trump. Jetzt ist die Strategie eine andere.",
+      "topic": "Spaniens",
+      "tags": [
+        "Spaniens",
+        "Spanien",
+        "Linken",
+        "Rechte"
+      ],
+      "sources": [
+        {
+          "src": "handelsblatt",
+          "url": "https://www.handelsblatt.com/politik/international/spanien-vor-der-wahl-rechte-vox-distanziert-sich-von-trump/100268861.html"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "golem",
+      "url": "https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html",
+      "headline": "Erneuerbare Energie: Finnland hat Zeiten mit negativen Strompreisen minimiert",
+      "takeaway": "Negative Strom-Preise ergeben sich nicht nur aus Produktionsüberschuss, sie deuten strukturelle Probleme an. Finnland zeigt, wie das zu lösen ist. ( Energiewende , Solarenergie )",
+      "topic": "Strompreisen",
+      "tags": [
+        "Strompreisen",
+        "Erneuerbare",
+        "Finnland",
+        "Energie"
+      ],
+      "sources": [
+        {
+          "src": "golem",
+          "url": "https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "zeit",
+      "url": "https://www.zeit.de/2026/51/italo-bahn-fernverkehr-luca-cordero-di-montezemolo",
+      "headline": "Bahnunternehmen Italo: »In unseren Zügen gibt es keine Funklöcher«",
+      "takeaway": "Die Chefs des italienischen Unternehmens Italo versprechen den Deutschen endlich eine bessere Bahn. Züge sind bestellt. Hier erzählen sie von dem Plan – und einer Sorge.",
+      "topic": "Bahnunternehmen",
+      "tags": [
+        "Bahnunternehmen",
+        "Funklöcher",
+        "Italo",
+        "Zügen"
+      ],
+      "sources": [
+        {
+          "src": "zeit",
+          "url": "https://www.zeit.de/2026/51/italo-bahn-fernverkehr-luca-cordero-di-montezemolo"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-niemand-hat-die-absicht-die-mehrwertsteuer-zu-erhoehen/100273086.html",
+      "headline": "Bundeshaushalt: Niemand hat die Absicht, die Mehrwertsteuer zu erhöhen",
+      "takeaway": "Schwarz-Rot verabschiedet unter Schmerzen den Bundesetat. Doch die Aufstellung des Budgets für 2028 dürfte den Partnern ganz neue Probleme bereiten.",
+      "topic": "Bundeshaushalt",
+      "tags": [
+        "Bundeshaushalt",
+        "Mehrwertsteuer",
+        "Niemand",
+        "Absicht"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-niemand-hat-die-absicht-die-mehrwertsteuer-zu-erhoehen/100273086.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "wiwo",
+      "url": "https://www.wiwo.de/unternehmen/mobilitaet-2027-werden-mehr-als-eine-million-neue-elektroautos-erwartet/100273407.html",
+      "headline": "ZDK-Prognose: Erstmals über eine Million neue Elektroautos 2027",
+      "takeaway": "Laut einer Branchenprognose werden im kommenden Jahr erstmals über eine Million neue Elektroautos in Deutschland zugelassen. Dagegen sinkt die Zahl der neuen Verbrenner.",
+      "topic": "ZDK-Prognose",
+      "tags": [
+        "ZDK-Prognose",
+        "Elektroautos",
+        "Erstmals",
+        "Million"
+      ],
+      "sources": [
+        {
+          "src": "wiwo",
+          "url": "https://www.wiwo.de/unternehmen/mobilitaet-2027-werden-mehr-als-eine-million-neue-elektroautos-erwartet/100273407.html"
+        }
+      ]
+    },
+    {
+      "cat": "ki",
+      "src": "thedecoder",
+      "url": "https://the-decoder.de/humanitys-first-exam-selbst-die-besten-ki-modelle-koennen-bei-einfachen-alltagsaufgaben-patzen/",
+      "headline": "Humanity's First Exam: Selbst die besten KI-Modelle können bei einfachen Alltagsaufgaben patzen",
+      "takeaway": "Google Deepmind testet mit \"Humanity’s First Exam\" die Zuverlässigkeit von 18 KI‑Modellen. Zwar lösen die Spitzenmodelle fast alle Aufgabenfamilien mindestens einmal, doch bei 16 geforderten …",
+      "topic": "Alltagsaufgaben",
+      "tags": [
+        "Alltagsaufgaben",
+        "KI-Modelle",
+        "Humanity",
+        "Selbst"
+      ],
+      "sources": [
+        {
+          "src": "thedecoder",
+          "url": "https://the-decoder.de/humanitys-first-exam-selbst-die-besten-ki-modelle-koennen-bei-einfachen-alltagsaufgaben-patzen/"
         }
       ]
     },
     {
       "cat": "technologie",
       "src": "t3n",
-      "url": "https://t3n.de/news/hat-shein-seinen-zenit-ueberschritten-was-die-aktuellen-zahlen-verraten-1775588/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "headline": "Hat Shein seinen Zenit überschritten? Was die aktuellen Zahlen verraten",
-      "takeaway": "Seit einigen Monaten sorgen die neuen EU-Zollbestimmungen bei Shein und anderen asiatischen Plattformen für ein Umdenken. Anhand der aktuellen Zahlen wird klar: Der Fast-Fashion-Händler hat im …",
-      "topic": "Zahlen",
+      "url": "https://t3n.de/news/smart-lock-nachruesten-haustuer-oeffnen-1774377/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Smart Lock nachrüsten: So öffnest du deine Haustür sicher per Smartphone",
+      "takeaway": "Die eigene Haustür mit dem Smartphone oder per Fingerabdruck öffnen und das Schloss von unterwegs kontrollieren: Smarte Türschlösser bieten Möglichkeiten, die k weiterlesen auf t3n.de",
+      "topic": "Smartphone",
       "tags": [
-        "Zahlen",
-        "Shein",
-        "Zenit",
-        "überschritten"
+        "Smartphone",
+        "Haustür",
+        "Smart",
+        "Lock"
       ],
       "sources": [
         {
           "src": "t3n",
-          "url": "https://t3n.de/news/hat-shein-seinen-zenit-ueberschritten-was-die-aktuellen-zahlen-verraten-1775588/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+          "url": "https://t3n.de/news/smart-lock-nachruesten-haustuer-oeffnen-1774377/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "technologie",
+      "src": "t3n",
+      "url": "https://t3n.de/news/servant-leadership-stressfalle-1775424/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "headline": "Servant Leadership: Warum guter Führungsstil zur Stressfalle werden kann",
+      "takeaway": "Offene Türen, regelmäßiges Feedback und echte Rücksichtnahme gelten im Berufsleben als Merkmale zeitgemäßer Führung. Eine neue Untersuchung aus Australien, Großbritannien und China legt nun jedoch …",
+      "topic": "Führungsstil",
+      "tags": [
+        "Führungsstil",
+        "Stressfalle",
+        "Leadership",
+        "Servant"
+      ],
+      "sources": [
+        {
+          "src": "t3n",
+          "url": "https://t3n.de/news/servant-leadership-stressfalle-1775424/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "faz",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ein-schoener-haushalt-fuer-friedrich-merz-201721059.html",
+      "headline": "Schwarz-Rote Einigung: Ein schöner Haushalt für Friedrich Merz",
+      "takeaway": "Mit Ach und Krach hat sich die Regierung zum Haushalt gequält. Dabei gäbe es eine Menge Ideen, wie sie es in Zukunft besser machen kann.",
+      "topic": "Schwarz-Rote",
+      "tags": [
+        "Schwarz-Rote",
+        "Friedrich",
+        "Einigung",
+        "Haushalt"
+      ],
+      "sources": [
+        {
+          "src": "faz",
+          "url": "https://www.faz.net/aktuell/wirtschaft/ein-schoener-haushalt-fuer-friedrich-merz-201721059.html"
+        }
+      ]
+    },
+    {
+      "cat": "wirtschaft",
+      "src": "ntv",
+      "url": "https://www.n-tv.de/wirtschaft/Sogar-Tech-Bosse-fordern-Steuer-auf-KI-Token-id31585979.html",
+      "headline": "Nachteilsausgleich für Menschen: Sogar Tech-Bosse fordern Steuer auf KI-Token",
+      "takeaway": "Experten, Politiker und sogar Tech-Milliardäre selbst fordern, die großen KI-Firmen an den gesellschaftlichen Kosten des Job-Blutbads zu beteiligen, das sie womöglich anrichten. Doch genau wie …",
+      "topic": "Nachteilsausgleich",
+      "tags": [
+        "Nachteilsausgleich",
+        "Tech-Bosse",
+        "Menschen",
+        "KI-Token"
+      ],
+      "sources": [
+        {
+          "src": "ntv",
+          "url": "https://www.n-tv.de/wirtschaft/Sogar-Tech-Bosse-fordern-Steuer-auf-KI-Token-id31585979.html"
         }
       ]
     }
